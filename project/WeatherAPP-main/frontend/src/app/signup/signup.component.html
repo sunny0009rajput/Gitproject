@@ -1,0 +1,105 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="../../../assets/login_img.svg" height="100%" width="100%">
+        </div>
+        <div class="col-md-4 mt-3 mb-2">
+            <h3 class="text-success text-center"><b>Welcome </b></h3>
+
+            <form action="" class="mt-5 p-5" [formGroup]="myform" (ngSubmit)="addUser()">
+                <h5 class="text-primary mb-3">Sign up </h5>
+                <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="floatingInput" placeholder="Username" name="username"
+                        formControlName="username">
+                    <label for="floatingInput"> User Name</label>
+                    <span *ngIf="usernameCtrl && usernameCtrl.invalid && (usernameCtrl.dirty || usernameCtrl.touched)"
+                        class=" text-danger">
+
+                        <span *ngIf="usernameCtrl.errors?.['required']">
+                            username is required.
+                        </span>
+                        <span *ngIf="usernameCtrl.errors?.['minlength']">
+                            username must be min 2 length.
+                        </span>
+
+
+                    </span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="floatingInput" placeholder="city" name="city"
+                        formControlName="city">
+                    <label for="floatingInput">City</label>
+                    <span *ngIf="cityCtrl && cityCtrl.invalid && (cityCtrl.dirty || cityCtrl.touched)"
+                        class=" text-danger">
+
+                        <span *ngIf="cityCtrl.errors?.['required']">
+                            city is required.
+                        </span>
+                        <span *ngIf="cityCtrl.errors?.['minlength']">
+                            city must be min 2 length.
+                        </span>
+
+
+                    </span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input type="password" class="form-control" id="floatingPassword" placeholder="Password"
+                        name="password" formControlName="password">
+                    <label for="floatingPassword">Password</label>
+                    <span *ngIf="passwordCtrl && passwordCtrl.invalid && (passwordCtrl.dirty || passwordCtrl.touched)"
+                    class=" text-danger">
+
+                    <span *ngIf="passwordCtrl.errors?.['required']">
+                        password is required.
+                    </span>
+                    <span *ngIf="passwordCtrl.errors?.['minlength']">
+                        password must be min 8 length.
+                    </span>
+                    <span *ngIf="passwordCtrl.errors?.['maxlength']">
+                        password must be max 12 length.
+                    </span>
+
+
+                </span>
+
+                </div>
+
+                <div class="form-floating mb-3">
+                    <input type="password" class="form-control" id="floatingPassword" placeholder="Password"
+                        name="repeatPassword" formControlName="repeatPassword">
+                    <label for="floatingPassword">Repeat your Password</label>
+                    <span *ngIf="repeatPasswordCtrl && repeatPasswordCtrl.invalid && (repeatPasswordCtrl.dirty || repeatPasswordCtrl.touched)"
+                    class=" text-danger">
+
+                    <span *ngIf="repeatPasswordCtrl.errors?.['required']">
+                        password is required.
+                    </span>
+                    <span *ngIf="repeatPasswordCtrl.errors?.['minlength']">
+                        password must be min 8 length.
+                    </span>
+                    <span *ngIf="repeatPasswordCtrl.errors?.['maxlength']">
+                        password must be max 12 length.
+                    </span>
+
+
+                </span>
+                </div>
+
+                <!-- <div class="form-floating mb-3">
+                    <input class="form-check-input me-2" type="checkbox" value="" id="form2Example3c" formControlName="check" />
+                      <span><label class="form-check-label" for="form2Example3">
+                        I agree all statements in <a href="#!">Terms of service</a>
+                      </label></span>
+                </div> -->
+
+                <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                    <button class="btn btn-outline-success me-md-2" type="submit">Register</button>
+                </div>
+
+                <a routerLink="/login" id="login" class="text-primary" style="text-decoration: none;">Log In ? </a>
+            </form>
+        </div>
+        <div class="col-md-2">
+        </div>
+    </div>
+</div>

@@ -1,0 +1,142 @@
+
+<section id="section" class="vh-100" style="background-image: url('https://images.pexels.com/photos/355887/pexels-photo-355887.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')">
+  <div class="alert alert-success me-3" role="alert" *ngIf="flag"> 
+    <div class="text-center">Weather Added</div>
+  </div>
+  <div class="alert alert-danger me-3" role="alert" *ngIf="alreadyFlag"> 
+    <div class="text-center">Already in watchList</div>
+  </div>
+  <form class="d-flex nav-item  ms-5" role="search" #form="ngForm">
+    
+    <input style="width:35rem;" class="form-control  mt-3 me-2 ms-5" type="search" [(ngModel)]="cityName" placeholder="Search"
+      aria-label="Search" name="cityName">
+      <label class="mt-3" for=""><button style="color: white;" (click)="searchValue()" class="btn btn-outline-dark btn-primary">Search</button></label>
+    
+  </form>
+  <div class="text-danger mt-5" style="text-align: center;" *ngIf="errorMessageCityNotFound">
+    {{errorMessageCityNotFound}}
+  </div>
+
+  <div *ngIf="cityWeather">
+    <div class="container py-5 h-100">
+
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-md-6 col-lg-6 col-xl-4">
+
+          <div class="card" style="color: #4B515D; border-radius: 35px;">
+            <div class="card-body p-4 ">
+              <!-- <div *ngIf="errorMessage">
+                <p class="text-danger">City Exist in the list</p>
+            </div> -->
+              <div class="d-flex">
+                <h4 class="flex-grow-1">{{cityWeather.name}}</h4>
+                <h4>Todays Weather</h4>
+              </div>
+
+              <div class="d-flex flex-column text-center mt-5 mb-4">
+                <h6 class="display-4 mb-0 font-weight-bold" style="color: #1C2331;"> {{cityWeather.temperature?.temp}}°C
+                </h6>
+                <span class="small" style="color: #868B94">
+                  <h4>{{cityWeather.weather?.mainInfo}}</h4>
+                </span>
+              </div>
+
+              <div class="d-flex align-items-center">
+                <div class="flex-grow-1" style="font-size: 1rem;">
+                  <div><i class="fas fa-wind fa-fw" style="color: #070707;"></i> <span class="ms-1">
+                      {{cityWeather.temperature?.feelsLike}}
+                    </span></div>
+                  <div><i class="fas fa-tint fa-fw" style="color: #070707;"></i> <span class="ms-1">
+                      {{cityWeather.temperature?.humidity}}% </span>
+                  </div>
+                  <div><i class="fas fa-sun fa-fw" style="color: #070707;"></i> <span class="ms-1">
+                      {{cityWeather.temperature?.pressure}} </span>
+                  </div>
+
+                  <div><i style="color: black; font-size: 50px;" id="favourite" (click)="addToWatchList()" class="material-icons"
+                     >favorite</i>
+                  </div>
+                </div>
+                <div *ngIf="cityWeather.weather?.mainInfo == 'Rain'">
+                  <img src="../../assets/icons8-light-rain.gif"
+                    width="100px">
+                </div>
+
+                <div *ngIf="cityWeather.weather?.mainInfo == 'Clouds'">
+                  <img src="../../assets/icons8-cloud-lightning.gif"
+                    width="100px">
+                </div>
+
+                <div *ngIf="cityWeather.weather?.mainInfo == 'Clear'">
+                  <img src="../../assets/icons8-summer.gif"
+                    width="100px">
+                </div>
+
+                <div *ngIf="cityWeather.weather?.mainInfo == 'Snow'">
+                  <img src="../../assets/icons8-snow-storm.gif"
+                    width="100px">
+                </div>
+
+                <div *ngIf="cityWeather.weather?.mainInfo == 'Haze'">
+                  <img src="../../assets/icons8-haze.gif"
+                    width="100px">
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+
+        <div class="col-md-8 col-lg-6 col-xl-4">
+
+          <div class="card" style="color: #4B515D; border-radius: 35px;">
+            <div class="card-body p-4">
+
+              <!-- <div class="d-flex">
+              <h6 class="flex-grow-1">Warsaw</h6>
+              <h6>15:07</h6>
+            </div> -->
+
+              <div class="d-flex flex-column text-center">
+                <h6 class="display-4 mb-0 font-weight-bold" style="color: #1C2331;"> {{weekDay | showWeekDay}} </h6>
+                <span class="small" style="color: black; font-size: 25px;">{{cityWeather.country}}</span>
+                <span class="small" style="color: black; font-size: 25px;">temp min:{{cityWeather.temperature?.tempMin}}</span>
+                <span class="small" style="color: black; font-size: 25px;">temp max:{{cityWeather.temperature?.tempMax}}</span>
+                <span class="small" style="color: black; font-size: 25px;">Lat:{{cityWeather.coord?.lat}}</span>
+                <span class="small" style="color: black; font-size: 25px;">Lon:{{cityWeather.coord?.lon}}</span>
+              </div>
+
+              <!-- <div class="d-flex align-items-center">
+              <div class="flex-grow-1" style="font-size: 1rem;">
+                <div><i class="fas fa-wind fa-fw" style="color: #868B94;"></i> <span class="ms-1"> 40 km/h
+                  </span></div>
+                <div><i class="fas fa-tint fa-fw" style="color: #868B94;"></i> <span class="ms-1"> 84% </span>
+                </div>
+                <div><i class="fas fa-sun fa-fw" style="color: #868B94;"></i> <span class="ms-1"> 0.2h </span>
+                </div>
+              </div> -->
+              <!-- <div>
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-weather/ilu1.webp" width="100px">
+              </div> -->
+              <div>
+                <img src="../../assets/icons8-barometer.gif" width="150px">
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <!-- </div> -->
+  </div>
+
+</section>
+<app-footer></app-footer>
+
+<!-- "https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-weather/ilu1.webp" -->
+<!-- "https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-weather/ilu3.webp" -->
+

@@ -1,0 +1,34 @@
+<div *ngIf="!list?.length">
+
+    <img src="https://2.bp.blogspot.com/-QfSOClZc8r0/XNr6srFlzjI/AAAAAAAAGlA/lzs505eFFiEdyAytzKkMabdUTihKywcqwCLcBGAs/s1600/EXAM360%2B-%2BNo%2BWishlist.png" class="rounded mx-auto d-block">
+    <button routerLink="/dashboard" type="button" id="empty" class="btn btn-outline-dark">add your Watchlist</button>
+</div>
+<div class="shadow-lg p-3 m-4 bg-body rounded" *ngFor="let item of list">
+    <div class="card  mb-3 border-dark">
+        <div class="card-header"> <b>Weather For Location</b></div>
+        <div class="card-body ">
+            <div class="card-title shadow-lg " >
+                <p>{{item.name}}</p>  
+                <p><b> {{item.weather?.mainInfo}} </b></p> 
+                <p>{{item.temperature?.temp}} °c</p>
+                
+                </div>
+            <span class="card-text shadow" >
+                <div class="m-4" style=" display:inline-block;">Temperature : {{item.temperature?.temp }} °c
+                </div>
+                
+                <div class="m-4" style=" display:inline-block;">
+                    Feels Like : {{item.temperature?.feelsLike}} °c
+                </div>
+                
+                
+                <div class="m-4" style=" display:inline-block;">Max Temperature : {{item.temperature?.tempMax  }} °c</div>
+
+                <button class="btn " (click)="removeWeather(item.name,item.country)"><img src="../../assets/icons8-remove-64.png" alt=""></button>
+            
+            </span>
+        </div>
+    </div>
+</div>
+
+

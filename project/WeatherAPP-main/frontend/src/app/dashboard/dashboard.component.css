@@ -1,0 +1,15 @@
+#favourite{
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+#favourite:hover{
+    cursor: pointer;
+    opacity: 1;
+    
+}
+
+#section{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
