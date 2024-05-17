@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "sunny",
+      "lastName": "singh",
+      "email": "sunny@gmail.com",
+      "mobile": "55468441",
+      "salary": "6548954"
+    },
+    {
+      "id": 3,
+      "firstName": "panchalichanchal",
+      "lastName": "kumari",
+      "email": "chanacha@gmail.com",
+      "mobile": "120000",
+      "salary": "12000"
+    },
+    {
+      "id": 4,
+      "firstName": "joginder",
+      "lastName": "jdjskj",
+      "email": "jpginder@gmail.com",
+      "mobile": "2315115",
+      "salary": "6559856"
+    },
+    {
+      "id": 5,
+      "firstName": "papu",
+      "lastName": "singh",
+      "email": "papu@gmail.com",
+      "mobile": "32465445",
+      "salary": "594894"
+    },
+    {
+      "id": 6,
+      "firstName": "pami",
+      "lastName": "khalistani",
+      "email": "dsaklj@gmail.com",
+      "mobile": "56545415",
+      "salary": "265451"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

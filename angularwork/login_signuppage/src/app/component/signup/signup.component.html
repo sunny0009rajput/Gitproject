@@ -1,0 +1,77 @@
+<div class="container">
+  <div class="col-md-6">
+    <div class="card">
+      <div class="text-center">
+        <h1>SignUp</h1>
+        <h6>Register youself </h6>
+      </div>
+      <form [formGroup]="signupForms" (ngSubmit)="signup()">
+
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Full Name</label>
+          <input formControlName="fullName" type="text" class="form-control" id="exampleInputPassword1">
+          <div *ngIf="fullName && fullName.invalid && (fullName.dirty || fullName.touched)" class="alert alert-danger">
+
+            <div *ngIf="fullName.errors?.['required']">
+              fullName is required.
+            </div>
+            <div *ngIf="fullName.errors?.['minlength']">
+              fullName must be at least 4 characters long.
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Mobile No</label>
+            <input formControlName="mobile" type="number" class="form-control" id="exampleInputPassword1">
+            <div *ngIf="mobile && mobile.invalid && (mobile.dirty || mobile.touched)" class="alert alert-danger">
+
+              <div *ngIf="mobile.errors?.['required']">
+                mobile is required.
+              </div>
+              <div *ngIf="mobile.errors?.['minlength']">
+                mobile must be at least 4 characters long.
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Email</label>
+              <input formControlName="email" type="email" class="form-control" id="exampleInputPassword1">
+              <div *ngIf="email && email.invalid && (email.dirty || email.touched)" class="alert alert-danger">
+
+                <div *ngIf="email.errors?.['required']">
+                  email is required.
+                </div>
+                <div *ngIf="email.errors?.['minlength']">
+                  email must be at least 4 characters long.
+                </div>
+
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Password</label>
+              <input formControlName="password" type="password" class="form-control" id="exampleInputPassword1">
+              <div *ngIf="password && password.invalid && (password.dirty || password.touched)"
+                class="alert alert-danger">
+
+                <div *ngIf="password.errors?.['required']">
+                  password is required.
+                </div>
+                <div *ngIf="password.errors?.['minlength']">
+                  password must be at least 4 characters long.
+                </div>
+              </div>
+
+
+
+              <button type="submit" class="btn btn-primary mb-3">Register</button>
+
+            </div>
+          </div>
+        </div>
+      </form>
+
+      <a style="color: #fff; margin-top: 10px;" routerLink="/login">Already Register ? Click here to Login</a>
+    </div>
+  </div>
+</div>

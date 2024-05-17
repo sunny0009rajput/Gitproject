@@ -1,0 +1,39 @@
+<app-search></app-search>
+<app-tag></app-tag>
+
+<ul>
+    <li *ngFor="let food of foods">
+        <a routerLink="/food/{{food.id}}">
+        <img class="foodimage" src="{{food.imageUrl}}" alt="">
+        <div class="content">
+            <div class="name">
+                {{food.name}}
+
+            </div>
+            <span class="favourite {{food.favourite?'':'not'}}">❤️</span>
+            <!-- <star-rating [value]="5" [totalstars]="5" [checkedcolor]="red" [uncheckedcolor]="black" [size]="24px" [readonly]="false"></star-rating> -->
+            <!-- <ngx-star-rating>
+                <div {{food.star}}></div>
+            </ngx-star-rating> -->
+            <app-starrating [(rating)]="food.star"></app-starrating>
+            <div class="product-item-footer">
+                <div class="origins">
+                    <span *ngFor="let origin of food.origins">{{origin}}</span>
+                </div>
+                <div class="cook-time">
+                    <span>&#9200;</span>{{food.cookTime}}
+                </div>
+                <div class="price">{{food.price | currency}}</div>
+            </div>
+
+
+        </div>
+    </a>
+    </li>
+</ul>
+<!-- <form [formGroup]="form">
+    
+    <div>Rating: {{form.value.rating}}</div>
+    <p>form is valid: {{ form.valid ? 'true' : 'false' }}</p>
+</form> -->
+<!-- formControlName="rating" [id]="'rating'" -->

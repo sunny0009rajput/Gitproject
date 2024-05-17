@@ -1,0 +1,205 @@
+.pricing_8 * {
+    font-family: Nunito, sans-serif;
+  }
+  
+  .pricing_8 .text-blk {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    line-height: 25px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+  }
+  
+  .pricing_8 .responsive-cell-block {
+    min-height: 75px;
+  }
+  
+  .pricing_8 .responsive-container-block {
+    min-height: 75px;
+    height: fit-content;
+    width: 100%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    justify-content: center;
+  }
+  
+  .pricing_8 .responsive-container-block.big-container {
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    background-color: white;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+  }
+  
+  .pricing_8 .responsive-container-block.container {
+    max-width: 1320px;
+    padding-top: 30px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .pricing_8 .text-head {
+    font-size: 40px;
+    line-height: 52px;
+    font-weight: 900;
+  }
+  
+  .pricing_8 .responsive-cell-block.wk-ipadp-4.wk-tab-6.wk-mobile-12.wk-desk-4 {
+    padding-top: 0px;
+    padding-right: 60px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  }
+  
+  .pricing_8 .responsive-container-block.card-container {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    align-items: center;
+  }
+  
+  .pricing_8 .text-blk.text-subhead {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+    font-size: 16px;
+    line-height: 25px;
+    color: black;
+  }
+  
+  .pricing_8 .card {
+    background-color: white;
+    min-height: 630px;
+    max-width: 361px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 20px 7px;
+    position: relative;
+  }
+  
+  .pricing_8 .card-selected {
+    background-color: white;
+    color: black;
+  }
+  
+  .pricing_8 .card-header {
+    padding-top: 45px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  .pricing_8 .text-blk.text-head {
+    color: #00b2eb;
+    text-align: center;
+    /* line-height: 46px;
+    max-width: 250px; */
+    font-size: 36px;
+  }
+  
+  .pricing_8 .text-blk.headingText {
+    font-size: 40px;
+    line-height: 63px;
+    font-weight: 900;
+    color: #00b2eb;
+  }
+  
+  .pricing_8 .btn {
+    background-image: linear-gradient(253.58deg, #00b2eb 1.55%, #0087b1 95.8%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgba(160, 121, 0, 0.2) 0px 12px 35px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: outset;
+    border-right-style: outset;
+    border-bottom-style: outset;
+    border-left-style: outset;
+    border-top-color: #767676;
+    border-right-color: #767676;
+    border-bottom-color: #767676;
+    border-left-color: #767676;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    cursor: pointer;
+    color: white;
+    font-size: 14.3333px;
+    padding-top: 12px;
+    padding-right: 40px;
+    padding-bottom: 11px;
+    padding-left: 40px;
+  }
+  
+  .pricing_8 .btn:hover {
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: white;
+    color: #00b2eb;
+  }
+  
+  

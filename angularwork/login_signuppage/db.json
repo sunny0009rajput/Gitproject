@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "fullName": "sunny",
+      "mobile": 321456897,
+      "email": "Rahul964689kumar@gmail.com",
+      "password": "sunny",
+      "id": 2
+    },
+    {
+      "fullName": "rahul",
+      "mobile": 561254885522,
+      "email": "rahul@gmail.com",
+      "password": "rahul",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
