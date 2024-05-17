@@ -1,0 +1,11 @@
+#listdata{
+    padding-right: 50px;
+}
+#deletebutton{
+    cursor: pointer;
+}
+#listdata{
+    list-style-type: none;
+}
+
+
