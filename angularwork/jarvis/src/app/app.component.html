@@ -1,0 +1,11 @@
+<div>
+  <button (click)="startListening()" [disabled]="listening">Start Listening</button>
+  <p *ngIf="listening">Listening...</p>
+</div>
+<div *ngIf="response">
+  <p>Bot: {{ response }}</p>
+  <button (click)="speakResponse()">Speak Response</button>
+</div>
+
+
+<router-outlet></router-outlet>

@@ -1,0 +1,94 @@
+/* footer section start */
+*{
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -o-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+  }
+  body{
+    font-size:14px;
+    background: #fff;
+      max-width:1920px;
+      margin:0 auto;
+    overflow-x:hidden;
+    font-family: poppins;
+    
+  
+  }
+  #footer{
+    background: #fff;
+      /* padding: 3rem; */
+    /* padding-top: 5rem; */
+    padding-top: 0rem;
+      padding-bottom: 8px;
+    /* background-image: url(https://arena.km.ua/wp-content/uploads/3538533.jpg); */
+  }
+  #footer2{
+    background: #fff;
+      padding: 0rem;
+      margin-top: 0px;
+    /* padding-top: 5rem; */
+    padding-top: 7rem;
+      padding-bottom: 8px;
+    /* background-image: url(../images/cards/v748-toon-111.png); */
+  }
+
+  
+  li{
+    list-style: none;
+  }
+  .address{
+    margin-top: 90px;
+    margin-left: 80px;
+  }
+  
+  .address h2{
+    padding-bottom: 15px;
+    font-size: 20px;
+      font-weight: 600;
+  }
+  .address img{
+    padding-bottom: 15px;
+  }
+  .address-links li a{
+    color: #303030;
+      font-size: 15px;
+      font-weight: 500;
+    color: #777777;
+  
+  }
+  .address-links li i{
+    font-size: 16px;
+      padding-right: 8px;
+    color: #2596be;
+  
+  }
+  .address-links li i:nth-child(1){
+    padding-top: 9px;
+  }
+  .address-links .address1{
+    font-weight: 500;
+      font-size: 15px;
+    display: flex;
+  }
+  .address-links{
+        line-height: 32px;
+      color: #777777;
+  }
+  
+  .copy-right-sec{
+    padding: 1rem;
+      background: #2596be;
+      color: #fff;
+      text-align: center;
+  }
+  .copy-right-sec a{
+    color: #fcd462;
+      font-weight: 500;
+  }
+  a{
+    text-decoration:none;
+  }
+  
+  /* footer section end */
