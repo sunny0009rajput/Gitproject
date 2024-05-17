@@ -1,0 +1,74 @@
+<nav class="navbar navbar-expand-lg b">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img
+        src="https://icon-library.com/images/android-weather-icon/android-weather-icon-24.jpg" alt="" height="40px"
+        width="40px"></a>
+
+    <button  class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span  class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li *ngIf="isLoggedIn()" class="nav-item ms-5">
+          <a style="color: white;" class="nav-link active" aria-current="page" routerLink="/dashboard">Home</a>
+        </li>
+        <li *ngIf="isLoggedIn()" class="nav-item ms-5">
+          <i style="color: white;" class="nav-link" routerLink='/listCities' class="material-icons"
+            id="pointer">favorite</i>
+        </li>
+        <li  *ngIf="!isLoggedIn()" id="navLogin" routerLink='/login' class="nav-item ms-5">
+          <a style="color: white;" class="nav-link active" aria-current="page" >Login</a>
+        </li>
+        <li class="nav-item ms-5">
+          <a *ngIf="isLoggedIn()" (click)="logout()" style="margin-left: 800px; color: white;" class="nav-link " id="logout">Logout</a>
+        </li>
+
+
+        
+
+        <!-- <form class="d-flex nav-item" role="search" #form="ngForm" >
+            <input style="width:35rem;" class="form-control me-2 ms-5" type="search" [(ngModel)]="cityName" placeholder="Search" aria-label="Search" name="cityName">
+          
+          <button class="btn btn-outline-dark" (click)="searchValue()" >Search</button>
+        </form> -->
+
+
+
+
+        <!-- <li class="nav-item ms-5 dropdown">
+          
+          <a *ngIf="isLoggedIn()" (click)="logout()" style="margin-left: 200px; color: white;" class="nav-link" href="#" 
+            role="button" >
+            logout
+          </a> -->
+          
+          
+
+          <!-- <a *ngIf="!isLoggedIn()" style="margin-left: 200px; color: white;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+            role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            User Name
+          </a> -->
+
+          <!-- <ul style="margin-left: 200px; color: white;" class="dropdown-menu col-sm-3  col-md-5"
+            aria-labelledby="navbarDropdown">
+            <div *ngIf="!isLoggedIn()">
+            <li><a class="dropdown-item " routerLink="/login">Login</a></li>
+            <li><a class="dropdown-item " routerLink="/signup">signUp</a></li></div>
+            <div *ngIf="isLoggedIn()">
+              <li><a (click)="logout()" class="dropdown-item">Logout</a></li>
+            </div>
+
+          </ul> -->
+        <!-- </li> -->
+
+
+      </ul>
+
+
+    </div>
+  </div>
+</nav>
+
+
+<router-outlet></router-outlet>

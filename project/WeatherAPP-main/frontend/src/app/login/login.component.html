@@ -1,0 +1,62 @@
+<div class="alert alert-danger me-3" role="alert" *ngIf="flag"> 
+    <div class="text-center">Incorrect Username or Password</div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="../../../assets/login_img.svg" height="100%" width="100%">
+        </div>
+        <div class="col-md-4 mt-3 mb-2">
+            <h3 class="text-success text-center"><b>Welcome To Weather App</b></h3>
+
+            <form [formGroup]="formGroup" class="mt-5 p-5" (ngSubmit)="onFormSubmit()" >
+                <h5 class="text-primary mb-3">Login </h5>
+                <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="floatingInput" placeholder="Username" name="username" formControlName="username">
+                    <label for="floatingInput">User name</label>
+                    <span *ngIf="usernameCtrl && usernameCtrl.invalid && (usernameCtrl.dirty || usernameCtrl.touched)"
+                    class=" text-danger">
+
+                    <span *ngIf="usernameCtrl.errors?.['required']">
+                        username is required.
+                    </span>
+                    <span *ngIf="usernameCtrl.errors?.['minlength']">
+                        username must be min 2 length.
+                    </span>
+
+
+                </span>
+                </div>
+                  <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="floatingPassword" placeholder="Password" name="password" formControlName="password">
+                    <label for="floatingPassword">Password</label>
+                    <span *ngIf="passwordCtrl && passwordCtrl.invalid && (passwordCtrl.dirty || passwordCtrl.touched)"
+                    class=" text-danger">
+
+                    <span *ngIf="passwordCtrl.errors?.['required']">
+                        password is required.
+                    </span>
+                    <span *ngIf="passwordCtrl.errors?.['minlength']">
+                        password must be min 8 length.
+                    </span>
+                    <span *ngIf="passwordCtrl.errors?.['maxlength']">
+                        password must be max 12 length.
+                    </span>
+
+
+                </span>
+                  </div>
+                  
+                  <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                    <button class="btn btn-outline-success me-md-2" type="submit">Login</button>
+                  </div>
+
+                  <a routerLink="/signup" class="text-primary" id="need_account" style="text-decoration: none;">Need account ? </a>
+                  <a  class="text-primary" id="forget_password" style="text-decoration: none; margin-left: 20px;">forget password </a>
+            </form>
+
+        </div>
+        <div class="col-md-2">
+        </div>
+    </div>
+</div>
