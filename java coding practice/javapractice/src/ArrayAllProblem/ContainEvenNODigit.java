@@ -1,4 +1,4 @@
-package ArrayQuestion;
+package ArrayAllProblem;
 
 public class ContainEvenNODigit {
     public static void main(String[] args) {
