@@ -1,4 +1,4 @@
-package ArrayQuestion;
+package ArrayAllProblem;
 
 
 import java.util.Arrays;
