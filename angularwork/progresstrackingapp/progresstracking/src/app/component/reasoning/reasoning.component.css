@@ -1,0 +1,32 @@
+
+.container-fluid,
+.d-flex,
+.card{
+    background-color: #3b3c3a;
+    color: white;
+}
+
+.btn{
+    background-color: #FFF8DB;
+    text-wrap: nowrap;
+    text-decoration: none;
+    color: black;
+}
+
+hr{
+    background-color: white;
+    color: white;
+    border-color: white;
+    border-width: 3px;
+}
+
+.card{
+    border-radius: 1%;
+    border-color: #504f4c91;
+    border-radius: 2%;
+}
+
+.text{
+    text-decoration: none;
+    color: white;
+}

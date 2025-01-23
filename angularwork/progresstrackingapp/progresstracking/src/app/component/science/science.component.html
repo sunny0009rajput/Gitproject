@@ -1,0 +1,99 @@
+ <!-- Content will be loaded here -->
+ <div class="container-fluid mt-2 ">
+   
+  <div class="d-flex justify-content-between align-items-center ">
+    
+
+    <!-- Toggle Button for Dark/Light Mode -->
+    <!-- <button class="btn btn-secondary" (click)="toggleTheme()">
+      {{ theme === 'light-mode' ? 'Switch to Dark Mode' : 'Switch to Light Mode' }}
+    </button> -->
+  </div>
+
+  <!-- Total Progress Bar -->
+  <div class="card p-3 mb-4 ">
+    <h2 class="total-progress ">Maths Total Progress</h2>
+    <div class="progress mb-2">
+      <div class="progress-bar" role="progressbar" [style.width]="progress + '%'" [attr.aria-valuenow]="progress"
+        aria-valuemin="0" aria-valuemax="100">
+        {{progress}}%
+      </div>
+    </div>
+    <p class="progress-text-overall">{{progress}}% Completed (Overall)</p>
+  </div>
+  <hr>
+
+  <!-- Task Cards -->
+  <div *ngFor="let task of tasks; let i = index" class="card   mb-3">
+    <div class="card-header">
+      <div class="row ">
+        <!-- Task title and subtask count -->
+        <div class="col-5 col-sm-6 col-md-7 col-lg-9">
+          <h3 class="main-task-title mb-0">
+            {{task.name}}
+          </h3>
+        </div>
+
+        <!-- Show completed/total subtasks in a button -->
+        <div class="col-2 col-sm-2 col-md-1 col-lg-1">
+          <button class="btn me-0">
+            {{task.completedSubtasks}}/{{task.subtasks.length}}
+          </button>
+        </div>
+
+        <!-- Dropdown button -->
+        <div class="col-5 col-sm-4 col-md-4 col-lg-2">
+          <button class="btn" (click)="toggleSubtasks(task)">
+            {{ task.showSubtasks ? 'Hide Subtasks' : 'Show Subtasks' }}
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Individual task progress bar -->
+    <div class="card-body ">
+      <div class="progress mb-2 ">
+        <div class="progress-bar" role="progressbar" [style.width]="task.progress + '%'"
+          [attr.aria-valuenow]="task.progress" aria-valuemin="0" aria-valuemax="100">
+          {{task.progress}}%
+        </div>
+      </div>
+      <p class="progress-text-overall">{{task.progress}}% Completed</p>
+
+      <!-- Subtasks are shown when showSubtasks is true -->
+      <div *ngIf="task.showSubtasks">
+        <div *ngFor="let subtask of task.subtasks" class="card mb-2 ">
+          <div class="card-body d-flex align-items-center bg-bg-black-70 ">
+
+            <!-- Checkbox for subtask completion -->
+            <div class="form-check " style="flex: 1;">
+              <input class="form-check-input" type="checkbox" [(ngModel)]="subtask.completed"
+                (change)="updateTaskProgress(task)">
+              <label class="form-check-label subtask-title">
+                {{subtask.name}}
+              </label>
+            </div>
+
+            <!-- YouTube video link with icon -->
+            <a [href]="subtask.videoUrl" target="_blank" class="text" style="flex: 1;">
+              <i class="bi bi-play-circle"></i> Video
+            </a>
+
+            <!-- Link to solution -->
+            <a [href]="subtask.solutionUrl" target="_blank" class="text" style="flex: 1;">
+              Solution
+            </a>
+
+            <!-- Link to notes -->
+            <a [href]="subtask.notesUrl" target="_blank" class="text" style="flex: 1;">
+              Notes
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+
