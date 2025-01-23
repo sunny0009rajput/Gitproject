@@ -1,0 +1,8 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    padding-top: 60px; /* To avoid content hiding under the navbar */
+  }
+  

@@ -1,0 +1,42 @@
+<div class="container-fluid bg-dark">
+  <!-- Left-Side Navbar -->
+  <div class="d-flex bg-dark" id="wrapper">
+    <!-- Sidebar -->
+    <div class="bg-dark border-right" id="sidebar-wrapper">
+      <div class="bg-dark text-white sidebar-heading mt-2 mb-2">Study Tracker</div>
+      <hr>
+      <div class="bg-dark list-group list-group-flush">
+        <a class="bg-dark text-white list-group-item list-group-item-action" routerLink="/maths"
+          routerLinkActive="active">Maths</a>
+        <a class="bg-dark text-white list-group-item list-group-item-action" routerLink="/reasoning"
+          routerLinkActive="active">Reasoning</a>
+        <a class="bg-dark text-white list-group-item list-group-item-action" routerLink="/english"
+          routerLinkActive="active">English</a>
+        <a class="bg-dark text-white list-group-item list-group-item-action" routerLink="/science"
+          routerLinkActive="active">Science</a>
+        <a class="bg-dark text-white list-group-item list-group-item-action" routerLink="/gk"
+          routerLinkActive="active">General Knowledge</a>
+      </div>
+    </div>
+
+    <!-- Main content area -->
+    <div id="page-content-wrapper" [ngClass]="theme">
+      <!-- Toggle button to open/close the sidebar -->
+      <nav class="navbar bg-dark color-white border-bottom">
+        <div class="row align-items-center">
+          <div class="col-2"><button class="btn btn-dark" (click)="toggleSidebar()">Sidebar</button></div>
+        <div class="col-5 offset-5 text-nowrap"><h1 class="color-white text-white text-center mt-2 mb-2">Study Progress Tracker</h1></div>
+        
+      </div>
+      </nav>
+
+
+      <router-outlet></router-outlet>
+
+      <!-- Content will be loaded here -->
+
+    </div>
+  </div>
+</div>
+  
+
