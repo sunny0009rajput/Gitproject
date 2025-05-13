@@ -1,0 +1,15 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+  }
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .btn {
+    margin-right: 5px;
+  }
+  .form-check {
+    margin-left: 20px;
+  }

@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Tatkal Ticket Autofill",
+    "version": "1.0",
+    "description": "Auto-fills IRCTC Tatkal booking details except CAPTCHA and logs in automatically.",
+    "permissions": ["storage", "activeTab", "scripting"],
+    "host_permissions": ["https://www.irctc.co.in/*"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www.irctc.co.in/nget/train-search"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
