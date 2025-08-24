@@ -8,7 +8,9 @@ import Navbarleftfirst from './Navbarleft1';
 import Navbarleftsecond from './Navbarleft2';
 import ProductCard from './card';
 import GroupCard from './groopcard';
-import GymWebsite from './gymwebsite';
+
+import Countup from './CountUp';
+import AboutPage from './About';
 
 function App() {
   return (
@@ -21,7 +23,9 @@ function App() {
     <Navbarleftsecond/>
     <ProductCard/>
     <GroupCard/>
-    <GymWebsite/>
+    
+    <Countup/>
+    <AboutPage/>
 
 
     </>

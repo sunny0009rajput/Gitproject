@@ -41,19 +41,19 @@ function TestimonalSection() {
       text: "Amazing gym! The trainers are incredibly knowledgeable and the equipment is top-notch. I've seen incredible results in just 3 months!",
       rating: 5,
       image:
-        "https://images.unsplash.com/photo-1494790108755-2616b612b668?w=100&h=100&fit=crop&auto=format&q=80",
+        "https://images.unsplash.com/photo-1677355087156-0d0dd635e0dd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHRyYWluZXIlMjBwcm9maWxlJTIwcGljfGVufDB8fDB8fHww",
     },
     {
       name: "Robert Thompson",
       text: "Best investment I've made for my health. The community here is supportive and motivating. Highly recommend!",
-      rating: 5,
+      rating: 4,
       image:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&auto=format&q=80",
+        "https://images.unsplash.com/photo-1620123804851-70e94c55e84a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dHJhaW5lciUyMHByb2ZpbGUlMjBwaWN8ZW58MHx8MHx8fDA%3D",
     },
     {
       name: "Emily Davis",
       text: "Clean facilities, friendly staff, and excellent group classes. This gym has everything you need to reach your fitness goals!",
-      rating: 5,
+      rating: 4,
       image:
         "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&auto=format&q=80",
     },

@@ -39,7 +39,7 @@ function TrainerSection() {
       specialty: "Strength & Conditioning",
       experience: "8 Years",
       image:
-        "https://images.unsplash.com/photo-1567013127542-490d757e51cd?w=300&h=400&fit=crop&auto=format&q=80",
+        "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHJhaW5lcnxlbnwwfHwwfHx8MA%3D%3D",
       certifications: ["NASM", "CSCS"],
     },
     {
@@ -47,7 +47,7 @@ function TrainerSection() {
       specialty: "Yoga & Flexibility",
       experience: "6 Years",
       image:
-        "https://images.unsplash.com/photo-1594736797933-d0b6ce0ff1b0?w=300&h=400&fit=crop&auto=format&q=80",
+        "https://plus.unsplash.com/premium_photo-1672862927484-cfc92dd88081?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dHJhaW5lcnxlbnwwfHwwfHx8MA%3D%3D",
       certifications: ["RYT-500", "ACSM"],
     },
     {

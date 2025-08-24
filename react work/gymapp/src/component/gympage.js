@@ -7,20 +7,29 @@ import TrainerSection from './TrainerSection'
 import TestimonalSection from './TestimonalSection'
 import ContactSection from './ContactSection'
 import Footerpage from './Footer'
+import ContactModal from './ContactDialogueBox'
+import { useState } from 'react'
+import FloatingButtons from './FloatingButton'
 
-function gympage() {
+function Gympage() {
+  const [isModalOpen, setIsModalOpen] = useState(false);
   return (
     <>
     <Navbar />
-    <Dashboard/>
+    <Dashboard onOpenModal={() => setIsModalOpen(true)}/>
     <StatSection/>
     <ProgramSection/>
     <TrainerSection/>
     <TestimonalSection/>
     <ContactSection/>
     <Footerpage/>
+    <ContactModal 
+        isOpen={isModalOpen} 
+        onClose={() => setIsModalOpen(false)} 
+      />
+      <FloatingButtons />
     </>
   )
 }
 
-export default gympage
+export default Gympage

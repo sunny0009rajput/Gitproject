@@ -1,16 +1,13 @@
-import React from 'react';
-import { useState,useEffect } from 'react';
-import {
-  
-  ChevronRight,
-  Play,
- 
-} from "lucide-react";
+import React from "react";
+import { useState, useEffect } from "react";
+import { ChevronRight, Play } from "lucide-react";
+import ContactModal from "./ContactDialogueBox";
 
-function Dashboard() {
-    const [isVisible, setIsVisible] = useState({});
+function Dashboard({ onOpenModal }) {
+  const [isVisible, setIsVisible] = useState({});
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
-    useEffect(() => {
+  useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
@@ -31,7 +28,7 @@ function Dashboard() {
 
   return (
     <div className="bg-black text-white overflow-x-hidden">
-        <section
+      <section
         id="home"
         className="relative min-h-screen flex items-center justify-center overflow-hidden"
       >
@@ -68,13 +65,19 @@ function Dashboard() {
 
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
               <button className="group px-8 py-4 bg-gradient-to-r from-red-500 to-orange-500 text-white rounded-full font-bold text-lg hover:from-red-600 hover:to-orange-600 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl flex items-center space-x-3">
-                <span>Start Your Journey</span>
+                <span onClick={() => setIsModalOpen(true)}>Start Your Journey</span>
                 <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" />
               </button>
 
-              <button onClick={() => {
-    window.open("https://youtu.be/HvIEusFi-Nk?si=NsGhUzPQ7bkPCNt7", "_blank");
-  }} className="group px-8 py-4 border-2 border-white text-white rounded-full font-bold text-lg hover:bg-white hover:text-black transition-all duration-300 transform hover:scale-105 flex items-center space-x-3">
+              <button
+                onClick={() => {
+                  window.open(
+                    "https://youtu.be/HvIEusFi-Nk?si=NsGhUzPQ7bkPCNt7",
+                    "_blank"
+                  );
+                }}
+                className="group px-8 py-4 border-2 border-white text-white rounded-full font-bold text-lg hover:bg-white hover:text-black transition-all duration-300 transform hover:scale-105 flex items-center space-x-3"
+              >
                 <Play className="w-5 h-5" />
                 <span>Watch Video</span>
               </button>
@@ -86,8 +89,14 @@ function Dashboard() {
         <div className="absolute top-20 left-10 w-20 h-20 bg-gradient-to-br from-red-500/20 to-orange-500/20 rounded-full animate-pulse"></div>
         <div className="absolute bottom-20 right-10 w-32 h-32 bg-gradient-to-br from-orange-500/10 to-red-500/10 rounded-full animate-pulse"></div>
       </section>
+      <ContactModal 
+        isOpen={isModalOpen} 
+        onClose={() => setIsModalOpen(false)} 
+      />
+    
     </div>
-  )
+  );
+  
 }
 
-export default Dashboard
+export default Dashboard;
