@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const { Schema } = mongoose;
 
 const paymentSchema = new Schema({
-  orderId: { type: mongoose.Schema.Types.ObjectId, ref: "orders", required: true },
+  orderId: { type: mongoose.Schema.Types.ObjectId, ref: "Order", required: true },
   payment_id: { type: String },
   razorpay_order_id: { type: String },
   razorpay_signature: { type: String },
@@ -12,5 +12,5 @@ const paymentSchema = new Schema({
   createdAt: { type: Date, default: Date.now },
 });
 
-const PaymentModel = mongoose.model("payments", paymentSchema);
+const PaymentModel = mongoose.model("Payment", paymentSchema);
 module.exports = PaymentModel;

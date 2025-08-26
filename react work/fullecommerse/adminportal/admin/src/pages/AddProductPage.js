@@ -14,14 +14,16 @@ const AddProductModal = ({
     product_description: "",
     product_category: "",
     product_subcategory: "",
-    product_size: "",
-    product_color: "",
+    product_size: [],
+    product_color: [],
     mainPhoto: null,
     sub1Photo: null,
     sub2Photo: null,
     sub3Photo: null,
     product_date: new Date().toISOString().split("T")[0],
-    total_stock: 0,
+    total_stock: 1,
+    product_type: "",
+    brand: "",
   });
 
   const [errors, setErrors] = useState({});
@@ -50,15 +52,22 @@ const AddProductModal = ({
         product_description: product.product_description || "",
         product_category: product.product_category || "",
         product_subcategory: product.product_subcategory || "",
-        product_size: product.product_size || "",
-        product_color: product.product_color || "",
+        product_size: Array.isArray(product.product_size)
+          ? product.product_size
+          : [],
+        product_color: Array.isArray(product.product_color)
+          ? product.product_color
+          : [],
+
         mainPhoto: product.mainPhoto || "",
         sub1Photo: product.sub1Photo || "",
         sub2Photo: product.sub2Photo || "",
         sub3Photo: product.sub3Photo || "",
         product_date:
           product.product_date || new Date().toISOString().split("T")[0],
-        total_stock: product.total_stock || 0,
+        total_stock: product.total_stock || 1,
+        product_type: product.product_type || "",
+        brand: product.brand || "",
       });
     } else {
       setFormData({
@@ -67,21 +76,45 @@ const AddProductModal = ({
         product_description: "",
         product_category: "",
         product_subcategory: "",
-        product_size: "",
-        product_color: "",
+        product_size: [],
+        product_color: [],
         mainPhoto: null,
         sub1Photo: null,
         sub2Photo: null,
         sub3Photo: null,
         product_date: new Date().toISOString().split("T")[0],
-        total_stock: 0,
+        total_stock: 1,
+        product_type: "",
+        brand: "",
       }); // reset if adding new
     }
   }, [product, isOpen]);
 
   const handleChange = (e) => {
-    const { name, value, files } = e.target;
-    setFormData((prev) => ({ ...prev, [name]: files ? files[0] : value }));
+    const { name, value, type, checked, files } = e.target;
+
+    // ✅ Handle multiple checkboxes (arrays)
+    if (type === "checkbox") {
+      setFormData((prev) => {
+        const currentValues = Array.isArray(prev[name]) ? prev[name] : [];
+        if (checked) {
+          // add if not already present
+          return { ...prev, [name]: [...currentValues, value] };
+        } else {
+          // remove if unchecked
+          return { ...prev, [name]: currentValues.filter((v) => v !== value) };
+        }
+      });
+    }
+    // ✅ Handle file upload
+    else if (files) {
+      setFormData((prev) => ({ ...prev, [name]: files[0] }));
+    }
+    // ✅ Handle normal text/number/select
+    else {
+      setFormData((prev) => ({ ...prev, [name]: value }));
+    }
+
     if (errors[name]) setErrors((prev) => ({ ...prev, [name]: "" }));
   };
 
@@ -97,9 +130,8 @@ const AddProductModal = ({
       newErrors.product_category = "Category required";
     if (!formData.product_subcategory.trim())
       newErrors.product_subcategory = "Subcategory required";
-    if (!formData.product_size.trim()) newErrors.product_size = "Size required";
-    if (!formData.product_color.trim())
-      newErrors.product_color = "Color required";
+    
+
     if (!formData.mainPhoto) newErrors.mainPhoto = "Main Photo required";
     setErrors(newErrors);
     return Object.keys(newErrors).length === 0;
@@ -113,20 +145,28 @@ const AddProductModal = ({
     try {
       const dataToSend = new FormData();
       Object.entries(formData).forEach(([key, value]) => {
-        if (value !== null && value !== "") dataToSend.append(key, value);
+        if (value !== null && value !== "") {
+          if (Array.isArray(value)) {
+            value.forEach((v) => dataToSend.append(key, v));
+          } else {
+            dataToSend.append(key, value);
+          }
+        }
       });
 
       let response;
       if (product) {
         response = await axios.put(
           `${apiurl}/products/${product._id}`,
-          dataToSend, { withCredentials: true },
+          dataToSend,
           {
+            withCredentials: true,
             headers: { "Content-Type": "multipart/form-data" },
           }
         );
       } else {
-        response = await axios.post(`${apiurl}/products`, dataToSend, { withCredentials: true }, {
+        response = await axios.post(`${apiurl}/products`, dataToSend, {
+          withCredentials: true,
           headers: { "Content-Type": "multipart/form-data" },
         });
       }
@@ -202,16 +242,68 @@ const AddProductModal = ({
                   id: "product_category",
                   label: "Category",
                   type: "select",
-                  options: ["Electronics", "Clothing", "Books"],
+                  options: ["Men", "Women", "kids"],
                 },
                 {
                   id: "product_subcategory",
                   label: "Subcategory",
                   type: "select",
-                  options: ["Mobile", "Laptop", "Shirt", "Novel"],
+                  options: ["TopWear", "BottomWear", "Both"],
                 },
-                { id: "product_size", label: "Size", type: "number" },
-                { id: "product_color", label: "Color", type: "text" },
+                {
+                  id: "product_size",
+                  label: "Size",
+                  type: "checkbox",
+                  options: [
+                    "0-3",
+                    "3-6",
+                    "6-9",
+                    "9-12",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "2xl",
+                  ],
+                },
+                {
+                  id: "product_color",
+                  label: "Color",
+                  type: "checkbox",
+                  options: [
+                    "Red",
+                    "Blue",
+                    "Green",
+                    "Black",
+                    "White",
+                    "Yellow",
+                    "Pink",
+                    "Purple",
+                    "Orange",
+                    "Brown",
+                    "Grey",
+                    "Beige",
+                    "Maroon",
+                    "Navy",
+                    "Sky Blue",
+                    "Olive",
+                    "Teal",
+                    "Turquoise",
+                    "Gold",
+                    "Silver",
+                    "Cream",
+                    "Lavender",
+                    "Magenta",
+                    "Cyan",
+                  ],
+                },
+                {
+                  id: "product_type",
+                  label: "type",
+                  type: "select",
+                  options: ["BestSeller", "New Arrival", "Premium", "Trending","Normal"],
+                },
+                { id: "brand", label: "brand", type: "text" },
               ].map((field) => (
                 <div key={field.id}>
                   <label
@@ -244,6 +336,32 @@ const AddProductModal = ({
                         </option>
                       ))}
                     </select>
+                  ) : field.type === "checkbox" ? (
+                    <div className="flex flex-wrap gap-2">
+  {field.options.map((opt) => {
+    const isChecked = formData[field.id]?.includes(opt);
+    return (
+      <label
+        key={opt}
+        className={`cursor-pointer px-4 py-2 rounded-lg border text-sm font-medium transition 
+        ${isChecked 
+          ? "bg-blue-600 text-white border-blue-600 shadow-md" 
+          : "bg-white text-gray-700 border-gray-300 hover:bg-gray-100"}`}
+      >
+        <input
+          type="checkbox"
+          name={field.id}
+          value={opt}
+          checked={isChecked}
+          onChange={handleChange}
+          className="hidden"
+        />
+        {opt}
+      </label>
+    );
+  })}
+</div>
+
                   ) : (
                     <input
                       type={field.type}

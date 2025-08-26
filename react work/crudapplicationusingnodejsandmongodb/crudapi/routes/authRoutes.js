@@ -33,9 +33,20 @@ router.post('/adminlogout', (req, res) => {
 });
 
 // GET /auth/me
+// router.get('/adminme', auth, async (req, res) => {
+//   // You can fetch from DB if needed; using token payload is fine for basic info
+//   res.json({ user: { id: req.user.id, username: req.user.username,email: req.user.email,  role: req.user.role } });
+// });
+
 router.get('/adminme', auth, async (req, res) => {
-  // You can fetch from DB if needed; using token payload is fine for basic info
-  res.json({ user: { id: req.user.id, username: req.user.username, role: req.user.role } });
+  try {
+    const admin = await Admin.findById(req.user.id).select("username email role");
+    if (!admin) return res.status(404).json({ message: "Admin not found" });
+
+    res.json({ user: admin });
+  } catch (err) {
+    res.status(500).json({ message: "Server error" });
+  }
 });
 
 

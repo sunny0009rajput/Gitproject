@@ -10,6 +10,7 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import ForgotPassword from "./pages/ForgotPassword";
 import ResetPassword from "./pages/ResetPassword";
+import ProtectedRoute from "./pages/ProtectedRoute";
 
 function App() {
   // Check if user is logged in (from localStorage)
@@ -28,8 +29,8 @@ function App() {
           {/* ✅ Protect all admin routes */}
           <Route
             path="/"
-            element={
-              user ? <AdminPortal/> : <Navigate to="/login"/>
+            element={<ProtectedRoute>
+               <AdminPortal/></ProtectedRoute>
             }
           >
             <Route index element={<Navigate to="dashboard" replace />} />
@@ -37,7 +38,7 @@ function App() {
             <Route path="products" element={<Products />} />
             <Route path="orders" element={<Orders />} />
             <Route path="users" element={<Users />} />
-            <Route path="settings" element={<Dashboard />} />
+            
           </Route>
         </Routes>
       </BrowserRouter>

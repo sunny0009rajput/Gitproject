@@ -11,6 +11,10 @@ import GroupCard from './groopcard';
 
 import Countup from './CountUp';
 import AboutPage from './About';
+import PosterFirst from './Poster1';
+import PosterSecond from './Poster2';
+import PosterThird from './Poster3';
+import PosterFour from './Poster4'
 
 function App() {
   return (
@@ -26,6 +30,10 @@ function App() {
     
     <Countup/>
     <AboutPage/>
+    <PosterFirst/>
+    <PosterSecond/>
+    <PosterThird/>
+    <PosterFour/>
 
 
     </>

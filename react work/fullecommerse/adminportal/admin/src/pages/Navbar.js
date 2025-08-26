@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { NavLink, useLocation, Outlet, useNavigate } from "react-router-dom";
 import { LogOut, Menu, X, Bell, User } from "lucide-react";
 import axios from "axios";
@@ -7,14 +7,38 @@ const Navbar = ({ sidebarOpen, setSidebarOpen, sidebarItems }) => {
   const location = useLocation();
   const navigate = useNavigate();
   const [dropdownOpen, setDropdownOpen] = useState(false);
+  const [admin, setAdmin] = useState(null);
   const apiurl = process.env.REACT_APP_BACKEND_URL;
+
+  
+
+  useEffect(() => {
+  const fetchAdmin = async () => {
+    try {
+      const res = await axios.get(`${apiurl}/auth/adminme`, { withCredentials: true });
+      setAdmin(res.data.user); // { id, username, role }
+    } catch (err) {
+      console.error("Error fetching admin info:", err);
+    }
+  };
+
+  fetchAdmin();
+}, []);
+
+
+
+
+  
+
+
 
   const handleLogout = async () => {
   try {
     await axios.post(
-      `${apiurl}/auth/adminlogout`, { withCredentials: true }
+      `${apiurl}/auth/adminlogout`,{}, { withCredentials: true }
     );
-
+    // ✅ Clear localStorage (make sure you remove the same key you set at login)
+    localStorage.removeItem("user");
     // If you also keep token in localStorage, remove it
     localStorage.removeItem("token");
 
@@ -98,34 +122,38 @@ const Navbar = ({ sidebarOpen, setSidebarOpen, sidebarItems }) => {
 
             {/* Notifications + Profile */}
             <div className="flex items-center gap-3 sm:gap-4">
-              <button className="p-2 text-gray-600 hover:bg-gray-100 rounded-lg transition-colors relative">
+              {/* <button className="p-2 text-gray-600 hover:bg-gray-100 rounded-lg transition-colors relative">
                 <Bell className="w-5 h-5" />
                 <span className="absolute -top-1 -right-1 w-3 h-3 bg-red-500 rounded-full"></span>
-              </button>
+              </button> */}
               <div className="relative">
                 <button
                   onClick={() => setDropdownOpen(!dropdownOpen)}
                   className="flex items-center gap-2 sm:gap-3"
                 >
                   <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center">
-                    <span className="text-blue-600 font-medium text-sm">A</span>
+                    <span className="text-blue-600 font-bold text-lg"><div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center">
+                      <span className="text-blue-600 font-bold text-lg">
+                        {admin ? admin.username.charAt(0).toUpperCase() : ""}
+                      </span>
+                    </div></span>
                   </div>
-                  <div className="hidden xs:block sm:block">
+                  <div className="hidden xs:block sm:block text-left">
                     <p className="text-sm font-medium text-gray-900">
-                      Admin User
+                      {admin ? admin.username : ""}
                     </p>
-                    <p className="text-xs text-gray-500">admin@store.com</p>
+                    <p className="text-xs text-gray-500"> {admin ? admin.email : ""}</p>
                   </div>
                 </button>
                 {/* Dropdown */}
                 {dropdownOpen && (
                   <div className="absolute right-0 mt-2 w-48 bg-white border rounded-lg shadow-lg z-50">
-                    <button
+                    {/* <button
                       onClick={() => navigate("/profile")}
                       className="w-full text-left px-4 py-2 text-gray-700 hover:bg-gray-100 flex items-center gap-2"
                     >
                       <User className="w-4 h-4" /> My Profile
-                    </button>
+                    </button> */}
                     <button
                       onClick={handleLogout}
                       className="w-full text-left px-4 py-2 text-gray-700 hover:bg-red-50 hover:text-red-600 flex items-center gap-2"

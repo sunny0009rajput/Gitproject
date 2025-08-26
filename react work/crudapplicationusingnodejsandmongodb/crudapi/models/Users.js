@@ -7,11 +7,21 @@ const userSchema = new Schema({
     email: { type: String, required: true, unique: true },
     password: { type: String, required: true },
     
-    customer_phone: { type: String, required: false }
+    customer_phone: { type: String, required: true },
+    address:[
+        {
+            street : String,
+            city : String,
+            state: String,
+            postalCode : String,
+            country : String,
+        },
+    ],
+    createdAt : {type :Date, default : Date.now},
     
      
 
 });
-const UserModel = mongoose.model('users', userSchema);
+const UserModel = mongoose.model('User', userSchema);
 
 module.exports = UserModel;

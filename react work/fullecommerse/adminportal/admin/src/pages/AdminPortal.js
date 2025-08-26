@@ -7,7 +7,7 @@ import {
   Package,
   ShoppingCart,
   Users as UsersIcon,
-  Settings as SettingsIcon,
+  
 } from "lucide-react";
 
 const AdminPortal = () => {
@@ -18,7 +18,7 @@ const AdminPortal = () => {
     { id: "products", label: "Products", path: "/products", icon: Package },
     { id: "orders", label: "Orders", path: "/orders", icon: ShoppingCart },
     { id: "users", label: "Users", path: "/users", icon: UsersIcon },
-    { id: "settings", label: "Settings", path: "/settings", icon: SettingsIcon },
+    
   ];
 
   return (
