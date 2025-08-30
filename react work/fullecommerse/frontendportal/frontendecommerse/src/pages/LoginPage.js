@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import { Eye, EyeOff, Mail, Lock, ArrowRight } from "lucide-react";
 import axios from "axios";
-import { useNavigate,Link } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 
-const LoginPage = ({ onLoginSuccess, onSwitchToSignup }) => {
+const CustomerLoginPage = ({ onLoginSuccess }) => {
   const [formData, setFormData] = useState({
-    username: "",
+    email: "",
     password: "",
   });
   const [showPassword, setShowPassword] = useState(false);
@@ -25,8 +25,7 @@ const LoginPage = ({ onLoginSuccess, onSwitchToSignup }) => {
 
   const validateForm = () => {
     const newErrors = {};
-   
-    if(!formData.username) newErrors.username = "Username is required";
+    if (!formData.email) newErrors.email = "Email is required";
     if (!formData.password) newErrors.password = "Password is required";
 
     setErrors(newErrors);
@@ -42,29 +41,28 @@ const LoginPage = ({ onLoginSuccess, onSwitchToSignup }) => {
 
     try {
       const res = await axios.post(
-        `${apiurl}/auth/adminlogin`,
+        `${apiurl}/customer/login`,
         {
-          username: formData.username,
+          email: formData.email,
           password: formData.password,
         },
-        {
-          withCredentials: true, // ✅ ensures cookies are sent/stored
-        }
+        { withCredentials: true }
       );
 
-      if (res.data.user) {
-        // ✅ Save user info in localStorage
-        localStorage.setItem("user", JSON.stringify(res.data.user));
+      if (res.data.token) {
+        // ✅ Save token
+        localStorage.setItem("customerToken", res.data.token);
 
-        if (onLoginSuccess) onLoginSuccess(res.data.user);
-        // Redirect to dashboard
-        navigate("/dashboard");
+        if (onLoginSuccess) onLoginSuccess(res.data);
+        navigate("/"); // redirect to home or customer dashboard
       }
     } catch (err) {
       console.error("Login Error:", err);
-      setApiError(
-        err.response?.data?.message || "Something went wrong. Please try again."
-      );
+      if (err.response?.status === 400 && err.response?.data?.message === "Invalid email or password") {
+        setApiError("User not found or wrong password.");
+      } else {
+        setApiError(err.response?.data?.message || "Something went wrong. Please try again.");
+      }
     } finally {
       setLoading(false);
     }
@@ -78,10 +76,8 @@ const LoginPage = ({ onLoginSuccess, onSwitchToSignup }) => {
             <div className="w-16 h-16 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl mx-auto mb-4 flex items-center justify-center">
               <Lock className="w-8 h-8 text-white" />
             </div>
-            <h2 className="text-3xl font-bold text-gray-900 mb-2">
-              Welcome Back
-            </h2>
-            <p className="text-gray-600">Sign in to your account</p>
+            <h2 className="text-3xl font-bold text-gray-900 mb-2">Welcome Back</h2>
+            <p className="text-gray-600">Sign in to your customer account</p>
           </div>
 
           {apiError && (
@@ -91,34 +87,28 @@ const LoginPage = ({ onLoginSuccess, onSwitchToSignup }) => {
           )}
 
           <form onSubmit={handleSubmit} className="space-y-6">
-            {/* usename */}
+            {/* Email */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
-                Username
-              </label>
+              <label className="block text-sm font-medium text-gray-700 mb-2">Email</label>
               <div className="relative">
                 <Mail className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
                 <input
-                  type="text"
-                  name="username"
-                  value={formData.username}
+                  type="email"
+                  name="email"
+                  value={formData.email}
                   onChange={handleChange}
                   className={`w-full pl-12 pr-4 py-3 border rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors ${
-                    errors.username ? "border-red-500" : "border-gray-300"
+                    errors.email ? "border-red-500" : "border-gray-300"
                   }`}
-                  placeholder="Enter your username"
+                  placeholder="Enter your email"
                 />
               </div>
-              {errors.username && (
-                <p className="text-red-500 text-sm mt-1">{errors.username}</p>
-              )}
+              {errors.email && <p className="text-red-500 text-sm mt-1">{errors.email}</p>}
             </div>
 
             {/* Password */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
-                Password
-              </label>
+              <label className="block text-sm font-medium text-gray-700 mb-2">Password</label>
               <div className="relative">
                 <Lock className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
                 <input
@@ -136,16 +126,17 @@ const LoginPage = ({ onLoginSuccess, onSwitchToSignup }) => {
                   onClick={() => setShowPassword(!showPassword)}
                   className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600"
                 >
-                  {showPassword ? (
-                    <EyeOff className="w-5 h-5" />
-                  ) : (
-                    <Eye className="w-5 h-5" />
-                  )}
+                  {showPassword ? <EyeOff className="w-5 h-5" /> : <Eye className="w-5 h-5" />}
                 </button>
               </div>
-              {errors.password && (
-                <p className="text-red-500 text-sm mt-1">{errors.password}</p>
-              )}
+              {errors.password && <p className="text-red-500 text-sm mt-1">{errors.password}</p>}
+            </div>
+
+            {/* Forgot Password (above submit button) */}
+            <div className="text-right">
+              <Link to="/forgotPassword" className="text-blue-600 hover:text-blue-800 text-sm font-medium">
+                Forgot Password?
+              </Link>
             </div>
 
             {/* Submit */}
@@ -159,16 +150,12 @@ const LoginPage = ({ onLoginSuccess, onSwitchToSignup }) => {
             </button>
           </form>
 
-          <div className="mt-8 text-center">
+          {/* Signup link */}
+          <div className="mt-6 text-center">
             <p className="text-gray-600">
-              Click to reset/forgot password{" "}
-              <Link to="/forgotPassword">
-              <button
-                onClick={onSwitchToSignup}
-                className="text-blue-600 hover:text-blue-800 font-medium"
-              >
-                Forgot Password
-              </button>
+              New here?{" "}
+              <Link to="/signup" className="text-blue-600 hover:text-blue-800 font-medium">
+                Create an account
               </Link>
             </p>
           </div>
@@ -178,4 +165,4 @@ const LoginPage = ({ onLoginSuccess, onSwitchToSignup }) => {
   );
 };
 
-export default LoginPage;
+export default CustomerLoginPage;

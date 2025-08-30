@@ -18,6 +18,10 @@ const AdminPortal = () => {
     { id: "products", label: "Products", path: "/products", icon: Package },
     { id: "orders", label: "Orders", path: "/orders", icon: ShoppingCart },
     { id: "users", label: "Users", path: "/users", icon: UsersIcon },
+    {id : "slider", label: "Crousal Slider", path: "/crousalSlide", icon:Package},
+    {id : "video", label: "Video", path: "/video", icon:Package},
+    {id : "poster", label: "Poster", path: "/Poster", icon:Package},
+
     
   ];
 

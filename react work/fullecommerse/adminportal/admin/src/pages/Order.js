@@ -4,7 +4,6 @@ import axios from "axios";
 import * as XLSX from "xlsx";
 import { Pagination, PaginationInfo, ItemsPerPageSelector } from "./Pagination";
 
-
 const Orders = () => {
   const [orders, setOrders] = useState([]);
   const [editOrder, setEditOrder] = useState(null);
@@ -25,12 +24,12 @@ const Orders = () => {
     "customer_address.city",
     "customer_address.street",
     "customer_address.zip",
-    "product_details.product_name",
-    "product_details.product_price",
-    "product_details.product_quantity",
-    "product_details.product_color",
-    "product_details.product_category",
-    "product_details.product_subcategory",
+    "products.name",
+  "products.price",
+  "products.qty",
+  "products.color",
+  "products.category",
+  "products.subcategory",
     "Order_status",
     "order_date",
     "payment_method",
@@ -42,31 +41,24 @@ const Orders = () => {
   const [showFilter, setShowFilter] = useState(false);
 
   const apiurl = process.env.REACT_APP_BACKEND_URL;
-  
 
   // pagination
-const [currentPage, setCurrentPage] = useState(1);
-const [itemsPerPage, setItemsPerPage] = useState(10);
-
-
-
-
+  const [currentPage, setCurrentPage] = useState(1);
+  const [itemsPerPage, setItemsPerPage] = useState(10);
 
   const fetchOrders = async () => {
     try {
-      const response = await axios.get(`${apiurl}/orders`, { withCredentials: true });
-      
+      const response = await axios.get(`${apiurl}/orders`, {
+        withCredentials: true,
+      });
+
       setOrders(response.data);
-    } catch (error) {
-      
-    }
+    } catch (error) {}
   };
 
   useEffect(() => {
     fetchOrders();
   }, []);
-
-  
 
   const getStatusColor = (status) => {
     switch (status) {
@@ -85,13 +77,6 @@ const [itemsPerPage, setItemsPerPage] = useState(10);
     }
   };
 
-  
-
-  
-
- 
- 
-
   // sort handler
   // Removed duplicate handleSort function to resolve redeclaration error.
 
@@ -108,47 +93,119 @@ const [itemsPerPage, setItemsPerPage] = useState(10);
     return orderflow[(idx + 1) % orderflow.length];
   };
 
-  const handleStatusClick = async (order) => {
-    try {
-      const updatedOrder = {
-        ...order,
-        Order_status: nextStatus(order.Order_status),
-      };
-      await axios.put(`${apiurl}/orders/${order._id}`, updatedOrder, { withCredentials: true });
-      fetchOrders();
-    } catch (error) {
-      console.error("Error updating status:", error);
-    }
-  };
+  // const handleStatusClick = async (order) => {
+  //   try {
+  //     const updatedOrder = {
+  //       ...order,
+  //       Order_status: nextStatus(order.Order_status),
+  //     };
+  //     await axios.put(`${apiurl}/orders/${order._id}`, updatedOrder, {
+  //       withCredentials: true,
+  //     });
+  //     fetchOrders();
+  //   } catch (error) {
+  //     console.error("Error updating status:", error);
+  //   }
+  // };
 
-  const handleBulkStatusChange = async () => {
-    try {
-      await Promise.all(
-        selectedOrders.map(async (orderId) => {
-          const order = orders.find((o) => o._id === orderId);
-          if (!order) return;
-          const updatedOrder = {
-            ...order,
-            Order_status: nextStatus(order.Order_status),
-          };
-          await axios.put(`${apiurl}/orders/${orderId}`, updatedOrder, { withCredentials: true });
-        })
-      );
-      fetchOrders();
-      setSelectedOrders([]);
-    } catch (e) {
-      console.error("Bulk update failed:", e);
-    }
-  };
+  const handleStatusClick = async (order) => {
+  try {
+    const newStatus = nextStatus(order.Order_status);
+
+    await axios.put(`${apiurl}/orders/${order._id}`, {
+      Order_status: newStatus,
+    }, { withCredentials: true });
+
+    fetchOrders();
+  } catch (error) {
+    console.error("Error updating status:", error);
+  }
+};
+
+const handleBulkStatusChange = async () => {
+  try {
+    await Promise.all(
+      selectedOrders.map(async (orderId) => {
+        const order = orders.find((o) => o._id === orderId);
+        if (!order) return;
+
+        // Only send the updated status
+        await axios.put(`${apiurl}/orders/${orderId}`, {
+          Order_status: nextStatus(order.Order_status),
+        }, { withCredentials: true });
+      })
+    );
+
+    fetchOrders();
+    setSelectedOrders([]);
+  } catch (e) {
+    console.error("Bulk update failed:", e);
+  }
+};
+
+
+
+  // const handleBulkStatusChange = async () => {
+  //   try {
+  //     await Promise.all(
+  //       selectedOrders.map(async (orderId) => {
+  //         const order = orders.find((o) => o._id === orderId);
+  //         if (!order) return;
+  //         const updatedOrder = {
+  //           ...order,
+  //           Order_status: nextStatus(order.Order_status),
+  //         };
+  //         await axios.put(`${apiurl}/orders/${orderId}`, updatedOrder, {
+  //           withCredentials: true,
+  //         });
+  //       })
+  //     );
+  //     fetchOrders();
+  //     setSelectedOrders([]);
+  //   } catch (e) {
+  //     console.error("Bulk update failed:", e);
+  //   }
+  // };
 
   // ---- Utilities ----
-  const getByPath = (obj, path) =>
-    path
-      .split(".")
-      .reduce(
-        (acc, key) => (acc && acc[key] !== undefined ? acc[key] : undefined),
-        obj
-      );
+  // const getByPath = (obj, path) =>
+  //   path
+  //     .split(".")
+  //     .reduce(
+  //       (acc, key) => (acc && acc[key] !== undefined ? acc[key] : undefined),
+  //       obj
+  //     );
+
+//   const getByPath = (obj, path) => {
+//   const value = path.split(".").reduce((acc, key) => acc?.[key], obj);
+//   // if value is an array of objects, flatten it
+//   if (Array.isArray(value)) {
+//     return value.map(v => (typeof v === "object" ? JSON.stringify(v) : v)).join(", ");
+//   }
+//   return value;
+// };
+
+const getByPath = (obj, path) => {
+  const parts = path.split(".");
+  let value = obj;
+
+  for (let part of parts) {
+    if (Array.isArray(value)) {
+      value = value.map(v => v?.[part]);
+    } else {
+      value = value?.[part];
+    }
+  }
+
+  // if final value is array, flatten it to string
+  if (Array.isArray(value)) {
+    return value.map(v => (typeof v === "object" ? JSON.stringify(v) : v)).join(", ");
+  }
+
+  return value;
+};
+
+
 
   const normalizeForSort = (val, key) => {
     if (val == null) return "";
@@ -179,12 +236,12 @@ const [itemsPerPage, setItemsPerPage] = useState(10);
     { label: "city", key: "customer_address.city" },
     { label: "streed", key: "customer_address.street" }, // keeping your original label
     { label: "zip code", key: "customer_address.zip" },
-    { label: "product name", key: "product_details.product_name" },
-    { label: "product price", key: "product_details.product_price" },
-    { label: "product quantity", key: "product_details.product_quantity" },
-    { label: "product color", key: "product_details.product_color" },
-    { label: "category", key: "product_details.product_category" },
-    { label: "subcategory", key: "product_details.product_subcategory" },
+    { label: "product name", key: "products.name" },
+    { label: "product price", key:  "products.price" },
+    { label: "product quantity", key: "products.qty" },
+    { label: "product color", key:"products.color" },
+    { label: "category", key: "product_category" },
+    { label: "subcategory", key: "product_subcategory" },
     { label: "order status", key: "Order_status" },
     { label: "order date", key: "order_date" },
     { label: "payment method", key: "payment_method" },
@@ -297,13 +354,13 @@ const [itemsPerPage, setItemsPerPage] = useState(10);
   };
 
   // Apply pagination AFTER filtering & sorting
-const totalItems = sortedFilteredOrders.length;
-const totalPages = Math.ceil(totalItems / itemsPerPage);
+  const totalItems = sortedFilteredOrders.length;
+  const totalPages = Math.ceil(totalItems / itemsPerPage);
 
-const startIndex = (currentPage - 1) * itemsPerPage;
-const endIndex = Math.min(startIndex + itemsPerPage, totalItems);
+  const startIndex = (currentPage - 1) * itemsPerPage;
+  const endIndex = Math.min(startIndex + itemsPerPage, totalItems);
 
-const currentItems = sortedFilteredOrders.slice(startIndex, endIndex);
+  const currentItems = sortedFilteredOrders.slice(startIndex, endIndex);
 
   return (
     <div className="space-y-6">
@@ -647,37 +704,37 @@ const currentItems = sortedFilteredOrders.slice(startIndex, endIndex);
         </div>
       </div>
       <div className="flex flex-wrap md:flex-nowrap items-center justify-between mt-4 gap-4 overflow-x-auto">
-  {/* Items per page selector */}
-  <ItemsPerPageSelector
-    itemsPerPage={itemsPerPage}
-    onItemsPerPageChange={(newSize) => {
-      setItemsPerPage(newSize);
-      setCurrentPage(1); // reset to first page
-    }}
-  />
+        {/* Items per page selector */}
+        <ItemsPerPageSelector
+          itemsPerPage={itemsPerPage}
+          onItemsPerPageChange={(newSize) => {
+            setItemsPerPage(newSize);
+            setCurrentPage(1); // reset to first page
+          }}
+        />
 
-  {/* Pagination Controls */}
-  <Pagination
-    currentPage={currentPage}
-    totalPages={totalPages}
-    onPageChange={setCurrentPage}
-    showFirstLast={true}
-    showPrevNext={true}
-    maxVisiblePages={5}
-  />
+        {/* Pagination Controls */}
+        <Pagination
+          currentPage={currentPage}
+          totalPages={totalPages}
+          onPageChange={setCurrentPage}
+          showFirstLast={true}
+          showPrevNext={true}
+          maxVisiblePages={5}
+        />
 
-  {/* Pagination Info */}
-  <PaginationInfo
-    currentPage={currentPage}
-    totalPages={totalPages}
-    totalItems={totalItems}
-    itemsPerPage={itemsPerPage}
-    startIndex={startIndex}
-    endIndex={endIndex}
-  />
-</div>
-
+        {/* Pagination Info */}
+        <PaginationInfo
+          currentPage={currentPage}
+          totalPages={totalPages}
+          totalItems={totalItems}
+          itemsPerPage={itemsPerPage}
+          startIndex={startIndex}
+          endIndex={endIndex}
+        />
+      </div>
     </div>
+    
   );
 };
 

@@ -51,7 +51,7 @@ const ResetPassword = ({ onPasswordReset }) => {
 
     try {
       const response = await axios.post(
-        `${apiurl}/auth/reset-password/${token}`,
+        `${apiurl}/customer/reset-password/${token}`,
         {
           password: passwords.newPassword,
           confirmPassword: passwords.confirmPassword,

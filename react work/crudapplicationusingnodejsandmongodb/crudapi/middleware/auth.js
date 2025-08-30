@@ -16,6 +16,12 @@ const signToken = (payload) =>
 
 const auth = (req, res, next) => {
   const token = req.cookies?.token;
+
+  // Also check for Authorization header
+  if (!token && req.headers.authorization?.startsWith("Bearer ")) {
+    token = req.headers.authorization.split(" ")[1];
+  }
+
   if (!token) return res.status(401).json({ message: 'Unauthorized' });
   try {
     const decoded = jwt.verify(token, process.env.JWT_SECRET);

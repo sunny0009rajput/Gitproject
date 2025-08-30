@@ -1,176 +1,328 @@
-import React, { useState } from 'react';
-import { X, Heart, ShoppingBag } from 'lucide-react';
+import React, { useState, useEffect } from "react";
+import { useParams } from "react-router-dom"; // ✅ Get productId from URL
+import axios from "axios";
+import {
+  Star,
+  Heart,
+  ShoppingCart,
+  Minus,
+  Plus,
+  Truck,
+  RotateCcw,
+  Shield,
+  ChevronLeft,
+  ChevronRight,
+  CheckCircle,
+} from "lucide-react";
+import { useCart } from "./CartContext";
+import { useNavigate } from "react-router-dom";
 
-const WishlistPage = () => {
-  const [wishlistItems, setWishlistItems] = useState([
-    {
-      id: 1,
-      image: "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=400&h=500&fit=crop",
-      title: "RARE RABBIT Men Holland Regular Fit Shirt",
-      currentPrice: 2165,
-      originalPrice: 3799,
-      discount: 43,
-      inStock: true
-    },
-    {
-      id: 2,
-      image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop",
-      title: "RARE RABBIT Men Holland Slim Fit Shirt",
-      currentPrice: 2165,
-      originalPrice: 3799,
-      discount: 43,
-      inStock: true
-    },
-    {
-      id: 3,
-      image: "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=400&h=500&fit=crop",
-      title: "RARE RABBIT Men Luxem Slim Fit Shirt",
-      currentPrice: 2069,
-      originalPrice: 2999,
-      discount: 31,
-      inStock: true
-    },
-    {
-      id: 4,
-      image: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=400&h=500&fit=crop",
-      title: "StyleCast x Revolte Men Shacket",
-      currentPrice: 2621,
-      originalPrice: 5699,
-      discount: 54,
-      inStock: true
+export default function ProductView() {
+  const { id } = useParams(); // ✅ product ID from route
+  const [product, setProduct] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [selectedSize, setSelectedSize] = useState("M");
+  const [quantity, setQuantity] = useState(1);
+  const [selectedImage, setSelectedImage] = useState(0);
+  const [isWishlisted, setIsWishlisted] = useState(false);
+  const [zoomPosition, setZoomPosition] = useState({ x: 0, y: 0 });
+  const [isZooming, setIsZooming] = useState(false);
+  const [selectedColor, setSelectedColor] = useState(null);
+    const [successMsg, setSuccessMsg] = useState("");
+  const { addToCart } = useCart();
+   const navigate = useNavigate();
+  const apiurl = process.env.REACT_APP_BACKEND_URL;
+
+  // ✅ Fetch product details
+  useEffect(() => {
+    const fetchProduct = async () => {
+      try {
+        const res = await axios.get(`${apiurl}/products/${id}`);
+        const p = res.data;
+
+        // 🔹 Normalize fields
+        const normalizedProduct = {
+          id: p._id,
+          name: p.product_name,
+          price: p.product_price,
+          description: p.product_description,
+          category: p.product_category,
+          sizes: p.product_size || [],
+          colors: p.product_color || [],
+          images:
+            [p.mainPhoto, p.sub1Photo, p.sub2Photo, p.sub3Photo].filter(Boolean)
+              .length > 0
+              ? [p.mainPhoto, p.sub1Photo, p.sub2Photo, p.sub3Photo].filter(
+                  Boolean
+                )
+              : ["/placeholder.png"], // 👈 always at least one image
+        };
+
+        setProduct(normalizedProduct);
+      } catch (error) {
+        console.error("Error fetching product details:", error);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchProduct();
+  }, [id, apiurl]);
+
+  const handleMouseMove = (e) => {
+    if (!isZooming) return;
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = ((e.clientX - rect.left) / rect.width) * 100;
+    const y = ((e.clientY - rect.top) / rect.height) * 100;
+    setZoomPosition({ x, y });
+  };
+
+  const handleAddToCart = () => {
+    const token = localStorage.getItem("customerToken");
+    if (!token) {
+      // redirect to login with redirect param
+      navigate("/login?redirect=/cartsection");
+      return;
     }
-  ]);
-
-  const removeFromWishlist = (id) => {
-    setWishlistItems(items => items.filter(item => item.id !== id));
+    // ✅ Validation
+    if (!selectedSize) {
+      setSuccessMsg("⚠️ Please select a size");
+      return;
+    }
+    if (product.colors.length > 0 && !selectedColor) {
+      setSuccessMsg("⚠️ Please select a color");
+      return;
+    }
+    addToCart(product.id, selectedSize, selectedColor, quantity);
+     // ✅ Show success message
+    setSuccessMsg("✅ Product added to cart successfully!");
+    // Hide message after 3s
+    setTimeout(() => setSuccessMsg(""), 3000);
   };
 
-  const moveToCart = (id) => {
-    // Simulate moving to cart
-    console.log(`Moving item ${id} to cart`);
-    // You can add actual cart logic here
-  };
+  if (loading) {
+    return (
+      <div className="flex justify-center items-center h-screen">
+        <p>Loading product details...</p>
+      </div>
+    );
+  }
+
+  if (!product) {
+    return (
+      <div className="flex justify-center items-center h-screen">
+        <p>Product not found</p>
+      </div>
+    );
+  }
 
   return (
-    <div className="min-h-screen bg-gray-50 py-8 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-7xl mx-auto">
-        {/* Header */}
-        <div className="mb-8">
-          <div className="flex items-center gap-3 mb-2">
-            <Heart className="w-6 h-6 text-red-500 fill-current" />
-            <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">My Wishlist</h1>
-          </div>
-          <p className="text-gray-600">{wishlistItems.length} items</p>
-        </div>
-
-        {/* Wishlist Grid */}
-        {wishlistItems.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            {wishlistItems.map((item) => (
-              <div
-                key={item.id}
-                className="group bg-white rounded-xl shadow-sm hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 hover:border-gray-200"
-              >
-                {/* Image Container */}
-                <div className="relative overflow-hidden bg-gray-100 aspect-[3/4]">
-                  <img
-                    src={item.image}
-                    alt={item.title}
-                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
-                  />
-                  
-                  {/* Remove Button */}
-                  <button
-                    onClick={() => removeFromWishlist(item.id)}
-                    className="absolute top-3 right-3 w-8 h-8 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center shadow-lg hover:bg-white hover:scale-110 transition-all duration-200 opacity-0 group-hover:opacity-100"
-                  >
-                    <X className="w-4 h-4 text-gray-600" />
-                  </button>
-
-                  {/* Discount Badge */}
-                  {item.discount > 0 && (
-                    <div className="absolute top-3 left-3 bg-red-500 text-white px-2 py-1 rounded-md text-xs font-semibold">
-                      ({item.discount}% OFF)
-                    </div>
-                  )}
-
-                  {/* Hover Overlay */}
-                  <div className="absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-                </div>
-
-                {/* Product Info */}
-                <div className="p-4">
-                  <h3 className="text-sm font-medium text-gray-900 mb-2 line-clamp-2 group-hover:text-gray-700 transition-colors">
-                    {item.title}
-                  </h3>
-                  
-                  {/* Price Section */}
-                  <div className="flex items-center gap-2 mb-4">
-                    <span className="text-lg font-bold text-gray-900">
-                      Rs.{item.currentPrice.toLocaleString()}
-                    </span>
-                    {item.originalPrice > item.currentPrice && (
-                      <>
-                        <span className="text-sm text-gray-500 line-through">
-                          Rs.{item.originalPrice.toLocaleString()}
-                        </span>
-                        <span className="text-xs text-red-500 font-medium">
-                          ({item.discount}% OFF)
-                        </span>
-                      </>
-                    )}
-                  </div>
-
-                  {/* Move to Cart Button */}
-                  <button
-                    onClick={() => moveToCart(item.id)}
-                    className="w-full bg-gradient-to-r from-pink-500 to-red-500 hover:from-pink-600 hover:to-red-600 text-white py-2.5 px-4 rounded-lg font-medium text-sm transition-all duration-200 flex items-center justify-center gap-2 hover:shadow-lg hover:scale-[1.02] active:scale-[0.98]"
-                  >
-                    <ShoppingBag className="w-4 h-4" />
-                    MOVE TO BAG
-                  </button>
-                </div>
-              </div>
-            ))}
-          </div>
-        ) : (
-          /* Empty State */
-          <div className="text-center py-16">
-            <Heart className="w-16 h-16 text-gray-300 mx-auto mb-4" />
-            <h3 className="text-xl font-medium text-gray-900 mb-2">Your wishlist is empty</h3>
-            <p className="text-gray-500 mb-6">Save items you love to your wishlist</p>
-            <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-medium transition-colors">
-              Continue Shopping
-            </button>
+    <div className="min-h-screen bg-gray-50">
+      <div className="max-w-7xl mx-auto px-4 py-8">
+      {/* ✅ Success Message */}
+        {successMsg && (
+          <div className="mb-4 flex items-center gap-2 p-4 bg-green-100 border border-green-300 text-green-800 rounded-xl shadow">
+            <CheckCircle className="w-5 h-5 text-green-600" />
+            <span className="font-medium">{successMsg}</span>
           </div>
         )}
 
-        {/* Summary Section (when items exist) */}
-        {wishlistItems.length > 0 && (
-          <div className="mt-12 bg-white rounded-xl p-6 shadow-sm border border-gray-100">
-            <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
-              <div>
-                <h3 className="text-lg font-semibold text-gray-900 mb-1">
-                  Wishlist Summary
-                </h3>
-                <p className="text-gray-600">
-                  {wishlistItems.length} items • Total savings: Rs.{wishlistItems.reduce((acc, item) => acc + (item.originalPrice - item.currentPrice), 0).toLocaleString()}
-                </p>
-              </div>
-              <div className="flex flex-col sm:flex-row gap-3">
-                <button className="px-6 py-3 border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors font-medium">
-                  Share Wishlist
+
+
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+          {/* Product Images */}
+          <div className="space-y-4">
+            {/* Main Image */}
+            <div className="relative bg-white rounded-2xl overflow-hidden shadow-lg">
+              <div
+                className="relative aspect-[4/5] overflow-hidden cursor-zoom-in"
+                onMouseEnter={() => setIsZooming(true)}
+                onMouseLeave={() => setIsZooming(false)}
+                onMouseMove={handleMouseMove}
+              >
+                {product.images.length > 0 && (
+                  <img
+                    src={product.images[selectedImage]} // ✅ Dynamic image
+                    alt={product.name}
+                    className={`w-full h-full object-cover transition-transform duration-300 ${
+                      isZooming ? "scale-150" : "scale-100"
+                    }`}
+                    style={
+                      isZooming
+                        ? {
+                            transformOrigin: `${zoomPosition.x}% ${zoomPosition.y}%`,
+                          }
+                        : {}
+                    }
+                  />
+                )}
+
+                {/* Navigation */}
+                <button
+                  onClick={() =>
+                    setSelectedImage((prev) =>
+                      prev > 0 ? prev - 1 : product.images.length - 1
+                    )
+                  }
+                  className="absolute left-4 top-1/2 -translate-y-1/2 bg-white/80 rounded-full p-2"
+                >
+                  <ChevronLeft className="w-5 h-5" />
                 </button>
-                <button className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors font-medium">
-                  Move All to Cart
+                <button
+                  onClick={() =>
+                    setSelectedImage((prev) =>
+                      prev < product.images.length - 1 ? prev + 1 : 0
+                    )
+                  }
+                  className="absolute right-4 top-1/2 -translate-y-1/2 bg-white/80 rounded-full p-2"
+                >
+                  <ChevronRight className="w-5 h-5" />
                 </button>
               </div>
             </div>
+
+            {/* Thumbnails */}
+            <div className="grid grid-cols-4 gap-3">
+              {product.images.map((img, idx) => (
+                <button
+                  key={idx}
+                  onClick={() => setSelectedImage(idx)}
+                  className={`relative aspect-square bg-white rounded-xl overflow-hidden ${
+                    selectedImage === idx
+                      ? "ring-2 ring-pink-500 shadow-lg scale-105"
+                      : "hover:scale-105 hover:shadow-md"
+                  }`}
+                >
+                  <img
+                    src={img}
+                    alt={`View ${idx}`}
+                    className="w-full h-full object-cover"
+                  />
+                </button>
+              ))}
+            </div>
           </div>
-        )}
+
+          {/* Product Details */}
+          <div className="space-y-6">
+            <div>
+              <div className="flex items-center justify-between mb-2">
+                <span className="text-sm text-pink-600 font-medium">
+                  {product.category}
+                </span>
+                <button
+                  onClick={() => setIsWishlisted(!isWishlisted)}
+                  className="p-2 rounded-full hover:bg-gray-100"
+                >
+                  <Heart
+                    className={`w-6 h-6 ${
+                      isWishlisted
+                        ? "fill-red-500 text-red-500"
+                        : "text-gray-400"
+                    }`}
+                  />
+                </button>
+              </div>
+              <h1 className="text-3xl font-bold">{product.name}</h1>
+              <p className="text-gray-600">{product.shortDescription}</p>
+            </div>
+
+            {/* Price */}
+            <div className="flex items-center space-x-3">
+              <span className="text-3xl font-bold text-gray-900">
+                ${product.price}
+              </span>
+            </div>
+
+            {/* Sizes */}
+            {product.sizes && (
+              <div>
+                <h3 className="text-lg font-semibold mb-3">Size</h3>
+                <div className="flex space-x-3">
+                  {product.sizes.map((size) => (
+                    <button
+                      key={size}
+                      onClick={() => setSelectedSize(size)}
+                      className={`w-12 h-12 rounded-xl border-2 ${
+                        selectedSize === size
+                          ? "border-pink-500 bg-pink-500 text-white"
+                          : "border-gray-300 hover:border-pink-300 hover:bg-pink-50"
+                      }`}
+                    >
+                      {size}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+            {/* Colors */}
+            {product.colors && product.colors.length > 0 && (
+              <div>
+                <h3 className="text-lg font-semibold mb-3">Color</h3>
+                <div className="flex space-x-3">
+                  {product.colors.map((color) => (
+                    <button
+                      key={color}
+                      onClick={() => setSelectedColor(color)}
+                      className={`px-4 py-2 rounded-xl border-2 text-sm font-medium
+            ${
+              selectedColor === color
+                ? "border-pink-500 bg-pink-500 text-white"
+                : "border-gray-300 hover:border-pink-300 hover:bg-pink-50"
+            }`}
+                    >
+                      {color}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Quantity + Add to Cart */}
+            <div>
+              <h3 className="text-lg font-semibold mb-3">Quantity</h3>
+              <div className="flex items-center">
+                <button onClick={() => setQuantity(Math.max(1, quantity - 1))}>
+                  <Minus />
+                </button>
+                <span className="px-4">{quantity}</span>
+                <button onClick={() => setQuantity(quantity + 1)}>
+                  <Plus />
+                </button>
+              </div>
+              <button
+                onClick={handleAddToCart}
+              
+                className="w-full mt-4 bg-pink-500 text-white py-4 rounded-xl flex items-center justify-center space-x-2"
+              >
+                <ShoppingCart />
+                <span>Add to Cart</span>
+              </button>
+            </div>
+
+            {/* Description */}
+            <div className="bg-white p-6 rounded-xl">
+              <h3 className="text-lg font-semibold mb-3">Product Details</h3>
+              <p className="text-gray-600">{product.description}</p>
+            </div>
+
+            {/* Reviews */}
+            {product.reviews && (
+              <div className="bg-white p-6 rounded-xl">
+                <h3 className="text-lg font-semibold mb-4">Customer Reviews</h3>
+                {product.reviews.map((review, idx) => (
+                  <div
+                    key={idx}
+                    className="border-b border-gray-100 pb-4 mb-4 last:mb-0 last:pb-0"
+                  >
+                    <p className="font-medium">{review.name}</p>
+                    <p className="text-sm text-gray-600">{review.comment}</p>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        </div>
       </div>
     </div>
   );
-};
-
-export default WishlistPage;
+}

@@ -1,9 +1,10 @@
 import React, { useState, useRef, useEffect } from "react";
 import { ChevronRight, Star, Sparkles } from "lucide-react";
-
+import { useNavigate } from "react-router-dom";
 export default function RoundBoxCollection() {
   const [activeTab, setActiveTab] = useState("categories");
   const scrollRef = useRef(null);
+   const navigate = useNavigate();
 
   // Drag-to-scroll effect
   useEffect(() => {
@@ -52,7 +53,7 @@ export default function RoundBoxCollection() {
   const categories = [
     {
       id: 1,
-      name: "Jewelry",
+      name: "men",
       image:
         "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=300&q=80",
       count: 45,
@@ -60,7 +61,7 @@ export default function RoundBoxCollection() {
     },
     {
       id: 2,
-      name: "Watches",
+      name: "women",
       image:
         "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=300&q=80",
       count: 32,
@@ -68,7 +69,7 @@ export default function RoundBoxCollection() {
     },
     {
       id: 3,
-      name: "Cosmetics",
+      name: "kids",
       image:
         "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=300&q=80",
       count: 28,
@@ -103,21 +104,21 @@ export default function RoundBoxCollection() {
   const brands = [
     {
       id: 1,
-      name: "Tiffany & Co",
+      name: "puma",
       logo: "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=300&q=80",
       isPopular: true,
       productCount: 234,
     },
     {
       id: 2,
-      name: "Cartier",
+      name: "john",
       logo: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=300&q=80",
       isPopular: true,
       productCount: 189,
     },
     {
       id: 3,
-      name: "Hermès",
+      name: "addidas",
       logo: "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?auto=format&fit=crop&w=300&q=80",
       isPopular: true,
       productCount: 156,
@@ -144,6 +145,11 @@ export default function RoundBoxCollection() {
       productCount: 67,
     },
   ];
+
+  // 🔑 Handle click and redirect with query param
+  const handleClick = (type, name) => {
+    navigate(`/allproducts?${type}=${encodeURIComponent(name)}`);
+  };
 
   return (
     <div className="bg-gradient-to-br from-slate-50 via-white to-stone-50">
@@ -185,7 +191,11 @@ export default function RoundBoxCollection() {
               className="flex gap-6 overflow-x-auto whitespace-nowrap scrollbar-hide px-2 cursor-grab active:cursor-grabbing"
             >
               {categories.map((category) => (
-                <div key={category.id} className="group cursor-pointer">
+                <div
+                  key={category.id}
+                  onClick={() => handleClick("category", category.name)}
+                  className="group cursor-pointer"
+                >
                   {/* Round Box Container */}
                   <div className="relative">
                     {/* Main Round Box */}
@@ -209,14 +219,12 @@ export default function RoundBoxCollection() {
         rounded-full pointer-events-none"
                       ></div>{" "}
                       {/* stronger overlay */}
-                      
                       {/* Hover Effect */}
                       <div
                         className="absolute inset-0 bg-gradient-to-br from-purple-500/40 to-pink-500/40 
         opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-full"
                       ></div>
                       {/* Arrow Icon on Hover */}
-                      
                     </div>
                   </div>
 
@@ -251,6 +259,7 @@ export default function RoundBoxCollection() {
               {brands.map((brand) => (
                 <div
                   key={brand.id}
+                   onClick={() => handleClick("brand", brand.name)}
                   className="flex-shrink-0 w-40 group cursor-pointer"
                 >
                   <div
@@ -274,10 +283,8 @@ export default function RoundBoxCollection() {
                     ></div>
 
                     {/* Popular Badge */}
-                    
 
                     {/* Product Count */}
-                    
 
                     {/* Hover Glow Overlay */}
                     <div

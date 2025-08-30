@@ -33,7 +33,7 @@ const ForgotPassword = ({ onEmailSubmit }) => {
     setIsSubmitting(true);
     // Simulate API call
     try {
-      const res = await axios.post(`${apiurl}/auth/forgot-password`, { email });
+      const res = await axios.post(`${apiurl}/customer/forgot-password`, { email });
       // ✅ Show success page
       setSuccess(true);
     } catch (err) {

@@ -11,6 +11,9 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import ForgotPassword from "./pages/ForgotPassword";
 import ResetPassword from "./pages/ResetPassword";
 import ProtectedRoute from "./pages/ProtectedRoute";
+import CrousalSlide from "./pages/CrousalSlide";
+import Video from "./pages/Video";
+import Poster from "./pages/Poster";
 
 function App() {
   // Check if user is logged in (from localStorage)
@@ -38,6 +41,9 @@ function App() {
             <Route path="products" element={<Products />} />
             <Route path="orders" element={<Orders />} />
             <Route path="users" element={<Users />} />
+            <Route path="crousalSlide" element={<CrousalSlide/>}/>
+            <Route path="video" element={<Video/>}/>
+            <Route path="poster" element={<Poster/>}/>
             
           </Route>
         </Routes>

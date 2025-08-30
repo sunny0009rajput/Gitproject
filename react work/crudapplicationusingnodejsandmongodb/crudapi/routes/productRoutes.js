@@ -106,6 +106,8 @@ router.get("/products", async (req, res) => {
       product_size: product.product_size,
       product_color: product.product_color,
       product_date: product.product_date,
+      product_type: product.product_type,
+      brand : product.brand,
 
       mainPhoto: product.mainPhoto?.data
         ? `data:${
@@ -135,40 +137,39 @@ router.get("/products", async (req, res) => {
 });
 router.get("/products/:id", async (req, res) => {
   try {
-    const products = await ProductModel.findById(req.params.id);
+    const product = await ProductModel.findById(req.params.id);
+
+    if (!product) {
+      return res.status(404).json({ error: "Product not found" });
+    }
+
     const updatedProduct = {
-      ...products._doc,
-      mainPhoto: products.mainPhoto
-        ? `data:${
-            products.mainPhoto.contentType
-          };base64,${products.mainPhoto.data.toString("base64")}`
+      ...product._doc,
+      mainPhoto: product.mainPhoto?.data
+        ? `data:${product.mainPhoto.contentType};base64,${product.mainPhoto.data.toString("base64")}`
         : null,
-      sub1Photo: products.sub1Photo
-        ? `data:${
-            products.sub1Photo.contentType
-          };base64,${products.sub1Photo.data.toString("base64")}`
+      sub1Photo: product.sub1Photo?.data
+        ? `data:${product.sub1Photo.contentType};base64,${product.sub1Photo.data.toString("base64")}`
         : null,
-      sub2Photo: products.sub2Photo
-        ? `data:${
-            products.sub2Photo.contentType
-          };base64,${products.sub2Photo.data.toString("base64")}`
+      sub2Photo: product.sub2Photo?.data
+        ? `data:${product.sub2Photo.contentType};base64,${product.sub2Photo.data.toString("base64")}`
         : null,
-      sub3Photo: products.sub3Photo
-        ? `data:${
-            products.sub3Photo.contentType
-          };base64,${products.sub3Photo.data.toString("base64")}`
+      sub3Photo: product.sub3Photo?.data
+        ? `data:${product.sub3Photo.contentType};base64,${product.sub3Photo.data.toString("base64")}`
         : null,
-      product_date: products.product_date,
+      product_date: product.product_date,
+      product_type: product.product_type,
+      total_stock: product.total_stock,
+      brand: product.brand,
     };
 
-    if (!products) {
-      return res.status(404).send();
-    }
-    res.status(200).send(updatedProduct);
+    res.status(200).json(updatedProduct);
   } catch (error) {
-    res.status(500).send(error);
+    console.error("GET /products/:id error:", error);
+    res.status(500).json({ error: "Internal Server Error" });
   }
 });
+
 
 router.put(
   "/products/:id",
@@ -199,6 +200,9 @@ router.put(
             ? req.body.product_color
             : [req.body.product_color]
           : [],
+          product_type: req.body.product_type,
+        total_stock: req.body.total_stock,
+        brand: req.body.brand,
       };
 
       if (req.files["mainPhoto"]) {
@@ -251,6 +255,9 @@ router.put(
     ? `data:${products.sub3Photo.contentType};base64,${products.sub3Photo.data.toString("base64")}`
     : null,
   product_date: products.product_date,
+  product_type: products.product_type,
+        total_stock: products.total_stock,
+        brand: products.brand,
 };
 
 

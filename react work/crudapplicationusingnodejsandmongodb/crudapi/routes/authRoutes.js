@@ -62,7 +62,7 @@ router.post('/forgot-password', async (req, res) => {
   await admin.save({ validateBeforeSave: false });
 
   // create reset URL (frontend page)
-  const resetUrl = `${process.env.FRONTEND_URL}/reset-password/${resetToken}`;
+  const resetUrl = `${process.env.FRONTEND_URL_ADMIN}/reset-password/${resetToken}`;
 
   try {
    // send confirmation email
