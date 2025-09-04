@@ -21,6 +21,7 @@ import Crousal from './Crousal';
 import ImageSwiper from './Imageswiper';
 import ImageSwiper2 from './Imageswiper2';
 import ImageSwiper3 from './Imageswiper3';
+import TitltCard from './TitltCard';
 
 function App() {
   return (
@@ -46,6 +47,7 @@ function App() {
     <ImageSwiper/>
     <ImageSwiper2/>
     <ImageSwiper3/>
+    <TitltCard/>
 
 
     </>
