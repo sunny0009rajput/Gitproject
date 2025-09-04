@@ -105,10 +105,17 @@ export default function ShoppingCartPage() {
   };
 
   // order id generator
-  const generateOrderId = (customerName) => {
-    const random6 = Math.floor(100000 + Math.random() * 900000);
-    return `ORD_${customerName.replace(/\s+/g, "").toUpperCase()}_${random6}`;
-  };
+  // const generateOrderId = (customerName) => {
+  //   const random6 = Math.floor(100000 + Math.random() * 900000);
+  //   return `ORD_${customerName.replace(/\s+/g, "").toUpperCase()}_${random6}`;
+  // };
+
+//   let lastOrderNumber = 0; // start from 0
+
+// const generateOrderId = (customerName) => {
+//   lastOrderNumber += 1; // increment
+//   return `ORD_${company.replace(/\s+/g, "").toUpperCase()}_${lastOrderNumber}`;
+// };
 
   // Helper: dynamically load Razorpay script if not already present
   const ensureRazorpayLoaded = () =>
@@ -147,13 +154,12 @@ export default function ShoppingCartPage() {
   }) => {
     try {
       setIsPlacing(true);
-      const newOrderId = generateOrderId("Customer");
-      setOrderId(newOrderId);
+      
 
       const token = localStorage.getItem("customerToken");
 
       const orderData = {
-        orderId: newOrderId,
+        
         products: cart.map((item) => ({
           product: item.product?._id || item._id,
           quantity: item.quantity,
@@ -199,13 +205,12 @@ export default function ShoppingCartPage() {
     try {
       await ensureRazorpayLoaded();
 
-      const newOrderId = generateOrderId("Customer");
-      setOrderId(newOrderId);
+      
 
       // send orderId to backend so it becomes Razorpay receipt
       const { data } = await axios.post(
         `${apiurl}/create-order`,
-        { amount: total, orderId: newOrderId },
+        { amount: total, },
         { withCredentials: true }
       );
 

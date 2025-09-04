@@ -26,6 +26,7 @@ import TrackOrder from './pages/TrackOrder';
 import ProductSection from './pages/ProductSection';
 import React from 'react';
 import ProtectedRoute from './pages/ProtectedRoutes';
+import History from './pages/History';
 
 function AppContent() {
   const location = useLocation();
@@ -51,6 +52,7 @@ function AppContent() {
         <Route path="/wishlist" element={<ProtectedRoute><WishlistSection /></ProtectedRoute>} />
         <Route path="/cartsection" element={<ProtectedRoute><CartSection /></ProtectedRoute>} />
         <Route path="/track-order" element={<ProtectedRoute><TrackOrder /></ProtectedRoute>} />
+        <Route path="/history" element={<ProtectedRoute><History /></ProtectedRoute>} />
         <Route path="/allproducts" element={<ProductSection />} />
       </Routes>
     </>

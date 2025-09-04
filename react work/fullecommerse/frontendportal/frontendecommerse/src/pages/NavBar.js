@@ -237,6 +237,15 @@ const ResponsiveNavbar = () => {
                         <Package className="w-5 h-5" />
                         <span>Track Order</span>
                       </button>
+
+                      <button
+                        onClick={() => navigate("/history")}
+                        className="w-full flex items-center space-x-3 px-4 py-3 text-gray-700 hover:bg-gray-50 hover:text-purple-600"
+                      >
+                        <Package className="w-5 h-5" />
+                        <span>History</span>
+                      </button>
+
                       <button className="w-full flex items-center space-x-3 px-4 py-3 text-gray-700 hover:bg-gray-50 hover:text-purple-600">
                         <Edit3 className="w-5 h-5" />
                         <span>Edit Profile</span>

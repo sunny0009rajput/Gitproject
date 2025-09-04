@@ -7,7 +7,7 @@ import ProductView from './ProductView';
 function ProductViewPage() {
   return (
     <>
-    <NavBar/>
+   
     <ProductView/>
 
     <Footer/>

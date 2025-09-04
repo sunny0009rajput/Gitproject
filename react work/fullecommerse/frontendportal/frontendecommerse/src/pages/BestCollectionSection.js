@@ -28,6 +28,10 @@ function BestCollection() {
           product_category: (p.product_category || "").trim(),
           product_price: Number(p.product_price) || 0,
           mainPhoto: p.mainPhoto || "/placeholder.png",
+
+           // ✅ Add these two
+        avgRating: p.avgRating || 0,
+        totalReviews: p.totalReviews || 0,
         }))
         .filter((p) =>
           ["Premium", "BestSeller", "Trending", "New Arrival"].includes(
@@ -168,13 +172,13 @@ function BestCollection() {
                       <Star
                         key={i}
                         className={`w-4 h-4 ${
-                          i < 4
+                          i < Math.round(product.avgRating)
                             ? "text-yellow-400 fill-current"
                             : "text-gray-300"
                         }`}
                       />
                     ))}
-                    <span className="text-sm text-gray-600">(12)</span>
+                    <span className="text-sm text-gray-600">({product.totalReviews})</span>
                   </div>
 
                   {/* Price */}

@@ -7,6 +7,7 @@ const sendOrderConfirmation = require("../mailer");
 const Razorpay = require("razorpay");
 const PaymentModel = require("../models/Payment");
 const { auth, requireAdmin } = require("../middleware/auth");
+const getNextSequence = require("../helper/getNextSequence");
 const {
   customerAuth,
   signToken,
@@ -53,9 +54,13 @@ router.post("/orders", customerAuth, async (req, res) => {
       payment_method,
       products,
       total_amount,
-      orderId,
+      
       shipping_address,
     } = req.body;
+
+    // Generate sequential order ID
+    const orderNumber = await getNextSequence("order");
+    const orderId = `ORD_${orderNumber}`;
 
     // products here might just be productId + qty
     // Fetch product snapshot for each
@@ -209,7 +214,9 @@ router.get("/orders", auth, async (req, res) => {
         name: p.product_name,
         price: p.product_price,
         qty: p.quantity,
-        color: p.product_color,
+         color: p.selected_color,
+        size: p.selected_size,     // use selected_size
+  
         category: p.product_category,
         subcategory: p.product_subcategory
       }))

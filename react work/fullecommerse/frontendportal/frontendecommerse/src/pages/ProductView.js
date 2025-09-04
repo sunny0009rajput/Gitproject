@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom"; // ✅ Get productId from URL
 import axios from "axios";
+import { useWishlist } from "./WishlistContext";
 import {
   Star,
   Heart,
@@ -28,9 +29,12 @@ export default function ProductView() {
   const [zoomPosition, setZoomPosition] = useState({ x: 0, y: 0 });
   const [isZooming, setIsZooming] = useState(false);
   const [selectedColor, setSelectedColor] = useState(null);
-    const [successMsg, setSuccessMsg] = useState("");
+  const [successMsg, setSuccessMsg] = useState("");
   const { addToCart } = useCart();
-   const navigate = useNavigate();
+  const [isFavorited, setIsFavorited] = useState({});
+  const [animateFavorite, setAnimateFavorite] = useState(false);
+  const navigate = useNavigate();
+  const { wishlist, addToWishlist, removeFromWishlist } = useWishlist();
   const apiurl = process.env.REACT_APP_BACKEND_URL;
 
   // ✅ Fetch product details
@@ -49,6 +53,9 @@ export default function ProductView() {
           category: p.product_category,
           sizes: p.product_size || [],
           colors: p.product_color || [],
+          avgRating: typeof p.avgRating === "number" ? p.avgRating : 0,
+          totalReviews: p.totalReviews || 0,
+          reviews: p.reviews || [],
           images:
             [p.mainPhoto, p.sub1Photo, p.sub2Photo, p.sub3Photo].filter(Boolean)
               .length > 0
@@ -93,10 +100,43 @@ export default function ProductView() {
       return;
     }
     addToCart(product.id, selectedSize, selectedColor, quantity);
-     // ✅ Show success message
+    // ✅ Show success message
     setSuccessMsg("✅ Product added to cart successfully!");
     // Hide message after 3s
     setTimeout(() => setSuccessMsg(""), 3000);
+  };
+
+  // sync local "isFavorited" with wishlist from context
+  useEffect(() => {
+    const favMap = {};
+    wishlist.forEach((id) => {
+      favMap[id] = true;
+    });
+    setIsFavorited(favMap);
+  }, [wishlist]);
+
+  const handleFavorite = async (id, e) => {
+    e.stopPropagation();
+    const token = localStorage.getItem("customerToken");
+
+    if (!token) {
+      navigate("/login");
+      return;
+    }
+
+    try {
+      if (isFavorited[id]) {
+        await removeFromWishlist(id);
+      } else {
+        await addToWishlist(id);
+      }
+
+      // Trigger bounce animation
+    setAnimateFavorite(true);
+    setTimeout(() => setAnimateFavorite(false), 600); 
+    } catch (err) {
+      console.error("Error updating wishlist:", err);
+    }
   };
 
   if (loading) {
@@ -118,15 +158,13 @@ export default function ProductView() {
   return (
     <div className="min-h-screen bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 py-8">
-      {/* ✅ Success Message */}
+        {/* ✅ Success Message */}
         {successMsg && (
           <div className="mb-4 flex items-center gap-2 p-4 bg-green-100 border border-green-300 text-green-800 rounded-xl shadow">
             <CheckCircle className="w-5 h-5 text-green-600" />
             <span className="font-medium">{successMsg}</span>
           </div>
         )}
-
-
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           {/* Product Images */}
@@ -205,23 +243,24 @@ export default function ProductView() {
           {/* Product Details */}
           <div className="space-y-6">
             <div>
-              <div className="flex items-center justify-between mb-2">
-                <span className="text-sm text-pink-600 font-medium">
-                  {product.category}
-                </span>
-                <button
-                  onClick={() => setIsWishlisted(!isWishlisted)}
-                  className="p-2 rounded-full hover:bg-gray-100"
-                >
-                  <Heart
-                    className={`w-6 h-6 ${
-                      isWishlisted
-                        ? "fill-red-500 text-red-500"
-                        : "text-gray-400"
-                    }`}
-                  />
-                </button>
-              </div>
+              <div className="relative flex items-center justify-between mb-2">
+  <span className="text-sm text-pink-600 font-medium">{product.category}</span>
+  <button
+    onClick={(e) => handleFavorite(product.id, e)}
+    className={`absolute top-5 right-4 z-50 p-3 rounded-full transition-all duration-300 transform hover:scale-110 shadow-lg ${
+    isFavorited[product.id]
+      ? `bg-red-500 text-white ${animateFavorite ? "animate-bounce" : ""}`
+      : "bg-white text-gray-600 hover:bg-white hover:text-red-500"
+  }`}
+  >
+    <Heart
+      className={`w-5 h-5 transition-all duration-300 ${
+        isFavorited[product.id] ? "fill-current" : ""
+      }`}
+    />
+  </button>
+</div>
+
               <h1 className="text-3xl font-bold">{product.name}</h1>
               <p className="text-gray-600">{product.shortDescription}</p>
             </div>
@@ -229,7 +268,7 @@ export default function ProductView() {
             {/* Price */}
             <div className="flex items-center space-x-3">
               <span className="text-3xl font-bold text-gray-900">
-                ${product.price}
+                ₹{product.price}
               </span>
             </div>
 
@@ -291,7 +330,6 @@ export default function ProductView() {
               </div>
               <button
                 onClick={handleAddToCart}
-              
                 className="w-full mt-4 bg-pink-500 text-white py-4 rounded-xl flex items-center justify-center space-x-2"
               >
                 <ShoppingCart />
@@ -306,20 +344,64 @@ export default function ProductView() {
             </div>
 
             {/* Reviews */}
-            {product.reviews && (
-              <div className="bg-white p-6 rounded-xl">
-                <h3 className="text-lg font-semibold mb-4">Customer Reviews</h3>
-                {product.reviews.map((review, idx) => (
+            {/* Reviews */}
+            <div className="bg-white p-6 rounded-xl">
+              <h3 className="text-lg font-semibold mb-4">Customer Reviews</h3>
+
+              {/* ⭐ Average rating */}
+              <div className="flex items-center gap-2 mb-6">
+                <div className="flex">
+                  {[...Array(5)].map((_, i) => (
+                    <Star
+                      key={i}
+                      className={`w-5 h-5 ${
+                        i < Math.round(product.avgRating)
+                          ? "text-yellow-400 fill-current"
+                          : "text-gray-300"
+                      }`}
+                    />
+                  ))}
+                </div>
+                <span className="text-sm text-gray-600">
+                  {(product.avgRating || 0).toFixed(1)} / 5 (
+                  {product.totalReviews || 0} reviews)
+                </span>
+              </div>
+
+              {/* Individual reviews */}
+              {product.reviews.length > 0 ? (
+                product.reviews.map((review) => (
                   <div
-                    key={idx}
+                    key={review.id}
                     className="border-b border-gray-100 pb-4 mb-4 last:mb-0 last:pb-0"
                   >
-                    <p className="font-medium">{review.name}</p>
+                    <div className="flex items-center gap-2 mb-1">
+                      <p className="font-medium">{review.name}</p>
+                      <div className="flex">
+                        {[...Array(5)].map((_, i) => (
+                          <Star
+                            key={i}
+                            className={`w-4 h-4 ${
+                              i < review.rating
+                                ? "text-yellow-400 fill-current"
+                                : "text-gray-300"
+                            }`}
+                          />
+                        ))}
+                      </div>
+                    </div>
                     <p className="text-sm text-gray-600">{review.comment}</p>
+                    <p className="text-xs text-gray-400 mt-1">
+                      {new Date(review.createdAt).toLocaleDateString()}
+                    </p>
                   </div>
-                ))}
-              </div>
-            )}
+                ))
+              ) : (
+                <p className="text-gray-500">
+                  No reviews yet. Be the first to review!
+                </p>
+              )}
+            </div>
           </div>
         </div>
       </div>

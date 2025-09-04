@@ -253,5 +253,15 @@ router.put("/addresses/:id/default", customerAuth, async (req, res) => {
   }
 });
 
+// GET all users (Admin panel)
+router.get("/users", async (req, res) => {
+  try {
+    const users = await User.find().select("-passwordHash"); // exclude password
+    res.json(users);
+  } catch (err) {
+    res.status(500).json({ message: "Error fetching users" });
+  }
+});
+
 
 module.exports = router;

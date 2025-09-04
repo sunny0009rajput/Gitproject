@@ -28,6 +28,7 @@ const Orders = () => {
   "products.price",
   "products.qty",
   "products.color",
+  "products.size",
   "products.category",
   "products.subcategory",
     "Order_status",
@@ -239,7 +240,8 @@ const getByPath = (obj, path) => {
     { label: "product name", key: "products.name" },
     { label: "product price", key:  "products.price" },
     { label: "product quantity", key: "products.qty" },
-    { label: "product color", key:"products.color" },
+    { label: "product color", key:"products.color" },  // now selected_color
+  { label: "product size", key:"products.size" }, 
     { label: "category", key: "product_category" },
     { label: "subcategory", key: "product_subcategory" },
     { label: "order status", key: "Order_status" },

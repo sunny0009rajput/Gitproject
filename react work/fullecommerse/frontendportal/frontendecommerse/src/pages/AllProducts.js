@@ -181,12 +181,12 @@ function AllProducts() {
                       <Star
                         key={i}
                         className={`w-4 h-4 ${
-                          i < 4 ? "text-yellow-400 fill-current" : "text-gray-300"
+                          i < Math.round(product.avgRating) ? "text-yellow-400 fill-current" : "text-gray-300"
                         }`}
                       />
                     ))}
                   </div>
-                  <span className="text-sm text-gray-600">(12)</span>
+                  <span className="text-sm text-gray-600">({product.totalReviews})</span>
                 </div>
 
                 <div className="flex items-center gap-3">

@@ -27,7 +27,7 @@ const Users = () => {
 
   const fetchUsers = async () => {
     try {
-      const res = await axios.get(`${apiurl}/users`,{ withCredentials: true });
+      const res = await axios.get(`${apiurl}/customer/users`,{ withCredentials: true });
       setUsers(res.data); // fix: use setUsers
     } catch (err) {
       console.error("Error fetching users:", err);
