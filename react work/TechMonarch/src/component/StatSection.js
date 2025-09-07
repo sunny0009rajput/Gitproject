@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  Dumbbell,
+  HandCoins,
   Users,
   Clock,
   Award,
@@ -22,18 +22,18 @@ function StatSection() {
               <div className="text-4xl font-bold text-black mb-2 group-hover:text-transparent group-hover:bg-gradient-to-r group-hover:from-red-500 group-hover:to-orange-500 group-hover:bg-clip-text transition-all duration-300">
                 <ScrollTriggeredCountUp end={5200} duration={3000} suffix="+" />
               </div>
-              <div className="text-gray-400 font-medium">Subscriber</div>
+              <div className="text-gray-700 font-medium">Subscriber</div>
             </div>
 
             {/* Equipment */}
             <div className="text-center group">
               <div className="w-16 h-16 bg-gradient-to-br from-red-500 to-orange-500 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 transition-transform duration-300">
-                <Dumbbell className="w-8 h-8" />
+                <HandCoins className="w-8 h-8" />
               </div>
               <div className="text-4xl font-bold text-black mb-2 group-hover:text-transparent group-hover:bg-gradient-to-r group-hover:from-red-500 group-hover:to-orange-500 group-hover:bg-clip-text transition-all duration-300">
                 <ScrollTriggeredCountUp end={5} duration={3000} suffix="+" />
               </div>
-              <div className="text-gray-400 font-medium">Experience</div>
+              <div className="text-gray-700 font-medium">Experience</div>
             </div>
 
             {/* Open Hours */}
@@ -44,7 +44,7 @@ function StatSection() {
               <div className="text-4xl font-bold text-black mb-2 group-hover:text-transparent group-hover:bg-gradient-to-r group-hover:from-red-500 group-hover:to-orange-500 group-hover:bg-clip-text transition-all duration-300">
                 <ScrollTriggeredCountUp end={24} duration={3000} suffix="/7" />
               </div>
-              <div className="text-gray-400 font-medium">available Service</div>
+              <div className="text-gray-700 font-medium">available Service</div>
             </div>
 
             {/* Expert Trainers */}
@@ -55,7 +55,7 @@ function StatSection() {
               <div className="text-4xl font-bold text-black mb-2 group-hover:text-transparent group-hover:bg-gradient-to-r group-hover:from-red-500 group-hover:to-orange-500 group-hover:bg-clip-text transition-all duration-300">
                 <ScrollTriggeredCountUp end={10} duration={3000} suffix="+" />
               </div>
-              <div className="text-gray-400 font-medium">Expert Developer</div>
+              <div className="text-gray-700 font-medium">Expert Developer</div>
             </div>
 
           </div>

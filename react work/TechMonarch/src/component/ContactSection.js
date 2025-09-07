@@ -53,7 +53,7 @@ function ContactSection() {
       data.append("phone", formData.phone);
       data.append("message", formData.message);
 
-      data.append("from_name", "PowerFit Gym Website"); // makes email look branded
+      data.append("from_name", "CodeMonarch"); // makes email look branded
 
       try {
         const response = await fetch("https://api.web3forms.com/submit", {
@@ -89,7 +89,7 @@ function ContactSection() {
   return (
     <div className="bg-white text-black overflow-x-hidden">
       <section
-        id="contact"
+        id="Contact"
         className="py-20 bg-gradient-to-b from-white to-gray-100"
       >
         <div className="max-w-7xl mx-auto px-6">
@@ -100,7 +100,7 @@ function ContactSection() {
               Ready to Start?
             </h2>
             <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-              Join our fitness community today and transform your life
+              Join CodeMonarch today and transform your digital presence
             </p>
           </div>
 
@@ -113,7 +113,7 @@ function ContactSection() {
                 <div>
                   <h3 className="text-black font-semibold text-lg">Location</h3>
                   <p className="text-gray-700">
-                    123 Fitness Street, Your City, State 12345
+                    Guru Nanak Nagar Moga, Punjab, 142001.
                   </p>
                 </div>
               </div>
@@ -124,7 +124,7 @@ function ContactSection() {
                 </div>
                 <div>
                   <h3 className="text-black font-semibold text-lg">Phone</h3>
-                  <p className="text-gray-700">(555) 123-4567</p>
+                  <p className="text-gray-700">(91+) 9478583103</p>
                 </div>
               </div>
 
@@ -134,7 +134,7 @@ function ContactSection() {
                 </div>
                 <div>
                   <h3 className="text-black font-semibold text-lg">Email</h3>
-                  <p className="text-gray-700">info@powerfitgym.com</p>
+                  <p className="text-gray-700">rajputsunny0009@gmail.com</p>
                 </div>
               </div>
             </div>
@@ -200,7 +200,7 @@ function ContactSection() {
                       </p>
                     )}
                   </div>
-                  <button
+                  <button  aria-label="Chat with CodeMonarch"
                     type="submit"
                     className="w-full py-4 bg-gradient-to-r from-red-500 to-orange-500 text-white font-bold rounded-lg hover:from-red-600 hover:to-orange-600 transition-all duration-300 transform hover:scale-105"
                   >
@@ -225,7 +225,7 @@ function ContactSection() {
               {dialog.success ? "Success!" : "Oops!"}
             </h2>
             <p className="text-gray-600 mt-2">{dialog.message}</p>
-            <button
+            <button  aria-label="Close "
               onClick={() => setDialog({ ...dialog, open: false })}
               className="mt-6 px-6 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors"
             >

@@ -113,7 +113,7 @@ function TestimonalSection() {
 
   return (
     <div className="bg-white text-black overflow-hidden">
-      <section id="testimonials" className="py-20 bg-white">
+      <section id="Review" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-10">
             <h2 className="text-4xl font-bold mb-6 bg-gradient-to-r from-black to-gray-400 bg-clip-text text-transparent">

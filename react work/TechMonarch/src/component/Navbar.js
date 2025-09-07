@@ -12,7 +12,7 @@ function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [activeSection, setActiveSection] = useState("home");
   const [isVisible, setIsVisible] = useState({});
-  const sections = ["home", "programs", "trainers", "testimonials", "contact"];
+  const sections = ["Home", "Services", "Pricing_Plan", "Review", "Contact"];
 
   // Track which sections are visible
   useEffect(() => {
@@ -50,11 +50,11 @@ function Navbar() {
             {/* Logo */}
             <div className="flex items-center space-x-3">
               <div className="w-10 h-10 bg-black rounded-lg flex items-center justify-center">
-                <img className="w-10 h-10 text-black" src="logo2.png"/>
+                <img className="w-10 h-10 text-black" src="logo2.png" alt="CodeMonarch"/>
                 {/* <Dumbbell className="w-6 h-6 text-white" /> */}
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-red-500 to-orange-500 bg-clip-text text-transparent">
-                TechMonarch
+                CodeMonarch
               </span>
             </div>
 
@@ -78,6 +78,7 @@ function Navbar() {
             <button
               ref={burgerRef}
               className="md:hidden"
+              aria-label="Open navigation menu"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
             >
               {isMenuOpen ? (

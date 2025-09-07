@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import Techmonarchpage from './component/Techmonarchpage';
+import Codemonarchpage from './component/Codemonarchpage';
 
 function App() {
   return (
-    <Techmonarchpage/>
+    <Codemonarchpage/>
   );
 }
 

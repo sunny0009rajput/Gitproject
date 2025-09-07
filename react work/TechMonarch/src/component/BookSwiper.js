@@ -1,15 +1,18 @@
 import React, { useState, useEffect, useRef } from "react";
-import { ChevronLeft, ChevronRight, Star,Play } from "lucide-react";
+import { ChevronRight,Play } from "lucide-react";
 
-import ContactModal from "./ContactDialogueBox";
-const BookSwiper = ({ onOpenModal }) => {
+
+const BookSwiper = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isDragging, setIsDragging] = useState(false);
   const [startX, setStartX] = useState(0);
   const [currentX, setCurrentX] = useState(0);
   const [dragOffset, setDragOffset] = useState(0);
   const [isVisible, setIsVisible] = useState({});
-  const [isModalOpen, setIsModalOpen] = useState(false);
+
+  
+
+  
   const containerRef = useRef(null);
 
   useEffect(() => {
@@ -38,7 +41,7 @@ const BookSwiper = ({ onOpenModal }) => {
       description:
         "Jane Eyre is divided into 38 chapters. It was originally published in three volumes in the 19th century...",
       author: "Charlotte Brontë",
-      authorImage: "mobileclothing.png",
+      authorImage: "mobileclothing.webp",
       rating: 3,
       gradient: "from-blue-900 to-blue-600",
       fontFamily: "font-serif",
@@ -49,7 +52,7 @@ const BookSwiper = ({ onOpenModal }) => {
       description:
         "epic high-fantasy novel by the English author and scholar J. R. R. Tolkien",
       author: "J. R. R. Tolkien",
-      authorImage: "mobileeccomerce.png",
+      authorImage: "mobileeccomerce.webp",
       rating: 4,
       gradient: "from-red-900 to-purple-900",
       fontFamily: "font-sans",
@@ -60,7 +63,7 @@ const BookSwiper = ({ onOpenModal }) => {
       description:
         "The book describes the German soldiers' extreme physical and mental trauma during the war",
       author: "Erich Maria Remarque",
-      authorImage: "mobileelectronic.png",
+      authorImage: "mobileelectronic.webp",
       rating: 4,
       gradient: "from-green-800 to-green-600",
       fontFamily: "font-mono",
@@ -70,7 +73,7 @@ const BookSwiper = ({ onOpenModal }) => {
       title: "Romeo and Juliet",
       description: "a tragedy between two youths from feuding families",
       author: "William Shakespeare",
-      authorImage: "mobileicecream.png",
+      authorImage: "mobileicecream.webp",
       rating: 4,
       gradient: "from-purple-700 to-pink-600",
       fontFamily: "font-serif",
@@ -80,7 +83,7 @@ const BookSwiper = ({ onOpenModal }) => {
       title: "Of Mice and Men",
       description: "a novell",
       author: "John Steinbeck",
-      authorImage: "mobilelapto.png",
+      authorImage: "mobilelapto.webp",
       rating: 4,
       gradient: "from-green-900 to-green-700",
       fontFamily: "font-sans",
@@ -91,7 +94,7 @@ const BookSwiper = ({ onOpenModal }) => {
       description:
         "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley",
       author: "J. K. Rowling",
-      authorImage: "mobileportfolio.png",
+      authorImage: "mobileportfolio.webp",
       rating: 4,
       gradient: "from-indigo-900 to-purple-800",
       fontFamily: "font-bold",
@@ -155,6 +158,12 @@ const BookSwiper = ({ onOpenModal }) => {
     setDragOffset(0);
   };
 
+  const handleClick =(index)=>{
+    if(Math.abs(dragOffset) < 5){
+      goToSlide(index);
+    }
+  };
+
   // Add event listeners for mouse and touch
   useEffect(() => {
     const container = containerRef.current;
@@ -207,7 +216,8 @@ const BookSwiper = ({ onOpenModal }) => {
     let scale = isActive ? 1 : 0.85;
 
     // Base translation with drag offset
-    let translateX = position * 200 + (isDragging ? dragOffset * 0.3 : 0);
+    // let translateX = position * 200 + (isDragging ? dragOffset * 0.3 : 0);
+    let translateX = position * 200;
     let transform = `translateX(${translateX}px)`;
 
     // Coverflow effect
@@ -225,26 +235,17 @@ const BookSwiper = ({ onOpenModal }) => {
     };
   };
 
-  const renderStars = (rating) => {
-    return Array.from({ length: 4 }, (_, i) => (
-      <Star
-        key={i}
-        className={`w-5 h-5 ${
-          i < rating ? "text-yellow-400 fill-current" : "text-gray-400"
-        }`}
-      />
-    ));
-  };
+  
 
   return (
     <div
-      id="home"
+      id="Home"
       className="min-h-screen bg-white flex flex-col items-center justify-center mt-16 py-16"
     >
         <div className="relative z-10 text-center max-w-4xl mx-auto px-6">
           <div
             className={`transform transition-all duration-1000 ${
-              isVisible.home
+              isVisible.Home
                 ? "translate-y-0 opacity-100"
                 : "translate-y-10 opacity-0"
             }`}
@@ -283,13 +284,13 @@ const BookSwiper = ({ onOpenModal }) => {
             return (
               <div
                 key={book.id}
-                className="absolute transition-all duration-700 ease-out"
+                className="absolute transition-all duration-700 ease-out will-change-transform"
                 style={{
                   transform: styles.transform,
                   zIndex: styles.zIndex,
                   opacity: styles.opacity,
                 }}
-                onClick={() => !isDragging && goToSlide(index)}
+                onClick={() => handleClick(index)}
               >
                 <div
                   className={`w-60 md:w-60 h-90 md:h-90 rounded-xl shadow-2xl  overflow-hidden relative transform transition-all duration-700`}
@@ -300,7 +301,12 @@ const BookSwiper = ({ onOpenModal }) => {
                   <img
                     src={book.authorImage}
                     alt={book.title}
-                    className="w-full h-full object-cover"
+                    width="320" 
+                    height="480"
+                    decoding="async"
+                    className="w-f h-full object-cover"
+                    loading={index === 0 ? "eager" : "lazy"}
+                    fetchpriority={index === 0 ? "high" : undefined}
                   />
                   {/* Book Content */}
                   <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-full px-6 text-center">
@@ -319,7 +325,9 @@ const BookSwiper = ({ onOpenModal }) => {
                         <img
                           src={book.authorImage}
                           alt={book.author}
+                          
                           className="w-16 h-16 rounded-full border-4 border-white shadow-lg mx-auto mb-2 object-cover"
+                          loading="lazy"
                         />
                         {/* <span className="block text-gray-800 font-semibold text-sm mb-2">
                           {book.author}
@@ -337,10 +345,7 @@ const BookSwiper = ({ onOpenModal }) => {
         </div>
       </div>
       
-      <ContactModal
-        isOpen={isModalOpen}
-        onClose={() => setIsModalOpen(false)}
-      />
+      
 
       <style jsx>{`
         @keyframes fadeInUp {
@@ -364,15 +369,22 @@ const BookSwiper = ({ onOpenModal }) => {
         }
       `}</style>
       <div className="flex flex-col sm:flex-row gap-6 mt-28 justify-center items-center">
-        <button className="group px-8 py-4 bg-gradient-to-r from-red-500 to-orange-500 text-white rounded-full font-bold text-lg hover:from-red-600 hover:to-orange-600 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl flex items-center space-x-3">
-          <span onClick={() => setIsModalOpen(true)}>Start Your Online Journey</span>
-          <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" />
-        </button>
+        <a
+  href="https://api.whatsapp.com/send?phone=919478583103&text=Hi CodeMonarch need website development"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Chat with CodeMonarch on WhatsApp"
+  className="group px-6 md:px-8 py-3 md:py-4 bg-gradient-to-r from-red-500 to-orange-500 text-white rounded-full font-bold text-base md:text-lg hover:from-red-600 hover:to-orange-600 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl flex items-center space-x-3"
+>
+  <span>Book Free Consultation</span>
+  <ChevronRight className="w-5 h-5 mt-1 group-hover:translate-x-1 transition-transform duration-300" />
+</a>
 
-        <button
+
+        <button  aria-label="Chat with CodeMonarch on WhatsApp"
           onClick={() => {
             window.open(
-              "https://youtu.be/HvIEusFi-Nk?si=NsGhUzPQ7bkPCNt7",
+              "https://youtu.be/CIJ3t9FKbuo?si=X9Qk5bdseIVRNRpH",
               "_blank"
             );
           }}
