@@ -1,0 +1,114 @@
+import React from 'react';
+import { Star } from 'lucide-react';
+
+const HeroSection = () => {
+  const learnerAvatars = [
+    "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=60&h=60&fit=crop&crop=face",
+    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=60&h=60&fit=crop&crop=face",
+    "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=60&h=60&fit=crop&crop=face",
+    "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=60&h=60&fit=crop&crop=face"
+  ];
+
+  return (
+    <div className="min-h-screen pt-12 bg-black relative overflow-hidden">
+      {/* background dots */}
+      <div className="absolute inset-0 opacity-10">
+        <div
+          className="absolute inset-0"
+          style={{
+            backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.1'%3E%3Ccircle cx='30' cy='30' r='2'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`,
+            backgroundSize: '60px 60px'
+          }}
+        />
+      </div>
+
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Main grid: mobile 1 column, desktop 2 columns */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-12 items-start lg:items-center min-h-[80vh] py-12">
+
+          {/* LEFT COLUMN: heading */}
+          <div className="order-1 lg:order-1">
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight text-white mb-6">
+              LEARN WHAT SCHOOL<br />
+              <span className="block">DOESN'T TEACH YOU</span>
+            </h1>
+          </div>
+
+          {/* RIGHT COLUMN: Image */}
+          <div className="flex justify-center lg:justify-end  order-2 lg:order-2">
+            <div className="relative ">
+              <img
+                src="https://cdn.prod.website-files.com/65e8a443d3a217849e4283b8/65e8a443d3a217849e428438_Dhruv%201(1).png"
+                alt="Dhruv Rathee"
+                className="w-full max-w-md lg:max-w-lg xl:max-w-xl h-auto object-cover rounded-2xl shadow-2xl"
+              />
+              <div className="absolute -top-4 -right-4 w-24 h-24 bg-blue-500/20 rounded-full blur-xl"></div>
+              <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-purple-500/20 rounded-full blur-xl"></div>
+            </div>
+          </div>
+
+          {/* Paragraph + Button */}
+          <div className="order-3 lg:order-4 flex flex-col space-y-8 justify-center lg:-mt-40">
+            <p className="text-lg sm:text-xl text-white/90 leading-relaxed max-w-lg">
+              At Dhruv Rathee Academy, you can gain practical knowledge and learn real-world
+              skills that will help you transform your life at work, school and home.
+            </p>
+            <button className="bg-white text-red-600 hover:bg-gray-100 px-8 py-4 rounded-full font-bold text-lg transition-all duration-300 transform hover:scale-105 shadow-lg">
+              EXPLORE COURSES
+            </button>
+
+            {/* Reviews Row */}
+            <div className="flex flex-row flex-wrap items-center space-x-6 mt-4">
+              {/* Avatars + Happy Learners */}
+              <div className="flex flex-row items-center space-x-3">
+                <div className="flex -space-x-2">
+                  {learnerAvatars.map((avatar, index) => (
+                    <img
+                      key={index}
+                      src={avatar}
+                      alt={`Learner ${index + 1}`}
+                      className="w-12 h-12 rounded-full border-2 border-white object-cover"
+                    />
+                  ))}
+                </div>
+                <div>
+                  <p className="text-2xl font-bold text-white">10000+</p>
+                  <p className="text-sm text-white/70">Happy Learners</p>
+                </div>
+              </div>
+
+              {/* Divider */}
+              <div className="w-px h-12 bg-white/30"></div>
+
+              {/* Ratings */}
+              <div className="flex flex-row items-center space-x-3">
+                <div>
+                  <div className="flex items-center space-x-1 mb-1">
+                    <span className="text-2xl font-bold text-white">4.8</span>
+                    <span className="text-white/70">+ (600+ Ratings)</span>
+                  </div>
+                  <div className="flex">
+                    {[...Array(5)].map((_, i) => (
+                      <Star key={i} className="w-5 h-5 text-yellow-400 fill-current" />
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
+          
+            
+
+            
+          
+        </div>
+      </div>
+
+      {/* <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-gray-800 to-transparent"></div> */}
+    </div>
+  );
+};
+
+export default HeroSection;
