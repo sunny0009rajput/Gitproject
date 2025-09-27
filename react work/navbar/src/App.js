@@ -10,7 +10,7 @@ import ProductCard from './card';
 import GroupCard from './groopcard';
 
 import Countup from './CountUp';
-import AboutPage from './About';
+import AboutPage from './AboutUs';
 import PosterFirst from './Poster1';
 import PosterSecond from './Poster2';
 import PosterThird from './Poster3';
@@ -22,6 +22,7 @@ import ImageSwiper from './Imageswiper';
 import ImageSwiper2 from './Imageswiper2';
 import ImageSwiper3 from './Imageswiper3';
 import TitltCard from './TitltCard';
+
 
 function App() {
   return (
@@ -48,6 +49,7 @@ function App() {
     <ImageSwiper2/>
     <ImageSwiper3/>
     <TitltCard/>
+    <AboutPage/>
 
 
     </>
