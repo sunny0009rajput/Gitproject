@@ -1,11 +1,13 @@
 const express = require("express");
 
 const Course = require("../models/Course"); 
-
+const { auth, requireAdmin } = require("../middleware/auth");
+const { customerAuth } = require("../middleware/customerAuth");
 const router = express.Router();
+const User = require("../models/Users");
 
 // ==================== GET: Get all courses ====================
-router.get("/courses", async (req, res) => {
+router.get("/admin/courses",auth, requireAdmin, async (req, res) => {
   try {
     const courses = await Course.find();
     res.json(courses);
@@ -14,8 +16,35 @@ router.get("/courses", async (req, res) => {
   }
 });
 
+// GET all courses – only logged-in customers with verified payment
+router.get("/courses", customerAuth, async(req, res) => {
+  
+  try {
+    const courses = await Course.find();
+    res.json(courses);
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+// GET single course with chapters/lessons
+router.get("/courses/:courseId", customerAuth, (req, res, next) => {
+  if (!req.user.paymentVerified) {
+    return res.status(403).json({ message: "Payment not verified" });
+  }
+  next();
+}, async (req, res) => {
+  try {
+    const course = await Course.findById(req.params.courseId);
+    if (!course) return res.status(404).json({ message: "Course not found" });
+    res.json(course);
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
 // ==================== GET: Get single course ====================
-router.get("/courses/:courseId", async (req, res) => {
+router.get("/admin/courses/:courseId",auth, requireAdmin, async (req, res) => {
   try {
     const course = await Course.findById(req.params.courseId);
     if (!course) return res.status(404).json({ message: "Course not found" });
@@ -26,7 +55,7 @@ router.get("/courses/:courseId", async (req, res) => {
 });
 
 // ==================== POST: Create a course ====================
-router.post("/courses", async (req, res) => {
+router.post("/courses",auth, requireAdmin, async (req, res) => {
   const { title, description } = req.body;
   try {
     const course = new Course({ title, description, chapters: [] });
@@ -38,7 +67,7 @@ router.post("/courses", async (req, res) => {
 });
 
 // ==================== PUT: Update a course ====================
-router.put("/courses/:courseId", async (req, res) => {
+router.put("/courses/:courseId",auth, requireAdmin, async (req, res) => {
   try {
     const course = await Course.findById(req.params.courseId);
     if (!course) return res.status(404).json({ message: "Course not found" });
@@ -54,12 +83,10 @@ router.put("/courses/:courseId", async (req, res) => {
 });
 
 // ==================== DELETE: Delete a course ====================
-router.delete("/courses/:courseId", async (req, res) => {
+router.delete("/courses/:courseId", auth, requireAdmin, async (req, res) => {
   try {
-    const course = await Course.findById(req.params.courseId);
+    const course = await Course.findByIdAndDelete(req.params.courseId);
     if (!course) return res.status(404).json({ message: "Course not found" });
-
-    await course.remove();
     res.json({ message: "Course deleted" });
   } catch (err) {
     res.status(500).json({ message: err.message });
@@ -67,7 +94,7 @@ router.delete("/courses/:courseId", async (req, res) => {
 });
 
 // ==================== POST: Add a chapter ====================
-router.post("/courses/:courseId/chapters", async (req, res) => {
+router.post("/courses/:courseId/chapters",auth, requireAdmin, async (req, res) => {
   const { title, order } = req.body;
   try {
     const course = await Course.findById(req.params.courseId);
@@ -83,7 +110,7 @@ router.post("/courses/:courseId/chapters", async (req, res) => {
 });
 
 // ==================== PUT: Update a chapter ====================
-router.put("/courses/:courseId/chapters/:chapterId", async (req, res) => {
+router.put("/courses/:courseId/chapters/:chapterId",auth, requireAdmin, async (req, res) => {
   try {
     const course = await Course.findById(req.params.courseId);
     if (!course) return res.status(404).json({ message: "Course not found" });
@@ -102,15 +129,11 @@ router.put("/courses/:courseId/chapters/:chapterId", async (req, res) => {
 });
 
 // ==================== DELETE: Delete a chapter ====================
-router.delete("/courses/:courseId/chapters/:chapterId", async (req, res) => {
+router.delete("/courses/:courseId/chapters/:chapterId", auth, requireAdmin, async (req, res) => {
   try {
     const course = await Course.findById(req.params.courseId);
     if (!course) return res.status(404).json({ message: "Course not found" });
-
-    const chapter = course.chapters.id(req.params.chapterId);
-    if (!chapter) return res.status(404).json({ message: "Chapter not found" });
-
-    chapter.remove();
+    course.chapters.pull(req.params.chapterId);
     await course.save();
     res.json({ message: "Chapter deleted" });
   } catch (err) {
@@ -119,7 +142,7 @@ router.delete("/courses/:courseId/chapters/:chapterId", async (req, res) => {
 });
 
 // ==================== POST: Add a lesson ====================
-router.post("/courses/:courseId/chapters/:chapterId/lessons", async (req, res) => {
+router.post("/courses/:courseId/chapters/:chapterId/lessons",auth, requireAdmin, async (req, res) => {
   const { title, videoUrl, duration, order, isFree } = req.body;
   try {
     const course = await Course.findById(req.params.courseId);
@@ -138,7 +161,7 @@ router.post("/courses/:courseId/chapters/:chapterId/lessons", async (req, res) =
 });
 
 // ==================== PUT: Update a lesson ====================
-router.put("/courses/:courseId/chapters/:chapterId/lessons/:lessonId", async (req, res) => {
+router.put("/courses/:courseId/chapters/:chapterId/lessons/:lessonId",auth, requireAdmin, async (req, res) => {
   try {
     const course = await Course.findById(req.params.courseId);
     if (!course) return res.status(404).json({ message: "Course not found" });
@@ -164,7 +187,7 @@ router.put("/courses/:courseId/chapters/:chapterId/lessons/:lessonId", async (re
 
 // ==================== DELETE: Delete a lesson ====================
 // ==================== DELETE: Delete a lesson ====================
-router.delete("/courses/:courseId/chapters/:chapterId/lessons/:lessonId", async (req, res) => {
+router.delete("/courses/:courseId/chapters/:chapterId/lessons/:lessonId",auth, requireAdmin, async (req, res) => {
   try {
     const course = await Course.findById(req.params.courseId);
     if (!course) return res.status(404).json({ message: "Course not found" });
@@ -185,6 +208,37 @@ router.delete("/courses/:courseId/chapters/:chapterId/lessons/:lessonId", async 
     res.status(500).json({ message: err.message });
   }
 });
+
+router.get("/courses/all", async (req, res) => {
+  try {
+    const courses = await Course.find();
+    res.json(courses);
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+router.get("/courses/:slug/purchased", customerAuth, async (req, res) => {
+  const { slug } = req.params; // use slug instead of _id
+  const userId = req.user?._id;
+
+  if (!userId) return res.status(401).json({ purchased: false });
+
+  try {
+    const user = await User.findById(userId);
+    if (!user) return res.status(404).json({ purchased: false });
+
+    // Check if purchasedCourses includes the slug
+    const purchased = user.purchasedCourses.includes(slug);
+    res.json({ purchased });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ purchased: false });
+  }
+});
+
+
+
 
 
 module.exports = router;

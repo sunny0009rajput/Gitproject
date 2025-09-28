@@ -13,6 +13,7 @@ const UserSchema = new mongoose.Schema(
     customer_phone: { type: String, required: true },
     
     role: { type: String, default: "customer" },
+    purchasedCourses: [{ type: String, ref: "Course" }],
 
     // reset password
     resetPasswordToken: String,

@@ -52,6 +52,10 @@ const CustomerLoginPage = ({ onLoginSuccess }) => {
       if (res.data.token) {
         // ✅ Save token
         localStorage.setItem("customerToken", res.data.token);
+        localStorage.setItem("user", JSON.stringify(res.data.user));
+
+         // ✅ Trigger Navbar to refetch customer info
+      window.dispatchEvent(new Event("login"));
 
         if (onLoginSuccess) onLoginSuccess(res.data);
         navigate("/"); // redirect to home or customer dashboard

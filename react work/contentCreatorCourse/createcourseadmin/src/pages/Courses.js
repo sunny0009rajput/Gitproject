@@ -21,7 +21,9 @@ const Courses = () => {
   // Fetch all courses
   const fetchCourses = async () => {
     try {
-      const res = await axios.get(`${apiurl}/courses`);
+      const res = await axios.get(`${apiurl}/admin/courses`,{
+            withCredentials: true,
+          });
       setCourses(res.data);
     } catch (err) {
       console.error(err);
@@ -53,7 +55,9 @@ const Courses = () => {
   const handleAddCourse = async () => {
     try {
       const order = courses.length + 1;
-      await axios.post(`${apiurl}/courses`, { ...newCourse, order });
+      await axios.post(`${apiurl}/courses`,{ ...newCourse, order },{
+            withCredentials: true,
+          } );
       setNewCourse({ title: "", description: "" });
       fetchCourses();
     } catch (err) {
@@ -68,7 +72,12 @@ const Courses = () => {
 
   const handleUpdateCourse = async () => {
     try {
-      await axios.put(`${apiurl}/courses/${editing.id}`, newCourse);
+      await axios.put(`${apiurl}/courses/${editing.id}`,
+            newCourse,
+          {
+            withCredentials: true,
+            
+          });
       setNewCourse({ title: "", description: "" });
       setEditing({ type: "", id: "" });
       fetchCourses();
@@ -79,7 +88,10 @@ const Courses = () => {
 
   const handleDeleteCourse = async (courseId) => {
     try {
-      await axios.delete(`${apiurl}/courses/${courseId}`);
+      await axios.delete(`${apiurl}/courses/${courseId}`,{
+            withCredentials: true,
+            
+          });
       fetchCourses();
     } catch (err) {
       console.error(err);
@@ -93,7 +105,10 @@ const Courses = () => {
       await axios.post(`${apiurl}/courses/${chapterData.courseId}/chapters`, {
         title: chapterData.title,
         order,
-      });
+      },{
+            withCredentials: true,
+            
+          });
       setChapterData({ courseId: "", title: "" });
       fetchCourses();
     } catch (err) {
@@ -110,7 +125,10 @@ const Courses = () => {
     try {
       await axios.put(
         `${apiurl}/courses/${chapterData.courseId}/chapters/${editing.id}`,
-        { title: chapterData.title }
+        { title: chapterData.title },{
+            withCredentials: true,
+            
+          }
       );
       setChapterData({ courseId: "", title: "" });
       setEditing({ type: "", id: "" });
@@ -122,7 +140,10 @@ const Courses = () => {
 
   const handleDeleteChapter = async (courseId, chapterId) => {
     try {
-      await axios.delete(`${apiurl}/courses/${courseId}/chapters/${chapterId}`);
+      await axios.delete(`${apiurl}/courses/${courseId}/chapters/${chapterId}`,{
+            withCredentials: true,
+          
+          });
       fetchCourses();
     } catch (err) {
       console.error(err);
@@ -164,7 +185,10 @@ const Courses = () => {
 
       await axios.post(
         `${apiurl}/courses/${lessonData.courseId}/chapters/${lessonData.chapterId}/lessons`,
-        postData
+        postData,{
+            withCredentials: true,
+           
+          }
       );
 
       console.log("Lesson added successfully!");
@@ -196,7 +220,10 @@ const Courses = () => {
     try {
       await axios.put(
         `${apiurl}/courses/${lessonData.courseId}/chapters/${lessonData.chapterId}/lessons/${editing.id}`,
-        lessonData
+        lessonData,{
+            withCredentials: true,
+            
+          }
       );
       setLessonData({
         courseId: "",
@@ -217,7 +244,10 @@ const Courses = () => {
     try {
       console.log("Deleting lesson:", lessonId);
       await axios.delete(
-        `${apiurl}/courses/${courseId}/chapters/${chapterId}/lessons/${lessonId}`
+        `${apiurl}/courses/${courseId}/chapters/${chapterId}/lessons/${lessonId}`,{
+            withCredentials: true,
+           
+          }
       );
       // Refresh courses and chapters
       await fetchCourses();

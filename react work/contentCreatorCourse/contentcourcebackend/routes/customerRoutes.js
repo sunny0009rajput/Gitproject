@@ -65,7 +65,7 @@ router.post("/login", async (req, res) => {
     res.cookie("customerToken", token, getCookieOptions());
     res.json({
       message: "Login successful",
-      user: { id: customer._id, email: customer.email, role: "customer", customer_name: customer.customer_name },
+      user: { id: customer._id, email: customer.email, role: "customer", customer_name: customer.customer_name,customer_phone: customer.customer_phone },
       token
     });
   } catch (error) {
