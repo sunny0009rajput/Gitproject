@@ -1,18 +1,25 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Dumbbell, Menu, X } from "lucide-react";
-import useSmoothScroll from "./UseSmoothScroll";
+
+import { Link, useLocation } from "react-router-dom";
 
 function Navbar() {
   const navRef = useRef(null);
   const burgerRef = useRef(null);
 
-  // Activate smooth scrolling
-  useSmoothScroll(navRef, burgerRef);
 
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [activeSection, setActiveSection] = useState("home");
   const [isVisible, setIsVisible] = useState({});
-  const sections = ["Home","About Us", "Services", "Projects","Contact"];
+  const sections = [
+  { name: "Home", path: "/" },
+  { name: "Projects", path: "/projects" },
+  { name: "Services", path: "/services" },
+  { name: "About Us", path: "/about" },
+  { name: "Contact", path: "/contact" },
+];
+
+const location = useLocation();
 
   // Track which sections are visible
   useEffect(() => {
@@ -43,34 +50,40 @@ function Navbar() {
     <div className="bg-black text-white overflow-x-hidden">
       <nav
         ref={navRef}
-        className="fixed top-0 w-full bg-black/90 text-white backdrop-blur-md z-50 border-b border-white-800"
+        className="fixed top-0 w-full bg-gradient-to-br from-slate-900 via-blue-900 to-indigo-900 opacity-80 text-white backdrop-blur-md z-50 border-b border-white-800"
       >
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             {/* Logo */}
-            <div className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-black rounded-lg flex items-center justify-center">
-                <img className="w-10 h-10 text-black" src="logo2.png" alt="CodeMonarch"/>
-                {/* <Dumbbell className="w-6 h-6 text-white" /> */}
+            <Link to="/">
+            <div className="flex flex-col sm:flex-row sm:items-center sm:space-x-3">
+              <div className="w-24 h-10 flex items-center justify-center">
+                <img className="h-full w-auto" src="logo1.png" alt="Sigma Builder"/>
               </div>
-              <span className="text-2xl font-bold bg-gradient-to-r from-blue-300 to-purple-300 bg-clip-text text-transparent">
-                Sigmabuilder
-              </span>
+              <div className="hidden sm:flex flex-col">
+                <span className="text-2xl font-bold bg-gradient-to-r from-white via-white to-white bg-clip-text text-transparent">
+                  SIGMA BUILDER
+                </span>
+                {/* <span className="text-blue-200 text-lg font-semibold leading-none mt-1">
+                  Making a house a home
+                </span> */}
+              </div>
             </div>
+            </Link>
 
             {/* Desktop Menu */}
             <div className="hidden md:flex space-x-8">
               {sections.map((section) => (
-                <a
-                  key={section}
-                  href={`#${section}`}
+                <Link
+                  key={section.name}
+                  to={section.path}
                   className={`text-white hover:text-indigo-500 transition-colors duration-300 font-medium relative group ${
-                    activeSection === section ? "text-black" : ""
+                    activeSection === section.path ? "text-black" : ""
                   }`}
                 >
-                  {section.charAt(0).toUpperCase() + section.slice(1)}
+                  {section.name}
                   <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-blue-500 to-purple-500 group-hover:w-full transition-all duration-300"></span>
-                </a>
+                </Link>
               ))}
             </div>
 
@@ -92,17 +105,17 @@ function Navbar() {
 
         {/* Mobile Menu */}
         {isMenuOpen && (
-          <div className="md:hidden bg-white/95 backdrop-blur-md border-t border-white-800">
+          <div className="md:hidden bg-gradient-to-br from-slate-900 via-blue-900 to-indigo-900 opacity-80 backdrop-blur-md border-t border-white-800">
             <div className="px-6 py-4 space-y-4">
               {sections.map((section) => (
-                <a
-                  key={section}
-                  href={`#${section}`}
-                  className="block text-black-300 hover:text-red-500 transition-colors duration-300"
+                <Link
+                  key={section.name}
+                  to={section.path}
+                  className="block text-black-300 hover:text-blue-500 transition-colors duration-300"
                   onClick={() => setIsMenuOpen(false)}
                 >
-                  {section.charAt(0).toUpperCase() + section.slice(1)}
-                </a>
+                  {section.name}
+                </Link>
               ))}
             </div>
           </div>

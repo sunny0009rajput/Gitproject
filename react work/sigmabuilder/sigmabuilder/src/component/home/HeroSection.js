@@ -9,27 +9,27 @@ const HeroSection = () => {
     {
       _id: "1",
       title: "Turn Land Into Your Landmark",
-      subtitle: "Start your dream home with us today—designed and built for your lifestyle.",
-      image:
-        "r1.png",
+      subtitle:
+        "Start your dream home with us today designed and built for your lifestyle.",
+      image: "r1.png",
       cta: "Start Building",
       color: "from-gray-700 to-black",
     },
     {
       _id: "2",
       title: "Build on Vision, Live the Dream",
-      subtitle: "Let’s create a strong, stylish home that lasts for generations",
-      image:
-        "r2.png",
+      subtitle:
+        "Let’s create a strong, stylish home that lasts for generations",
+      image: "r2.png",
       cta: "Get a Free Quote",
       color: "from-gray-700 to-black",
     },
     {
       _id: "3",
       title: "Your Space, Your Home",
-      subtitle: "Partner with us now to design and build the home you’ve always wanted.",
-      image:
-        "r3.png",
+      subtitle:
+        "Partner with us now to design and build the home you’ve always wanted.",
+      image: "r3.png",
       cta: "Schedule a Consultation",
       color: "from-gray-700 to-black",
     },
@@ -47,7 +47,9 @@ const HeroSection = () => {
     setCurrentSlide((prev) => (prev + 1) % collections.length);
 
   const prevSlide = () =>
-    setCurrentSlide((prev) => (prev - 1 + collections.length) % collections.length);
+    setCurrentSlide(
+      (prev) => (prev - 1 + collections.length) % collections.length
+    );
 
   return (
     <div className="min-h-screen bg-white">
@@ -75,14 +77,22 @@ const HeroSection = () => {
                   {collection.subtitle}
                 </p>
                 {collection.cta && (
-                  <button
-                    className={`bg-gradient-to-r ${
-                      collection.color || "from-blue-500 to-indigo-600"
-                    } hover:scale-105 transform transition-all duration-300 px-8 py-4 rounded-full text-white font-semibold text-lg shadow-2xl hover:shadow-3xl animate-fadeInUp animation-delay-600`}
+                  <a
+                    href="https://api.whatsapp.com/send?phone=917090948664&text=Hi Simga Builder, Need Consultation for construction project."
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="Chat with Sigma Builder on WhatsApp"
+                    className="inline-block"
                   >
-                    {collection.cta}
-                    <ArrowRight className="inline ml-2 w-5 h-5" />
-                  </button>
+                    <button
+                      className={`w-full sm:w-auto bg-gradient-to-r ${
+                        collection.color || "from-blue-500 to-indigo-600"
+                      } hover:scale-105 transform transition-all duration-300 px-8 py-4 rounded-full text-white font-semibold text-lg shadow-2xl hover:shadow-3xl animate-fadeInUp animation-delay-600`}
+                    >
+                      {collection.cta}
+                      <ArrowRight className="inline ml-2 w-5 h-5" />
+                    </button>
+                  </a>
                 )}
               </div>
             </div>
