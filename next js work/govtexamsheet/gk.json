@@ -1,0 +1,273 @@
+{
+    "chapters": [
+        {
+            "id": 1,
+            "title": "Dance"
+        },
+        {
+            "id": 2,
+            "title": "Arts Personality"
+        },
+        {
+            "id": 3,
+            "title": "Arts Awards"
+        },
+        {
+            "id": 4,
+            "title": "Musical Instruments"
+        },
+        {
+            "id": 5,
+            "title": "Festivals"
+        },
+        {
+            "id": 6,
+            "title": "Fairs"
+        },
+        {
+            "id": 7,
+            "title": "Songs"
+        },
+        {
+            "id": 8,
+            "title": "Painting Dress Tribes"
+        },
+        {
+            "id": 9,
+            "title": "First in India and world"
+        },
+        {
+            "id": 10,
+            "title": "Sports"
+        },
+        {
+            "id": 11,
+            "title": "Books and Authors"
+        },
+        {
+            "id": 12,
+            "title": "Famous Personality"
+        },
+        {
+            "id": 13,
+            "title": "Important Days"
+        },
+        {
+            "id": 14,
+            "title": "State GK"
+        },
+        {
+            "id": 15,
+            "title": "Organisation"
+        },
+        {
+            "id": 16,
+            "title": "World GK"
+        },
+        {
+            "id": 17,
+            "title": "Computer"
+        },
+        {
+            "id": 18,
+            "title": "Full Form"
+        },
+        {
+            "id": 19,
+            "title": "Religious Places"
+        },
+        {
+            "id": 20,
+            "title": "Awards"
+        },
+        {
+            "id": 21,
+            "title": "Important Events"
+        },
+        {
+            "id": 22,
+            "title": "Founder"
+        },
+        {
+            "id": 23,
+            "title": "Entertainment"
+        },
+        {
+            "id":24,
+            "title":"Schemes"
+        },
+        {
+            "id":25,
+            "title":"Miscellaneous"
+        },
+        {
+            "id":26,
+            "title":"Ancient History"
+        },
+        {
+            "id":27,
+            "title":"Medieval History"
+        },
+        {
+            "id":28,
+            "title":"Modern History"
+        },
+        {
+            "id":29,
+            "title":"Politics"
+        },
+        {
+            "id":30,
+            "title":"Geography"
+        },
+        {
+            "id":31,
+            "title":"Economics"
+        },
+        {
+            "id":32,
+            "title":"Physics"
+        },
+        {
+            "id":33,
+            "title":"Chemistry"
+        },
+        {
+            "id":34,
+            "title":"Biology"
+        }
+    ],
+    "Dance": [
+        {
+            "Concept": [
+                {
+                    "id": 1,
+                    "concept": "Basics of Number System",
+                    "concept-description": {
+                        "type": "text",
+                        "content": "hi sunny"
+                    },
+                    "concept-example": {
+                        "type": "text",
+                        "content": "hello sunny"
+                    },
+                    "details": [
+                        {
+                            "title": "Face Value",
+                            "description": {
+                                "type": "text",
+                                "content": "It is nothing but the number itself about which it has been asked."
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "In the number 23576, face value of 5 is 5 and face value of 7 is 7."
+                            }
+                        },
+                        {
+                            "title": "Place Value",
+                            "description": {
+                                "type": "text",
+                                "content": "The place value of a number depends on its position in the number. Each position has a value 10ⁿ, the places to its right."
+                            },
+                            "example": {
+                                "type": "text",
+                                "content": "In the number 23576, place value of 5 is 500 and place value of 3 is 3000.."
+                            }
+                        }
+                    ],
+                    "videoUrl": "https://youtu.be/CIJ3t9FKbuo?si=wWKQ32gXqjBb5MAB"
+                }
+                
+            ]
+        },
+        {
+            "Questions": [
+                {
+                    "id": 1,
+                    "question": {
+                        "type": "text",
+                        "content": "  Sattriya dance form is famous in which of these states?"
+                    },
+                    "options": [
+                        {"text": "Assam"},
+                        {"text": " Himachal Pradesh"},
+                        {"text": "Punjab"},
+                        {"text": "Tamil Nadu"}
+                        
+                    ],
+                    "answer": "Assam",
+                    "solution": {
+                        "type": "text",
+                        "content": " Assam. Sattriya dance originated in Sattra, a monastery, as a part of the neo-Vaishnavite movement started by Srimanta Sankardev. Sattriya was given the status of a classical dance in the year 2000 by the Sangeet Natak Akademi. The dance styles of Sattriya are Paurashik Bhangi (male style) andStri Bhangi (female style). Folk dances ofAssam: Bihu, Bagurumba, Deodhani,Bhortal dance."
+                    },
+                    "videoUrl": "https://youtu.be/YjWUPmAhh-s?si=XHRAPB7hH0Mly6Ad",
+                    "status": "SSC Stenographer 12/10/2023 (Morning)"
+                },
+                {
+                    "id": 2,
+                    "question": {
+                        "type": "text",
+                        "content": "Q.2. Which of the following statements is true? # Statement I: Indian techniques such as Rasa and Bhawa in classical dances have their origins in Bharatmuni's Natyashastra. # Statement II: Bharatanatyam has its origin in Odisha."
+                    },
+                    "options": [
+                        {"text": "Only Statement Il is true."},
+                        {"text": " Both Statement I and Statement Ilare true"},
+                        {"text": " Neither Statement I nor Statement II is true."},
+                        {"text": " Only Statement I is true."}
+                        
+                    ],
+                    "answer": " Only Statement I is true.",
+                    "solution": {
+                        "type": "text",
+                        "content": "(d) Bharatanatyam is a classical dance form that originated in Tamil Nadu. The Indian classical dances have two basic aspects - Tandava (movement and rhythm) and Lasya (grace, bhava and rasa) and three main components Natya (the dramatic element of the dance); Nritta (the dance movements in their basic form); Nritya (expressional component i.e. mudras or gestures)."
+                    },
+                    "videoUrl": "https://youtu.be/CIJ3t9FKbuo?si=wWKQ32gXqjBb5MAB",
+                    "status": "SSC Stenographer 12/10/2023 (Morning)"
+                },
+                {
+                    "id": 3,
+                    "question": {
+                        "type": "text",
+                        "content": " When was Bharatanatyam banned by the British colonial government?"
+                    },
+                    "options": [
+                        {"text": "1885"},
+                        {"text": "1910"},
+                        {"text": "1897"},
+                        {"text": "1927"}
+                        
+                    ],
+                    "answer": "1910",
+                    "solution": {
+                        "type": "text",
+                        "content": " 1910. Bharatanatyam (Tamil Nadu): It traces its origins back to the Natyashastra, an ancient treatise on theatre written by the mythic priest Bharata. Features : It encompasses Bhav, Rag, Ras and Taal. It consists of six portions: Alarippu (Invocation), Jathiswaram (Nritta part), Shabdam (Short compositions with word), Varnam (a story, that includes both Nritta and Nritya), Padam (Religious prayer, Bhajan,Keerthanam) and Tillana (Origin in the Tarana of Hindustani Music)."
+                    },
+                    "videoUrl": "https://youtu.be/YjWUPmAhh-s?si=XHRAPB7hH0Mly6Ad",
+                    "status": "SSC Stenographer 12/10/2023 (Afternoon)"
+                },
+                {
+                    "id": 4,
+                    "question": {
+                        "type": "text",
+                        "content": "Which of the following is a folk dance from the state of Maharashtra?"
+                    },
+                    "options": [
+                        {"text": " Ghoomar"},
+                        {"text": " Bhangra"},
+                        {"text": " Garba"},
+                        {"text": " Dhangari Gaja"}
+                        
+                    ],
+                    "answer": "Dhangari Gaja",
+                    "solution": {
+                        "type": "text",
+                        "content": "(d) Dhangari Gaja. States and their folk dances: Maharashtra- Lavani, Powada dance, Koli, Waghya Murali. Gujarat Dandiya Raas, Tippani, Bhavai, Garba, Daang. Rajasthan Ghoomar, Bhavai, Kalbelia, Terah Taali. Punjab Bhangra, Giddha, Luddi, Julli."
+                    },
+                    "videoUrl": "https://youtu.be/YjWUPmAhh-s?si=XHRAPB7hH0Mly6Ad",
+                    "status": "SSC Stenographer 13/10/2023 (Morning)"
+                }
+                
+            ]
+        }
+    ]
+}

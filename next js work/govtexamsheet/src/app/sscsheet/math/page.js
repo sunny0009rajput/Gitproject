@@ -22,7 +22,7 @@ export default function Page() {
       : null;
   console.log("Token:", token);
   const apibackendurl = process.env.NEXT_PUBLIC_BACKEND_URL; // backend: port 5000
-  const apidatasheeturl = process.env.NEXT_PUBLIC_DATASHEET_URL; // JSON server: port 8002
+  const apidatasheeturl = process.env.NEXT_PUBLIC_DATASHEET_URLMATH; // JSON server: port 8002
   const axiosConfig = {
     headers: {
       Authorization: `Bearer ${token}`,
@@ -341,8 +341,6 @@ export default function Page() {
           new Map(data?.[1]?.Questions?.map((q) => [q.question, q])).values()
         );
 
-
-
         let totalConcepts = 0;
         let completedConceptCount = 0;
         let totalProblems = 0;
@@ -357,13 +355,13 @@ export default function Page() {
           );
 
           totalConcepts = uniqueConcepts.length;
-          completedConceptCount = Object.keys(completedConcepts).filter((k) =>
-            k.startsWith(chapter.title)
+          completedConceptCount = Object.entries(completedConcepts).filter(
+            ([k, v]) => k.startsWith(chapter.title) && v
           ).length;
 
           totalProblems = uniqueProblems.length;
-          completedProblemCount = Object.keys(completedProblems).filter((k) =>
-            k.startsWith(`${chapter.title}-problem`)
+          completedProblemCount = Object.entries(completedProblems).filter(
+            ([k, v]) => k.startsWith(`${chapter.title}-problem`) && v
           ).length;
         }
 
@@ -495,7 +493,7 @@ export default function Page() {
                                     <button
                                       onClick={() =>
                                         window.open(
-                                          `/concept/${
+                                          `/sscsheet/math/concept/${
                                             concept.id
                                           }?chapter=${encodeURIComponent(
                                             chapter.title
@@ -512,7 +510,7 @@ export default function Page() {
                                     <button
                                       onClick={() =>
                                         window.open(
-                                          `/concept/${
+                                          `/sscsheet/math/concept/${
                                             concept.id
                                           }?chapter=${encodeURIComponent(
                                             chapter.title
@@ -648,7 +646,7 @@ export default function Page() {
                                     <button
                                       onClick={() =>
                                         window.open(
-                                          `/problem/${
+                                          `/sscsheet/math/problem/${
                                             q.id
                                           }?chapter=${encodeURIComponent(
                                             chapter.title
@@ -665,7 +663,7 @@ export default function Page() {
                                     <button
                                       onClick={() =>
                                         window.open(
-                                          `/problem/${
+                                          `/sscsheet/math/problem/${
                                             q.id
                                           }?chapter=${encodeURIComponent(
                                             chapter.title
