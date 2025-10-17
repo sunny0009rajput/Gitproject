@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "Identify the cultural festival on the basis of given clues: i) This festival brings together craftsmen like potters, embroiderers, weavers, wood carvers, metal workers, stone smiths and painters from all over India on one platform in Haryana. ii) This crafts mela is held in February every year and provides a glimpse of the state's cultural heritage and recent achievements."
+        },
+        "options": [
+            {
+                "text": "Shamlaji Fair"
+            },
+            {
+                "text": "Kapil Muni Fair"
+            },
+            {
+                "text": "Surajkund Mela"
+            },
+            {
+                "text": "Chitra Vichitra Fair"
+            }
+        ],
+        "answer": "Kapil Muni Fair",
+        "solution": {
+            "type": "text",
+            "content": "Surajkund Mela (Faridabad). This is one of the most celebrated international Craftsmela and is organised by the Haryana Tourism Department. Shamlaji fair (Gujarat). The Kapil Muni Fair is the largest fair of Bikaner (Rajasthan). The Chitra Vichitra Fair (Gujarat)."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 03/10/2023 (Afternoon)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "Shri Jagannathji Mela is held at"
+        },
+        "options": [
+            {
+                "text": "Cuttack"
+            },
+            {
+                "text": "Jaipur"
+            },
+            {
+                "text": "Sambalpur"
+            },
+            {
+                "text": "Alwar"
+            }
+        ],
+        "answer": "Alwar",
+        "solution": {
+            "type": "text",
+            "content": "Alwar (Rajasthan). The Shri Jagannathji Mela starts with a procession of Lord Jagannath passing through the city. Other Fairs of Rajasthan: Karni Mata Mela (Bikaner); Beneshwar Mela (Dungarpur) and Pushkar Fair (Ajmer)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 04/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "The Madhavpur fair is held at"
+        },
+        "options": [
+            {
+                "text": "Bhatinda"
+            },
+            {
+                "text": "Porbandar"
+            },
+            {
+                "text": "Moradabad"
+            },
+            {
+                "text": "Jaisalmer"
+            }
+        ],
+        "answer": "Moradabad",
+        "solution": {
+            "type": "text",
+            "content": "Porbandar (Gujarat). The fair is commemorated by a cultural fair held every year, commencing on Ram Navami. The Madhavpur Mela of Gujarat is celebrated in the memory of Lord Krishna and Rukmini."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 06/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "The world's largest camel fair held in which of the following cities?"
+        },
+        "options": [
+            {
+                "text": "Bikaner"
+            },
+            {
+                "text": "Pushkar"
+            },
+            {
+                "text": "Barmer"
+            },
+            {
+                "text": "Udaipur is"
+            }
+        ],
+        "answer": "Pushkar",
+        "solution": {
+            "type": "text",
+            "content": "Pushkar (Rajasthan) camel fair held each November at the time of the Kartik Purnima. Fairs/Festivals of Rajasthan: Bikaner camel festival is celebrated in the month of January. Barmer Cattle Fair is held every year in the months of March and April. The Mewar festival Udaipur, is held each year in March-April to welcome spring. The Bundi Festival is celebrated in the month of Kartik (October-November)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/09/2023 (1st Shift)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "Kumbh Mela and Sangam are famous in which state?"
+        },
+        "options": [
+            {
+                "text": "Meghalaya"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Manipur"
+            },
+            {
+                "text": "Sikkim"
+            }
+        ],
+        "answer": "Uttar Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Uttar Pradesh. This fair starts on the day of Makar Sankranti. This fair is held every 12 years, with the location of the observance rotating among four pilgrimage sites on the four sacred rivers: Ganga at Haridwar, Triveni Nashik, and Shipra at Ujjain. Ardha (half) Kumbh Mela is held at only two places, Haridwar and Allahabad, every sixth year and a Maha Kumbh is held after every 144 years. It is the 13th intangible cultural heritage from India to be listed on UNESCO's list."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 04/08/2023 (4th shift)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Simhastha fair is held in Ujjain on the bank of which river?"
+        },
+        "options": [
+            {
+                "text": "Kshipra river"
+            },
+            {
+                "text": "Son river"
+            },
+            {
+                "text": "Ganga river"
+            },
+            {
+                "text": "Gandak river"
+            }
+        ],
+        "answer": "Kshipra river",
+        "solution": {
+            "type": "text",
+            "content": "Kshipra river. Ujjain Simhastha is a Hindu religious mela held every 12 years in the Ujjain city of Madhya Pradesh."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/08/2023 (2nd shift)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "With reference to Sonepur Cattle fair, consider the following statements and select the correct option. a) It is associated with the Hariharnath temple. b) It begins on Purnima (full moon night) and Kartik month. c) It is celebrated in the Madhya Pradesh state."
+        },
+        "options": [
+            {
+                "text": "Both a and b"
+            },
+            {
+                "text": "Both a and c"
+            },
+            {
+                "text": "Both b and c"
+            },
+            {
+                "text": "a, b, c"
+            }
+        ],
+        "answer": "Both a and b",
+        "solution": {
+            "type": "text",
+            "content": "Both a and b. Sonepur Cattle Fair is one of Asia's largest cattle fairs, organized at the confluence of two rivers, the Ganga and Gandak in Bihar. Nagaji Fair is celebrated in the tribal area of Madhya Pradesh."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/08/2023 (1st shift)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Sheorinarayan fair is held in which of the following states?"
+        },
+        "options": [
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Chhattisgarh"
+            },
+            {
+                "text": "Jharkhand"
+            },
+            {
+                "text": "Madhya Pradesh"
+            }
+        ],
+        "answer": "Jharkhand",
+        "solution": {
+            "type": "text",
+            "content": "Chhattisgarh. The fair is held every year in the month of February during the Magh Purnima. The Sherorinarayan Temple which is devoted to Lord Rama is the main venue of this Fair."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/08/2023 (4th shift)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "\"Ambubachi Mela\" is held in which place?"
+        },
+        "options": [
+            {
+                "text": "Patna"
+            },
+            {
+                "text": "Pune"
+            },
+            {
+                "text": "Lucknow"
+            },
+            {
+                "text": "Guwahati"
+            }
+        ],
+        "answer": "Guwahati",
+        "solution": {
+            "type": "text",
+            "content": "Guwahati (Assam). Ambubachi Mela also known as Ameti or Tantric fertility festival. It is the celebration of the yearly menstruation (phallus worship worship of sexual organ) course of goddess Kamakhya. Kamakhya temple is located on Nilachal Sangam at Prayagraj, the Godavari at Hills on the banks of Brahmaputra river. It is built on Nilachala Style of Architecture."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/05/2023 (Afternoon)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "A ritual bath named \"Shahi Snan is a major event of which of the following festival?"
+        },
+        "options": [
+            {
+                "text": "Teej"
+            },
+            {
+                "text": "Holi"
+            },
+            {
+                "text": "Diwali"
+            },
+            {
+                "text": "Kumbh Mela"
+            }
+        ],
+        "answer": "Kumbh Mela",
+        "solution": {
+            "type": "text",
+            "content": "Kumbh Mela."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (1st Shift)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "Ganga Sagar Mela is conducted at the mouth of the river Hooghly in _"
+        },
+        "options": [
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Goa"
+            },
+            {
+                "text": "Andhra Pradesh"
+            }
+        ],
+        "answer": "West Bengal",
+        "solution": {
+            "type": "text",
+            "content": "West Bengal. Gangasagar fair is held annually on the occasion of Makar Sankranti (January) on Sagar Island's southern tip, where the Ganges river enters the Bay of Bengal. This confluence is Gangasagar. Fairs of West Bengal: Bera Utsav, Orange Festival, Rath Yatra Festival, Jalpesh Festival, Ramkeli Mela, Poush Mela, Raas Mela, Book Fair & Film Festival, etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 08/12/2022 (2nd Shift)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "The Champaran Mela is celebrated every year in which city of Chhattisgarh?"
+        },
+        "options": [
+            {
+                "text": "Bilaspur"
+            },
+            {
+                "text": "Raigarh"
+            },
+            {
+                "text": "Raipur"
+            },
+            {
+                "text": "Korna"
+            }
+        ],
+        "answer": "Raigarh",
+        "solution": {
+            "type": "text",
+            "content": "Raipur. The Annual Fair of Champaran is held with great festivities in the month of Magh every year."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 05/08/2022 (Shift - 3)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a fair held at the shrine of Mastan Shah Vali?"
+        },
+        "options": [
+            {
+                "text": "Pir Budhan fair"
+            },
+            {
+                "text": "Hira Bhumia fair"
+            },
+            {
+                "text": "Karam fair"
+            },
+            {
+                "text": "Dhamoni Urs"
+            }
+        ],
+        "answer": "Dhamoni Urs",
+        "solution": {
+            "type": "text",
+            "content": "Dhamoni Urs. It is organised in the month of April-May at Dhamoni in Sagar district in Madhya Pradesh."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/10/2021 (Morning)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "The Nanda Devi Fair is organised in the Kumaon region in the month of _ every year."
+        },
+        "options": [
+            {
+                "text": "December"
+            },
+            {
+                "text": "May"
+            },
+            {
+                "text": "February"
+            },
+            {
+                "text": "September"
+            }
+        ],
+        "answer": "September",
+        "solution": {
+            "type": "text",
+            "content": "September. Almora is the place where the main fair is held. Uttarakhand Fairs- Bhagwal Devidhura, Bagwali Pokhar, Chandrabadni, Gabladev, Gaucher, Gendua, Haatkalika, Kamleshwar, Purnagiri, Tapkeshwar fair etc."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/10/2021 (Afternoon)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a cattle fair celebrated in the state of Himachal Pradesh?"
+        },
+        "options": [
+            {
+                "text": "Doongri Festival"
+            },
+            {
+                "text": "Manimahesh Fair"
+            },
+            {
+                "text": "Ashwin Mela"
+            },
+            {
+                "text": "Nalwari Fair"
+            }
+        ],
+        "answer": "Nalwari Fair",
+        "solution": {
+            "type": "text",
+            "content": "Nalwari Fair. Doongri Festival also known as Hidimba Devi Fair is celebrated in Kullu on the occasion of Basant Panchami. Ashwin Navratri Mela is celebrated in Himachal Pradesh and Ashwin Amavasya Mela is celebrated in Uttar Pradesh."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 24/08/2021 (Afternoon)"
+    }
+]

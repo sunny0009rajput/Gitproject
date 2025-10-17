@@ -78,7 +78,7 @@ export default function ProblemPage() {
 
       <div className="w-full max-w-4xl mx-auto bg-zinc-900 border border-zinc-800 rounded-2xl p-6 sm:p-8 shadow-lg">
         <h1 className="text-2xl font-bold mb-4 text-orange-400">
-          {chapter} — Problem {id}
+          {chapter} — Problem 
         </h1>
 
         {/* Question */}

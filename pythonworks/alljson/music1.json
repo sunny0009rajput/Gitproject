@@ -1,0 +1,1556 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "Zakir Hussain, Ustad Allah Rakha, Pandit Shankar Ghosh, Pandit Udhai Mazumdar, Pandit Vijay Ghate."
+        },
+        "options": [],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "Asad Ali Khan was known for playing which of the following Indian instruments?"
+        },
+        "options": [
+            {
+                "text": "Sitar"
+            },
+            {
+                "text": "Rudra Veena"
+            },
+            {
+                "text": "Violin"
+            },
+            {
+                "text": "Tabla"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 04/10/2023 (Morning)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "Hari Prasad Chaurasia is a notable exponent of which musical instrument?"
+        },
+        "options": [
+            {
+                "text": "Flute"
+            },
+            {
+                "text": "Veena"
+            },
+            {
+                "text": "Sarod"
+            },
+            {
+                "text": "Sitar"
+            }
+        ],
+        "answer": "Flute",
+        "solution": {
+            "type": "text",
+            "content": "Flute. Hariprasad Chaurasia awards: Padma Bhushan (1992), Padma Vibhushan (2000), Gan Samradni Lata mangeshkar Award (2021-22), Sangeet Natak Academy Award (1983). Some other flute players: Ronu Majumdar, Rakesh Chaurasia, Pannalal Ghosh, Nityanand Haldipur, Vivek Sonar."
+        },
+        "videoUrl": "",
+        "status": "SSC Stenographer 13/10/2023 (Evening)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Prabhat Sarma, a recipient of Sangeet Natak Akademi Award, was a _ player from Assam."
+        },
+        "options": [
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "Ghatam"
+            },
+            {
+                "text": "sarangi"
+            },
+            {
+                "text": "Flute"
+            }
+        ],
+        "answer": "Flute",
+        "solution": {
+            "type": "text",
+            "content": "Flute. Prabhat Sarma's awards:- Sangeet Natak Akademi Award (2003), Asom Shilpi Diwas Award by the Assam government (2001). Flute is the part of the woodwind family group."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 03/10/2023 (Afternoon)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "Famous musician Talvin Singh is associated with playing the_"
+        },
+        "options": [
+            {
+                "text": "tabla"
+            },
+            {
+                "text": "Flute"
+            },
+            {
+                "text": "veena"
+            },
+            {
+                "text": "shehnai"
+            }
+        ],
+        "answer": "tabla",
+        "solution": {
+            "type": "text",
+            "content": "Tabla. Other tabla players: Sol.470.(b) Rudra Veena. It is a stringed instrument, which is made of teak wood, metal, pumpkin, and Bamboo. He received Padma Bhushan (2008) and Sangeet Natak Akademi Award (1977). Rudra Veena exponents: Madhuvanti Pal, Bahauddin Dagar, Zia Mohiuddin Dagar."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 03/10/2023 (Evening)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Pandit Ram Narayan, a famous instrumentalist, is known for playing which of the following instruments?"
+        },
+        "options": [
+            {
+                "text": "Sarangi"
+            },
+            {
+                "text": "Sarod"
+            },
+            {
+                "text": "Veena"
+            },
+            {
+                "text": "Ghatam"
+            }
+        ],
+        "answer": "Sarangi",
+        "solution": {
+            "type": "text",
+            "content": "Sarangi. A sarangi is a bowed stringed instrument with a skin-covered resonator. Pandit Ram Narayan awards Padma Shri (1976), Padma Bhushan (1991) and Padma Vibhushan (2005). Other sarangi players- Ustad Sultan Khan, Ustad Binda Khan, Suhali Yusuf Khan."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 04/10/2023 (Evening)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Hara Shankar Bhattacharya is a maestro of"
+        },
+        "options": [
+            {
+                "text": "violin"
+            },
+            {
+                "text": "santoor"
+            },
+            {
+                "text": "sarangi"
+            },
+            {
+                "text": "sitar"
+            }
+        ],
+        "answer": "sitar",
+        "solution": {
+            "type": "text",
+            "content": "Sitar: It is a stringed instrument of the lute family. Its other Artists Pandit Ravi Shankar, Nikhil Banerjee, Vilayat Khan."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 05/10/2023 (Morning)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Neeruswamy Pillai and Rajaratanam Pillai are exponents of which musical instrument?"
+        },
+        "options": [
+            {
+                "text": "Mridangam"
+            },
+            {
+                "text": "Nadaswaram"
+            },
+            {
+                "text": "Mandolin"
+            },
+            {
+                "text": "Sarangi"
+            }
+        ],
+        "answer": "Mandolin",
+        "solution": {
+            "type": "text",
+            "content": "Nadaswaram. It is a double reed wind instrument from South India. Other Exponents - Sheik Chinna Moulana, Karukurichi Arunachalam, Thiruvizha Jayashankar, and Namagiripettai Krishnan. Mridangam- Ramnad Raghavan, TK Murthy, Dandamudi Ram Mohan Rao, T Gopalakrishnan. Mandolin - Uppalapu Srinivas, Kishore Desai."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 05/10/2023 (Evening)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "Pandit Bhajan Sopori, who died in the year 2022, was a famous player of which musical instruments?"
+        },
+        "options": [
+            {
+                "text": "Ravan Hatta"
+            },
+            {
+                "text": "Sitar"
+            },
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "Santoor"
+            }
+        ],
+        "answer": "Santoor",
+        "solution": {
+            "type": "text",
+            "content": "Santoor (String Instrument). Bhajan Sopori (Saint of the Santoor and the King of Strings) belonged to the Sufiana Gharana of Indian classical music. Awards : Padma Shri (2004), Sangeet Natak Akademi Award (1993). Santoor players: Pandit Shivkumar Sharma, Abhay Sopori, Tarun Bhattacharya."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 01/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "T.N. Rajaratnam Pillai is a player of which of the following musical instruments?"
+        },
+        "options": [
+            {
+                "text": "Ghatam"
+            },
+            {
+                "text": "Nadaswaram"
+            },
+            {
+                "text": "Sarangi"
+            },
+            {
+                "text": "Shehnai"
+            }
+        ],
+        "answer": "Sarangi",
+        "solution": {
+            "type": "text",
+            "content": "Nadaswaram. It is a double reed wind instrument from South India similar to Shehnai of North India. Other Players of Nadaswaram: Sheikh Chinna Maulana, Sheikh Mahaboob Subhani and Namagiripettai Krishnan."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "Who among the following Indian musicians is the inventor of Mohan Veena?"
+        },
+        "options": [
+            {
+                "text": "Totaram Sharma"
+            },
+            {
+                "text": "Braj Bhushan Kabra"
+            },
+            {
+                "text": "Pandit Vishwa Mohan Bhatt"
+            },
+            {
+                "text": "Sandeep Das"
+            }
+        ],
+        "answer": "Pandit Vishwa Mohan Bhatt",
+        "solution": {
+            "type": "text",
+            "content": "Pandit Vishwa Mohan Bhatt. Awards - Grammy Award (1994) for Best Global Music Album (A Meeting by the River), Sangeet Natak Akademi Award (1998), Padma Shri (2002), Padma Bhushan (2017). Other Mohan veena players- Harry Manx, Matt Malley. Totaram Sharma (pakhawaj player). Brij Bhushan Kabra (guitar player). Sandeep Das (tabla player)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/09/2023 (1st Shift)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "Which musical instrument does N Rajam play?"
+        },
+        "options": [
+            {
+                "text": "Sitar"
+            },
+            {
+                "text": "Violin"
+            },
+            {
+                "text": "Santoor"
+            },
+            {
+                "text": "Guitar"
+            }
+        ],
+        "answer": "Violin",
+        "solution": {
+            "type": "text",
+            "content": "Violin. Other players: Violin - Ragini Shankar, Kala Ramnath, Balabhaskar. Sitar Ustad Shahid Parvez Khan. Santoor Pandit Shivkumar Sharma, Satish Vyas. Guitar Baiju Dharmajan, Susmit Sen, Amyt Datta."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/09/2023 (1st Shift)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Ustad Akbar Ali Khan is remembered for his contribution to which of the following musical instruments?"
+        },
+        "options": [
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "Santoor"
+            },
+            {
+                "text": "Sitar"
+            },
+            {
+                "text": "Sarod"
+            }
+        ],
+        "answer": "Sarod",
+        "solution": {
+            "type": "text",
+            "content": "Sarod. Akbar Ali Khan (Maihar gharana). Awards- Padmа Bhushan (1967), Padma Vibhushan (1989). Famous Players (Sarod): Amjad Ali Khan, Buddhadev Das Gupta, Tejendra Majumdar, Allauddin Khan."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 02/08/2023 (2nd shift)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "RK Bijapure played which of the following musical instruments?"
+        },
+        "options": [
+            {
+                "text": "Harmonium"
+            },
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "Ravanahatha"
+            },
+            {
+                "text": "Sitar"
+            }
+        ],
+        "answer": "Harmonium",
+        "solution": {
+            "type": "text",
+            "content": "Harmonium. R K Bijapure (1985- \"Karnataka Kala Tilak\" by Sangeet Nritya Academy). Harmonium Purushottam Walawalkar, Appa Jalgaonkar. Ravanahatha Dinesh Subasinghe."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 02/08/2023 (3rd shift)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "Arvind Parikh is associated with which of the following musical instruments?"
+        },
+        "options": [
+            {
+                "text": "Shehnai"
+            },
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "Mridangam"
+            },
+            {
+                "text": "Sitar"
+            }
+        ],
+        "answer": "Sitar",
+        "solution": {
+            "type": "text",
+            "content": "Sitar. Arvind Parikh: Awards - Padma Bhushan (2018), Sangeet Natak Akademi (2003). Sitar - Pt Ravi Shankar, Budhaditya Mukherjee."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 03/08/2023 (2nd shift)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "The name of Ustad Vilayat Khan is associated with which of the following Indian musical instruments?"
+        },
+        "options": [
+            {
+                "text": "Santoor"
+            },
+            {
+                "text": "Sitar"
+            },
+            {
+                "text": "Bansuri"
+            },
+            {
+                "text": "Tabla"
+            }
+        ],
+        "answer": "Sitar",
+        "solution": {
+            "type": "text",
+            "content": "Sitar."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 08/08/2023 (1st shift)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "Which musical instrument Dr AР J Abdul Kalam, former President of India, used to play?"
+        },
+        "options": [
+            {
+                "text": "Guitar"
+            },
+            {
+                "text": "Sarod"
+            },
+            {
+                "text": "Veena"
+            },
+            {
+                "text": "Piano"
+            }
+        ],
+        "answer": "Veena",
+        "solution": {
+            "type": "text",
+            "content": "Veena (Stringed instrument). APJ Abdul Kalam: He served as the 11th president of India and known as the Missile Man of India. Exponents of Veena Rajhesh Vaidhya, Jayanthi Kumaresh, Veena E. Gayathri, Emani Sankara Sastry. is"
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/08/2023 (3rd shift)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "Ramnad V Raghavan associated with which of the following musical instruments?"
+        },
+        "options": [
+            {
+                "text": "Mridangam"
+            },
+            {
+                "text": "Flute"
+            },
+            {
+                "text": "Sitar"
+            },
+            {
+                "text": "Sarod"
+            }
+        ],
+        "answer": "Mridangam",
+        "solution": {
+            "type": "text",
+            "content": "Mridangam. Famous Mridangam Players: A.V. Anand, Muthiah Bhagavatar, Guruvayur Dorai, Palghat Mani lyer Karaikudi Mani, T. K. Murthy."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 11/08/2023 (1st shift)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Totaram Sharma is associated with which of the following instruments?"
+        },
+        "options": [
+            {
+                "text": "Tanpura"
+            },
+            {
+                "text": "Panchavadyam"
+            },
+            {
+                "text": "Pakhawaj"
+            },
+            {
+                "text": "Sarangi"
+            }
+        ],
+        "answer": "Pakhawaj",
+        "solution": {
+            "type": "text",
+            "content": "Pakhawaj is a barrel-shaped, two-headed drum, originating from the Indian subcontinent. Totaram Sharma received Sangeet Natak Akademi Award (2011). Famous Pakhawaj Players: Pandit Purushottam Das, Mohan Shyam Sharma, Bhavani Shankar, Pandit Prem Vallabh."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/08/2023 (4th shift)"
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "The musician Sivamani is associated with which musical instrument?"
+        },
+        "options": [
+            {
+                "text": "Drums"
+            },
+            {
+                "text": "Violin"
+            },
+            {
+                "text": "Shehnai"
+            },
+            {
+                "text": "Sarod"
+            }
+        ],
+        "answer": "Drums",
+        "solution": {
+            "type": "text",
+            "content": "Drums. Awards Kalaimamani (2009), Padma Shri (2019)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 17/07/2023 (4th shift)"
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "Who among the following is associated with the musical instrument Surbahar?"
+        },
+        "options": [
+            {
+                "text": "Annapurna Devi"
+            },
+            {
+                "text": "Shiv Kumar Sharma"
+            },
+            {
+                "text": "Sharan Rani"
+            },
+            {
+                "text": "Bhajan Sopari"
+            }
+        ],
+        "answer": "Annapurna Devi",
+        "solution": {
+            "type": "text",
+            "content": "Annapurna Devi. Awarded Padma Bhushan in 1977. Other Surbahar musicians Kushal Das, Imrat Khan, Mushtaq Ali Khan, Hiren Roy, Irshad Khan."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 18/07/2023 (1st shift)"
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "Select the correct sequence of the musical instruments according to the given sequence of their associated personalities: Ustad Allah Rakha, Totaram Sharma, TH Vinayakam."
+        },
+        "options": [
+            {
+                "text": "Tabla, Ghatam, Pakhawaj"
+            },
+            {
+                "text": "Ghatam, Pakhawaj, Tabla"
+            },
+            {
+                "text": "Tabla, Pakhawaj, Ghatam"
+            },
+            {
+                "text": "Pakhawaj, Tabla, Ghatam"
+            }
+        ],
+        "answer": "Tabla, Pakhawaj, Ghatam",
+        "solution": {
+            "type": "text",
+            "content": "Tabla, Pakhawaj, Ghatam. Tabla is the most famous percussion instrument of North India. Pakhawaj is an ancient drum, it is the preferred percussion instrument of the ancient singing style called Dhrupad. A Ghatam is a large, narrow-mouthed earthenware pot used as a percussion instrument."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 18/07/2023 (3rd shift)"
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "Tansen, who was included in the Navaratnas of Akbar, was an expert in playing which of the following musical instruments?"
+        },
+        "options": [
+            {
+                "text": "Nagada"
+            },
+            {
+                "text": "Veena"
+            },
+            {
+                "text": "Sarangi"
+            },
+            {
+                "text": "Rabab"
+            }
+        ],
+        "answer": "Rabab",
+        "solution": {
+            "type": "text",
+            "content": "Rabab (String instrument). Tansen (Ramtanu Pandey) - A Hindustani classical musician also Known as Sangeeth Samrat or Mian (Learned One). Tansen Samaroh is celebrated every year in the month of December in Gwalior district."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 18/07/2023 (4th shift)"
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": "The famous musician, Faiyaz Khan is associated with which musical instrument?"
+        },
+        "options": [
+            {
+                "text": "Shehnai"
+            },
+            {
+                "text": "Veena"
+            },
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "Sitar"
+            }
+        ],
+        "answer": "Tabla",
+        "solution": {
+            "type": "text",
+            "content": "Tabla (Membranophone percussion instrument). The Maharaja of Mysore awarded him the title \"Aftab e- Mausiqi\" (the Sun of Music) in 1908."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 19/07/2023 (3rd shift)"
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": "Select the Indian musician who is associated with percussion instruments (played by striking)."
+        },
+        "options": [
+            {
+                "text": "Pandit Ravi Shankar"
+            },
+            {
+                "text": "Vishwa Mohan Bhat"
+            },
+            {
+                "text": "Pandit Ayodhya Prasad"
+            },
+            {
+                "text": "Bismillah Khan"
+            }
+        ],
+        "answer": "Pandit Ayodhya Prasad",
+        "solution": {
+            "type": "text",
+            "content": "Pandit Ayodhya Prasad. Percussion Instruments:- Ghatam TH Vinayakram, EM Subramaniam, Mridangam- Dakshinamurthy Pillai, Rajna Swaminathan. String Instruments :- Guitar - Braj Bhushan Kabra."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 24/07/2023 (3rd shift)"
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": "Which of the following instruments is performed by Nandini and Ragini Shankar?"
+        },
+        "options": [
+            {
+                "text": "Veena"
+            },
+            {
+                "text": "Violin"
+            },
+            {
+                "text": "Sitar"
+            },
+            {
+                "text": "Mridangam"
+            }
+        ],
+        "answer": "Sitar",
+        "solution": {
+            "type": "text",
+            "content": "Violin. Other Exponents- Jyotsna Srikanth, Abhijith P.S. Nair, L. Subramaniam, K. Vaidyanathan, Nagai R Muralidharan, Mohanan Chandrasekaran. Veena - Muthuswami Dikshitar, Veenai Dhanammal, Doraiswamy lyengar, Emani Sankara Sastry, S Balachander. Mridangam Tanjore Ramdasa Rao, Palghat Ramchandra lyer, Ramnad V Raghavan, Karaikudi R Mani, Guruvayur Dorai."
+        },
+        "videoUrl": "",
+        "status": "Matric Level 27/06/2023 (Shift - 2)"
+    },
+    {
+        "id": 27,
+        "question": {
+            "type": "text",
+            "content": "Which of the following music instruments are solid instruments?"
+        },
+        "options": [
+            {
+                "text": "Tata Vadya"
+            },
+            {
+                "text": "Ghana Vadya"
+            },
+            {
+                "text": "Avanaddha Vadya"
+            },
+            {
+                "text": "Sushira Vadya"
+            }
+        ],
+        "answer": "Ghana Vadya",
+        "solution": {
+            "type": "text",
+            "content": "Ghana Vadya. Solid instruments are usually played with a striker or hammer. These instruments are not capable of producing definite pitches that are required for creating a melody. That is why their use is limited in classical music. Tata Vadya These are Stringed instruments. Avanaddha Vadya These are percussion instruments. Sushira Vadya- These are wind instruments. The Shehnai is a popular wind instrument in India."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 28,
+        "question": {
+            "type": "text",
+            "content": "The shehnai is a reed instrument with how many holes along the tubes?"
+        },
+        "options": [
+            {
+                "text": "Five"
+            },
+            {
+                "text": "Seven"
+            },
+            {
+                "text": "Eleven"
+            },
+            {
+                "text": "Six"
+            }
+        ],
+        "answer": "Seven",
+        "solution": {
+            "type": "text",
+            "content": "Seven. Shehnai - It is a reed instrument in which there are seven holes along the tube which are used for playing the melody by opening and closing them with the fingers. It is known as Mangal Vadya. It is considered to have come to India from West Asia. In the early fifties of this century, Ustad Bismillah Khan is credited for popularising this instrument. Pt. Anant Lal and Pt. Daya Shankar is also a noted Shehnai player."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/03/2023 (1st Shift)"
+    },
+    {
+        "id": 29,
+        "question": {
+            "type": "text",
+            "content": "What is Tat Vadya?"
+        },
+        "options": [
+            {
+                "text": "Percussion instruments"
+            },
+            {
+                "text": "Stringed instruments"
+            },
+            {
+                "text": "Solid instruments"
+            },
+            {
+                "text": "Wind instruments"
+            }
+        ],
+        "answer": "Stringed instruments",
+        "solution": {
+            "type": "text",
+            "content": "Stringed instruments. Tata Vadya - Sound produced by vibration of a string or chord. Example - Veena, Sitar, Sarangi etc. The Percussion Instruments Congo, Bongo, Djembe, Darbukas, Hand Drums and Tongue Drums. Idiophones or Ghana Vadya are solid instruments that do not need any further tuning. Examples Piccolo, Manjira, Jaltarang, Jhanj and Chimta. Wind instruments - woodwinds, such as the flute, clarinet, oboe, and bassoon, also include brass instruments like horn and trumpet."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 30,
+        "question": {
+            "type": "text",
+            "content": "Flute instruments come under which type of instrument category?"
+        },
+        "options": [
+            {
+                "text": "Ghana Vadya"
+            },
+            {
+                "text": "Sushira Vadya"
+            },
+            {
+                "text": "Avanaddha Vadya"
+            },
+            {
+                "text": "Tata Vadya"
+            }
+        ],
+        "answer": "Sushira Vadya",
+        "solution": {
+            "type": "text",
+            "content": "Sushira Vadya (Wind instrument). Example Flute, Shehnai, Nadaswaram. Ghana Vadya - Considered to be the world's first instrument. It does not require tuning. Example - Manjira, Khartal, Chimta, Ghatam, Jaltarang etc. Avanaddha Vadya - Sound produced by striking on animal skin. Example - Tabla, Mridangam, Dhol, Damru etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (4th Shift)"
+    },
+    {
+        "id": 31,
+        "question": {
+            "type": "text",
+            "content": "Bickram Ghosh, a recipient of Global Indian Music Award, is a music composer and an Indian classical _ player."
+        },
+        "options": [
+            {
+                "text": "tanpura"
+            },
+            {
+                "text": "sarangi"
+            },
+            {
+                "text": "tabla"
+            },
+            {
+                "text": "bansuri"
+            }
+        ],
+        "answer": "tabla",
+        "solution": {
+            "type": "text",
+            "content": "Tabla. On 1 October 2012, Ghosh won the 2012 Global Indian Music Academy (GIMA) Awards in the Best Pop/Rock Single category for his composition, Vande Mataram."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 27/05/2022 (Evening)"
+    },
+    {
+        "id": 32,
+        "question": {
+            "type": "text",
+            "content": "Padma Vibhushan awardee Umayalpuram K. Sivaraman is a_ player."
+        },
+        "options": [
+            {
+                "text": "Mridangam"
+            },
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "Violin"
+            },
+            {
+                "text": "Veena"
+            }
+        ],
+        "answer": "Mridangam",
+        "solution": {
+            "type": "text",
+            "content": "Mridangam. Umayalpuram K. Shivaraman is the Mridangam Player. More Awards he got are Sangeetha Kalasikhamani from The Indian Fine Arts Society in 1984, Kalaimamani (Tamil Nadu,1977), Sangeetha Kalanidhi from Madras Music Academy in 2001, Padma Vibhushan from Government of India in 2010."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 30/05/2022 (Morning)"
+    },
+    {
+        "id": 33,
+        "question": {
+            "type": "text",
+            "content": "Rajeev Taranath, a disciple of Ali Akbar Khan, isa player."
+        },
+        "options": [
+            {
+                "text": "tabla"
+            },
+            {
+                "text": "Flute"
+            },
+            {
+                "text": "Sarod"
+            },
+            {
+                "text": "Santoor"
+            }
+        ],
+        "answer": "Sarod",
+        "solution": {
+            "type": "text",
+            "content": "Sarod. He is conferred with many awards such as the Padma Shri (2019), Sangeet Vidhwan Award (2018), Sangeet Natak Akademi Award (1999-2000), Sangeet Nritya Akademi Award (1993), Karnataka Rajya Prashasti (1996)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 30/05/2022 (Afternoon)"
+    },
+    {
+        "id": 34,
+        "question": {
+            "type": "text",
+            "content": "Pandit Ananda Gopal Bandopadhyay was a player of the Banaras gharana."
+        },
+        "options": [
+            {
+                "text": "sarangi"
+            },
+            {
+                "text": "sarod"
+            },
+            {
+                "text": "sitar"
+            },
+            {
+                "text": "tabla"
+            }
+        ],
+        "answer": "tabla",
+        "solution": {
+            "type": "text",
+            "content": "Tabla. In 1965, he won the first prize in The All India Radio music competition, and was awarded the President's Gold Medal. In 2012, he was awarded the Sangeet Ratna Award by the Salt Lake Music Association."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 30/05/2022 (Evening)"
+    },
+    {
+        "id": 35,
+        "question": {
+            "type": "text",
+            "content": "Padma Bhushan awardee Ustad Sabri Khan was a player."
+        },
+        "options": [
+            {
+                "text": "sarangi"
+            },
+            {
+                "text": "Flute"
+            },
+            {
+                "text": "santoor"
+            },
+            {
+                "text": "Sarod"
+            }
+        ],
+        "answer": "sarangi",
+        "solution": {
+            "type": "text",
+            "content": "Sarangi. Ustad Sabri Khan was awarded Shobhna Kala Sangam Award (1985), Sangeet Natak Akademi Award (1986), Padma Shri (1992), Ustad Chand Khan Award (2002), Sangeet Bhushan Award (2002), Padma Bhushan (2006), etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 03/06/2022 (Morning)"
+    },
+    {
+        "id": 36,
+        "question": {
+            "type": "text",
+            "content": "Who among the following is India's only publicly well-known woman shehnai player?"
+        },
+        "options": [
+            {
+                "text": "Gauhar Jaan"
+            },
+            {
+                "text": "Binodini Dasi"
+            },
+            {
+                "text": "Bageshwari Qamar"
+            },
+            {
+                "text": "Rasoolan Bai"
+            }
+        ],
+        "answer": "Bageshwari Qamar",
+        "solution": {
+            "type": "text",
+            "content": "Bageshwari Qamar. Gauhar Jaan was an Indian singer (thumri, Dadra, kajri, and Tarana) and dancer from Kolkata. Binodini Dasi was an Indian Bengali actress and thespian. Rasoolan Hussain was a leading Indian Hindustani classical music vocalist, belonging to the Benaras Gharana."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 06/06/2022 (Morning)"
+    },
+    {
+        "id": 37,
+        "question": {
+            "type": "text",
+            "content": "Padma Bhushan awardee Pandit Nikhil Jyoti Ghosh was a player."
+        },
+        "options": [
+            {
+                "text": "sarod"
+            },
+            {
+                "text": "tabla"
+            },
+            {
+                "text": "harmonium"
+            },
+            {
+                "text": "flute"
+            }
+        ],
+        "answer": "tabla",
+        "solution": {
+            "type": "text",
+            "content": "Tabla. Pandit Nikhil Jyoti Ghosh was an Indian musician known for his proficiency on the percussion instrument tabla. He was awarded the Padma Bhushan (1990) and the Ustad Hafiz Ali Khan Award (1995)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 07/06/2022 (Morning)"
+    },
+    {
+        "id": 38,
+        "question": {
+            "type": "text",
+            "content": "Who among the following is an outstanding player to have mastered the surbahar instrument?"
+        },
+        "options": [
+            {
+                "text": "Ustad Imrat Khan"
+            },
+            {
+                "text": "Allaudin Khan"
+            },
+            {
+                "text": "Ali Akbar Khan"
+            },
+            {
+                "text": "Abdul Karim Khan"
+            }
+        ],
+        "answer": "Ustad Imrat Khan",
+        "solution": {
+            "type": "text",
+            "content": "Ustad Imrat Khan. He was awarded the Sangeet Natak Akademi Award (1988), and the Padma Shri award (2017)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 07/06/2022 (Evening)"
+    },
+    {
+        "id": 39,
+        "question": {
+            "type": "text",
+            "content": "Padma Bhushan awardee Vikku Vinayakaram is a player."
+        },
+        "options": [
+            {
+                "text": "Pakhawaj"
+            },
+            {
+                "text": "Dholak"
+            },
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "Ghatam"
+            }
+        ],
+        "answer": "Ghatam",
+        "solution": {
+            "type": "text",
+            "content": "Ghatam. Vikku Vinayakram (percussionist) plays Ghatam, and Morsing (instrument mainly used in Rajasthan). Other Ghatam players include Umayalpuram, K. Narayanaswamy, Tripunithura N. Radhakrishnan, Giridhar Udupa, Trichy Sankaran, etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 08/06/2022 (Afternoon)"
+    },
+    {
+        "id": 40,
+        "question": {
+            "type": "text",
+            "content": "Lalgudi Gopala lyer Jayaraman used to play which of the following instruments?"
+        },
+        "options": [
+            {
+                "text": "Harmonium"
+            },
+            {
+                "text": "Mridangam"
+            },
+            {
+                "text": "Flute"
+            },
+            {
+                "text": "Violin"
+            }
+        ],
+        "answer": "Violin",
+        "solution": {
+            "type": "text",
+            "content": "Violin. Lalgudi Gopala lyer Jayaraman was an Indian Carnatic violinist, vocalist and composer. He was awarded the Padma Shri (1972), Padma Bhushan (2001) and National Film Award (Best Music Direction; Sringaram; 2006)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/06/2022 (Afternoon)"
+    },
+    {
+        "id": 41,
+        "question": {
+            "type": "text",
+            "content": "Pandit Swapan Chaudhuri is associated with instrument."
+        },
+        "options": [
+            {
+                "text": "veena"
+            },
+            {
+                "text": "tabla"
+            },
+            {
+                "text": "harmonium"
+            },
+            {
+                "text": "bansuri"
+            }
+        ],
+        "answer": "harmonium",
+        "solution": {
+            "type": "text",
+            "content": "Tabla. Pandit Swapan Chaudhuri: Awards Sangeet Natak Academy Award (1996), Padma Shri (2019)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/06/2022 (Morning)"
+    },
+    {
+        "id": 42,
+        "question": {
+            "type": "text",
+            "content": "Which of the following pairs is INCORRECT?"
+        },
+        "options": [
+            {
+                "text": "Kumar Gandharva - Guitar"
+            },
+            {
+                "text": "Zia Mohiuddin Dagar - Rudra Vina"
+            },
+            {
+                "text": "Kadri Gopalnath - Saxophone"
+            },
+            {
+                "text": "Bombay Jayashree - Vocalist"
+            }
+        ],
+        "answer": "Kumar Gandharva - Guitar",
+        "solution": {
+            "type": "text",
+            "content": "Kumar Gandharva was a Hindustani classical singer well known for his unique vocal style and his refusal to be bound by the tradition of any gharana."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/06/2022 (Evening)"
+    },
+    {
+        "id": 43,
+        "question": {
+            "type": "text",
+            "content": "A Ghatam is a"
+        },
+        "options": [
+            {
+                "text": "large, narrow-mouthed earthenware pot used as a percussion instrument"
+            },
+            {
+                "text": "small handheld drum that resembles a tambourine"
+            },
+            {
+                "text": "wind instrument made of wood and metal"
+            },
+            {
+                "text": "percussion instrument made of leather and jackwood."
+            }
+        ],
+        "answer": "large, narrow-mouthed earthenware pot used as a percussion instrument",
+        "solution": {
+            "type": "text",
+            "content": "A Ghatam is a large, narrow-mouthed earthenware pot used as a percussion instrument. Examples of Percussion instruments- Piano, Timpani, Xylophone, Cymbals, Triangle, Drums, Tambourine, Maracas."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 11/04/2022 (Morning)"
+    },
+    {
+        "id": 44,
+        "question": {
+            "type": "text",
+            "content": "Which of the following musical instruments did Dwaram Venkataswamy Naidu play? (b) Mandolin"
+        },
+        "options": [
+            {
+                "text": "Mandolin"
+            },
+            {
+                "text": "Violin"
+            },
+            {
+                "text": "Veena"
+            },
+            {
+                "text": "Nadaswaram"
+            }
+        ],
+        "answer": "Mandolin",
+        "solution": {
+            "type": "text",
+            "content": "Violin. Awards and Honours:- Padma Shri (1957), Sangeeta Kalanidhi (1941), Kalaprapoorna (1950), Sangeet Natak Akademi Award (1953), Raja Lakshmi Award (1992)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 11/04/2022 (Afternoon)"
+    },
+    {
+        "id": 45,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is not a percussion instrument?"
+        },
+        "options": [
+            {
+                "text": "Ghatam"
+            },
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "mridangam"
+            },
+            {
+                "text": "sarod bass drum, tambourine, maracas, gongs, chimes, celesta, and piano. Sarod, stringed musical instrument of the lute family."
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/04/2022 (Evening)"
+    },
+    {
+        "id": 46,
+        "question": {
+            "type": "text",
+            "content": "Which of the following musical instruments is also known as a 'Mangal Vadya'?"
+        },
+        "options": [
+            {
+                "text": "Shehnai"
+            },
+            {
+                "text": "Santoor"
+            },
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "Damaru"
+            }
+        ],
+        "answer": "Shehnai",
+        "solution": {
+            "type": "text",
+            "content": "Shehnai. Ustad Bismillah Khan is a famous Shehnai Player. Shehnai is a wind instrument made of wood and metal."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 19/04/2022 (Morning)"
+    },
+    {
+        "id": 47,
+        "question": {
+            "type": "text",
+            "content": "A distinct 'Dhrupad style' is associated with the gharana."
+        },
+        "options": [
+            {
+                "text": "Ajrada"
+            },
+            {
+                "text": "Nathdwara"
+            },
+            {
+                "text": "Jafferkhani"
+            },
+            {
+                "text": "Bishnupur"
+            }
+        ],
+        "answer": "Bishnupur",
+        "solution": {
+            "type": "text",
+            "content": "Bishnupur. Tansen was a famous Dhrupad instrument player. It is the oldest known style of major vocal styles associated with Hindustani classical music, Haveli Sangeet of Pushtimarg Sampraday and also related to the South Indian Carnatic tradition."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 21/04/2022 (Afternoon)"
+    },
+    {
+        "id": 48,
+        "question": {
+            "type": "text",
+            "content": "Which of the following instruments is normally played in a vertical position and with an arched bow?"
+        },
+        "options": [
+            {
+                "text": "Sitar"
+            },
+            {
+                "text": "Shehnai"
+            },
+            {
+                "text": "Sarangi"
+            },
+            {
+                "text": "Veena"
+            }
+        ],
+        "answer": "Shehnai",
+        "solution": {
+            "type": "text",
+            "content": "Sarangi. The Sarangi is a fretless, bowed string instrument used in Hindustani classical music and folk traditions of north India."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/10/2021 (Evening)"
+    },
+    {
+        "id": 49,
+        "question": {
+            "type": "text",
+            "content": "'Ponu Yoksi', a sword like instrument used during ceremonial dances performed by the priests, belongs to:"
+        },
+        "options": [
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Arunachal Pradesh"
+            }
+        ],
+        "answer": "Arunachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Arunachal Pradesh. Some popular instruments (Arunachal Pradesh) include drums, cymbals, Ujuk Tapu, Ame Bali, Emul, Pui, Kiring, Guga etc."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 26/10/2021 (Morning)"
+    },
+    {
+        "id": 50,
+        "question": {
+            "type": "text",
+            "content": "The Kamaicha is a bowed flute played by the Manganiars of:"
+        },
+        "options": [
+            {
+                "text": "west Rajasthan"
+            },
+            {
+                "text": "west Goа"
+            },
+            {
+                "text": "west Bihar"
+            },
+            {
+                "text": "west Kerala"
+            }
+        ],
+        "answer": "west Kerala",
+        "solution": {
+            "type": "text",
+            "content": "Sarod. The percussion family of musical instruments consists of membranophones and idiophones. Examples- Ghatam, Tabla, Mridangam, timpani, xylophone, cymbals, snare drum, Sol.515.(a) West Rajasthan. It is a stringed instrument made of steel, parchment, gut, metal, shisham, and horsehair."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 18/08/2021 (Afternoon)"
+    },
+    {
+        "id": 51,
+        "question": {
+            "type": "text",
+            "content": "'Chinkara' is a Carnatic classical music known as Bobbili Veena/Saraswathi Veena? musical instrument popular in the state of"
+        },
+        "options": [
+            {
+                "text": "Teak wood"
+            },
+            {
+                "text": "Jackfruit wood Madhya Pradesh."
+            },
+            {
+                "text": "Walnut wood"
+            },
+            {
+                "text": "Sandal wood SSC CGL 24/08/2021"
+            },
+            {
+                "text": "plate"
+            },
+            {
+                "text": "membrane"
+            },
+            {
+                "text": "stringed"
+            },
+            {
+                "text": "wind"
+            }
+        ],
+        "answer": "Walnut wood",
+        "solution": {
+            "type": "text",
+            "content": "Stringed. It is made of parchment, wood and steel. This instrument is used by the 'Pradhan community of Madhya Pradesh and the 'Meo' community of Rajasthan."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 09/03/2020 (Morning)"
+    },
+    {
+        "id": 52,
+        "question": {
+            "type": "text",
+            "content": "The traditional binding instrument called \"Pena\" is related to which of the following state?"
+        },
+        "options": [
+            {
+                "text": "Sikkim"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Goa"
+            },
+            {
+                "text": "Manipur"
+            }
+        ],
+        "answer": "Manipur",
+        "solution": {
+            "type": "text",
+            "content": "Manipur. Pena is also known as Tingtelia is a mono string instrument falling in the lute category, similar to some of the traditional Indian stringed musical instruments such as Ravanahatha, Ubo or the Kenda, found in various parts of the country."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/04/2021 (Afternoon)"
+    },
+    {
+        "id": 53,
+        "question": {
+            "type": "text",
+            "content": "The musical instrument 'Kartal' from the state of Rajasthan comes under the category of"
+        },
+        "options": [
+            {
+                "text": "electrophones"
+            },
+            {
+                "text": "membranophones"
+            },
+            {
+                "text": "chordophones"
+            },
+            {
+                "text": "idiophones"
+            }
+        ],
+        "answer": "idiophones",
+        "solution": {
+            "type": "text",
+            "content": "Idiophone is a percussion instrument. It is classified as an idiophone because the entire instrument vibrates to produce a sound on its own."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 06/08/2021 (Morning)"
+    },
+    {
+        "id": 54,
+        "question": {
+            "type": "text",
+            "content": "The_ is a single string musical instrument made using bamboo and a gourd, mostly used by traditional folk singers in Maharashtra."
+        },
+        "options": [
+            {
+                "text": "Edakka"
+            },
+            {
+                "text": "Esraj"
+            },
+            {
+                "text": "Ekkalam"
+            },
+            {
+                "text": "Ektara"
+            }
+        ],
+        "answer": "Ektara",
+        "solution": {
+            "type": "text",
+            "content": "Ektara is a drone flute consisting of a gourd resonator covered with skin, through which a bamboo neck is inserted. Ektara means \"one string\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 25/11/2020 (Evening)"
+    },
+    {
+        "id": 55,
+        "question": {
+            "type": "text",
+            "content": "'Khuang' is a traditional musical instrument of which state?"
+        },
+        "options": [
+            {
+                "text": "Jharkhand"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Mizoram"
+            }
+        ],
+        "answer": "Mizoram",
+        "solution": {
+            "type": "text",
+            "content": "Mizoram. It is made up of a hollow tree, wrapped on both sides with animal skin."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/10/2020 (Morning)"
+    },
+    {
+        "id": 56,
+        "question": {
+            "type": "text",
+            "content": "The wood of which of the following trees is used to make the large plucked string instrument used in"
+        },
+        "options": [],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "Jackfruit wood. Bobbili Veena is carved from a single piece of jackfruit wood."
+        },
+        "videoUrl": "",
+        "status": ""
+    }
+]

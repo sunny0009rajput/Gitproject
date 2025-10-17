@@ -1,0 +1,646 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "Who was the singer of the famous song 'Mere Desh Ki Dharti Sona Ugle' from the film 'Upkar (1967)?"
+        },
+        "options": [
+            {
+                "text": "KJ Yesudas"
+            },
+            {
+                "text": "Suresh Wadkar"
+            },
+            {
+                "text": "Manna Dey"
+            },
+            {
+                "text": "Mahendra Kapoor"
+            }
+        ],
+        "answer": "Mahendra Kapoor",
+        "solution": {
+            "type": "text",
+            "content": "Mahendra Kapoor (Indian playback singer) received Padma Shri (1972). Famous Patriotic songs: \"Hai preet jahan ki reet sada, main geet wahan ke gata hoon\" (Mahendra Kapoor), \"Des rangila\" (Mahalakshmi lyer), \"Maa tujhe salam\" (AR Rahman), \"Kar chale hum fida jaan-o-tan saathiyon\" (Mohammed Rafi), \"Aye mere pyare watan, aye mere bichchde chaman, tujhpe dil qurban\" (Manna Dey)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "Identify the Indian singer who sang the song 'Ae mere watan ke logon jara akhon mein bharlo paani... before the first Prime Minister of India, Pandit Jawaharlal Nehru."
+        },
+        "options": [
+            {
+                "text": "Lata Mangeshkar"
+            },
+            {
+                "text": "Mohammad Rafi"
+            },
+            {
+                "text": "Mukesh"
+            },
+            {
+                "text": "Asha Bhosle"
+            }
+        ],
+        "answer": "Lata Mangeshkar",
+        "solution": {
+            "type": "text",
+            "content": "Lata Mangeshkar. Patriotic song and singers: Vande Mataram (Lata Mangeshkar), Kar Chale Hum Fida (Mohammad Rafi), Watan Ki Mitti Haath Mein Lekar (Mukesh), De Di Hame Azadi (Asha Bhosle)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/09/2023 (1st Shift)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "Rabindra Sangeet is associated with:"
+        },
+        "options": [
+            {
+                "text": "Rabi"
+            },
+            {
+                "text": "Ravindra Jain"
+            },
+            {
+                "text": "Rabindranath Tagore"
+            },
+            {
+                "text": "Ravi Shankar"
+            }
+        ],
+        "answer": "Rabindranath Tagore",
+        "solution": {
+            "type": "text",
+            "content": "Rabindranath Tagore. Rabindra Sangeet is a set of folk songs sung during festivals and rituals in West Bengal. Folk songs in West Bengal: Bhatiali, baul."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 11/08/2023 (4th shift)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Who is credited with creating the popular Raga Miya Ki Malhar?"
+        },
+        "options": [
+            {
+                "text": "Tansen"
+            },
+            {
+                "text": "Amir Khusrau"
+            },
+            {
+                "text": "Meera Bai"
+            },
+            {
+                "text": "Zakir Hussain"
+            }
+        ],
+        "answer": "Tansen",
+        "solution": {
+            "type": "text",
+            "content": "Tansen. Compositions Darbari Kanhra (night raga), Mian Ki Todi (morning raga), Mian ki Sarang (mid-day raga). Miya ki Malhar (seasonal raga)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/08/2023 (2nd shift)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "Which among the following songs was composed by famous Indian musician Rahul Dev Burman?"
+        },
+        "options": [
+            {
+                "text": "Yeh Dosti Hum Nahi Todenge"
+            },
+            {
+                "text": "Kesariya"
+            },
+            {
+                "text": "Kisi Ki Muskurahaton Pe Ho Nisar"
+            },
+            {
+                "text": "Ae Dil Hai Mushkil"
+            }
+        ],
+        "answer": "Yeh Dosti Hum Nahi Todenge",
+        "solution": {
+            "type": "text",
+            "content": "Yeh Dosti Hum Nahi Todenge (Sholay 1975): Lyricist Anand Bakshi. Singer Manna Dey, Kishore Kumar. Famous Patriotic Songs: Aye Mere Watan Ke Logo (Lata Mangeshkar), Saare Jahan Se Accha (Muhammad Iqbal), Mere desh ki dharti (Mahendra Kapoor), Yeh Jo Des Hai Tera (A.R. Rahman), Sandese Aate Hai (Roop Kumar Rathod, Sonu Nigam)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 03/05/2023 (Morning)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Carnatic music is confined to"
+        },
+        "options": [
+            {
+                "text": "Karnataka, Maharashtra, Gujarat and Rajasthan"
+            },
+            {
+                "text": "Uttar Pradesh, Bihar, West Bengal and Haryana"
+            },
+            {
+                "text": "Gujarat, Maharashtra, Rajasthan and Haryana"
+            },
+            {
+                "text": "Karnataka, Andhra Pradesh, Tamil Nadu and Kerala"
+            }
+        ],
+        "answer": "Karnataka, Andhra Pradesh, Tamil Nadu and Kerala",
+        "solution": {
+            "type": "text",
+            "content": "Carnatic Music : It is accompanied by instruments such as the flute, veena, nadaswaram, mridangam and ghatam. Purandaradasa is considered to be the father of Carnatic music."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/03/2023 (1st Shift)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "The most distinctive type of folk songs of Assam are"
+        },
+        "options": [
+            {
+                "text": "Qawwali songs"
+            },
+            {
+                "text": "Bihu songs"
+            },
+            {
+                "text": "Teej songs"
+            },
+            {
+                "text": "Bhuta songs"
+            }
+        ],
+        "answer": "Bihu songs",
+        "solution": {
+            "type": "text",
+            "content": "Bihu songs. It celebrates the life-sustaining character of the Brahmaputra. Bhuta song of Kerala is based on superstitions to send away evil ghosts and spirits."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (4th Shift)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Qawwali was brought in India from."
+        },
+        "options": [
+            {
+                "text": "Turkey"
+            },
+            {
+                "text": "Saudi Arabia"
+            },
+            {
+                "text": "Mongolia"
+            },
+            {
+                "text": "Persia"
+            }
+        ],
+        "answer": "Persia",
+        "solution": {
+            "type": "text",
+            "content": "Persia. Qawwali is religious Sufi music that celebrates devotion and one's relationship with God. Amir Khusrau is the popularly acknowledged father of Qawwali. Nusrat Fateh Ali Khan recognised as \"Shahenshah-e-Qawwali\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "Which of the following pairs of Thumri Singing-characteristics is correct? I. Poorab - fairly slow and staid II. Punjab - more mercurial"
+        },
+        "options": [
+            {
+                "text": "Only"
+            },
+            {
+                "text": "Only II"
+            },
+            {
+                "text": "Both I and II"
+            },
+            {
+                "text": "Neither I nor II"
+            }
+        ],
+        "answer": "Only II",
+        "solution": {
+            "type": "text",
+            "content": "Both (1) and (II). The thumri is another North Indian vocal form and is based on the romantic-devotional literature inspired by the bhakti movement. The text is usually derived from the Radha-Krishna theme and is of primary importance."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 09/11/2022 (Morning)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "The famous song 'Aye Mere Watan Ke Logo' was originally sung by"
+        },
+        "options": [
+            {
+                "text": "Shreya Ghoshal"
+            },
+            {
+                "text": "Lata Mangeshkar"
+            },
+            {
+                "text": "Arijit Singh"
+            },
+            {
+                "text": "Asha Bhosle"
+            }
+        ],
+        "answer": "Arijit Singh",
+        "solution": {
+            "type": "text",
+            "content": "Lata Mangeshkar. Patriotic songs Mere Desh ki Dharti (Mahendra Kapoor), Teri Mitti (B.Praak), Chhodo Kal Ki Baatein (Mukesh)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 06/07/2022 (Evening)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "_ is a vocal form of music from the state of Punjab."
+        },
+        "options": [
+            {
+                "text": "Qawwali"
+            },
+            {
+                "text": "Tappa"
+            },
+            {
+                "text": "Ghazal"
+            },
+            {
+                "text": "Bhajan"
+            }
+        ],
+        "answer": "Ghazal",
+        "solution": {
+            "type": "text",
+            "content": "Tappa. The ghazal is a form of amatory poem or ode, originating in Arabic poetry. Bhajan refers to any devotional song with a religious theme or spiritual ideas, specifically among Indian religions, in any language."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/04/2022(Morning)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "Lalita is a form of folk music from"
+        },
+        "options": [
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Gujarat"
+            }
+        ],
+        "answer": "Rajasthan",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra. Famous Folk music of Maharashtra are Bhajan, Bharud, Gondhal, Kirtan, Lalita, Abhangas and Tumbadi singing."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 19/04/2022 (Afternoon)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a folk song genre popular in parts of West Bengal, Assam and Bangladesh?"
+        },
+        "options": [
+            {
+                "text": "Chalo"
+            },
+            {
+                "text": "Roppi"
+            },
+            {
+                "text": "Bhawaiya"
+            },
+            {
+                "text": "Rekham Pada"
+            }
+        ],
+        "answer": "Bhawaiya",
+        "solution": {
+            "type": "text",
+            "content": "Bhawaiya. Chalo (folk song of Haryana). Baul (Bengal), Lavani (Maharashtra), Bhavgeet (Karnataka), Nattupura Pattu (Tamil Nadu), Zeliang (Nagaland), Maand (Rajasthan), Kajari (Uttar Pradesh, Bihar), Baryi (Arunachal Pradesh)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 19/04/2022 (Evening)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "Owi, a typical folk song which is made up of couplets describing women's maternal and marital homes and is sung by village womenfolk while performing routine chores throughout the day, belongs to which state?"
+        },
+        "options": [
+            {
+                "text": "Mizoram"
+            },
+            {
+                "text": "Goa"
+            },
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Maharashtra"
+            }
+        ],
+        "answer": "Maharashtra",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/10/2021 (Afternoon)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "Filmmaker Utpal Borpujari's documentary, 'Songs of the ' is based on the folk songs and culture of the Naga tribes."
+        },
+        "options": [
+            {
+                "text": "Blue River"
+            },
+            {
+                "text": "Blue Earth"
+            },
+            {
+                "text": "Blue Sky"
+            },
+            {
+                "text": "Blue Hills"
+            }
+        ],
+        "answer": "Blue Hills",
+        "solution": {
+            "type": "text",
+            "content": "Blue hills. Folk songs of Nagaland are Hekaileu (Songs about oneself), Heliamleu (Dancing songs), and Hereileu (War songs). Folk Songs and Culture of Naga tribes inspire the \"Songs of the Blue hills\" documentary."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/10/2021 (Afternoon)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "'Pandavani' is the celebrated folklore of _"
+        },
+        "options": [
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Chhattisgarh"
+            },
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Karnataka most"
+            }
+        ],
+        "answer": "Chhattisgarh",
+        "solution": {
+            "type": "text",
+            "content": "Chhattisgarh. List of folktales of Chhattisgarh are- Mohna de Gori Kayina, Dhola Maru, Fox and Mahadev, Sada Brij Saaranga, Vikramāditya as Bikai, Vikramaditya with Manwa-Patwa, Satvantin, Thag, and Big."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/10/2021 (Afternoon)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a form of devotional poetry sung in praise of God Vithoba?"
+        },
+        "options": [
+            {
+                "text": "Shabad"
+            },
+            {
+                "text": "Abhang"
+            },
+            {
+                "text": "Tevaram"
+            },
+            {
+                "text": "Bhatiali"
+            }
+        ],
+        "answer": "Abhang",
+        "solution": {
+            "type": "text",
+            "content": "Abhangs are sung during the pilgrimage to the temples of Pandharpur, by the devotees. Tevaram - The Ancient Tamil Shaivite Devotional Hymns of Tamil Sangam Period. Shabads are devotional songs of the Sikhs sung in gurdwaras or religious occasions."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/10/2021 (Evening)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "Bhalari is one of the popular folk songs of sung by farmers while working in their fields."
+        },
+        "options": [
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Bihar"
+            }
+        ],
+        "answer": "Maharashtra",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/10/2021 (Evening)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Mando is a form of folk songs from the state of"
+        },
+        "options": [
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Manipur"
+            },
+            {
+                "text": "Goa"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Goa",
+        "solution": {
+            "type": "text",
+            "content": "Goa. The Mando is the love song of the people of Goa. Dhalo is a popular ritual folk dance form Goa. The major art forms of the Goa include bamboo craft, woodcarving, brass metals, seashell craft, Papier-Mache, and wooden lacquerware. Folk song cum Dance- Dekhni, Foogdi, Mussal Khel, Dhalo, Kunbi."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 2/11/2021 (Morning)"
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "Padavali Kirtan refers to songs composed in the medieval period of West Bengal (15th to 17th century) in praise of"
+        },
+        "options": [
+            {
+                "text": "Shakti"
+            },
+            {
+                "text": "Vishnu"
+            },
+            {
+                "text": "Shiva"
+            },
+            {
+                "text": "Brahma"
+            }
+        ],
+        "answer": "Vishnu",
+        "solution": {
+            "type": "text",
+            "content": "Vishnu. The term padavali literally means \"gathering of songs\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 20/08/2021 (Morning)"
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "A Shadava Raga has only notes in its scale."
+        },
+        "options": [
+            {
+                "text": "seven"
+            },
+            {
+                "text": "eight"
+            },
+            {
+                "text": "five"
+            },
+            {
+                "text": "six"
+            }
+        ],
+        "answer": "six",
+        "solution": {
+            "type": "text",
+            "content": "Six. There are around 83 ragas in Indian classical music."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 05/08/2021 (Afternoon)"
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "Which of the following songs do the peasants of Rajasthan sing while working in fields?"
+        },
+        "options": [
+            {
+                "text": "Pankhida"
+            },
+            {
+                "text": "Chhakri"
+            },
+            {
+                "text": "Pandavani"
+            },
+            {
+                "text": "Barahmasa"
+            }
+        ],
+        "answer": "Pankhida",
+        "solution": {
+            "type": "text",
+            "content": "Pankhida. The peasants sing and speak while playing algoza and manjira. Pandavani (Chattisgarh), Chhakri (Jammu and Kashmir), and Barahmasa (Uttar Pradesh)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Evening)"
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "Bhatiali is the folk music of which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "West Bengal"
+            }
+        ],
+        "answer": "West Bengal",
+        "solution": {
+            "type": "text",
+            "content": "West Bengal. Bhatiali is a river song mostly sung by boatmen while going down streams of the river."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/10/2020 (Afternoon)"
+    }
+]

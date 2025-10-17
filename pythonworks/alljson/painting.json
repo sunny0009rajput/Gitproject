@@ -1,0 +1,730 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "With the arrival of spring, villages dance to the melodious singing of 'Bagurumba'."
+        },
+        "options": [
+            {
+                "text": "Bodo"
+            },
+            {
+                "text": "Khasi"
+            },
+            {
+                "text": "Garo"
+            },
+            {
+                "text": "Karbi"
+            }
+        ],
+        "answer": "Bodo",
+        "solution": {
+            "type": "text",
+            "content": "Bodo. Other tribes and their dances: Khasi Nongkrem dance. Garо - Wangala dance. Karbi Domahi Kikang dance."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "Santhal community is an ethnic group of_ India."
+        },
+        "options": [
+            {
+                "text": "eastern"
+            },
+            {
+                "text": "northern"
+            },
+            {
+                "text": "southern"
+            },
+            {
+                "text": "western"
+            }
+        ],
+        "answer": "eastern",
+        "solution": {
+            "type": "text",
+            "content": "Eastern. Santhal community is primarily found in the states of Jharkhand, West Bengal, Odisha, and Bihar. Tribes in five distinct regions are Himalayan region (Gaddi, the Jaunsari, the Naga, etc.), Middle India (Munda, the Santhal), Western India (Bhil, the Grasia), South Indian Region (Toda, the Chenchu) and the Islands Region (with tribes like the Onge in Bay of Bengal). Highest Scheduled Tribes Populated state Madhya Pradesh."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 10/05/2023 (Morning)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "Garo tribe is related with which region of India?"
+        },
+        "options": [
+            {
+                "text": "Western"
+            },
+            {
+                "text": "North-eastern"
+            },
+            {
+                "text": "South"
+            },
+            {
+                "text": "South-western"
+            }
+        ],
+        "answer": "South",
+        "solution": {
+            "type": "text",
+            "content": "North-eastern. Tribes of Meghalaya: Garo, Khasi, Jaintia. Region wise Tribes of India: Western region Bhil, Gond, and Koli; South region Toda, Kurumba, and Irula; Eastern region- Munda, Santhal, and Oraon; Central region - Baiga, Muria, Gonds."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/05/2023 (Afternoon)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT a major tribe of South India?"
+        },
+        "options": [
+            {
+                "text": "Dang"
+            },
+            {
+                "text": "Toda"
+            },
+            {
+                "text": "Badaga"
+            },
+            {
+                "text": "Irula"
+            }
+        ],
+        "answer": "Dang",
+        "solution": {
+            "type": "text",
+            "content": "Dang (Gujarat). Major tribes:- Tamil Nadu Irulas, Badagas, Todas, Kotas, Kurumbas; Andhra Pradesh -Gadaba, Andh, Sadhu Andh, Thoti; Arunachal Pradesh - Apatanis, abor, Dafla, Galong, Momba, Tagin; Assam Bodo, Chakma, Dimasa, Hajong, Garos, Khasis. Major facts: The Gond and Bhil comprise the largest tribal group of India. The smallest tribal community is the Andamanese."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 16/06/2023 (Afternoon)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "Which of the following tribes belongs to the Indo - European Linguistic family?"
+        },
+        "options": [
+            {
+                "text": "Garo"
+            },
+            {
+                "text": "Gondi"
+            },
+            {
+                "text": "Korwa"
+            },
+            {
+                "text": "Bhil"
+            }
+        ],
+        "answer": "Bhil",
+        "solution": {
+            "type": "text",
+            "content": "Bhil. They are considered as one of the oldest tribes in India. They were mainly found in parts of Rajasthan, Gujarat, Malwa, Madhya Pradesh and Bihar. Pahari Korwa is mainly concentrated in Jashpur, Sarguja and Raigarh districts of Chhattisgarh. They are a branch of the Kolarian tribe and speak Mundari language."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 19/06/2023 (Morning)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Warli Painting is the folk painting of state of India."
+        },
+        "options": [
+            {
+                "text": "Manipur"
+            },
+            {
+                "text": "Mizoram"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Maharashtra"
+            }
+        ],
+        "answer": "Maharashtra",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra. Warli painting is a form of tribal art mostly created by the tribal people from the North Sahyadri Range in Maharashtra. Other folk paintings- Bihar (Madhubani Paintings), Odisha (Pattachitra Art), Gujarat (Pithora Painting), Andhra Pradesh (Kalamkari Paintings), West Bengal (Kalighat Pat Art), Miniature Painting (Rajasthan), Tanjore Painting (Tamil Nadu), Gond Painting (Madhya Pradesh), Phad (Rajasthan), Cheriyal Scrolls (Telangana)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/03/2023 (1st Shift)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Madhubani style of painting originated in the state of"
+        },
+        "options": [
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Bihar",
+        "solution": {
+            "type": "text",
+            "content": "Bihar. Madhubani paintings (Mithila Art): features - Made by using natural extract like powdered rice and paint using fingers, bamboo twigs, cotton rags. Other famous paintings: Gujarat Warli Painting, Rabari Embroidery, Pithora Paintings; Karnataka Mysore painting; Rajasthan - Phad Paintings."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Thangka painting style depicts _ deity."
+        },
+        "options": [
+            {
+                "text": "Islamic"
+            },
+            {
+                "text": "Jewish"
+            },
+            {
+                "text": "Buddhist"
+            },
+            {
+                "text": "Hindu"
+            }
+        ],
+        "answer": "Jewish",
+        "solution": {
+            "type": "text",
+            "content": "Buddhist. Thangka Painting is a Tibetan Buddhist Painting painted on cotton and silk cloths. Kalighat Painting - Calcutta."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (4th Shift)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "In which of the following states is Bhiti Chitra (fresco painting) a popular art form?"
+        },
+        "options": [
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Nagaland"
+            },
+            {
+                "text": "Haryana"
+            },
+            {
+                "text": "Maharashtra"
+            }
+        ],
+        "answer": "Haryana",
+        "solution": {
+            "type": "text",
+            "content": "Haryana. Mata Mansa Devi Temple, Kalayat Kapil Muni Temple, and Havelis at Bhiwani possess illustrious examples of such paintings."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 07/10/2021 (Morning)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "The 'Paitkar' paintings are unique cultural symbols of"
+        },
+        "options": [
+            {
+                "text": "Jharkhand"
+            },
+            {
+                "text": "Telangana"
+            },
+            {
+                "text": "Chhattisgarh"
+            },
+            {
+                "text": "Karnataka"
+            }
+        ],
+        "answer": "Jharkhand",
+        "solution": {
+            "type": "text",
+            "content": "Jharkhand. Paitkar painting is a folk painting found in East India in the form of scrolls. The Paitkar painting occurs in the bordering areas of Jharkhand, West Bengal and Orissa and is considered as the oldest tribal painting of India."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/10/2021 (Morning)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "To which of the following states do 'Kajali Paintings', in which no brush is used, traditionally belong?"
+        },
+        "options": [
+            {
+                "text": "Jharkhand"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Rajasthan",
+        "solution": {
+            "type": "text",
+            "content": "Rajasthan. Kajali paintings are made from black kajal and stone colors, and require extensive hard work and expert hands."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/10/2021 (Afternoon)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "Which one of the following is a ritual folk art traditional to the state of Kerala?"
+        },
+        "options": [
+            {
+                "text": "Margomkali"
+            },
+            {
+                "text": "Phad"
+            },
+            {
+                "text": "Manjari"
+            },
+            {
+                "text": "Pithora"
+            }
+        ],
+        "answer": "Margomkali",
+        "solution": {
+            "type": "text",
+            "content": "Margomkali is a ritual folk art of the Syrian Christians of Kottayam and Thrissur districts."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 27/10/2021 (Evening)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Which goats' underfur is woven into fine shawls called Pashmina shawls?"
+        },
+        "options": [
+            {
+                "text": "Kashmiri goat"
+            },
+            {
+                "text": "Alpine goat"
+            },
+            {
+                "text": "Jamnapari goat"
+            },
+            {
+                "text": "Boer goat"
+            }
+        ],
+        "answer": "Kashmiri goat",
+        "solution": {
+            "type": "text",
+            "content": "Kashmiri goat. The Changthangi goat of Ladakh which produces the finest fibre or cashmere also called pashmina wool. The best quality pashmina shawls are found in Kashmir."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 27/10/2021 (Evening)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "'Jadopatiya' is a form of popular in the state of Jharkhand."
+        },
+        "options": [
+            {
+                "text": "music"
+            },
+            {
+                "text": "dance"
+            },
+            {
+                "text": "painting"
+            },
+            {
+                "text": "sculpture"
+            }
+        ],
+        "answer": "painting",
+        "solution": {
+            "type": "text",
+            "content": "Painting. These paintings are generally practiced by the Santhals in which the artisans make scrolls called Jado or Jadopatia and are drawn with natural inks and colors."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 16/08/2021 (Evening)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "'Eravalla, Kadar, Muduvar' are languages spoken by the tribes primarily in the state of"
+        },
+        "options": [
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Maharashtra"
+            }
+        ],
+        "answer": "Tamil Nadu",
+        "solution": {
+            "type": "text",
+            "content": "Tamil Nadu - is also home to tribal languages such as Irula, Kurumba, Badaga, Yerukala, Sholaga, Kanikaran, Malsar, Malapandaram, Wayanad Chetti, Muthuvan, Toda, and Kota."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 11/08/2021 (Morning)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "Where in India can we find the Jarawa and the Onge tribes?"
+        },
+        "options": [
+            {
+                "text": "Daman and Diu"
+            },
+            {
+                "text": "Andaman and Nicobar Islands"
+            },
+            {
+                "text": "Chhattisgarh"
+            },
+            {
+                "text": "Arunachal Pradesh"
+            }
+        ],
+        "answer": "Andaman and Nicobar Islands",
+        "solution": {
+            "type": "text",
+            "content": "Tribes of Andaman and Nicobar Islands : Onges, Jarwas, Shompen, and Sentinelese."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 11/08/2021 (Morning)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "'Bauche' is traditional bridegroom's sword worn during a tribal wedding ceremony in:"
+        },
+        "options": [
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Arunachal Pradesh"
+            }
+        ],
+        "answer": "Arunachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Arunachal Pradesh. Traditional dresses : Mekhela Chador (Assam), Pheran (Jammu and Kashmir), Mundum Neriyathum (Kerala), Ghagra Choli (Haryana), Chaniyo Choli (Gujarat), Nauwari Saddi or Lugda (Maharashtra), Nauvari (Goa), Jiasen or Dhara (Meghalaya), Risa and Rikutu- (Tripura)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 11/08/2021 (Evening)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "Which of the following pairs is INCORRECT with reference to paintings in India?"
+        },
+        "options": [
+            {
+                "text": "Saura Paintings - Odisha"
+            },
+            {
+                "text": "Bagh Paintings - Madhya Pradesh"
+            },
+            {
+                "text": "Phad Paintings - Rajasthan"
+            },
+            {
+                "text": "Guler Paintings - Karnataka"
+            }
+        ],
+        "answer": "Guler Paintings - Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Guler Paintings - Karnataka. Guler State is famous as the birthplace of Kangra painting in the first half of the 18th century when a family of Kashmiri painters trained in Mughal painting sought shelter at the court of Raja Dalip Singh. It is famous in Himachal pradesh."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 23/11/2020 (Morning)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Languages like Nyishi, Apatani and Bokar are widely spoken in"
+        },
+        "options": [
+            {
+                "text": "Mizoram"
+            },
+            {
+                "text": "Arunachal Pradesh"
+            },
+            {
+                "text": "Nagaland"
+            },
+            {
+                "text": "Assam"
+            }
+        ],
+        "answer": "Arunachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Arunachal Pradesh. Nyishi, Apatani and Bokar fall under the Tani dialect which is a type of Tibeto-Burman Language and is widely spoken in Arunachal Pradesh."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 24/11/2020 (Evening)"
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "is one of the important crafts of Uttar Pradesh which entails delicate traditional hand embroidery on fabrics like chiffon, muslin, organza, organdie and silk."
+        },
+        "options": [
+            {
+                "text": "Knitting"
+            },
+            {
+                "text": "Chikankari"
+            },
+            {
+                "text": "Crochet"
+            },
+            {
+                "text": "Needle lace"
+            }
+        ],
+        "answer": "Crochet",
+        "solution": {
+            "type": "text",
+            "content": "Chikankari. Chikan in literal sense means embroidery. This art form is known to be introduced by Mughals."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 25/11/2020 (Evening)"
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "Mekhela Chador' is a traditional dress from the state of:"
+        },
+        "options": [
+            {
+                "text": "Tripura"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Assam"
+            }
+        ],
+        "answer": "Assam",
+        "solution": {
+            "type": "text",
+            "content": "Assam."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2020 (Morning)"
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "Pablo Picasso, Claude Monet, Salvador Dali, Vincent Van Gogh were famous for their"
+        },
+        "options": [
+            {
+                "text": "artwork"
+            },
+            {
+                "text": "social work"
+            },
+            {
+                "text": "western music"
+            },
+            {
+                "text": "ballet performances"
+            }
+        ],
+        "answer": "artwork",
+        "solution": {
+            "type": "text",
+            "content": "Artwork."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 18/03/2020 (Evening)"
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "Chenchus schedule tribe belongs to which state of India?"
+        },
+        "options": [
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Nagaland"
+            },
+            {
+                "text": "Telangana"
+            }
+        ],
+        "answer": "Telangana",
+        "solution": {
+            "type": "text",
+            "content": "Telangana. Chenchus are Adivasi, a designated Scheduled Tribe in the Indian states of Andhra Pradesh, Telangana, Karnataka and Odisha."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/03/2020 (Morning)"
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": "Prolific Indian Painter Magbool Fida Hussain predominantly used which of these animals to depict a lively and free spirit in his paintings?"
+        },
+        "options": [
+            {
+                "text": "Tigers"
+            },
+            {
+                "text": "Cows"
+            },
+            {
+                "text": "Elephants"
+            },
+            {
+                "text": "Horses"
+            }
+        ],
+        "answer": "Horses",
+        "solution": {
+            "type": "text",
+            "content": "Horses. Maqbool Fida Hussain was awarded Padma Shri in 1966, Padma Bhushan in 1973 and Padma Vibhushan in 1991. His Paintings :- Mother Teresa, Madhuri Dixit, Hindu Deities, Battle of Ganga and Jamuna, Krishna, Bharat Mata."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 03/03/2020 (Morning)"
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": "The process of coating grooves or engravings in ornaments with coloured enamels is called"
+        },
+        "options": [
+            {
+                "text": "Phulkari"
+            },
+            {
+                "text": "Zardozi"
+            },
+            {
+                "text": "Meenakari"
+            },
+            {
+                "text": "Chikankari"
+            }
+        ],
+        "answer": "Meenakari",
+        "solution": {
+            "type": "text",
+            "content": "Meenakari designing basically refers to the process of coating grooves or engravings in ornaments with colored enamels."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 03/03/2020 (Evening)"
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": "Who wrote the play 'Mricchakatika' (The Little Clay Cart), a social drama with touches of grim reality?"
+        },
+        "options": [
+            {
+                "text": "Raidasa"
+            },
+            {
+                "text": "Kalidasa"
+            },
+            {
+                "text": "Magh"
+            },
+            {
+                "text": "Sudraka"
+            }
+        ],
+        "answer": "Sudraka",
+        "solution": {
+            "type": "text",
+            "content": "Sudraka wrote three Sanskrit plays: Mricchakatika (The Little Clay Cart), Vinavasavadatta and a bhana (short one-act monologue), Padmaprabhritaka."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 07/03/2020 (Afternoon)"
+    }
+]

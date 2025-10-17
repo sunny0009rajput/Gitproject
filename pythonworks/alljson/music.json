@@ -1,0 +1,228 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "Zakir Hussain, Ustad Allah Rakha, Pandit\nShankar Ghosh, Pandit Udhai Mazumdar,\nPandit Vijay Ghate."
+        },
+        "options": [],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "Asad Ali Khan was known for\nplaying which of the following Indian\ninstruments?"
+        },
+        "options": [
+            {
+                "text": "Sitar"
+            },
+            {
+                "text": "Rudra Veena"
+            },
+            {
+                "text": "Violin"
+            },
+            {
+                "text": "Tabla"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 04/10/2023 (Morning)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "Hari Prasad Chaurasia is a\nnotable exponent of which musical\ninstrument?"
+        },
+        "options": [
+            {
+                "text": "Flute"
+            },
+            {
+                "text": "Veena"
+            },
+            {
+                "text": "Sarod"
+            },
+            {
+                "text": "Sitar"
+            }
+        ],
+        "answer": "Flute",
+        "solution": {
+            "type": "text",
+            "content": "Flute. Hariprasad Chaurasia\nawards: Padma Bhushan (1992), Padma\nVibhushan (2000), Gan Samradni Lata\nmangeshkar Award (2021-22), Sangeet\nNatak Academy Award (1983). Some\nother flute players: Ronu Majumdar,\nRakesh Chaurasia, Pannalal Ghosh,\nNityanand Haldipur, Vivek Sonar."
+        },
+        "videoUrl": "",
+        "status": "SSC Stenographer 13/10/2023 (Evening)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Prabhat Sarma, a recipient of\nSangeet Natak Akademi Award, was a\n_ player from Assam."
+        },
+        "options": [
+            {
+                "text": "Tabla"
+            },
+            {
+                "text": "Ghatam"
+            },
+            {
+                "text": "sarangi"
+            },
+            {
+                "text": "Flute"
+            }
+        ],
+        "answer": "Flute",
+        "solution": {
+            "type": "text",
+            "content": "Flute. Prabhat Sarma's\nawards:- Sangeet Natak Akademi Award\n(2003), Asom Shilpi Diwas Award by the\nAssam government (2001). Flute is the\npart of the woodwind family group."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 03/10/2023 (Afternoon)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "Famous musician Talvin Singh is\nassociated with playing the_"
+        },
+        "options": [
+            {
+                "text": "tabla"
+            },
+            {
+                "text": "Flute"
+            },
+            {
+                "text": "veena"
+            },
+            {
+                "text": "shehnai"
+            }
+        ],
+        "answer": "tabla",
+        "solution": {
+            "type": "text",
+            "content": "Tabla. Other tabla players:\nSol.470.(b) Rudra Veena. It is a stringed\ninstrument, which is made of teak wood,\nmetal, pumpkin, and Bamboo. He\nreceived Padma Bhushan (2008) and\nSangeet Natak Akademi Award (1977).\nRudra Veena exponents: Madhuvanti\nPal, Bahauddin Dagar, Zia Mohiuddin\nDagar."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 03/10/2023 (Evening)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Pandit Ram Narayan, a famous\ninstrumentalist, is known for playing\nwhich of the following instruments?"
+        },
+        "options": [
+            {
+                "text": "Sarangi"
+            },
+            {
+                "text": "Sarod"
+            },
+            {
+                "text": "Veena"
+            },
+            {
+                "text": "Ghatam"
+            }
+        ],
+        "answer": "Sarangi",
+        "solution": {
+            "type": "text",
+            "content": "Sarangi. A sarangi is a\nbowed stringed instrument with a\nskin-covered resonator. Pandit Ram\nNarayan awards Padma Shri (1976),\nPadma Bhushan (1991) and Padma\nVibhushan (2005). Other sarangi players-\nUstad Sultan Khan, Ustad Binda Khan,\nSuhali Yusuf Khan."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 04/10/2023 (Evening)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Hara Shankar Bhattacharya is a\nmaestro of"
+        },
+        "options": [
+            {
+                "text": "violin"
+            },
+            {
+                "text": "santoor"
+            },
+            {
+                "text": "sarangi"
+            },
+            {
+                "text": "sitar"
+            }
+        ],
+        "answer": "sitar",
+        "solution": {
+            "type": "text",
+            "content": "Sitar: It is a stringed\ninstrument of the lute family. Its other\nArtists Pandit Ravi Shankar, Nikhil\nBanerjee, Vilayat Khan."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 05/10/2023 (Morning)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Neeruswamy Pillai and\nRajaratanam Pillai are exponents of\nwhich musical instrument?"
+        },
+        "options": [
+            {
+                "text": "Mridangam"
+            },
+            {
+                "text": "Nadaswaram"
+            },
+            {
+                "text": "Mandolin"
+            },
+            {
+                "text": "Sarangi"
+            }
+        ],
+        "answer": "Mandolin",
+        "solution": {
+            "type": "text",
+            "content": "Nadaswaram. It is a double\nreed wind instrument from South India.\nOther Exponents - Sheik Chinna Moulana,\nKarukurichi Arunachalam, Thiruvizha\nJayashankar, and Namagiripettai\nKrishnan. Mridangam- Ramnad\nRaghavan, TK Murthy, Dandamudi Ram\nMohan Rao, T Gopalakrishnan. Mandolin\n- Uppalapu Srinivas, Kishore Desai."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 05/10/2023 (Evening)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "Pandit Bhajan Sopori, who died in\nthe year 2022, was a famous player of\nwhich musical instruments?"
+        },
+        "options": [],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "videoUrl": "",
+        "status": ""
+    }
+]
