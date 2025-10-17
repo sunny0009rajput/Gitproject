@@ -1,0 +1,1262 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "Who among the following wrote the novel 'Kitne Pakistan', which won the Sahitya Akademi Award?"
+        },
+        "options": [
+            {
+                "text": "Rajeshwar Singh"
+            },
+            {
+                "text": "Kamleshwar"
+            },
+            {
+                "text": "Shrilal Shukla"
+            },
+            {
+                "text": "Amrita Pritam"
+            }
+        ],
+        "answer": "Kamleshwar",
+        "solution": {
+            "type": "text",
+            "content": "Kamleshwar. He was awarded the 2003 Sahitya Akademi Award. Other novels: \"Pati Patni Aur Woh\",, \"Samagra Upanyas\"."
+        },
+        "videoUrl": "",
+        "status": "SSC Stenographer 13/10/2023 (Morning)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "Dronacharya Award was started in"
+        },
+        "options": [
+            {
+                "text": "1990"
+            },
+            {
+                "text": "1985"
+            },
+            {
+                "text": "1961"
+            },
+            {
+                "text": "1980"
+            }
+        ],
+        "answer": "1985",
+        "solution": {
+            "type": "text",
+            "content": "1985. Dronacharya Award: The award comprises a bronze statuette of Dronacharya, a certificate, ceremonial dress, and a money prize of Rs 15 lakh (lifetime) and 10 Lakh (regular). The first recipients of the award were Bhalchandra Bhaskar Bhagwat (Wrestling), Om Prakash Bhardwaj (Boxing), and O. M. Nambiar (Athletics), who were honored in 1985."
+        },
+        "videoUrl": "",
+        "status": "SSC Stenographer 13/10/2023 (Afternoon)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "Arjuna Award was introduced in"
+        },
+        "options": [
+            {
+                "text": "1955"
+            },
+            {
+                "text": "1965"
+            },
+            {
+                "text": "1961"
+            },
+            {
+                "text": "1951"
+            }
+        ],
+        "answer": "1961",
+        "solution": {
+            "type": "text",
+            "content": "1961. Arjuna Award: Category Sports honour in India, Sponsored by Government of India. Other awards and their inception: Bharat Ratna (1954), Padma Vibhushan (1954), Rajiv Gandhi Khel Ratna award (1991-1992), Dhyan Chand Award (2002), Dronacharya Award (1985), Noble prize (1901), Sangeet Natak Akademi Award (1952)."
+        },
+        "videoUrl": "",
+        "status": "SSC Stenographer 13/10/2023 (Evening)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Devendra Jhajharia won which medal/place in World Para Athletics Grand Prix?"
+        },
+        "options": [
+            {
+                "text": "Bronze"
+            },
+            {
+                "text": "Gold"
+            },
+            {
+                "text": "Silver"
+            },
+            {
+                "text": "Fourth"
+            }
+        ],
+        "answer": "Silver",
+        "solution": {
+            "type": "text",
+            "content": "Silver. Devendra Jhajharia: Indian Paralympic javelin thrower. He was the first Indian to win two gold medals at Paralympics. World Para Athletics Grand Prix, on 17 September 2022 - Held in Morocco. The first IPC Athletics World Championships were held in Berlin, Germany in 1994."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "The former captain of the Indian women's hockey team _ was conferred with the BBC Lifetime Achievement Award for her contribution to Indian sports and inspiring generations of players."
+        },
+        "options": [
+            {
+                "text": "Rani Rampal"
+            },
+            {
+                "text": "Vandana Katariya"
+            },
+            {
+                "text": "Savita Punia"
+            },
+            {
+                "text": "Pritam Siwach"
+            }
+        ],
+        "answer": "Pritam Siwach",
+        "solution": {
+            "type": "text",
+            "content": "Pritam Siwach. Awards: Arjuna Award (1998), DronaCharya Awards (2021). Rani Rampal (Hockey Player) - Padma Shri (2020), Major Dhyan Chand Khel Ratna Award (2020), Vandana Kataria (Hockey player) - Padma Shri (2022), Arjun Award (2021), Savita Punia (Hockey Player) Arjun Award (2018)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 06/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Lata Mangeshkar was awarded India's highest civilian honor 'Bharat Ratna' in the year"
+        },
+        "options": [
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2019"
+            },
+            {
+                "text": "2001"
+            },
+            {
+                "text": "2009"
+            }
+        ],
+        "answer": "2001",
+        "solution": {
+            "type": "text",
+            "content": "2001. Lata Mangeshkar also known as the 'Nightingale of Bollywood' and Queen of Melody. Awards Padma Bhushan (1969), Padma Vibhushan (1999), Maharashtra Bhushan (1997). Lata Mangeshkar recorded her first song at age 13 for Kiti Hasaal (Marathi Movie)"
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/09/2023 (1st Shift)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Gurucharan Singh received the Padma Shri from the Government of India in 2023 for his contributions to the sport of"
+        },
+        "options": [
+            {
+                "text": "football"
+            },
+            {
+                "text": "kabaddi"
+            },
+            {
+                "text": "basketball"
+            },
+            {
+                "text": "cricket"
+            }
+        ],
+        "answer": "cricket",
+        "solution": {
+            "type": "text",
+            "content": "Cricket. Gurucharan Singh is a cricket coach, the second cricket coach to be awarded the Dronacharya Award (1987) after Desh Prem Azad (awarded in 1986)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/08/2023 (4th shift)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "When was Kapil Dev awarded with Padma Shri Award?"
+        },
+        "options": [
+            {
+                "text": "1981"
+            },
+            {
+                "text": "1980"
+            },
+            {
+                "text": "1982"
+            },
+            {
+                "text": "1983"
+            }
+        ],
+        "answer": "1982",
+        "solution": {
+            "type": "text",
+            "content": "1982. Kapil Dev (The Haryana Hurricane): He was the captain of the Indian cricket team when India lifted a World Cup trophy (1983). Awards - Padma Bhushan (1991), Arjuna Award for Cricket (1979), C. K. Nayudu Lifetime Achievement Award (2013)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/08/2023 (2nd shift)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "Who received the Nobel Prize in 1901 for 'recognition of the extraordinary services rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions'?"
+        },
+        "options": [
+            {
+                "text": "Hermann Emil Fischer"
+            },
+            {
+                "text": "Jacobus Henricus van 't Hoff"
+            },
+            {
+                "text": "Svante August Arrhenius"
+            },
+            {
+                "text": "Henri Moissan"
+            }
+        ],
+        "answer": "Jacobus Henricus van 't Hoff",
+        "solution": {
+            "type": "text",
+            "content": "Jacobus Henricus van't Hoff. Nobel Prize 1902 - Hermann Emil Fischer \"in recognition of the extraordinary services he has rendered by his work on sugar and purine synthesis\". 1903- Svante August Arrhenius \"in recognition of the extraordinary services he has rendered to the advancement of chemistry by his electrolytic theory of dissociation\". 1906 Henri Moissan \"in recognition of the great services rendered by him in his investigation and isolation of the element fluorine, and for the adoption in the service of science of the electric furnace called after him\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 14/07/2023 (1st shift)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "When did Linus Carl Pauling receive the Nobel Prize in Chemistry for 'his research into the nature of the chemical bond and its applications to the elucidation of the structure of complex substances'?"
+        },
+        "options": [
+            {
+                "text": "1954"
+            },
+            {
+                "text": "1950"
+            },
+            {
+                "text": "1956"
+            },
+            {
+                "text": "1958"
+            }
+        ],
+        "answer": "1954",
+        "solution": {
+            "type": "text",
+            "content": "1954. Linus Carl Pauling was also awarded with the Nobel Peace Prize (1962). Some Scientists who won Nobel Prize in Chemistry: Otto Paul Hermann Diels and Kurt Alder (1950) - \"for their discovery and development of the diene synthesis\". Sir Cyril Norman Hinshelwood and Nikolay Semenov (1956) \"for their research into the mechanism of chemical reactions\". Frederick Sanger (1958)- \"for his work on the structure of proteins, especially that of insulin\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 14/07/2023 (2nd shift)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "For which discovery did William Bradford Shockley, John Bardeen and Walter Houser Brattain jointly receive the Nobel Prize in Physics in 1956?"
+        },
+        "options": [
+            {
+                "text": "Discovery of transistor effect"
+            },
+            {
+                "text": "Discovery of thermionic emission"
+            },
+            {
+                "text": "Discovery of electromagnetic induction"
+            },
+            {
+                "text": "Discovery of receptors for temperature and touch"
+            }
+        ],
+        "answer": "Discovery of transistor effect",
+        "solution": {
+            "type": "text",
+            "content": "Discovery of transistor effect. Nobel Prize: Started in 1901, Alfred Nobel (discovered the Dynamite in 1867). Indian who recieved Nobel prize: First Rabindra Nath Tagore 1913 (Literature), Chandrashekhara Venkat Raman 1930 (Physics), Har Gobind Khorana - 1968 (Physiology or Medicine), Amartya sen - 1998 (Economics), Kailash Satyarthi -2014 (Peace)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 17/07/2023 (4th shift)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "Paramvir Chakra, Ashok Chakra and Vir Chakra are presented during the celebration of which day?"
+        },
+        "options": [
+            {
+                "text": "Republic Day"
+            },
+            {
+                "text": "Independence Day"
+            },
+            {
+                "text": "Gandhi Jayanti"
+            },
+            {
+                "text": "Indian Air Force Day"
+            }
+        ],
+        "answer": "Republic Day",
+        "solution": {
+            "type": "text",
+            "content": "Republic Day. Post -independence, the first three gallantry awards were Param Vir Chakra, Maha Vir Chakra, and Vir Chakra, instituted on 26th January 1950 (effective from 15th August 1947). Later, Ashoka Chakra Class-I, Class-II, and Class-III were instituted on 4th January 1952, renamed as Ashoka Chakra, Kirti Chakra, and Shaurya Chakra in January 1967. Order of precedence is Param Vir Chakra, Ashoka Chakra, Mahavir Chakra, Kirti Chakra, Vir Chakra, and Shaurya Chakra."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 17/07/2023 (4th shift)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Who among the following was the first non-European to win a Nobel prize in 1913 in literature for his work 'Gitanjali'?"
+        },
+        "options": [
+            {
+                "text": "Rabindranath Tagore"
+            },
+            {
+                "text": "Dwarka Nath Tagore"
+            },
+            {
+                "text": "Bankim Chandra Chatterjee"
+            },
+            {
+                "text": "Abanindranath Tagore"
+            }
+        ],
+        "answer": "Rabindranath Tagore",
+        "solution": {
+            "type": "text",
+            "content": "Rabindranath Tagore Mystic, artist and Bengali polymath (great poet, philosopher, music composer and a leader of Brahma Samaj). Books written by Rabindranath Tagore Gora (Fair-Faced) and Ghare -Baire (The Home and the World). National anthem of India composed by Rabindranath Tagore."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 24/07/2023 (3rd shift)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "Who among the following is a Nobel Laureate who is also known as the father of micro finance systems?"
+        },
+        "options": [
+            {
+                "text": "Raghuram Rajan"
+            },
+            {
+                "text": "Sandra Rotman"
+            },
+            {
+                "text": "Amartya Sen"
+            },
+            {
+                "text": "Muhammad Yunus"
+            }
+        ],
+        "answer": "Muhammad Yunus",
+        "solution": {
+            "type": "text",
+            "content": "Muhammad Yunus. He is a Bangladeshi social entrepreneur, banker, economist and civil society leader who was awarded the Nobel Peace Prize 2006 for founding the Grameen Bank and work to \"create economic and social development from below\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 25/07/2023(2nd shift)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "Who along with Arthur Compton received the Nobel Prize in 1927 for the development of the cloud chamber for the detection of charged particles?"
+        },
+        "options": [
+            {
+                "text": "Charles Wilson"
+            },
+            {
+                "text": "Ernest Lawrence"
+            },
+            {
+                "text": "Frederick Soddy"
+            },
+            {
+                "text": "Harold Urey"
+            }
+        ],
+        "answer": "Charles Wilson",
+        "solution": {
+            "type": "text",
+            "content": "Charles Wilson. Frederick Soddy A British chemist, won the 1921 Nobel Prize in chemistry for his research on radioactive decay and his formulation of the concept of isotopes. Ernest Lawrence Nobel Prize in Physics in 1939 for his invention of the cyclotron. Harold Urey Nobel Prize in Chemistry in 1934 \"for his discovery of deuterium, a heavy isotope of hydrogen\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 26/07/2023 (3rd shift)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "Who received a Nobel Peace Prize for dismantling apartheid in South Africa?"
+        },
+        "options": [
+            {
+                "text": "Nelson Mandela"
+            },
+            {
+                "text": "Rabindranath Tagore"
+            },
+            {
+                "text": "Mahatma Gandhi"
+            },
+            {
+                "text": "Albert John Lutuli"
+            }
+        ],
+        "answer": "Nelson Mandela",
+        "solution": {
+            "type": "text",
+            "content": "Nelson Mandela and Frederik Willem de Klerk received the Nobel Peace Prize in 1993. Mahatma Gandhi (Symbol of non violence): Nominated for Nobel Peace Prize in 1937, 1938, 1939, 1947 and 1948 but never awarded the prize. Albert John Lutuli: Awarded the 1960 Nobel Peace Prize for his role in leading the non-violent anti -apartheid movement."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "The Nobel Prize for Physics 2022 has been given in the field of:"
+        },
+        "options": [
+            {
+                "text": "Atomic Science"
+            },
+            {
+                "text": "Nuclear Physics"
+            },
+            {
+                "text": "Gravitational force"
+            },
+            {
+                "text": "Quantum Mechanics"
+            }
+        ],
+        "answer": "Quantum Mechanics",
+        "solution": {
+            "type": "text",
+            "content": "Quantum Mechanics: It is the study of how atomic particles exist and interact with each other. Nobel Prize 2022 awards: Physics (Alain Aspect, John F. Clauser and Anton Zeilinger), Chemistry (Carolyn R. Bertozzi, Morten Meldal and K. Barry Sharpless), Medicine (Svante Paabo), Literature (Annie Ernaux), Peace (Ales Bialiatski, the Russian human rights organisation, Ukrainian Center for Civil Liberties), Economics (Ben S. Bernanke, Douglas W. Diamond and Philip H. Dybvig)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "Which citizen of the Republic of India was awarded the Nobel Peace Prize in the year 2014?"
+        },
+        "options": [
+            {
+                "text": "Amartya Sen"
+            },
+            {
+                "text": "C. V. Raman"
+            },
+            {
+                "text": "Kailash Satyarthi"
+            },
+            {
+                "text": "Rabindranath Tagore"
+            }
+        ],
+        "answer": "Kailash Satyarthi",
+        "solution": {
+            "type": "text",
+            "content": "Kailash Satyarthi. The Nobel Peace Prize 2014 was awarded jointly to Kailash Satyarthi and Malala Yousafzai \"for their struggle against the suppression of children and young people and for the right of all children to education\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/03/2023 (4th Shift)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "The first woman to win the Dronacharya Award was weightlifting coach in 2000."
+        },
+        "options": [
+            {
+                "text": "Sunita Sharma"
+            },
+            {
+                "text": "Purnima Mahato"
+            },
+            {
+                "text": "Renu Kohli"
+            },
+            {
+                "text": "Hansa Sharma"
+            }
+        ],
+        "answer": "Hansa Sharma",
+        "solution": {
+            "type": "text",
+            "content": "Hansa Sharma. The Dronacharya award contains a medallion, a certificate, and a money prize of Rs 15 lakh (lifetime) and 10 Lakh (regular). First awarded (1985) Bhalachandra Bhaskar Bhagwat (Wrestling), Om Prakash Bhardwaj (Boxing), О. M. Nambiar (Athletics)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "Who was conferred with the Ashok Chakra for his gallantry in 26/11 Mumbai terrorist attacks?"
+        },
+        "options": [
+            {
+                "text": "Mohan Chand Sharma"
+            },
+            {
+                "text": "Hemant Karkare"
+            },
+            {
+                "text": "RP Diengdoh"
+            },
+            {
+                "text": "Mohit Sharma"
+            }
+        ],
+        "answer": "Hemant Karkare",
+        "solution": {
+            "type": "text",
+            "content": "Hemant Karkare was the chief of the Mumbai Anti-Terrorist Squad (ATS). He was killed in action during the 2008 Mumbai attacks. In 2009, he was posthumously given the Ashoka Chakra, India's highest peacetime gallantry decoration."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (4th Shift)"
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "Which Indian music director was awarded Japan's Fukuoka prize 2016 for his outstanding contribution in creating, preserving and showcasing South Asian traditional fusion music?"
+        },
+        "options": [
+            {
+                "text": "Vishal Bharadwaj"
+            },
+            {
+                "text": "Pritam Chakraborty"
+            },
+            {
+                "text": "AR Rahman"
+            },
+            {
+                "text": "MM Keeravani"
+            }
+        ],
+        "answer": "AR Rahman",
+        "solution": {
+            "type": "text",
+            "content": "A.R. Rahman. Padma Shri (2000), Padma Bhushan (2010), two Grammy Awards (both in 2010)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 07/12/2022 (4th Shift)"
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "On 8 February 2009, for the 51 st Grammy Awards, won in the category Contemporary World Music Album for his collaborative album Global Drum Project along with Mickey Hart, Sikiru Adepoju and Giovanni Hidalgo."
+        },
+        "options": [
+            {
+                "text": "Zakir Hussain"
+            },
+            {
+                "text": "Anindo Chatterjee"
+            },
+            {
+                "text": "Kumar Bose"
+            },
+            {
+                "text": "Swapan Chaudhuri"
+            }
+        ],
+        "answer": "Zakir Hussain",
+        "solution": {
+            "type": "text",
+            "content": "Zakir Hussain. Anindo Chatterjee, tabla player of the Farukhabad gharana school. Kumar Bose (Tabla, Sangeet Natak Akademi award in 2007). Swapan Chaudhuri {Tabla, Padma Shri (2019), Sangeet Natak Academy Award (1997)}."
+        },
+        "videoUrl": "",
+        "status": "Higher Secondary 03/08/2022 (Shift - 4)"
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "Who among the following is the first singer to be presented with India's highest civilian honour, the Bharat Ratna?"
+        },
+        "options": [
+            {
+                "text": "Ustad Ali Akbar Khan"
+            },
+            {
+                "text": "Hariprasad Chaurasia"
+            },
+            {
+                "text": "Madurai Shanmukhavadivu Subbulakshmi"
+            },
+            {
+                "text": "Bismillah Khan"
+            }
+        ],
+        "answer": "Madurai Shanmukhavadivu Subbulakshmi",
+        "solution": {
+            "type": "text",
+            "content": "Madurai Shanmukhavadivu Subbulakshmi. Awards - Bharat Ratna in 1998, Padma Bhushan in 1954, Sangeet Natak Akademi Award in 1956."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/07/2022 (Evening)"
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": "Which of the following awards has been conferred upon Kailash Kher?"
+        },
+        "options": [
+            {
+                "text": "Padma Bhushan"
+            },
+            {
+                "text": "Bharat Ratna"
+            },
+            {
+                "text": "Padma Shri"
+            },
+            {
+                "text": "Padma Vibhushan"
+            }
+        ],
+        "answer": "Padma Shri",
+        "solution": {
+            "type": "text",
+            "content": "Padma Shri (2017). Kailash Kher is an Indian playback singer and music composer."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/07/2022 (Afternoon)"
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": "Bessie Award is a dance award given in which country?"
+        },
+        "options": [
+            {
+                "text": "Germany"
+            },
+            {
+                "text": "Australia"
+            },
+            {
+                "text": "Norway"
+            },
+            {
+                "text": "USA"
+            }
+        ],
+        "answer": "USA",
+        "solution": {
+            "type": "text",
+            "content": "U.S.A. Bessie Awards (The New York Dance and Performance Awards; Established in 1983) are awarded annually to dance artists presenting their work in New York City."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 22/07/2022 (Morning)"
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": "Who among the following Indian musicians received the 'Best Original Song' award for his composition in 'Slumdog Millionaire', at Oscars 2009?"
+        },
+        "options": [
+            {
+                "text": "AR Rahman"
+            },
+            {
+                "text": "Lata Mangeshkar"
+            },
+            {
+                "text": "Asha Bhosle"
+            },
+            {
+                "text": "Gulzar"
+            }
+        ],
+        "answer": "AR Rahman",
+        "solution": {
+            "type": "text",
+            "content": "AR Rahman. He was awarded the Grammy Award for Best Song Written for Visual Media (2010), Jai Ho!."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/07/2022 (Afternoon)"
+    },
+    {
+        "id": 27,
+        "question": {
+            "type": "text",
+            "content": "Which Indian actress was also one of the dancers to be honoured with the 'Padma Shri' award in 1968?"
+        },
+        "options": [
+            {
+                "text": "Hema Malini"
+            },
+            {
+                "text": "Sridevi"
+            },
+            {
+                "text": "Vyjayanthimala"
+            },
+            {
+                "text": "Madhubala"
+            }
+        ],
+        "answer": "Vyjayanthimala",
+        "solution": {
+            "type": "text",
+            "content": "Vyjayanthimala. Award: Padma Vibhushan (2024)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/07/2022 (Afternoon)"
+    },
+    {
+        "id": 28,
+        "question": {
+            "type": "text",
+            "content": "The South Indian film dance choreographer, K Shivashankar, won which of the following prestigious awards in 2010 for the best choreography in the Telugu film Magadheera?"
+        },
+        "options": [
+            {
+                "text": "National Film Award"
+            },
+            {
+                "text": "Filmfare Award"
+            },
+            {
+                "text": "International Film Academy Award"
+            },
+            {
+                "text": "Guild Award"
+            }
+        ],
+        "answer": "National Film Award",
+        "solution": {
+            "type": "text",
+            "content": "National Film Award. The most prominent film award ceremony in India. Established in 1954. It has been administered by the Indian government's Directorate of Film Festivals since 1973."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 26/05/2022 (Afternoon)"
+    },
+    {
+        "id": 29,
+        "question": {
+            "type": "text",
+            "content": "Who was awarded the Nobel Prize in Physics in 1926, 'for his work on the discontinuous structure of matter'?"
+        },
+        "options": [
+            {
+                "text": "Charles Wilson"
+            },
+            {
+                "text": "Murray Gell-Mann"
+            },
+            {
+                "text": "Jean Baptiste Perrin"
+            },
+            {
+                "text": "Owen Willans Richardson"
+            }
+        ],
+        "answer": "Jean Baptiste Perrin",
+        "solution": {
+            "type": "text",
+            "content": "Jean Baptiste Perrin. Charles Thomson Rees Wilson (1927; for his invention of the cloud chamber). Murray Gell- Mann (1969; for the classification of elementary particles and their interactions). Owen Willans Richardson (1928; for his work on the thermionic phenomenon and especially for the discovery of the law named after him)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 27/05/2022 (Evening)"
+    },
+    {
+        "id": 30,
+        "question": {
+            "type": "text",
+            "content": "Who among the following personalities, also associated with poetry and Music has been conferred with the Nobel Prize?"
+        },
+        "options": [
+            {
+                "text": "Rabindra Nath Tagore"
+            },
+            {
+                "text": "Dwijendra Lal Ray"
+            },
+            {
+                "text": "Bankim Chandra Chatterjee"
+            },
+            {
+                "text": "Purandar Das"
+            }
+        ],
+        "answer": "Rabindra Nath Tagore",
+        "solution": {
+            "type": "text",
+            "content": "Rabindranath Tagore is best known as a poet, and in 1913 was the first non-European writer to be awarded the Nobel Prize for Literature (Gitanjali)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 7/06/2022 (Evening)"
+    },
+    {
+        "id": 31,
+        "question": {
+            "type": "text",
+            "content": "In which year was the International Booker Prize established?"
+        },
+        "options": [
+            {
+                "text": "2005"
+            },
+            {
+                "text": "1969"
+            },
+            {
+                "text": "1981"
+            },
+            {
+                "text": "1918"
+            }
+        ],
+        "answer": "2005",
+        "solution": {
+            "type": "text",
+            "content": "2005. 2022- Geetanjali Shree (Tomb of Sand), 2021 - David Diop (At Night All Blood Is Black)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/06/2022 (Evening)"
+    },
+    {
+        "id": 32,
+        "question": {
+            "type": "text",
+            "content": "Who among the following was the first Dr Shanti Swarup Bhatnagar awardee?"
+        },
+        "options": [
+            {
+                "text": "MN Saha"
+            },
+            {
+                "text": "CV Raman"
+            },
+            {
+                "text": "KS Krishnan"
+            },
+            {
+                "text": "S Chandrasekhar"
+            }
+        ],
+        "answer": "CV Raman",
+        "solution": {
+            "type": "text",
+            "content": "KS Krishnan. Dr Shanti Swarup Bhatnagar award: The purpose of the award is to recognise outstanding Indian work in science and technology."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/04/2022 (Morning)"
+    },
+    {
+        "id": 33,
+        "question": {
+            "type": "text",
+            "content": "In which discipline is the Bidhan Chandra Roy Award given"
+        },
+        "options": [
+            {
+                "text": "Law"
+            },
+            {
+                "text": "sports"
+            },
+            {
+                "text": "Architecture"
+            },
+            {
+                "text": "medicine"
+            }
+        ],
+        "answer": "medicine",
+        "solution": {
+            "type": "text",
+            "content": "Medicine. The Bidhan Chandra Roy Award was instituted in 1962. Legal Era Awards given in the field of law. The Pritzker Prize award is given in the Architecture field."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 20/04/2022 (Afternoon)"
+    },
+    {
+        "id": 34,
+        "question": {
+            "type": "text",
+            "content": "Who among the following is the first Indian to get an Oscar Award?"
+        },
+        "options": [
+            {
+                "text": "Bhanu Athaiya"
+            },
+            {
+                "text": "SatyajitRay"
+            },
+            {
+                "text": "AR Rahman"
+            },
+            {
+                "text": "Resul Pookutty"
+            }
+        ],
+        "answer": "Bhanu Athaiya",
+        "solution": {
+            "type": "text",
+            "content": "Bhanu Athaiya. She was a costume designer in more than 100 movies and won an Oscar award in 1983 for the movie 'Gandhi'."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 07/10/2021 (Morning)"
+    },
+    {
+        "id": 35,
+        "question": {
+            "type": "text",
+            "content": "The is Gitanjali Literary Prize awarded in association with which country?"
+        },
+        "options": [
+            {
+                "text": "Germany"
+            },
+            {
+                "text": "France"
+            },
+            {
+                "text": "England"
+            },
+            {
+                "text": "The US"
+            }
+        ],
+        "answer": "England",
+        "solution": {
+            "type": "text",
+            "content": "France. The Gitanjali Literary prize has two aims: to contribute to the promotion of the French language in India and also to the promotion of Indian works in France."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/10/2021 (Afternoon)"
+    },
+    {
+        "id": 36,
+        "question": {
+            "type": "text",
+            "content": "The 'Amrita Devi Bishnoi National Award' is given for:"
+        },
+        "options": [
+            {
+                "text": "environment protection"
+            },
+            {
+                "text": "energy protection"
+            },
+            {
+                "text": "wildlife protection"
+            },
+            {
+                "text": "biodiversity protection"
+            }
+        ],
+        "answer": "wildlife protection",
+        "solution": {
+            "type": "text",
+            "content": "wildlife protection. The 'Amrita Devi Bishnoi National Award' is in remembrance of Amrita Devi Bishnoi, who died in the 1730 Khejarli massacre while trying to protect a grove of Khejri trees in Khejarli, Rajasthan."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/10/2021 (Morning)"
+    },
+    {
+        "id": 37,
+        "question": {
+            "type": "text",
+            "content": "Who among the following was the first recipient of Padma Vibhushan?"
+        },
+        "options": [
+            {
+                "text": "JRD Tata"
+            },
+            {
+                "text": "Satyendra Nath Bose"
+            },
+            {
+                "text": "Hargobind Khorana"
+            },
+            {
+                "text": "John Matthai"
+            }
+        ],
+        "answer": "Satyendra Nath Bose",
+        "solution": {
+            "type": "text",
+            "content": "Satyendra Nath Bose along with Nandalal Bose, Zakir Husain, Balasaheb Gangadhar Kher, V. K. Krishna Menon, and Jigme Dorji Wangchuck (Bhutan), who were honoured with Padma Vibhushan in 1954."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/10/2021 (Evening)"
+    },
+    {
+        "id": 38,
+        "question": {
+            "type": "text",
+            "content": "The Ramon Magsaysay Award was established in the year"
+        },
+        "options": [
+            {
+                "text": "1957"
+            },
+            {
+                "text": "1982"
+            },
+            {
+                "text": "1962"
+            },
+            {
+                "text": "1965"
+            }
+        ],
+        "answer": "1957",
+        "solution": {
+            "type": "text",
+            "content": "1957. Ramon Magsaysay Award is an annual award established to perpetuate former Philippine President Ramon Magsaysay's example of integrity in governance, courageous service to the people, and pragmatic idealism within a democratic society."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/08/2021 (Evening)"
+    },
+    {
+        "id": 39,
+        "question": {
+            "type": "text",
+            "content": "The ICTP Ramanujan Prize is awarded annually for excellence in _"
+        },
+        "options": [
+            {
+                "text": "Chemistry"
+            },
+            {
+                "text": "Physics"
+            },
+            {
+                "text": "Mathematics"
+            },
+            {
+                "text": "Biology"
+            }
+        ],
+        "answer": "Mathematics",
+        "solution": {
+            "type": "text",
+            "content": "Mathematics. The prize is named after the Indian mathematician Srinivasa Ramanujan. It was founded in 2004 and was first awarded in 2005. Another Award, SASTRA Ramanujan Prize was established in 2005"
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/08/2021 (Evening)"
+    },
+    {
+        "id": 40,
+        "question": {
+            "type": "text",
+            "content": "Which of the following organizations awards the Nobel Memorial Prize in Economic Sciences?"
+        },
+        "options": [
+            {
+                "text": "Norwegian Nobel Committee"
+            },
+            {
+                "text": "Karolinska Institute"
+            },
+            {
+                "text": "The Royal Swedish Academy Sciences"
+            },
+            {
+                "text": "Swedish Academy"
+            }
+        ],
+        "answer": "The Royal Swedish Academy Sciences",
+        "solution": {
+            "type": "text",
+            "content": "The Royal Swedish Academy Sciences. It was first awarded in 1969 to Dutch economist Jan Tinbergen and Norwegian economist Ragnar Frisch \"for having developed and applied dynamic models for the analysis of economic processes."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/04/2021 (Evening)"
+    },
+    {
+        "id": 41,
+        "question": {
+            "type": "text",
+            "content": "Who is the first Indian to have won the Pulitzer Prize?"
+        },
+        "options": [
+            {
+                "text": "Gobind Behari Lal"
+            },
+            {
+                "text": "Sanghamitra Kalita"
+            },
+            {
+                "text": "Jhumpa Lahiri"
+            },
+            {
+                "text": "Geeta Anand"
+            }
+        ],
+        "answer": "Gobind Behari Lal",
+        "solution": {
+            "type": "text",
+            "content": "Gobind Behari Lal. He was an Indian-American journalist and independence activist. He won the Pulitzer in 1937 in the journalism category. Pulitzer Prize - First awarded - 1917. Presented by Columbia University. Awarded for Excellence in newspaper journalism, literary achievements, musical composition."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 23/11/2020 (Morning)"
+    },
+    {
+        "id": 42,
+        "question": {
+            "type": "text",
+            "content": "The Indira Gandhi Award for National Integration is accorded by the:"
+        },
+        "options": [
+            {
+                "text": "Indian National Congress"
+            },
+            {
+                "text": "Ministry of Human Resource Development, Government of India"
+            },
+            {
+                "text": "Ministry of Home Affairs, Government of India"
+            },
+            {
+                "text": "Indira Gandhi National Open University"
+            }
+        ],
+        "answer": "Indian National Congress",
+        "solution": {
+            "type": "text",
+            "content": "Indian National Congress. This award was qiven for the first time in 1985. It is given on Indira Gandhi's martyrdom day (31st October) and it carries an amount of 10 lakh in cash and a citation."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 23/11/2020 (Evening)"
+    },
+    {
+        "id": 43,
+        "question": {
+            "type": "text",
+            "content": "Which American President won the Nobel Peace Prize?"
+        },
+        "options": [
+            {
+                "text": "Bill Clinton"
+            },
+            {
+                "text": "George Washington"
+            },
+            {
+                "text": "Barack Obama"
+            },
+            {
+                "text": "Abraham Lincoln"
+            }
+        ],
+        "answer": "Barack Obama",
+        "solution": {
+            "type": "text",
+            "content": "Barack Obama. He was awarded in 2009 for his \"extraordinary efforts to strengthen international diplomacy and cooperation between people.\""
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/10/2020 (Evening)"
+    },
+    {
+        "id": 44,
+        "question": {
+            "type": "text",
+            "content": "Who among the following was the first recipient of the Rajiv Gandhi Khel Ratna Award?"
+        },
+        "options": [
+            {
+                "text": "Vijay Amritraj"
+            },
+            {
+                "text": "PT Usha"
+            },
+            {
+                "text": "Sachin Tendulkar"
+            },
+            {
+                "text": "Viswanathan Anand"
+            }
+        ],
+        "answer": "Viswanathan Anand",
+        "solution": {
+            "type": "text",
+            "content": "Viswanathan Anand. He is an Indian chess grandmaster and also the former world champion. Rajiv Gandhi Khel Ratna Award (Dhyanchand Khel Ratna) is given for the spectacular and most outstanding performance in the field of sports by a sportsperson over a period of four years. The award was started in the year 1991-92."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/10/2020 (Afternoon)"
+    },
+    {
+        "id": 45,
+        "question": {
+            "type": "text",
+            "content": "Name the first actor to win the Oscar Awards?"
+        },
+        "options": [
+            {
+                "text": "Warner Baxter"
+            },
+            {
+                "text": "Emil Jannings"
+            },
+            {
+                "text": "Lionel Barrymore"
+            },
+            {
+                "text": "Charlie Chaplin"
+            }
+        ],
+        "answer": "Emil Jannings",
+        "solution": {
+            "type": "text",
+            "content": "Emil Jannings. The first Academy Awards ceremony was held in Hollywood on May 16, 1929."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 9/03/2020 (Morning)"
+    }
+]

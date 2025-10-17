@@ -1,0 +1,1383 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "What percentage of jobs in India are at risk of automation, as per World Bank data, 2016?"
+        },
+        "options": [
+            {
+                "text": "40%"
+            },
+            {
+                "text": "77%"
+            },
+            {
+                "text": "69%"
+            },
+            {
+                "text": "55%"
+            }
+        ],
+        "answer": "69%",
+        "solution": {
+            "type": "text",
+            "content": "69%. In China it is 77% and in Ethiopia, the percentage of jobs threatened by automation is 85%. The World Bank is one of the Bretton wood institutions, established in 1944. First President - Eugene Meyer. Reports: World Development Report, Global Economic Prospects, Poverty and Shared Prosperity, Global Financial Development Report."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 05/10/2023 (Morning)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "To mark the celebration of Gandhi Jayanti, the celebrates it as International Day of Non-Violence."
+        },
+        "options": [
+            {
+                "text": "United Nations"
+            },
+            {
+                "text": "BRICS Nations"
+            },
+            {
+                "text": "South Asian Association for Regional Cooperation"
+            },
+            {
+                "text": "Group of 20"
+            }
+        ],
+        "answer": "United Nations",
+        "solution": {
+            "type": "text",
+            "content": "United Nations passed a resolution in 2007 to observe Gandhi Jayanti (October 2) as the International Day of Non-Violence every year. BRICS Nations: Brazil, Russia, India, China and South Africa. Established 2009. The South Asian Association of Regional Cooperation (SAARC): Headquarters Kathmandu (Nepal). Established 8 December, 1985. G-20: Established 1999."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "Indian Industrialists reacted against colonial policies that restricted business activities and formed an organization in 1927. What was it called?"
+        },
+        "options": [
+            {
+                "text": "Indian Industrial and Commercial Congress"
+            },
+            {
+                "text": "Organization of Industries of India"
+            },
+            {
+                "text": "Federation of the Indian Chamber of Commerce and Industries"
+            },
+            {
+                "text": "Confederation of Indian Industries"
+            }
+        ],
+        "answer": "Federation of the Indian Chamber of Commerce and Industries",
+        "solution": {
+            "type": "text",
+            "content": "FICCI: It is the largest and oldest apex business organisation in India. Founded: 1927, Headquarters: New Delhi. IICC: Founded 1920, Headquarters - New Delhi. CII: Founded 1895, Headquarters - New Delhi. &"
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Which of the following ministries of the Government of India has under it the Council of Scientific Industrial Research (CSIR)?"
+        },
+        "options": [
+            {
+                "text": "Ministry of Commerce and Industry"
+            },
+            {
+                "text": "Ministry of Earth Sciences"
+            },
+            {
+                "text": "Ministry of Science and Technology"
+            },
+            {
+                "text": "Ministry of Education"
+            }
+        ],
+        "answer": "Ministry of Science and Technology",
+        "solution": {
+            "type": "text",
+            "content": "Ministry of Science and Technology. Council of Scientific & Industrial Research (CSIR): The largest research and development (R&D) organization in India. Established - 1942, Headquarters New Delhi. Founder(s) Arcot Ramasamy Mudaliar, Shanti Swaroop Bhatnagar. President: Prime Minister of India. Motto \"CSIR-The Innovation Engine of India\". Parent institution Ministry of Science and Technology, Government of India."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 02/08/2023 (2nd shift)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "Which of the following countries is NOT a member of SAARC (South Asian Association for Regional Cooperation)?"
+        },
+        "options": [
+            {
+                "text": "Pakistan"
+            },
+            {
+                "text": "Myanmar"
+            },
+            {
+                "text": "Afghanistan"
+            },
+            {
+                "text": "Bhutan"
+            }
+        ],
+        "answer": "Myanmar",
+        "solution": {
+            "type": "text",
+            "content": "Myanmar. SAARC (South Asian Association for Regional Cooperation) is the regional intergovernmental organization and geopolitical union of states in South Asia. Member states: Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka. Founded: 8 December 1985, Dhaka (Bangladesh). Objectives To promote economic cooperation, social progress, and cultural development among its member states."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 03/08/2023 (4th shift)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Indian council of Historical Research, an autonomous organization, was set up by the Government of India in"
+        },
+        "options": [
+            {
+                "text": "1991"
+            },
+            {
+                "text": "1982"
+            },
+            {
+                "text": "1972"
+            },
+            {
+                "text": "1962"
+            }
+        ],
+        "answer": "1972",
+        "solution": {
+            "type": "text",
+            "content": "1972. Indian Council of Historical Research (ICHR)It is a captive body of the Ministry of Education, Government of India established by an administrative order. Aim To promote and give directions to historical research and to encourage and foster objective and scientific writing of history. Headquarters New Delhi. Regional centers - Pune (Maharashtra), Bengaluru (Karnataka), and Guwahati (Assam). Founded: 27 March 1972. First chairman - Ram Sharan Sharma."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/08/2023 (2nd shift)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Defence Research Development Organisation (DRDO), which is under the Ministry of Defence Government of India, was formed in the year _"
+        },
+        "options": [
+            {
+                "text": "1948"
+            },
+            {
+                "text": "1958"
+            },
+            {
+                "text": "1975"
+            },
+            {
+                "text": "1981"
+            }
+        ],
+        "answer": "1958",
+        "solution": {
+            "type": "text",
+            "content": "1958. Defence Research and Development Organisation (DRDO): The Research and Development wing of the military's research and development, headquartered in Delhi. Achievements of DRDO: Agni and Prithvi series of missiles, Light combat aircraft (Tejas), Multi-barrel rocket launcher (Pinaka) Mk-I, Pilotless Target Aircraft 'Lakshya-l."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/08/2023 (3rd shift)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Indian Academy of Sciences, founded in 1934 by CV Raman, is situated in"
+        },
+        "options": [
+            {
+                "text": "Mumbai"
+            },
+            {
+                "text": "Bangalore"
+            },
+            {
+                "text": "Hyderabad"
+            },
+            {
+                "text": "New Delhi"
+            }
+        ],
+        "answer": "Hyderabad",
+        "solution": {
+            "type": "text",
+            "content": "Bangalore. The Indian Academy of Sciences Registered as a society in 1934 with the aim of promoting the progress and upholding the cause of science, in both pure and applied branches. C.V. Raman, won the Nobel Prize in Physics (1930) for his work on the scattering of light. India celebrates National Science Day on 28 February of every year to commemorate the discovery of the \"Raman effect\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/08/2023 (4th shift)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "The Indian National Science Academy is situated in _"
+        },
+        "options": [
+            {
+                "text": "New Delhi"
+            },
+            {
+                "text": "Hyderabad"
+            },
+            {
+                "text": "Allahabad"
+            },
+            {
+                "text": "Bangaluru"
+            }
+        ],
+        "answer": "New Delhi",
+        "solution": {
+            "type": "text",
+            "content": "New Delhi. The Indian National Science Academy (formerly known as The National Institute of Sciences of India). Established - January 1935 at Calcutta. Headquarters Delhi. Aim: Promotion of scientific knowledge. Institutions and Place The Defence Research and Development Organisation (DRDO) New Delhi; Indian Space Research Organisation (ISRO) Bengaluru; Indian Institute of Sciences (IISC) Bengaluru; Council of Scientific and Industrial Research (CSIR) New Delhi; Bhabha Atomic Research Centre (BARC) - Trombay, Mumbai."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2023 (1st shift)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "Which of the following institution has been accredited as National Implementing Entity for Adaptation Fund under United Nations Framework Convention on Climate Change (UNFCCC) in India?"
+        },
+        "options": [
+            {
+                "text": "ICAR"
+            },
+            {
+                "text": "NIRD"
+            },
+            {
+                "text": "NABARD"
+            },
+            {
+                "text": "RBI"
+            }
+        ],
+        "answer": "NABARD",
+        "solution": {
+            "type": "text",
+            "content": "NABARD (National Bank for Agriculture and Rural Development): A Statutory body. Established - July 12, 1982. Role - Development of agriculture, small-scale industries and other allied economic activities in rural areas. Other Institutions, Establishment Year and Headquarters Indian Council of Agricultural Research (ICAR), 1929 - New Delhi. The National Institute for Rural Development (NIRD), 1977 - Hyderabad. Reserve Bank of India (RBI) April 1, 1935 - Mumbai."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2023 (1st shift)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "Which of the following posts of Defence Research Development Organisation (DRDO) is in the Level I (top level) of its organisational chart?"
+        },
+        "options": [
+            {
+                "text": "Director General Technical Cluster"
+            },
+            {
+                "text": "Secretary DD and R & D"
+            },
+            {
+                "text": "Director General Corporate"
+            },
+            {
+                "text": "Director of Laboratory"
+            }
+        ],
+        "answer": "Secretary DD and R & D",
+        "solution": {
+            "type": "text",
+            "content": "Secretary DD and R & D. DRDO: Formed 1958; Headquarters DRDO Bhavan (New Delhi); Motto \"Strength's Origin is in Science\". DRDO - ASTRA Missile, Anti Drone System, SATCOM Devices, QRSAM, ADFCR, Helina, ADTCR, Guided Bomb. DRDO has developed an antibody detection-based kit called DIPCOVAN."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 14/08/2023 (3rd shift)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "How many countries are part of SAARC?"
+        },
+        "options": [
+            {
+                "text": "8"
+            },
+            {
+                "text": "2"
+            },
+            {
+                "text": "5"
+            },
+            {
+                "text": "7"
+            }
+        ],
+        "answer": "8",
+        "solution": {
+            "type": "text",
+            "content": "8. South Asian Association for Regional Cooperation (SAARC) : Established in 1985. Objective Advance social improvement, economic growth, and cultural development throughout South Asia. Headquarters Kathmandu, Nepal. Member Countries Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka. Afghanistan joined as the 8th member of SAARC in 2007."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/08/2023 (2nd shift)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "One of the important institutes associated with the green revolution is the Indian Agriculture Research Institute. Where is it located?"
+        },
+        "options": [
+            {
+                "text": "Mumbai"
+            },
+            {
+                "text": "Ludhiana"
+            },
+            {
+                "text": "New Delhi"
+            },
+            {
+                "text": "Patna"
+            }
+        ],
+        "answer": "New Delhi",
+        "solution": {
+            "type": "text",
+            "content": "New Delhi. The Green revolution started in the 1960s, using high yielding variety (HYV) seeds, mechanised farm tools, irrigation facilities, pesticides, and fertilisers. Agricultural Institute - National Academy of Agricultural Research Management (NAARM) Hyderabad. Established - 1976. Central Potato Research Institute (CPRI) - Shimla. Indian Institute of Horticultural Research Bangalore, Established 1967. Indian Agricultural Research Institute (IARI): Establishment - 1 April 1905."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 17/07/2023 (3rd shift)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "Which of the following trade agreements aims to 'strengthen intra -SAARC economic cooperation to maximize the region's potential for trade and achieve development for their people'?"
+        },
+        "options": [
+            {
+                "text": "APTA"
+            },
+            {
+                "text": "SAFTA"
+            },
+            {
+                "text": "NAFTA"
+            },
+            {
+                "text": "LAIA"
+            }
+        ],
+        "answer": "SAFTA",
+        "solution": {
+            "type": "text",
+            "content": "SAFTA (South Asian Free Trade Area) Formed in 2004 at 12th SAARC convention held in Islamabad, Pakistan. Member countries Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka. Headquarter Kathmandu (Nepal). NAFTA North American Free Trade Agreement. APTA Asia-Pacific Trade Agreement. LAIA Latin American Integration Association. SAARC South Asian Association for Regional Cooperation."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 21/07/2023 (3rd shift)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "The President of _ inaugurated Sangeet Akademi on 28 January 1953."
+        },
+        "options": [
+            {
+                "text": "Sarvpalli Radhakrishna"
+            },
+            {
+                "text": "Mohammad Hidayatullah"
+            },
+            {
+                "text": "Rajendra Prasad"
+            },
+            {
+                "text": "Jakir Husain India Natak"
+            }
+        ],
+        "answer": "Rajendra Prasad",
+        "solution": {
+            "type": "text",
+            "content": "Rajendra Prasad. Sangeet Natak Akademi (Headquarters - Rabindra Bhawan, New Delhi) India's National academy for music, dance and drama. Dr P.V. Rajamannar was its first Chairman. It gives Sangeet Natak Akademi Fellowship (Highest Honour), Sangeet Natak Akademi Awards, Ustad Bismillah Khan Yuva Puraskar, Tagore Ratna and Tagore Puraskar. Nodal Ministry - Union Ministry of Culture."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 25/07/2023(3rd shift)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "Where is the National Dope Testing Laboratory located?"
+        },
+        "options": [
+            {
+                "text": "Mumbai"
+            },
+            {
+                "text": "Bangalore"
+            },
+            {
+                "text": "Punjab"
+            },
+            {
+                "text": "New Delhi"
+            }
+        ],
+        "answer": "New Delhi",
+        "solution": {
+            "type": "text",
+            "content": "New Delhi. National was set up Anti-Doping Agency (NADA) as a registered society under the Societies Registration Act of 1860 to regulate dope control programmes to promote education and research and create awareness about doping and its ill effects. The World Anti-Doping Agency (WADA, 1999) was set up under the International Olympic Committee and recognised by the UNESCO International Convention against Doping in Sport (2005)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 27/07/2023 (3rd shift)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "Forest Research Institute, Dehradun was established as Imperial Forest Research Institute. In which year was it established as \"Imperial Forest Research Institute\"?"
+        },
+        "options": [
+            {
+                "text": "1905"
+            },
+            {
+                "text": "1908"
+            },
+            {
+                "text": "1907"
+            },
+            {
+                "text": "1906"
+            }
+        ],
+        "answer": "1906",
+        "solution": {
+            "type": "text",
+            "content": "1906. Forest Research Institute (FRI), DehraDun began as Forest School in 1878. Wildlife Institute of India (1982) headquarter Dehradun. Central Tobacco Research Institute (1947) Rajahmundry, All Indian Institute of Medical Science (1956) New Delhi, Central Rice Research Institute (1946) - Cuttack, Central Leather Research Institute (1948) Chennai, Central Potato Research Institute (1949) Shimla, National sugar Institute (1936) - Kanpur."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 28/06/2023 (Shift - 3)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "as '12U2' initiative is also referred"
+        },
+        "options": [
+            {
+                "text": "East European Quad"
+            },
+            {
+                "text": "West European Quad"
+            },
+            {
+                "text": "West Asian Quad"
+            },
+            {
+                "text": "East Asian Quad"
+            }
+        ],
+        "answer": "West Asian Quad",
+        "solution": {
+            "type": "text",
+            "content": "West Asian Quad. 12U2 (India, Israel, United States and United Arab Emirates) : Formed October 2021, First summit July 14, 2022. Objective Six areas of cooperation have been identified by the countries mutually to encourage joint investments in water, energy, transportation, space, health, and food security."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/05/2023 (Morning)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Where is the headquarters of the Spices Board of India located?"
+        },
+        "options": [
+            {
+                "text": "Bengaluru"
+            },
+            {
+                "text": "Kochi"
+            },
+            {
+                "text": "Pune"
+            },
+            {
+                "text": "Guntur"
+            }
+        ],
+        "answer": "Kochi",
+        "solution": {
+            "type": "text",
+            "content": "Kochi (Kerala). Spices Board is a statutory body constituted since 1987 under the Spices Board Act, 1986 by merging the erstwhile Cardamom Board and Spices Export Promotion Council under the administrative control of the Department of Commerce. Kerala is known as the spice garden of India."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 10/05/2023 (Evening)"
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "Which organisation is responsible for the development and maintenance of the roads on the Indian borders?"
+        },
+        "options": [
+            {
+                "text": "Border Roads Organisation"
+            },
+            {
+                "text": "Western Roadways Organisation"
+            },
+            {
+                "text": "National Green Highways Project"
+            },
+            {
+                "text": "Eastern Roadways Organisation"
+            }
+        ],
+        "answer": "Border Roads Organisation",
+        "solution": {
+            "type": "text",
+            "content": "Border Roads Organisation. It was founded in 1960 with the goal of developing critical highways in the northern and northeastern border territories. The BRO was once part of the Ministry of Road Transport and Highways. However, since 2015, it has been overseen and operated by the Ministry of Defence. The BRO Raising Day is held every year on May 7."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/05/2023 (Morning)"
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "Which is the governing body for Badminton in India?"
+        },
+        "options": [
+            {
+                "text": "Indian Badminton Agency"
+            },
+            {
+                "text": "Indian Badminton Association"
+            },
+            {
+                "text": "Badminton Association of India"
+            },
+            {
+                "text": "Badminton Agency of India"
+            }
+        ],
+        "answer": "Badminton Association of India",
+        "solution": {
+            "type": "text",
+            "content": "Badminton Association of India An association registered under the societies act. It was formed in 1934, and has been holding national-level tournaments in India since 1936. Headquarter New Delhi. Badminton Tournaments: Thomas Cup, Uber Cup, Sudirman cup, Premier Badminton League, Yonex All England Open."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/06/2023 (Afternoon)"
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "Which institution launched a list of 50 iconic Indian heritage textiles?"
+        },
+        "options": [
+            {
+                "text": "Ministry of textile"
+            },
+            {
+                "text": "NITI Aayog"
+            },
+            {
+                "text": "Ministry of Culture"
+            },
+            {
+                "text": "UNESCO"
+            }
+        ],
+        "answer": "UNESCO",
+        "solution": {
+            "type": "text",
+            "content": "UNESCO (United Nations Educational, Scientific and Cultural Organization). Established 16 November 1945. Headquarters Paris. Some important Indian Heritage Textiles: Toda embroidery and Sungadi (Tamil Nadu), Himroo weaves (Hyderabad), Bandha tie and dye weaving (Sambalpur, Odisha), Kunbi weaves (Goa)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (4th Shift)"
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "\"Advanced Light Helicopter (ALH) MK III\" has been manufacturer by which organization?"
+        },
+        "options": [
+            {
+                "text": "ISRO"
+            },
+            {
+                "text": "HAL"
+            },
+            {
+                "text": "DRDO"
+            },
+            {
+                "text": "BHEL"
+            }
+        ],
+        "answer": "HAL",
+        "solution": {
+            "type": "text",
+            "content": "HAL. The ALH Mk-III helicopters, indigenously manufactured by Hindustan Aeronautics Limited (HAL). HAL: Established 23 Dec 1940. Headquarters - Bengaluru."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (4th Shift)"
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": "Which political organization was banned in September 2022 by Government of India under the Unlawful Activities (Prevention) Act?"
+        },
+        "options": [
+            {
+                "text": "Khalistan Zindabad Force"
+            },
+            {
+                "text": "Popular Front of India"
+            },
+            {
+                "text": "All Tripura Tiger Force"
+            },
+            {
+                "text": "Jammu and Kashmir Islamic Front"
+            }
+        ],
+        "answer": "Popular Front of India",
+        "solution": {
+            "type": "text",
+            "content": "Popular Front of India (PFI). This political party was Founded on 22 November 2006, Headquarters (New Delhi). The Ministry of Home Affairs (MHA) banned PFI for five years. All Tripura Tiger Force {founded on 11 July 1990, Headquarters (Bangladesh)}. Jammu Kashmir Liberation Front {founded in June 1976, Headquarters (Muzaffarabad, Pakistan occupied Kashmir (Pakistan)}."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/03/2023 (1st Shift)"
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": "Identify which of the following statements are correct. 1.The headquarter of ICAR-Directorate of Groundnut Research is located in Junagarh. 2.The headquarter of ICAR-Directorate of Rapeseed & Mustard Research is located in Bharatpur. 3.The headquarter of ICAR-Directorate of Soybean Research is located in Indore. SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "2 and 3 only"
+            },
+            {
+                "text": "1 and 2 only"
+            },
+            {
+                "text": "1, 2 and 3"
+            },
+            {
+                "text": "1 and 3 only"
+            }
+        ],
+        "answer": "1 and 2 only",
+        "solution": {
+            "type": "text",
+            "content": "1, 2 and 3. Indian Council of Agricultural Research (ICAR) : Established on 16 July 1929; headquartered at New Delhi. There are 13 ICAR-Directorates. ICAR-Directorate of Mushroom Research (Solan). ICAR-Directorate on Onion and Garlic Research, (Pune), ICAR-Directorate of Cashew Research (Puttur), ICAR -Directorate of Medicinal and Aromatic Plants Research (Anand), ICAR -Directorate of Floricultural Research (Pune), ICAR-Directorate of Weed Research (Jabalpur), ICAR-Project Directorate on Foot & Mouth Disease (Mukteshwar), ICAR-Directorate of Poultry Research (Hyderabad), ICAR -Directorate of Knowledge Management in Agriculture (New Delhi), ICAR -Directorate of ColdWater Fisheries Research (Bhimtal, Nainital).ICAR-Central Institute for Arid Horticulture Bikaner, ICAR-Central Institute of Cotton Research - Nagpur, ICAR-National Rice Research Institute - Cuttack. ICAR-Indian Institute of Horticultural Research - Bengaluru"
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is/are one of the United Nations Sustainable Development Goals? SSC CGL Tier II 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "Zero Hunger"
+            },
+            {
+                "text": "Climate Action"
+            },
+            {
+                "text": "Life Below Water"
+            },
+            {
+                "text": "Quality Education"
+            },
+            {
+                "text": "A, B, C and D"
+            },
+            {
+                "text": "B and C"
+            },
+            {
+                "text": "A and B"
+            },
+            {
+                "text": "A, C and D"
+            }
+        ],
+        "answer": "Zero Hunger",
+        "solution": {
+            "type": "text",
+            "content": "A, B, C and D. United Nations Sustainable Development Goals (SDG) (1) No Poverty, (2) Zero Hunger, (3) Well-being and Good Health, (4) Quality Education, (5) Gender Equality, (6) Clean Water and Sanitation, (7) Affordable and Clean Energy, (8) Decent Work and Economic Growth, (9) Industry Innovation and Infrastructure, (10) Reduced Inequality, (11) Sustainable Cities and Communities, (12) Responsible Consumption and Production, (13) Climate Action, (14) Life Below Water, (15) Life on Land, (16) Peace and Justice Strong Institutions, (17) Partnerships for the Goal. The target year to achieve these goals is 2030."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 27,
+        "question": {
+            "type": "text",
+            "content": "The headquarters of the National Institute of Oceanography of India is located at:"
+        },
+        "options": [
+            {
+                "text": "New Delhi"
+            },
+            {
+                "text": "Kanyakumari"
+            },
+            {
+                "text": "Hyderabad"
+            },
+            {
+                "text": "Goa"
+            }
+        ],
+        "answer": "Goa",
+        "solution": {
+            "type": "text",
+            "content": "Goa. National Institute of Oceanography (NI0) of India headquartered at Dona Paula, Goa. regional offices in Kochi, Mumbai, and Vizag. It is one of the 38 constituent laboratories of the Council of Scientific & Industrial Research (CSIR), New Delhi. NIO was founded on 1 January 1966."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 03/12/2022 (4th Shift)"
+    },
+    {
+        "id": 28,
+        "question": {
+            "type": "text",
+            "content": "The Indian Institute of remote sensing was established at:"
+        },
+        "options": [
+            {
+                "text": "Khadakwasla"
+            },
+            {
+                "text": "Shimla"
+            },
+            {
+                "text": "Dehradun"
+            },
+            {
+                "text": "Kochi"
+            }
+        ],
+        "answer": "Dehradun",
+        "solution": {
+            "type": "text",
+            "content": "Dehradun. Aryabhatta Research Institute of Observational Sciences (ARIES) in Nainital, Uttarakhand. National Remote Sensing Centre (NRSC) in Hyderabad. Space Applications Centre (SAC) in Ahmedabad, Gujarat. Satish Dhawan Space Centre SHAR (SHAR or SriHarikota Range) in Nellore district, Andhra Pradesh."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 06/12/2022 (2nd Shift)"
+    },
+    {
+        "id": 29,
+        "question": {
+            "type": "text",
+            "content": "Who has become the first woman director general of the Council of Scientific and Industrial Research?"
+        },
+        "options": [
+            {
+                "text": "Sanjay Verma"
+            },
+            {
+                "text": "Vinod Aggarwal"
+            },
+            {
+                "text": "Nallathamby Kalaiselvi"
+            },
+            {
+                "text": "Prakash Chand"
+            }
+        ],
+        "answer": "Nallathamby Kalaiselvi",
+        "solution": {
+            "type": "text",
+            "content": "Nallathamby Kalaiselvi. Council of Scientific and Industrial Research (CSIR): Founded: 26 september 1942, Headquarters: New Delhi."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 06/12/2022 (4th Shift)"
+    },
+    {
+        "id": 30,
+        "question": {
+            "type": "text",
+            "content": "The abbreviation \"CPCL\" is associated with the petroleum industry in India. Expand \"CPCL\":"
+        },
+        "options": [
+            {
+                "text": "Central Petroleum Corporation Limited"
+            },
+            {
+                "text": "Coimbatore Petroleum Corporation Limited"
+            },
+            {
+                "text": "Chennai Petroleum Corporation Limited"
+            },
+            {
+                "text": "Corporation of Petroleum and Chemicals Limited"
+            }
+        ],
+        "answer": "Chennai Petroleum Corporation Limited",
+        "solution": {
+            "type": "text",
+            "content": "Chennai Petroleum Corporation Limited (CPCL) is a subsidiary of Indian Oil Corporation which is under the ownership of the Ministry of Petroleum and Natural Gas of the Government of India. Headquarters: Chennai, Founded: 18 November 1965."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 07/12/2022 (1st Shift)"
+    },
+    {
+        "id": 31,
+        "question": {
+            "type": "text",
+            "content": "_ is the centre for the Indian Institution of Soil Science."
+        },
+        "options": [
+            {
+                "text": "Porbandar"
+            },
+            {
+                "text": "Bhopal"
+            },
+            {
+                "text": "Visakhapatnam"
+            },
+            {
+                "text": "Bhubaneswar"
+            }
+        ],
+        "answer": "Bhopal",
+        "solution": {
+            "type": "text",
+            "content": "Bhopal. The Indian Institute of Soil Science (IISS) was established in 1988 under the umbrella of the Indian Council of Agricultural Research (ICAR) by the Ministry of Agriculture. Location: Bhopal. Indian Institute of Rice Research Hyderabad. Indian Institute of Wheat and Barley Research - Karnal."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 12/12/2022 (3rd Shift)"
+    },
+    {
+        "id": 32,
+        "question": {
+            "type": "text",
+            "content": "National Dairy Institute is located at:"
+        },
+        "options": [
+            {
+                "text": "Karnal"
+            },
+            {
+                "text": "Lucknow"
+            },
+            {
+                "text": "Anand"
+            },
+            {
+                "text": "Palampur Research"
+            }
+        ],
+        "answer": "Karnal",
+        "solution": {
+            "type": "text",
+            "content": "Karnal. National Dairy Research Institute (NDRI) was set up in Bangalore in 1923 as a center for dairy education. In 1936 it was renamed as Imperial Dairy Institute. In 1970, NDRI was brought under the Indian Council of Agricultural Research."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/12/2022 (3rd Shift)"
+    },
+    {
+        "id": 33,
+        "question": {
+            "type": "text",
+            "content": "GATT was established in 1948 with countries as the global trade organization to administer all multilateral trade agreements by providing equal opportunities to all countries in the international market for trading purposes."
+        },
+        "options": [
+            {
+                "text": "29"
+            },
+            {
+                "text": "23"
+            },
+            {
+                "text": "35"
+            },
+            {
+                "text": "28"
+            }
+        ],
+        "answer": "23",
+        "solution": {
+            "type": "text",
+            "content": "23. The General Agreement on Tariffs and Trade (GATT) (1947) covers international trade in goods. GATT became WTO (World Trade Organisation) on 1st January 1995 following the 1994 Marrakesh Agreement. WTO (Headquarters Geneva, Switzerland). Membership - 164 Members."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 09/11/2022 (Morning)"
+    },
+    {
+        "id": 34,
+        "question": {
+            "type": "text",
+            "content": "was established in 1948 with 23 countries as a global trade organization to administer all multilateral trade agreements."
+        },
+        "options": [
+            {
+                "text": "World Trade Organization"
+            },
+            {
+                "text": "International Reciprocal Trade Association"
+            },
+            {
+                "text": "General Agreement on Tariffs and Trade"
+            },
+            {
+                "text": "World Chamber of Commerce"
+            }
+        ],
+        "answer": "General Agreement on Tariffs and Trade",
+        "solution": {
+            "type": "text",
+            "content": "General Agreement of Tariffs and Trade. Its purpose was to liberalize trade by reducing tariffs and reducing quotas among member countries. It was replaced by the World Trade Organisation in 1995."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 07/07/2022 (Afternoon)"
+    },
+    {
+        "id": 35,
+        "question": {
+            "type": "text",
+            "content": "Where is the Indian Institute of Skiing and Mountaineering situated?"
+        },
+        "options": [
+            {
+                "text": "Dalhousie"
+            },
+            {
+                "text": "Gulmarg"
+            },
+            {
+                "text": "Manali"
+            },
+            {
+                "text": "Uttarkashi"
+            }
+        ],
+        "answer": "Gulmarg",
+        "solution": {
+            "type": "text",
+            "content": "Gulmarg, Jammu and Kashmir. The best mountaineering institutes in India. Nehru Institute of Mountaineering, Uttarkashi, Uttarakhand. Himalayan Mountaineering Institute, Darjeeling (West Bengal), Atal Bihari Vajpayee Institute of Mountaineering and Allied Sports, Manali (Himachal Pradesh), Jawahar Institute of Mountaineering & Winter Sports, Pahalgam (Jammu and Kashmir), National Institute of Mountaineering and Allied Sports, Dirang (Arunachal Pradesh), Sonam Gyatso Mountaineering Institute, Gangtok (Sikkim) etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 30/05/2022 (Morning)"
+    },
+    {
+        "id": 36,
+        "question": {
+            "type": "text",
+            "content": "When was Akademi established? the Lalit Kala"
+        },
+        "options": [
+            {
+                "text": "1965"
+            },
+            {
+                "text": "1956"
+            },
+            {
+                "text": "1951"
+            },
+            {
+                "text": "1954"
+            }
+        ],
+        "answer": "1954",
+        "solution": {
+            "type": "text",
+            "content": "1954. Lalit Kala Akademi, National Academy of Art, New Delhi was set up by the Government of India as an autonomous body, on 5th August 1954 by the then Honourable Minister for Education, Maulana Abul Kalam Azad."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 30/05/2022 (Evening)"
+    },
+    {
+        "id": 37,
+        "question": {
+            "type": "text",
+            "content": "Which organisation was created in 1988 by the World Meteorological Organization (WMO) and the United Nations Environment Program (UNEP) to assess the science related to climate change?"
+        },
+        "options": [
+            {
+                "text": "Intergovernmental Panel on Climate Change"
+            },
+            {
+                "text": "International Climate Action Network"
+            },
+            {
+                "text": "Global Climate Growth Institute"
+            },
+            {
+                "text": "Australian Youth Climate Coalition"
+            }
+        ],
+        "answer": "Intergovernmental Panel on Climate Change",
+        "solution": {
+            "type": "text",
+            "content": "Intergovernmental Panel on Climate Change (IPCC)- Headquarters: Geneva; Founder: Bert Bolin; Founded: 1988. ICAN- Formation: 1989; Headquarters: Bonn; Founder: Michael Oppenheimer. Global Green Growth Institute- Formation: 2010; Headquarters: Seoul. AYCC- Formation: 2006; Headquarters: Melbourne."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 02/06/2022 (Evening)"
+    },
+    {
+        "id": 38,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is an Indian 'not for profit' organization, working on sustainable solutions to make sanitation and water accessible to all?"
+        },
+        "options": [
+            {
+                "text": "Pratham"
+            },
+            {
+                "text": "Helpage India"
+            },
+            {
+                "text": "Goonj"
+            },
+            {
+                "text": "Sulabh International"
+            }
+        ],
+        "answer": "Sulabh International",
+        "solution": {
+            "type": "text",
+            "content": "Sulabh International was founded by Bindeshwar Pathak (Padma Vibhushan 2024). Pratham is an innovative learning organization created to improve the quality of education in India. HelpAge India is an Indian organization focused on the concerns of elders. Goonj is channelising the unused material lying idle in urban homes, to the far-flung villages of India as an important economic resource."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/04/2022(Afternoon)"
+    },
+    {
+        "id": 39,
+        "question": {
+            "type": "text",
+            "content": "In which year was the National Archives of India established?"
+        },
+        "options": [
+            {
+                "text": "1840"
+            },
+            {
+                "text": "1830"
+            },
+            {
+                "text": "1891"
+            },
+            {
+                "text": "1835"
+            }
+        ],
+        "answer": "1891",
+        "solution": {
+            "type": "text",
+            "content": "1891. The National Archives of India is the custodian of the records of the enduring value of the Government of India. Established at Calcutta (Kolkata) as the Imperial Record Department. It is the biggest archival repository in South Asia."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/10/2021 (Afternoon)"
+    },
+    {
+        "id": 40,
+        "question": {
+            "type": "text",
+            "content": "What is the name of the Centre for the Study of Culture and Civilization in Shimla?"
+        },
+        "options": [
+            {
+                "text": "International Centre"
+            },
+            {
+                "text": "Abdul Kalam Centre"
+            },
+            {
+                "text": "Tagore Centre"
+            },
+            {
+                "text": "Nehru Centre"
+            }
+        ],
+        "answer": "Tagore Centre",
+        "solution": {
+            "type": "text",
+            "content": "Tagore Centre. It was established in 2013. Former President Pranab Mukherjee inaugurated it at the Indian Institute of Advanced Studies (IIAS, established 1964) in Shimla (Himachal Pradesh)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 22/10/2021 (Evening)"
+    },
+    {
+        "id": 41,
+        "question": {
+            "type": "text",
+            "content": "In which year did India become a signatory to the CITES (Convention on International Trade in Endangered Species on Wild Fauna and Flora)?"
+        },
+        "options": [
+            {
+                "text": "1980"
+            },
+            {
+                "text": "1983"
+            },
+            {
+                "text": "1976"
+            },
+            {
+                "text": "1975"
+            }
+        ],
+        "answer": "1975",
+        "solution": {
+            "type": "text",
+            "content": "1975. It is also known as the Washington Convention which is a multilateral treaty to protect endangered plants and animals. Location- Geneva, Switzerland."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 26/10/2021 (Morning)"
+    },
+    {
+        "id": 42,
+        "question": {
+            "type": "text",
+            "content": "Where is the headquarters of the International Hockey Federation (FIH) located?"
+        },
+        "options": [
+            {
+                "text": "Australia"
+            },
+            {
+                "text": "Nepal"
+            },
+            {
+                "text": "Switzerland"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "с) (d) Bhutan Switzerland. The International Hockey Federation is the governing body for the sport of hockey. Founded: 1924 in Paris (France). The Indian Hockey Federation (IHF): Formed - 1925, Headquartered in New Delhi."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 16/08/2021 (Afternoon)"
+    },
+    {
+        "id": 43,
+        "question": {
+            "type": "text",
+            "content": "In which of the following states is the headquarters of IDBI (Industrial Development Bank of India) located?"
+        },
+        "options": [
+            {
+                "text": "Haryana"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "West Bengal"
+            }
+        ],
+        "answer": "Maharashtra",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra (Mumbai). IDBI was constituted under the Industrial Development Bank of India Act, 1964. An industrial bank is a state-chartered, financial institution, owned by a commercial firm, that is not regulated by a federal banking agency."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 20/08/2021 (Morning)"
+    },
+    {
+        "id": 44,
+        "question": {
+            "type": "text",
+            "content": "Where is the headquarters of the Badminton World Federation located?"
+        },
+        "options": [
+            {
+                "text": "Malaysia"
+            },
+            {
+                "text": "Japan"
+            },
+            {
+                "text": "Singapore"
+            },
+            {
+                "text": "Switzerland"
+            }
+        ],
+        "answer": "Malaysia",
+        "solution": {
+            "type": "text",
+            "content": "Malaysia (Kuala Lumpur). International Badminton Federation: Founded in 1934 with nine member nations (Canada, Denmark, England, France, Ireland, Netherlands, New Zealand, Scotland and Wales)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 23/08/2021 (Morning)"
+    },
+    {
+        "id": 45,
+        "question": {
+            "type": "text",
+            "content": "Which of the following organizations releases Innovation Index? the Global"
+        },
+        "options": [
+            {
+                "text": "WEF"
+            },
+            {
+                "text": "INSEAD, Cornell University, WIPO"
+            },
+            {
+                "text": "UNDP"
+            },
+            {
+                "text": "WTO"
+            }
+        ],
+        "answer": "INSEAD, Cornell University, WIPO",
+        "solution": {
+            "type": "text",
+            "content": "The Global Innovation Index was started in 2007 by INSEAD and World Business."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 23/08/2021 (Morning)"
+    },
+    {
+        "id": 46,
+        "question": {
+            "type": "text",
+            "content": "In which of the following countries is the headquarters of the International Table Tennis Federation situated?"
+        },
+        "options": [
+            {
+                "text": "Japan"
+            },
+            {
+                "text": "England"
+            },
+            {
+                "text": "Thailand"
+            },
+            {
+                "text": "Switzerland"
+            }
+        ],
+        "answer": "Switzerland",
+        "solution": {
+            "type": "text",
+            "content": "Switzerland. The International Table Tennis Federation (ITTF) was founded in 1926 by William Henry Lawes."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/8/2021 (Afternoon)"
+    },
+    {
+        "id": 47,
+        "question": {
+            "type": "text",
+            "content": "National Rifle Association of India was founded in:"
+        },
+        "options": [
+            {
+                "text": "1956"
+            },
+            {
+                "text": "1964"
+            },
+            {
+                "text": "1951"
+            },
+            {
+                "text": "1948"
+            }
+        ],
+        "answer": "1951",
+        "solution": {
+            "type": "text",
+            "content": "1951. National Rifle Association of India (NRAI) a view to promote and popularize the shooting sports in India."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/08/2021 (Evening)"
+    },
+    {
+        "id": 48,
+        "question": {
+            "type": "text",
+            "content": "India joined the United Nations after ratifying the UN Charter in"
+        },
+        "options": [
+            {
+                "text": "May 1946"
+            },
+            {
+                "text": "December 1945"
+            },
+            {
+                "text": "October 1945"
+            },
+            {
+                "text": "February 1946"
+            }
+        ],
+        "answer": "October 1945",
+        "solution": {
+            "type": "text",
+            "content": "October 1945. India joined the United Nations and was among the 50 countries to sign it."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 25/11/2020 (Morning)"
+    },
+    {
+        "id": 49,
+        "question": {
+            "type": "text",
+            "content": "India signed Panchsheel Treaty with which country?"
+        },
+        "options": [
+            {
+                "text": "Nepal"
+            },
+            {
+                "text": "Pakistan"
+            },
+            {
+                "text": "China"
+            },
+            {
+                "text": "Bangladesh"
+            }
+        ],
+        "answer": "China",
+        "solution": {
+            "type": "text",
+            "content": "China. The Five Principles of the Panchsheel Agreement (April 29, 1954) Mutual respect for each other's territorial integrity and sovereignty, Mutual non-aggression, Mutual non -interference in each other's internal affairs, Equality and mutual benefit, Peaceful co-existence."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2020 (Afternoon)"
+    }
+]

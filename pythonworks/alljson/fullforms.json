@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "What is the full form of RIDF?"
+        },
+        "options": [
+            {
+                "text": "Rural Infrastructure Developmentn Forum"
+            },
+            {
+                "text": "Rural Infrastructure Developmentn Fund"
+            },
+            {
+                "text": "Road Infrastructure Developmentn Fund"
+            },
+            {
+                "text": "Rural Industries Development Fund"
+            }
+        ],
+        "answer": "Rural Infrastructure Developmentn Fund",
+        "solution": {
+            "type": "text",
+            "content": "Rural Infrastructuren Development Fund created in 1995-96n under National Bank for Agriculture andn Rural Development (NABARD) with ann initial corpus of Rs.2,000 crore. There aren 39 eligible activities under RIDF. Eligiblen activities are classified under three broadn categories: Agriculture and relatedn sector, Social sector, Rural connectivity."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 04/10/2023 (Morning)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "What does the acronym 'ATM'n stand for?"
+        },
+        "options": [
+            {
+                "text": "Automated Teller Machine"
+            },
+            {
+                "text": "Automated Transaction Management"
+            },
+            {
+                "text": "Account Tracking Module"
+            },
+            {
+                "text": "All- Time Money"
+            }
+        ],
+        "answer": "Automated Teller Machine",
+        "solution": {
+            "type": "text",
+            "content": "Automated Teller Machine."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "What is the full form of UPSC?"
+        },
+        "options": [
+            {
+                "text": "United Public Security Commission"
+            },
+            {
+                "text": "United Power & Security Commission"
+            },
+            {
+                "text": "Union Private Service Committee"
+            },
+            {
+                "text": "Union Public Service Commission"
+            }
+        ],
+        "answer": "Union Public Service Commission",
+        "solution": {
+            "type": "text",
+            "content": "Union Public Servicen Commission (Article 315 to 323 in Partn XIV): Established on 1 October 1926, itn was later reconstituted as Federal Publicn Service Commission; The Chairman andn other members of the UPSC aren appointed by the President of India.n Removal - only be removed from his/hern office by order of the President of India.n Term of Office - six years or till the age ofn 65."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/09/2023 (1st Shift)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "What is the full form of IADP?"
+        },
+        "options": [
+            {
+                "text": "Intensive Agricultural Districtn Programme"
+            },
+            {
+                "text": "India Agricultural Developmentn Programme"
+            },
+            {
+                "text": "Integrated Agricultural District plan"
+            },
+            {
+                "text": "Intensive Agricultural Developmentn Project"
+            }
+        ],
+        "answer": "Intensive Agricultural Districtn Programme",
+        "solution": {
+            "type": "text",
+            "content": "Intensive Agriculturaln District Programme (Launched in 1960) -n Also known as a \"package program\"; Aimn To provide loans for seeds andn fertilisers to farmers."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 18/07/2023 (4th shift)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "What does 'F' stand for in FRBMn Act, 2003 of the Indian economy?"
+        },
+        "options": [
+            {
+                "text": "Fiscal"
+            },
+            {
+                "text": "Freedom"
+            },
+            {
+                "text": "Financial"
+            },
+            {
+                "text": "Functional"
+            }
+        ],
+        "answer": "Fiscal",
+        "solution": {
+            "type": "text",
+            "content": "Fiscal. The FRBM Actn (Fiscal Responsibility and Budgetn Management Act), enacted in Augustn 2003. Aim - To promote fiscal discipline,n transparency, and accountability in then management of India's finances."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 02/05/2023 (Afternoon)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "With respect to sports, NADAn stands for_"
+        },
+        "options": [
+            {
+                "text": "National Anti - Doping Association"
+            },
+            {
+                "text": "National Autonomous Doping Agency"
+            },
+            {
+                "text": "National Anti - Doping Agency"
+            },
+            {
+                "text": "National Autonomous Dopingn Association"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "с)n Nationaln Anti-Dopingn Agency - It is India's nationaln organisation responsible for promoting,n coordinating, and monitoring the dopingn control program in sports in all its forms.n Established November 2005.n Headquarters - New Delhi."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/06/2023 (Afternoon)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "With respect to social groups inn India, PVTGS stands for"
+        },
+        "options": [
+            {
+                "text": "Periodic Vulnerable Tribal Groups"
+            },
+            {
+                "text": "Periodic Various Tribal Groups"
+            },
+            {
+                "text": "Particularly Vulnerable Tribal Groups"
+            },
+            {
+                "text": "Particularly Various Tribal Groups"
+            }
+        ],
+        "answer": "Particularly Vulnerable Tribal Groups",
+        "solution": {
+            "type": "text",
+            "content": "Particularly Vulnerablen Tribal Groups. It is a sub-classification ofn a Scheduled Tribe or section of an Scheduled Tribe that is considered moren vulnerable than a regular Scheduledn Tribe. PVTGs reside in 18 States and onen union territory."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 16/05/2023 (Evening)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "With respect to sports, WADAn stands for"
+        },
+        "options": [
+            {
+                "text": "World Anti-Doping Association"
+            },
+            {
+                "text": "World Anti-Doping Agency"
+            },
+            {
+                "text": "Wrestling Anti-Doping Association"
+            },
+            {
+                "text": "World Autonomous - Doping Agency"
+            }
+        ],
+        "answer": "World Anti-Doping Agency",
+        "solution": {
+            "type": "text",
+            "content": "World Anti-Doping Agency -n It was established in 1999 as ann international independent agencyn composed and funded equally by then sport movement and governments of then world. The First World Conference onn Doping in Sport held in Lausannen (Switzerland) in 1999. Headquartern Montreal, Canada."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/06/2023 (Evening)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "What is the full form of NCRB?"
+        },
+        "options": [
+            {
+                "text": "National Currency Records Branch"
+            },
+            {
+                "text": "National Capital Register Bureau"
+            },
+            {
+                "text": "National Criminal Records Bureau"
+            },
+            {
+                "text": "National Crime Records Bureau"
+            }
+        ],
+        "answer": "National Crime Records Bureau",
+        "solution": {
+            "type": "text",
+            "content": "National Crime Recordsn Bureau is an Indian government agencyn responsible for collecting and analyzingn crime data as defined by the Indian Penaln Code (IPC) and Special and Local Lawsn (SLL). Headquarters - New Delhi. Ministryn Ministry of Home Affairs (MHA).n Establishedn 1986. It implementesn Crime and Criminal Tracking Networkn System (CCTNS)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/03/2023 (4th Shift)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "What is the full form of RPG?"
+        },
+        "options": [
+            {
+                "text": "Report Program Generator"
+            },
+            {
+                "text": "Random Program Generator"
+            },
+            {
+                "text": "Report Process Generator"
+            },
+            {
+                "text": "Random Process Generator"
+            }
+        ],
+        "answer": "Report Program Generator",
+        "solution": {
+            "type": "text",
+            "content": "Report Program Generator.n It is a high-level programming languagen for business applications, introduced inn 1959 for the IBM 140. Some Major Highn Language - Python, Java, C++, JavaScriptn and C#."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (1st Shift)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "A balanced diet should meet then RDAs for an individual. State the full formn of RDA."
+        },
+        "options": [
+            {
+                "text": "Request Diet Allowances"
+            },
+            {
+                "text": "Recommended Dietary Allowances"
+            },
+            {
+                "text": "Request Dietary Allowances"
+            },
+            {
+                "text": "Recommend Diet Allowances"
+            }
+        ],
+        "answer": "Recommended Dietary Allowances",
+        "solution": {
+            "type": "text",
+            "content": "The Recommended Dietaryn Allowance (RDA) is the average dailyn dietary intake level that is sufficient ton meet the nutrient requirement of nearlyn all (97 to 98 percent) healthy individualsn in a particular gender and life stagen group."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 21/07/2022 (Afternoon)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "In the context of BHIM UPI, whatn does 'l' stand for in BHIM?"
+        },
+        "options": [
+            {
+                "text": "Insurance"
+            },
+            {
+                "text": "Interfere"
+            },
+            {
+                "text": "Identity"
+            },
+            {
+                "text": "Interface"
+            }
+        ],
+        "answer": "Interface",
+        "solution": {
+            "type": "text",
+            "content": "Interface. Bharat Interfacen for Money (BHIM) is an app that lets youn make simple, easy, and quick paymentn transactions using Unified Paymentsn Interface (UPI)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 18/10/2021 (Morning)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "In DASD, what is the full form of 'A'?"
+        },
+        "options": [
+            {
+                "text": "Around"
+            },
+            {
+                "text": "Accessible"
+            },
+            {
+                "text": "Arithmetic"
+            },
+            {
+                "text": "Access"
+            }
+        ],
+        "answer": "Access",
+        "solution": {
+            "type": "text",
+            "content": "Access. A Direct-accessn storage device is a secondary storagen device in which each physical record hasn a discrete location and a unique address.n DASD includes hard disk, magneticn drums, optical discs etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/10/2020 (Evening)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "Which of the followingn abbreviations related to categories ofn Indian Civil Services is INCORRECT?"
+        },
+        "options": [
+            {
+                "text": "IAS"
+            },
+            {
+                "text": "ICS"
+            },
+            {
+                "text": "IPS"
+            },
+            {
+                "text": "IFS"
+            }
+        ],
+        "answer": "ICS",
+        "solution": {
+            "type": "text",
+            "content": "ICS. IAS (Indiann Administrative Services), IFS (Indiann Foreign Services), IPS (Indian Policen Services) are categories of Indian Civiln Services."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/10/2020 (Evening)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "In the context of the bankingn sector, what does 'F' stand for in IFSC?"
+        },
+        "options": [
+            {
+                "text": "Functional"
+            },
+            {
+                "text": "Forum"
+            },
+            {
+                "text": "Fiscal"
+            },
+            {
+                "text": "Financial"
+            }
+        ],
+        "answer": "Financial",
+        "solution": {
+            "type": "text",
+            "content": "Financial. IFSC stands forn Indian Financial system Code. It is an 11n digit alphanumeric code used to uniquelyn identify bank branches within then National Electronic Funds transfern (NEFT) network by the central bank."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 25/11/2020 (Morning)"
+    }
+]

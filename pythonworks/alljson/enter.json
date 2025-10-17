@@ -1,0 +1,394 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "Radio broadcasting started in India in by the Radio Club of Bombay (Mumbai)."
+        },
+        "options": [
+            {
+                "text": "1934"
+            },
+            {
+                "text": "1923"
+            },
+            {
+                "text": "1929"
+            },
+            {
+                "text": "1938"
+            }
+        ],
+        "answer": "1923",
+        "solution": {
+            "type": "text",
+            "content": "Broadcasting 1923. Company The Indian (IBC) was formed as a private company to operate radio stations in India in 1927. The Indian State Broadcasting Service was established by the government of India in 1930. The service was renamed All India Radio (AIR) in 1936."
+        },
+        "videoUrl": "",
+        "status": "SSC Stenographer 12/10/2023 (Afternoon)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "Which of the following novels is written by RK Narayan and also adapted into a Hindi film by the same name?"
+        },
+        "options": [
+            {
+                "text": "Hello"
+            },
+            {
+                "text": "The Guide"
+            },
+            {
+                "text": "Devdas"
+            },
+            {
+                "text": "3 Idiots"
+            }
+        ],
+        "answer": "The Guide",
+        "solution": {
+            "type": "text",
+            "content": "The Guide (1965). Movies based on R.K Narayan's Novels: Banker Margayya (1983), Mr Sampath (1972)."
+        },
+        "videoUrl": "",
+        "status": "SSC Stenographer 12/10/2023 (Afternoon)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "Who was the music director of the famous film 'Sholay' released in 1975?"
+        },
+        "options": [
+            {
+                "text": "Madan Mohan"
+            },
+            {
+                "text": "Nadeem-Shravan"
+            },
+            {
+                "text": "Jatin - Lalit"
+            },
+            {
+                "text": "RD Burman"
+            }
+        ],
+        "answer": "RD Burman",
+        "solution": {
+            "type": "text",
+            "content": "RD Burman. Sholay Movie: Director (Ramesh Sippy), Producer (GP Sippy), Writer (Salim-Javed)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Who among the following singers had a Guinness World Record for recording 28 songs in a single day? (As of December 2022.)"
+        },
+        "options": [
+            {
+                "text": "Sonu Nigam"
+            },
+            {
+                "text": "Kumar Sanu"
+            },
+            {
+                "text": "Udit Narayan"
+            },
+            {
+                "text": "Arijit Singh"
+            }
+        ],
+        "answer": "Udit Narayan",
+        "solution": {
+            "type": "text",
+            "content": "Kumar Sanu: Awards and Honours Maharashtra Ratna Awards (2014), Padma Shri (2009). Udit Narayan (Playback singer): Awards Padma Shri (2009), Рadma Bhushan (2016). Sonu Nigam: Awards Padma Shri (2022). Arijit Singh - Singer and music composer."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "The Telugu movie RRR created history by winning a Golden Globe for the Natu Natu song composed by whom among the following personalities?"
+        },
+        "options": [
+            {
+                "text": "Shankar - Ehsaan - Loy"
+            },
+            {
+                "text": "Mervin Solomon"
+            },
+            {
+                "text": "MM Keeravani"
+            },
+            {
+                "text": "AR Rahman"
+            }
+        ],
+        "answer": "MM Keeravani",
+        "solution": {
+            "type": "text",
+            "content": "MM Keeravani. RRR film: Director S. S. Rajamouli. Academy Awards (Oscars Awards) were first awarded in 1929."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 18/07/2023 (2nd shift)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Azhar (2016), a sports-related movie, is based on which of the following sports?"
+        },
+        "options": [
+            {
+                "text": "Cricket"
+            },
+            {
+                "text": "Boxing"
+            },
+            {
+                "text": "Mixed Martial arts"
+            },
+            {
+                "text": "Hockey"
+            }
+        ],
+        "answer": "Cricket",
+        "solution": {
+            "type": "text",
+            "content": "Cricket. Azhar (2016) The story inspired by Mohammad Azharuddin (Former national cricket team captain). Movies based on Indian Cricketers: Sachin Tendulkar: A Billion Dreams (2017)- Based on Former Indian Cricketer Sachin Tendulkar. 83 (2021) - Based on the India national cricket teain which won the 1983 led by Kapil Dev, Cricket World Cup. M S Dhoni: The Untold Story (2016) Mahendra Singh Dhoni (Former captain of the Indian national cricket team)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 15/06/2023 (Evening)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT an example of Mass Media?"
+        },
+        "options": [
+            {
+                "text": "Radio"
+            },
+            {
+                "text": "Door to door campaign"
+            },
+            {
+                "text": "Television"
+            },
+            {
+                "text": "Newspapers"
+            }
+        ],
+        "answer": "Door to door campaign",
+        "solution": {
+            "type": "text",
+            "content": "Door to door campaign. Mass Media: A technology that is intended to reach a mass audience. It is the primary means of communication used to reach the general public."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 19/06/2023 (Morning)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Who among the following composers won the Grammy in 2015 for his album 'Winds of Samsara'a collaboration with South African flautist Wouter Kellerman?"
+        },
+        "options": [
+            {
+                "text": "Mano Murthy"
+            },
+            {
+                "text": "Raghu Dixit"
+            },
+            {
+                "text": "Subhashish Ghosh"
+            },
+            {
+                "text": "Ricky Kej"
+            }
+        ],
+        "answer": "Ricky Kej",
+        "solution": {
+            "type": "text",
+            "content": "Ricky Kej. He won his second Grammy award in 2022 for his album 'Divine Tides' in category of Best New age album."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 01/12/2022 (1st Shift)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "Who among the following was the winner of the National Film Award in 2002 for his choreography in the Hindi movie 'Lagaan'?"
+        },
+        "options": [
+            {
+                "text": "Ahmed Khan"
+            },
+            {
+                "text": "Dinesh Kumar"
+            },
+            {
+                "text": "Raju Khan"
+            },
+            {
+                "text": "Shiamak Davar"
+            }
+        ],
+        "answer": "Dinesh Kumar",
+        "solution": {
+            "type": "text",
+            "content": "Raju Khan. Lagaan: {Director: Ashutosh Gowariker, Actor: Aamir Khan, music director: A. R. Rahman}. Terence Lewis won the 2002 American Choreography Award for his work in this movie."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 05/12/2022 (4th Shift)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "Who among the following became the first Asian to win the award for best sound for the documentary 'India's Daughter' at the coveted Motion Picture Sound Editors' 63rd annual Golden Reel Awards?"
+        },
+        "options": [
+            {
+                "text": "Justin Jose"
+            },
+            {
+                "text": "P.M.Satheesh"
+            },
+            {
+                "text": "Resul Pookutty"
+            },
+            {
+                "text": "Boby John"
+            }
+        ],
+        "answer": "P.M.Satheesh",
+        "solution": {
+            "type": "text",
+            "content": "Resul Pookutty (Indian film sound designer, sound editor, and audio mixer). Awards: Golden Reel Award (2016), Padma Shri (2010), National Film Award for Best Audiography (2010), Asianet Film Awards (2009)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 12/12/2022 (3rd Shift)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "'The Unblemished One', a dance film by has won two awards at White Unicorn International Film Festival (WUIFF) in the categories of 'Experimental Film' and 'Film on Women."
+        },
+        "options": [
+            {
+                "text": "Chitra Visweswaran"
+            },
+            {
+                "text": "Anjana Ghonasgi"
+            },
+            {
+                "text": "Deepa Mehta"
+            },
+            {
+                "text": "Oopali Operajita"
+            }
+        ],
+        "answer": "Anjana Ghonasgi",
+        "solution": {
+            "type": "text",
+            "content": "Anjana Ghonasgi (Bharatnatyam). She has coined her own style called \"Mudratutting\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 09/11/2022 (Evening)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "In 2012, for which of the following films did Pandit Birju Maharaj win the 'Best Choreography' category National Award?"
+        },
+        "options": [
+            {
+                "text": "Nanban"
+            },
+            {
+                "text": "Ambuli"
+            },
+            {
+                "text": "Vishwaroopam"
+            },
+            {
+                "text": "Aravaan"
+            }
+        ],
+        "answer": "Ambuli",
+        "solution": {
+            "type": "text",
+            "content": "Vishwaroopam (for Unnai Kaanaatha song). Filmfare Award for Best Choreography for Mohe Rang Do Laal, Bajirao Mastani (2016)."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 11/11/2022 (Afternoon)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Who among the following has sung the famous Bollywood song 'Channa Mereya'?"
+        },
+        "options": [
+            {
+                "text": "Neeti Mohan"
+            },
+            {
+                "text": "Arijit Singh"
+            },
+            {
+                "text": "Shreya Ghoshal"
+            },
+            {
+                "text": "Sukhbir"
+            }
+        ],
+        "answer": "Arijit Singh",
+        "solution": {
+            "type": "text",
+            "content": "Arijit Singh. The song \"Channa Mereya\" is from \"Ae Dil Hai Mushkil\" (Indian film directed by Karan Johar in 2016)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/07/2022 (Morning)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "Who was India's first Olympian who went on to star in Hollywood and Broadway?"
+        },
+        "options": [
+            {
+                "text": "Milkha Singh"
+            },
+            {
+                "text": "Norman Pritchard"
+            },
+            {
+                "text": "Virat Kohli"
+            },
+            {
+                "text": "PT Usha"
+            }
+        ],
+        "answer": "Norman Pritchard",
+        "solution": {
+            "type": "text",
+            "content": "Norman Pritchard (Norman Trevor), was a British-Indian athlete and actor who became the first Asian-born athlete to win an Olympic medal when he won two silver medals in athletics at the 1900 Paris Summer Olympics representing India."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 22/07/2022 (Afternoon)"
+    }
+]

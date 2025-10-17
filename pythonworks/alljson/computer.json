@@ -1,0 +1,5316 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "Which among the following is a part of the URL (Uniform Resource Locator)? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "Server"
+            },
+            {
+                "text": "Error code"
+            },
+            {
+                "text": "Port number"
+            },
+            {
+                "text": "Multiplexer"
+            }
+        ],
+        "answer": "Error code",
+        "solution": {
+            "type": "text",
+            "content": "Port Number. Parts of URL: scheme, sub- domain, domain, top level domain, port number, path, query, parameters, fragment. A server is a computer or system that provides resources, data, services, or programs to other computers, known as clients, over a network. A multiplexer is a device that selects one of several input signals and forwards it to a single output."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "What is the purpose of the 'Alignment' options in Microsoft Word? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "To insert images and graphics"
+            },
+            {
+                "text": "To adjust the spacing between lines of text."
+            },
+            {
+                "text": "To change the font colour of the text."
+            },
+            {
+                "text": "To control the horizontal or vertical placement of text within margins."
+            }
+        ],
+        "answer": "To control the horizontal or vertical placement of text within margins.",
+        "solution": {
+            "type": "text",
+            "content": "Alignment is how text flows in relation to the rest of the page (or column, table cell, text box, etc.). There are four main alignments: left (Ctrl + L), right (Ctrl + R), center (Ctrl + E), and justify (Ctrl + J)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "What is the role of ROM (Read-Only Memory) in a computer system? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "Managing network connection."
+            },
+            {
+                "text": "Storing user-generated files and documents."
+            },
+            {
+                "text": "Storing the computer's firmware and startup instructions."
+            },
+            {
+                "text": "Providing temporary storage for running applications."
+            }
+        ],
+        "answer": "Storing the computer's firmware and startup instructions.",
+        "solution": {
+            "type": "text",
+            "content": "ROM (read only memory), is a memory device or storage medium that stores information permanently. Types: Mask ROM Permanently programmed during the manufacturing process. Cannot be altered by the user. Programmable ROM (PROM) Can be programmed once using special equipment and a one-time programming voltage. Cannot be erased or reprogrammed. Erasable and Programmable ROM (EPROM): Can be erased using ultraviolet light and then reprogrammed multiple times. Electrically Erasable Programmable ROM (EEPROM): Can be erased and reprogrammed electrically within the device, offering greater flexibility than EPROM."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "What is a 'DDoS attack' in the context of network security? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "An attack that aims to exploit vulnerabilities in software"
+            },
+            {
+                "text": "An attack that floods a network with excessive traffic to overwhelm and disrupt its operation."
+            },
+            {
+                "text": "A type of malware that replicates itself and spreads through a network."
+            },
+            {
+                "text": "A social engineering attack that targets specific individuals."
+            }
+        ],
+        "answer": "An attack that floods a network with excessive traffic to overwhelm and disrupt its operation.",
+        "solution": {
+            "type": "text",
+            "content": "Some of the severe emerging threats to network security are DDOS (distributed denial-of-service) attacks, man-in-the-middle attacks, phishing attacks, inadequate network protocols, and ransomware attacks."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "What is 'Phishing' in the context of network security? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "A type of computer worm that spreads through email attachments."
+            },
+            {
+                "text": "An attack that floods a network with excessive traffic to disrupt its operation."
+            },
+            {
+                "text": "A social engineering attack that tricks users into revealing sensitive information."
+            },
+            {
+                "text": "A type of malware that spreads through infected USB drives."
+            }
+        ],
+        "answer": "A social engineering attack that tricks users into revealing sensitive information.",
+        "solution": {
+            "type": "text",
+            "content": "Four types of phishing: Spear Phishing, Whaling, Vishing, Email Phishing. More types of cyber attacks: Malware (short for \"malicious software\") is a file or code, typically delivered over a network, that infects, explores, steals or conducts virtually any behavior an attacker wants. Spoofing is the act of disguising a communication from an unknown source as being from a known, trusted source."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "What is a workbook in Excel? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "A collection of cells with related data"
+            },
+            {
+                "text": "A set of predefined formatting styles"
+            },
+            {
+                "text": "A chart that visualises data"
+            },
+            {
+                "text": "A file containing multiple worksheets"
+            }
+        ],
+        "answer": "A file containing multiple worksheets",
+        "solution": {
+            "type": "text",
+            "content": "Terminologies in MS Excel: Cell Reference - The set of coordinates that a cell occupies on a worksheet. A Worksheet which is also called a spreadsheet is a combination of cells. Ribbon is the area where tabs and icons are arranged in rows in the upper portion of the worksheet. AutoFill is a feature in Excel that allows users to quickly fill in a series of cells with a pattern or data. Flash Fill allows users to quickly fill in a column of data based on another column of data."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "What is the keyboard shortcut to 'Paste' copied content from the clipboard in most Windows applications? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "Ctrl + С"
+            },
+            {
+                "text": "Ctrl + Z"
+            },
+            {
+                "text": "Ctrl + х"
+            },
+            {
+                "text": "Ctrl + V"
+            }
+        ],
+        "answer": "Ctrl + V",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + V. Ctrl + C- It is used to copy selected text or images to clipboard. Ctrl + Z - It is used to undo an action. Ctrl +X - It is used to cut selected text or files from a document or folder."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "What is the main purpose of the 'BCC' field in email composition? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "To include multiple main recipients in a single field."
+            },
+            {
+                "text": "To indicate the importance of the email."
+            },
+            {
+                "text": "To send copies of the email without revealing the other recipients' addresses."
+            },
+            {
+                "text": "To attach files to the email."
+            }
+        ],
+        "answer": "To send copies of the email without revealing the other recipients' addresses.",
+        "solution": {
+            "type": "text",
+            "content": "Email terminologies: An attachment is any type of file sent along with an email message. Base64 is a method of encoding and decoding. The \"To\" line is for the primary recipient. CC (carbon copy), allowing someone apart from the primary recipient to receive a copy of the email."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "What protocol is commonly used for sending and receiving emails? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "SSH"
+            },
+            {
+                "text": "SMTP"
+            },
+            {
+                "text": "FTP"
+            },
+            {
+                "text": "HTTP"
+            }
+        ],
+        "answer": "SMTP",
+        "solution": {
+            "type": "text",
+            "content": "The Secure Shell (SSH) protocol is a method for securely sending commands to a computer over an unsecured network. FTP is a standard internet protocol provided by TCP/IP used for transmitting the files from one host to another. Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is an example of an output device? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "Printer"
+            },
+            {
+                "text": "Microphone"
+            },
+            {
+                "text": "Scanner"
+            },
+            {
+                "text": "Mouse"
+            }
+        ],
+        "answer": "Printer",
+        "solution": {
+            "type": "text",
+            "content": "Printer. Examples of Output devices Monitor, Headphones, Computer Speakers, Projector, GPS, Sound Card, Video Card. Input Devices: Keyboard, Mouse, Light Pen, Optical /magnetic Scanner, Touch Screen, Microphone for voice as input, Track Ball, Joystick."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "What is the purpose of the Arithmetic Logic Unit (ALU) in a Central Processing Unit (CPU)? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "It executes program instructions by performing calculations and logical comparisons."
+            },
+            {
+                "text": "It manages the data flow between the CPU fan."
+            },
+            {
+                "text": "It controls the speed of the CPU fan."
+            },
+            {
+                "text": "It connects the CPU to peripheral devices."
+            }
+        ],
+        "answer": "It executes program instructions by performing calculations and logical comparisons.",
+        "solution": {
+            "type": "text",
+            "content": "Logical operations: comparisons (greater than, less than, equal to), AND, OR, NOT. The primary function of an ALU is to store and retrieve data from memory. There can be more than one ALU in a CPU."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "How can you open an existing document in Microsoft Word 2016? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "Press Ctrl + S"
+            },
+            {
+                "text": "Press Ctrl + N"
+            },
+            {
+                "text": "Press Ctrl + P"
+            },
+            {
+                "text": "Press Ctrl + O"
+            }
+        ],
+        "answer": "Press Ctrl + O",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + O. Shortcuts: Ctrl + N- Create a new document, Ctrl + S Save the document, Ctrl + W Close the document."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Which keyboard shortcut opens File Explorer (previously known as Windows Explorer) in Windows 10? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "Ctrl + P"
+            },
+            {
+                "text": "Win + E"
+            },
+            {
+                "text": "Ctrl + С"
+            },
+            {
+                "text": "Alt + Tab"
+            }
+        ],
+        "answer": "Win + E",
+        "solution": {
+            "type": "text",
+            "content": "Win + E. File explorer shortcuts in Windows 11: Alt + D: Select the address bar. Ctrl + E: Select the search box. Ctrl + N: Open a new window. Num Lock + asterisk (*): Display all subfolders under the selected folder. Num Lock + plus (+): Display the contents of the selected folder. Num Lock + minus (-): Collapse the selected folder."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "What is the purpose of a search engine on the internet? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "To create and edit documents online."
+            },
+            {
+                "text": "To search and retrieve relevant information from the web."
+            },
+            {
+                "text": "To provide free software downloads."
+            },
+            {
+                "text": "To network with people on social media platforms."
+            }
+        ],
+        "answer": "To search and retrieve relevant information from the web.",
+        "solution": {
+            "type": "text",
+            "content": "The search engine looks at user queries to establish searcher intent, which is the specific type of information the user is looking for. Examples: Google, Bing, Yahoo, Yandex, DuckDuckGo, Baidu, Ask.com, Naver."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "Which networking protocol is used to assign IP addresses dynamically to devices on a network? SSC CHSL Tier II 10/01/2024"
+        },
+        "options": [
+            {
+                "text": "FTP"
+            },
+            {
+                "text": "HTТР"
+            },
+            {
+                "text": "SMPT"
+            },
+            {
+                "text": "DHCP"
+            }
+        ],
+        "answer": "DHCP",
+        "solution": {
+            "type": "text",
+            "content": "DHCP. It is a network protocol that is used to configure network devices to communicate on an IP network. An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet. IP (version 4) addresses are 32-bit integers that can be expressed in hexadecimal notation. An IPv6 address is 128 bits long compared with the 32 bit address of IPv4."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "The CPU interacts directly with the _ memory to perform read or write operation. SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "register"
+            },
+            {
+                "text": "primary"
+            },
+            {
+                "text": "secondary"
+            },
+            {
+                "text": "cache"
+            }
+        ],
+        "answer": "primary",
+        "solution": {
+            "type": "text",
+            "content": "Primary Memory. Types: Random Access Memory (RAM), Read Only Memory (ROM). Secondary Memory : Solid State Drive (SSD), Hard Disk, Blu-ray Disc, Compact Disc (CD), Digital Versatile Disc (DVD), Optical Disc, Magnetic Tapes, Floppy Disc."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "In MS-Excel 365, the_ between two columns is an indicator that we have hidden a column. SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "single arrow"
+            },
+            {
+                "text": "single line"
+            },
+            {
+                "text": "double arrow"
+            },
+            {
+                "text": "double line"
+            }
+        ],
+        "answer": "double line",
+        "solution": {
+            "type": "text",
+            "content": "Double line. In MS Excel 365, Single arrows are used to expand or collapse groups of rows or columns. Double arrows are used to filter data in a column. Single line are the standard dividers between visible columns."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "In MS-Excel 365, you can use when you want to change a cell reference within a formula without changing the formula itself. SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "INDIRECT"
+            },
+            {
+                "text": "VLOOKUP"
+            },
+            {
+                "text": "TRANSPOSE"
+            },
+            {
+                "text": "MATCH"
+            }
+        ],
+        "answer": "INDIRECT",
+        "solution": {
+            "type": "text",
+            "content": "INDIRECT. Other functions: VLOOKUP Looks for a value in the leftmost column of a table, and then returns a value in the same row from the column we specify. TRANSPOSE Converts a vertical range of cells to а horizontal range, or vice versa. MATCH - Returns the relative position of an item in an array that matches a specified value in a specified order."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "In computer memory bus is used to transfer addresses between CPU and the main memory. SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "status"
+            },
+            {
+                "text": "control"
+            },
+            {
+                "text": "data"
+            },
+            {
+                "text": "address"
+            }
+        ],
+        "answer": "address",
+        "solution": {
+            "type": "text",
+            "content": "address bus. A computer bus is a set of conductors that enable information to be transmitted between computer components, such as printers, modems, and monitors. A data bus transfers data between a computer's memory and its CPU, which operates as the device's \"engine\". The control bus manages the communication between the computer's CPU and its other components."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "A bit is an extra bit included with a binary message to make the total number of 1s either odd or even. SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "exclusive"
+            },
+            {
+                "text": "complementary"
+            },
+            {
+                "text": "parity"
+            },
+            {
+                "text": "checker"
+            }
+        ],
+        "answer": "complementary",
+        "solution": {
+            "type": "text",
+            "content": "parity bit. A parity bit is a simple form of error detection used in digital communications, computing, and data storage."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "In computer memory, the width of the _bus specifies the maximum possible memory supported by a system. SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "control"
+            },
+            {
+                "text": "1/0"
+            },
+            {
+                "text": "data"
+            },
+            {
+                "text": "address"
+            }
+        ],
+        "answer": "address",
+        "solution": {
+            "type": "text",
+            "content": "address bus. The primary function of an address bus is to specify the unique address of the location in cache or main memory intended for reading or writing. Each distinct memory location possesses its own exclusive address, a concept referred to as addressability. I/O (input output) bus: Connects the CPU to input/output devices like keyboards, mice, and printers."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "Which of the following parts of given URL is a 'domain name'? http://www.india.in/tallybook/tallybook.x yz SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "http:"
+            },
+            {
+                "text": "tallybook"
+            },
+            {
+                "text": "www.india.in"
+            },
+            {
+                "text": "tallybook.xyz"
+            }
+        ],
+        "answer": "tallybook",
+        "solution": {
+            "type": "text",
+            "content": "www.india.in. A URL (Uniform Resource Locator) is a unique identifier used to locate a resource on the Internet. http: This is the protocol used for communication, in this case, indicating Hypertext Transfer Protocol. /tallybook/: This specifies the directory or folder within the website where the desired content is located. tallybook.xyz: This is the filename of the specific resource, possibly an HTML file or another web asset, within the /tallybook/ directory."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "Which of the following types of firewall operates at the Network layer to examine incoming and outgoing packets? SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "Packet filtering"
+            },
+            {
+                "text": "Application - level gateway"
+            },
+            {
+                "text": "Circuit - level gateway"
+            },
+            {
+                "text": "Network filtering"
+            }
+        ],
+        "answer": "Packet filtering",
+        "solution": {
+            "type": "text",
+            "content": "packet filtering. It is a powerful security technique against intrusions from external networks. An application-level gateway (ALG) is a type of firewall that filters traffic at the application layer of the OSI (open systems interconnection) model. A circuit-level gateway is a type of firewall that operates on layer 5 of the OSI model, which is the session layer. Proxy firewalls operate at the application layer as an intermediate device to filter incoming traffic between two end systems (e.g., network and traffic systems)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": "In email, which of the following mode(s) is/are included in the Post Office Protocol (POP)? I. Delete Mode II. Keep Mode SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "Only II"
+            },
+            {
+                "text": "Only"
+            },
+            {
+                "text": "Neither | nor II"
+            },
+            {
+                "text": "Both I and II"
+            }
+        ],
+        "answer": "Both I and II",
+        "solution": {
+            "type": "text",
+            "content": "The Post Office Protocol (POP) service is a network server by which client-based email programs are connected to access a user's email on a central server. Transmission Control Protocol (TCP) port 110."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements is/are correct for email? 1. A user can check the email header prior to downloading. II. A user can partially download an email. SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "Only II"
+            },
+            {
+                "text": "Only I"
+            },
+            {
+                "text": "Neither I nor II"
+            },
+            {
+                "text": "Both I and II"
+            }
+        ],
+        "answer": "Both I and II",
+        "solution": {
+            "type": "text",
+            "content": "Both I and II. Different Parts of Email: Sender/from, subject line, pre-header, salutation, email body, Closing line, Signature, Call to Action (CTA), Attachments. A call to action (CTA), if defined, is an instruction to the reader that encourages them to take immediate action."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": "In MS Office 365, the 'Table of Authorities' group can be found under which of the following tabs? SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "References"
+            },
+            {
+                "text": "Review"
+            },
+            {
+                "text": "Mailings"
+            },
+            {
+                "text": "View"
+            }
+        ],
+        "answer": "References",
+        "solution": {
+            "type": "text",
+            "content": "References tab (Table of contents, footnotes). Review Tab (Proofing, word count, accessibility, translate, comments, tracking, mark up). Layout tab (Page setup, page background, paragraph). Insert (pages, tables, picture, illustrations, links, bookmarks, media, comments, header and footer, symbols, emojis)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 27,
+        "question": {
+            "type": "text",
+            "content": "In File Explorer of Windows 11, to reduce the space between files, select view > view. SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "Cloud"
+            },
+            {
+                "text": "Compact"
+            },
+            {
+                "text": "Wide"
+            },
+            {
+                "text": "Stretch"
+            }
+        ],
+        "answer": "Wide",
+        "solution": {
+            "type": "text",
+            "content": "Compact. In Windows 11 under View menu (Tiles, content, details pane, preview pane, show). Under Show menu (Navigation pane, compact view, item check boxes, file name extensions, hidden items)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 28,
+        "question": {
+            "type": "text",
+            "content": "Which of the following keyboard shortcuts is used to copy the selected item in Windows 11? SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "Shift + Enter"
+            },
+            {
+                "text": "Ctrl + Insert"
+            },
+            {
+                "text": "Shift + Insert"
+            },
+            {
+                "text": "Ctrl + Enter"
+            }
+        ],
+        "answer": "Shift + Insert",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + Insert. Shift + Insert: Paste selected or highlighted item. Ctrl + Enter is the keyboard shortcut in MS-Word that starts a new page. In Excel, Ctrl + Enter fills the selected cells with the current entry. Shift-Enter allows us to go to the next line without creating a new bullet or number in MS Word."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 29,
+        "question": {
+            "type": "text",
+            "content": "A is a program that can self-replicate and propagate over the network. SSC CHSL Tier II 02/11/2023"
+        },
+        "options": [
+            {
+                "text": "worm"
+            },
+            {
+                "text": "boot sector virus"
+            },
+            {
+                "text": "trojan horse"
+            },
+            {
+                "text": "macro virus"
+            }
+        ],
+        "answer": "worm",
+        "solution": {
+            "type": "text",
+            "content": "Worm. A boot sector virus is a type of malware that infects a system's boot partition or the Master Boot Record (MBR) of a hard disk. A macro virus is a computer virus written in the same macro language used to create software programs such as Microsoft Excel or Word."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 30,
+        "question": {
+            "type": "text",
+            "content": "A/An is an organisation that connects its subscriber's computer using modem to the Internet. SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "Uniform Resource Locator"
+            },
+            {
+                "text": "Web Browser"
+            },
+            {
+                "text": "Web Server"
+            },
+            {
+                "text": "Internet Service Provider"
+            }
+        ],
+        "answer": "Internet Service Provider",
+        "solution": {
+            "type": "text",
+            "content": "Internet Service Provider (ISP). Examples of ISP: Airtel, Jio, Alliance, YOU, BSNL, Hathway, Tata Play, Exitel etc."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 31,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is an example of GUI-based user in email? SSC CGL Tier I| 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "Elm"
+            },
+            {
+                "text": "Mail"
+            },
+            {
+                "text": "Pine"
+            },
+            {
+                "text": "Netscape"
+            }
+        ],
+        "answer": "Netscape",
+        "solution": {
+            "type": "text",
+            "content": "Netscape, outlook & Eudora (examples of GUI-based user in email). GUI- Based- They contain graphical-user interface (GUI) components that allow the user to interact with the software by using both the keyboard and the mouse. Some examples of command-driven user agents are mail, pine, and elm. ELM is a simple mailer program that allows us to send and receive email. Pine is a \"mail user agent\" (MUA), which is a program that allows you to compose and read messages using Internet mail standards."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 32,
+        "question": {
+            "type": "text",
+            "content": "In MS Office 365, the Page Setup dialog box can be found under which of the following tabs? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "Home"
+            },
+            {
+                "text": "Draw"
+            },
+            {
+                "text": "Layout"
+            },
+            {
+                "text": "Insert"
+            }
+        ],
+        "answer": "Layout",
+        "solution": {
+            "type": "text",
+            "content": "Layout. Menus under Layout tab- Page setup (Margins, Orientation, Size), Paragraph (Indent, Spacing), Page Background (Page Colour). Home tab- Clipboard, font, paragraph, styles. Insert (Page Break, table, picture, drawing, link, bookmarks, header & footers, page numbers, equation, symbol)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 33,
+        "question": {
+            "type": "text",
+            "content": "When the sender and receiver of an email are on the same system, we need only user agents. SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "two"
+            },
+            {
+                "text": "three"
+            },
+            {
+                "text": "four"
+            },
+            {
+                "text": "six"
+            }
+        ],
+        "answer": "two",
+        "solution": {
+            "type": "text",
+            "content": "two. When the sender and the receiver of an e-mail are on different systems, we need two UAs (User Agents) and a pair of MTAs (client and server). MTAs- Message transfer agents. When the sender is connected to the mail server via a LAN (Local Area Network) or a WAN (Wide Area Network), we need two UAs and two pairs of MTAs (client and server). When both sender and receiver are connected to the mail server via a LAN or a WAN, we need two UAs. two pairs of MTAS and a pair of MAA (Message Access Agent)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 34,
+        "question": {
+            "type": "text",
+            "content": "In File Explorer of Windows 11, which of the following tabs includes the 'hidden items' option? SSC CGL Tier |I 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "Home"
+            },
+            {
+                "text": "File"
+            },
+            {
+                "text": "View"
+            },
+            {
+                "text": "Share"
+            }
+        ],
+        "answer": "View",
+        "solution": {
+            "type": "text",
+            "content": "View tab. Menus under view tab in file explorer - Tiles, Content, Details Pane, Preview Pane, Show. In the Show menu we will find Navigation Pane, Compact View, item check boxes, file name, extensions, hidden items. Menu under Filter tab (All file types, Word, Excel, Powerpoint, Images, Videos and PDF)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 35,
+        "question": {
+            "type": "text",
+            "content": "What is the primary purpose of RAM (Random Access Memory) in a computer? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "Storing permanent data and files"
+            },
+            {
+                "text": "Providing long-term storage for programs"
+            },
+            {
+                "text": "Providing temporary storage for data that the CPU is currently processing"
+            },
+            {
+                "text": "Managing peripheral devices"
+            }
+        ],
+        "answer": "Providing temporary storage for data that the CPU is currently processing",
+        "solution": {
+            "type": "text",
+            "content": "RAM is a computer or laptop's short-term memory. It's where the data is stored that the computer processor needs to run applications and open files. The information stored in RAM can be checked with the help of BIOS (Basic Input/ Output System). BIOS is the program a computer's microprocessor uses to start the computer system after it is powered on. RAM is volatile in nature, which means the data is lost when the device is switched off."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 36,
+        "question": {
+            "type": "text",
+            "content": "What is a cell in Microsoft Excel? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "A separate file used to store data."
+            },
+            {
+                "text": "A single worksheet within a workbook."
+            },
+            {
+                "text": "The intersection of a row and a column in a worksheet."
+            },
+            {
+                "text": "A small diagram or chart."
+            }
+        ],
+        "answer": "The intersection of a row and a column in a worksheet.",
+        "solution": {
+            "type": "text",
+            "content": "Cells are the basic building blocks of a worksheet. A worksheet (also known as a spreadsheet) consists of cells in which we can enter and calculate data. The active cell is the selected cell in which data is entered when we begin typing. A range is a group of two or more cells in a worksheet."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 37,
+        "question": {
+            "type": "text",
+            "content": "Which networking device operates at Layer 2 of the OSI model and forwards data based on MAC addresses? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "Switch"
+            },
+            {
+                "text": "Hub"
+            },
+            {
+                "text": "Firewall"
+            },
+            {
+                "text": "Router"
+            }
+        ],
+        "answer": "Switch",
+        "solution": {
+            "type": "text",
+            "content": "Switch. A network switch connects devices in a network to each other, enabling them to talk by exchanging data packets. A hub is a device that links multiple computers and devices together. A router is a device that connects two or more packet-switched networks."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 38,
+        "question": {
+            "type": "text",
+            "content": "Which backup device provides a convenient way to create system images and complete backups, but may require a lengthy restoration process? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "Tape drive"
+            },
+            {
+                "text": "Network-attached storage"
+            },
+            {
+                "text": "Solid-state drive"
+            },
+            {
+                "text": "DVD-RW disc"
+            }
+        ],
+        "answer": "Tape drive",
+        "solution": {
+            "type": "text",
+            "content": "A tape drive is a device that stores computer data on magnetic tape, especially for backup and archiving purposes. DVD Rewritable (DVD RW) discs are designed to store up to 4.7GB or 120 minutes of DVD-quality video."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 39,
+        "question": {
+            "type": "text",
+            "content": "In MS-Excel 2019, what does the SUM function do? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "It multiplies the values inarange."
+            },
+            {
+                "text": "It adds up the values in a range."
+            },
+            {
+                "text": "It counts the number of cells in a range."
+            },
+            {
+                "text": "It finds the average of values in a range."
+            }
+        ],
+        "answer": "It adds up the values in a range.",
+        "solution": {
+            "type": "text",
+            "content": "The SUM function adds values. We can add individual values, cell references or ranges or a mix of all three. For example: =SUM (A3:A10) adds the values in cells A3:10. SUMIF (range, criteria, [sum_range]) Adds the cell specified by a given condition or criteria."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 40,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is not an example of a web browser? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "Facebook"
+            },
+            {
+                "text": "Apple Safari"
+            },
+            {
+                "text": "Google Chrome"
+            },
+            {
+                "text": "Opera"
+            }
+        ],
+        "answer": "Facebook",
+        "solution": {
+            "type": "text",
+            "content": "Facebook (social networking site). Examples of social networking sites: Twitter, Instagram, Linkedin, Snapchat, Google meet. A web browser is an application for accessing websites and the Internet. Examples: Mozilla Firefox, Google Chrome, Opera, Safari, Microsoft Edge, Netscape Navigator, Mosaic."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 41,
+        "question": {
+            "type": "text",
+            "content": "What is the function of the cache memory in a computer's memory hierarchy? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "To provide permanent storage for data and files."
+            },
+            {
+                "text": "To store frequently used data for faster access by the CPU."
+            },
+            {
+                "text": "To control the flow of data between the CPU and memory."
+            },
+            {
+                "text": "To manage the allocation of memory resources to different programs."
+            }
+        ],
+        "answer": "To store frequently used data for faster access by the CPU.",
+        "solution": {
+            "type": "text",
+            "content": "Cache memory is a chip-based computer component that makes retrieving data from the computer's memory more efficient. It is an extremely fast memory type that acts as a buffer between RAM and the CPU. It holds frequently requested data and instructions so that they are immediately available to the CPU when needed. It is costlier than main memory or disk memory but more economical than CPU registers."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 42,
+        "question": {
+            "type": "text",
+            "content": "What is a 'Firewall' in the context of network security? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "A software application for managing files and folders."
+            },
+            {
+                "text": "A type of malware that spreads through email attachments."
+            },
+            {
+                "text": "A security mechanism that filters and controls network traffic."
+            },
+            {
+                "text": "A hardware device used to boost network performance."
+            }
+        ],
+        "answer": "A security mechanism that filters and controls network traffic.",
+        "solution": {
+            "type": "text",
+            "content": "A firewall is defined as the system which analyzes and filters incoming or outgoing data packets based on predefined rules. Because the firewall supports both types of implementations, hardware, and software, therefore, it is more scalable (adaptable) than anti-virus. Functions: Network Threat Prevention, Application and Identity-Based Control, Hybrid Cloud Support, Network Traffic Management and Control, Access Validation Record and Report on Events."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 43,
+        "question": {
+            "type": "text",
+            "content": "A high speed memory is placed between the Central Processing Unit (CPU) and the primary memory known as SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "read only memory"
+            },
+            {
+                "text": "virtual memory"
+            },
+            {
+                "text": "cache memory"
+            },
+            {
+                "text": "secondary memory"
+            }
+        ],
+        "answer": "cache memory",
+        "solution": {
+            "type": "text",
+            "content": "Cache memory is a very high speed semiconductor memory which can speed up the CPU."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 44,
+        "question": {
+            "type": "text",
+            "content": "In computer registers, MAR stands for SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "Main Access Register"
+            },
+            {
+                "text": "Memory Access Register"
+            },
+            {
+                "text": "Memory Address Register"
+            },
+            {
+                "text": "Main Address Register"
+            }
+        ],
+        "answer": "Memory Address Register",
+        "solution": {
+            "type": "text",
+            "content": "MAR (Memory Address Registers). It holds the address of the location to be accessed from memory. MAR and MDR (Memory Data Register) together facilitate the communication of the CPU and the main memory. Memory Data Registers: It contains data to be written into or to be read out from the addressed location. More types of registers: AC (accumulator), DR (Data registers), PC (Program counter), IR (index registers), MBR (Memory buffer registers)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 45,
+        "question": {
+            "type": "text",
+            "content": "What is a 'Trojan' in the context of network security? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "A protocol used for secure communication between devices on a network."
+            },
+            {
+                "text": "A program that monitors network traffic for security breaches."
+            },
+            {
+                "text": "A type of firewall that protects against viruses and malware."
+            },
+            {
+                "text": "Malicious software disguised as legitimate software to gain unauthorised access."
+            }
+        ],
+        "answer": "Malicious software disguised as legitimate software to gain unauthorised access.",
+        "solution": {
+            "type": "text",
+            "content": "A Trojan virus spreads through legitimate-looking emails and files attached to emails, which are spammed to reach the inboxes of as many people as possible."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 46,
+        "question": {
+            "type": "text",
+            "content": "In Microsoft Word, what is the purpose of the 'Print Preview' feature? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "To insert images and graphics into the document."
+            },
+            {
+                "text": "To format the font and style of the document."
+            },
+            {
+                "text": "To check the spelling and grammar of the document."
+            },
+            {
+                "text": "To view how the document will appear when printed."
+            }
+        ],
+        "answer": "To view how the document will appear when printed.",
+        "solution": {
+            "type": "text",
+            "content": "Print Preview (Ctrl + F2, Ctrl + P). The Print menu is present in the File tab of MS Word. Some important features of MS Word: Word Wrap: This function allows us to type continuously without thinking about where one line will end and next one begins. Spell Check: Spell check under 'tools' menu is used to check the spelling mistakes occurred in the document. Mail Merge: Mail merge lets us create a batch of documents that are personalized for each recipient."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 47,
+        "question": {
+            "type": "text",
+            "content": "In File Explorer of Window 10, the keyboard shortcut 'Num Lock + Asterisk sign (*)' is used to SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "display all subfolders under the selected folder"
+            },
+            {
+                "text": "open the properties dialog box for the selected item"
+            },
+            {
+                "text": "display the contents of the selected folder"
+            },
+            {
+                "text": "collapse the selected folder"
+            }
+        ],
+        "answer": "display all subfolders under the selected folder",
+        "solution": {
+            "type": "text",
+            "content": "File explorer keyboard shortcuts: Num Lock + plus (+): Display the contents of the selected folder. Num Lock + minus (): Collapse the selected folder. Ctrl + Shift + E: Display all folders above the selected folder. Ctrl + Shift + N: Create a new folder."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 48,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is an example of the input device in a computer? SSC CGL Tier II 26/10/2023"
+        },
+        "options": [
+            {
+                "text": "Monitor"
+            },
+            {
+                "text": "Printer"
+            },
+            {
+                "text": "Touchscreen"
+            },
+            {
+                "text": "Speaker"
+            }
+        ],
+        "answer": "Printer",
+        "solution": {
+            "type": "text",
+            "content": "Touchscreen. Examples of input devices: Keyboard, Mouse, Scanner, Microphone, web cam, Magnetic Ink Character Reader (MICR), Gamepad, Touchpad, Digital Pen, Joystick, Barcode reader."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 49,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a communication mail channel in India ?"
+        },
+        "options": [
+            {
+                "text": "Pink channel"
+            },
+            {
+                "text": "Yellow channel"
+            },
+            {
+                "text": "Red channel"
+            },
+            {
+                "text": "Green channel"
+            }
+        ],
+        "answer": "Green channel",
+        "solution": {
+            "type": "text",
+            "content": "Green Channel A mail from a town posted to the same town is delivered the next day through the green channel in metropolitan cities. It is the fastest local mail service available for postal services in the city. Indian Postal Service has introduced six channels To facilitate faster communication (personal) Rajdhani Channel, Metro Channel, Green Channel, Business Channel, Bulk Channel, and Periodical Channel."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 06/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 50,
+        "question": {
+            "type": "text",
+            "content": "In Windows 10, which of the following keyboard shortcuts is used to display and hide the desktop? SSC CHSL Tier - 2 26/06/2023"
+        },
+        "options": [
+            {
+                "text": "Windows logo key + D"
+            },
+            {
+                "text": "Windows logo key + H"
+            },
+            {
+                "text": "Windows logo key + C"
+            },
+            {
+                "text": "Windows logo key + G"
+            }
+        ],
+        "answer": "Windows logo key + D",
+        "solution": {
+            "type": "text",
+            "content": "Windows logo key + D. Windows logo key + G - It is used to open Xbox Game Bar when a game is open. Windows logo key + C - It is used to open chat from Microsoft Teams. Windows logo key + H- It is used to Launch voice typing."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 51,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT a part of an email address? SSC CHSL Tier - 2 26/06/2023"
+        },
+        "options": [
+            {
+                "text": "Email service provider's domain"
+            },
+            {
+                "text": "'@' symbol"
+            },
+            {
+                "text": "Username"
+            },
+            {
+                "text": "Photo"
+            }
+        ],
+        "answer": "Photo",
+        "solution": {
+            "type": "text",
+            "content": "Photo. Parts of an email address are : Username- The username is the name we choose to be identified with for e-mail purposes and that we have provided to the email host to create our email account. '@' symbol- @ (pronounced \"at the rate of\") is the symbol in an Email address that separates the name of the user from the user's Internet address. Mail Server- A mail server transfers and delivers email messages between two or more mail clients. Domain A domain name forms part of the Uniform Resource Locator (URL) and is the address for a webpage. Example:- ssccglpinnacle@gmail.com."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 52,
+        "question": {
+            "type": "text",
+            "content": "Identify whether the following statements are true or false with reference to MS-Word 2010. (i) A template can be selected while creating a new document. (ii) The keyboard shortcut for going to the end of a document is Shift + End. SSC CHSL Tier - 2 26/06/2023"
+        },
+        "options": [
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "(i) True (ii) False. In Microsoft Word, templates are pre -designed documents. The template could be for a business card, brochure, resume, presentation."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 53,
+        "question": {
+            "type": "text",
+            "content": "Which of the following types of hackers, also known as crackers, hack to gain unauthorised access to a system and harm its operations or steal sensitive information? SSC CHSL Tier - 2 26/06/2023"
+        },
+        "options": [
+            {
+                "text": "White hat"
+            },
+            {
+                "text": "Black hat"
+            },
+            {
+                "text": "Red hat"
+            },
+            {
+                "text": "Gray hat"
+            }
+        ],
+        "answer": "Black hat",
+        "solution": {
+            "type": "text",
+            "content": "Black Hat. A white hat (ethical hacker) is an individual who uses hacking skills to identify security vulnerabilities in hardware, software or networks. A red hat is a hacker who takes aggressive steps to stop black hat hackers. A gray hat is a computer security expert who sometimes violates ethical standards but doesn't have malicious intentions."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 54,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a mini-DIN connector used to connect a keyboard and mouse to a PC compatible computer? SSC CHSL Tier - 2 26/06/2023"
+        },
+        "options": [
+            {
+                "text": "Ethernet port"
+            },
+            {
+                "text": "VGA port"
+            },
+            {
+                "text": "PS/2 port"
+            },
+            {
+                "text": "RS232 port"
+            }
+        ],
+        "answer": "PS/2 port",
+        "solution": {
+            "type": "text",
+            "content": "PS/2 port:- The PS/2 port is a 6-pin mini-DIN connector used for connecting keyboards and mice to a PC compatible computer system. It is also called a mouse port."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 55,
+        "question": {
+            "type": "text",
+            "content": "What is the diameter of a Blu-ray Disc? SSC CHSL Tier - 2 26/06/2023"
+        },
+        "options": [
+            {
+                "text": "115 mm"
+            },
+            {
+                "text": "110 mm"
+            },
+            {
+                "text": "100 mm"
+            },
+            {
+                "text": "120 mm"
+            }
+        ],
+        "answer": "120 mm",
+        "solution": {
+            "type": "text",
+            "content": "120 mm. Blu-ray Disc is 120 mm in diameter and 1.2 mm thick, the same size as DVDs (digital versatile/video disks) and CDs (Compact disks). Currently, 50GB and 25GB capacity, Blu-ray Disc media is available in both the BD-RE rewritable and BD-R recordable formats."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 56,
+        "question": {
+            "type": "text",
+            "content": "The_ unit is that part of the CPU which controls or directs the operations of the processor. SSC CHSL Tier - 2 26/06/2023"
+        },
+        "options": [
+            {
+                "text": "control"
+            },
+            {
+                "text": "arithmetic logic"
+            },
+            {
+                "text": "memory"
+            },
+            {
+                "text": "data"
+            }
+        ],
+        "answer": "control",
+        "solution": {
+            "type": "text",
+            "content": "Control. A control unit handles all processor control signals. The control unit is made up of flip-flops, logic gates, digital circuits and encoder and decoder circuits that are wired in a specific and fixed way."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 57,
+        "question": {
+            "type": "text",
+            "content": "A _ is an electronic device that receives a weak signal and regenerates it."
+        },
+        "options": [
+            {
+                "text": "hub"
+            },
+            {
+                "text": "router"
+            },
+            {
+                "text": "repeater"
+            },
+            {
+                "text": "switch"
+            }
+        ],
+        "answer": "repeater",
+        "solution": {
+            "type": "text",
+            "content": "Repeater operates at the physical layer. It is a powerful network hardware device that regenerates an incoming signal from the sender before retransmitting it to the receiver."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/03/2023 (1st Shift)"
+    },
+    {
+        "id": 58,
+        "question": {
+            "type": "text",
+            "content": "Which of the following shortcut keys is used to make the contents of a cell underlined in MS-Excel 365?"
+        },
+        "options": [
+            {
+                "text": "Ctrl +6"
+            },
+            {
+                "text": "Ctrl +3"
+            },
+            {
+                "text": "Ctrl +2"
+            },
+            {
+                "text": "Ctrl + 4"
+            }
+        ],
+        "answer": "Ctrl + 4",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + 4. Some other shortcut key in MS-Excel 365: Ctrl + 0- To hide the selected column, Ctrl + 1 - Open the Format Cells dialog box, Ctrl + 2 - Bold text or remove bold formatting, Ctrl + 3 Italicize text or remove italic formatting, Ctrl + 5 Apply or remove strikethrough formatting, Ctrl+6 Hides and shows hidden objects, Ctrl + 8 Display and hide the outline symbols, Ctrl +9-To hide a row."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/03/2023 (4th Shift)"
+    },
+    {
+        "id": 59,
+        "question": {
+            "type": "text",
+            "content": "In a star network, how many lines are required for connecting N nodes to the host node?"
+        },
+        "options": [
+            {
+                "text": "N+1"
+            },
+            {
+                "text": "N/2"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "N-1"
+            }
+        ],
+        "answer": "N-1",
+        "solution": {
+            "type": "text",
+            "content": "N-1. Network topology Arrangement of a network, comprising nodes and connecting lines. There are 6 types of topology, Bus Topology - Every computer is connected to a common bus (single cable), Ring Topology Every node is connected to two other nodes, forming a loop. Tree Topology - A central root node from which all other nodes branch out, Star Topology Each device on the network is connected to a central hub, Mesh Topology ({n(n-1)/2})- Each node is connected to every other node in the network, Hybrid Topology It is a combination of two or more network topologies."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/03/2023 (4th Shift)"
+    },
+    {
+        "id": 60,
+        "question": {
+            "type": "text",
+            "content": "Which of the following shortcut keys is used to move the cursor one word to the left in MS-Word 365?"
+        },
+        "options": [
+            {
+                "text": "Ctrl + PageUp"
+            },
+            {
+                "text": "Ctrl + Left arrow key"
+            },
+            {
+                "text": "Shift + Left arrow key"
+            },
+            {
+                "text": "Shift + PageUp"
+            }
+        ],
+        "answer": "Ctrl + Left arrow key",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + Left arrow key. Ctrl + Page Up Moves the cursor one Line Up. The Shift + left arrow and Shift + right arrow combinations moving the cursor to the beginning and the end of a line respectively."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/03/2023 (1st Shift)"
+    },
+    {
+        "id": 61,
+        "question": {
+            "type": "text",
+            "content": "Sam wants to share his presentation with larger audience via emails. Which feature of MS PowerPoint 365 can he use for it?"
+        },
+        "options": [
+            {
+                "text": "Save As"
+            },
+            {
+                "text": "Print"
+            },
+            {
+                "text": "Share"
+            },
+            {
+                "text": "Info"
+            }
+        ],
+        "answer": "Share",
+        "solution": {
+            "type": "text",
+            "content": "Share. Features of Microsoft Powerpoint 365 Designer, Smart Lookup, QuickStarter, New charts, Morphing, Real-time collab, Version History, Zoom for non-sequential presentations. Short keys (Close PowerPoint - Ctrl + Q, Add a new slide Ctrl + M, Insert a hyperlink - Ctrl + K, Open a presentation - Ctrl + O, italic formatting - Ctrl + I, Save As Ctrl + S)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/03/2023 (4th Shift)"
+    },
+    {
+        "id": 62,
+        "question": {
+            "type": "text",
+            "content": "Natural language processing (NLP) is a branch of artificial intelligence that helps computers human language. I. understand II. Interpret III. manipulate"
+        },
+        "options": [
+            {
+                "text": "I, Il and III"
+            },
+            {
+                "text": "only I and II"
+            },
+            {
+                "text": "only Iand III"
+            },
+            {
+                "text": "only Il and III"
+            }
+        ],
+        "answer": "I, Il and III",
+        "solution": {
+            "type": "text",
+            "content": "1, II and III. Natural Language Processing (NLP) refers to the branch of Artificial Intelligence that gives the machines the ability to read, understand and derive meaning from human languages."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/03/2023 (4th Shift)"
+    },
+    {
+        "id": 63,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT an application software?"
+        },
+        "options": [
+            {
+                "text": "Entertainment software"
+            },
+            {
+                "text": "Education software"
+            },
+            {
+                "text": "Programming language translator software"
+            },
+            {
+                "text": "Personal assistance software"
+            }
+        ],
+        "answer": "Programming language translator software",
+        "solution": {
+            "type": "text",
+            "content": "Programming language translator software. Software is a set of instructions. Softwares are majorly classified into two categories: System Software and Application Software. System software is a type of computer program that is designed to run a computer's hardware and application programs. Example - operating systems (OS) (Fedora, Ubuntu, Unix, Linux, Android and Microsoft Windows)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/03/2023 (1st Shift)"
+    },
+    {
+        "id": 64,
+        "question": {
+            "type": "text",
+            "content": "Sheetal wants to create financial statements for her business. Which among the following software should she use for the same?"
+        },
+        "options": [
+            {
+                "text": "Presentation software"
+            },
+            {
+                "text": "System software"
+            },
+            {
+                "text": "Multimedia software"
+            },
+            {
+                "text": "Spreadsheet software"
+            }
+        ],
+        "answer": "Spreadsheet software",
+        "solution": {
+            "type": "text",
+            "content": "Spreadsheet software. It helps a user perform numerical functions and analyze numbers through a computerized version of an accounting worksheet. An Example - Excel."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 65,
+        "question": {
+            "type": "text",
+            "content": "IBM 360 was developed in which of the following generations of computer?"
+        },
+        "options": [
+            {
+                "text": "Second Generation"
+            },
+            {
+                "text": "First Generation"
+            },
+            {
+                "text": "Third Generation"
+            },
+            {
+                "text": "Fourth Generation"
+            }
+        ],
+        "answer": "Third Generation",
+        "solution": {
+            "type": "text",
+            "content": "Third generation. First Generation (1940 - 56): Vacuum tubes were used. Example: ENIAC (Electronic Numerical Integrator And Computer), EDVAC (Electronic Discrete Variable Automatic Computer), EDSAC (Electronic Delay Storage Automatic Calculator), UNIVAC I (Universal Automatic Computer 1), IBM 701, IBM 650 etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 66,
+        "question": {
+            "type": "text",
+            "content": "Which of the following shortcut keys is used to add a new blank slide to an existing presentation of MS -PowerPoint 365?"
+        },
+        "options": [
+            {
+                "text": "Ctrl + N"
+            },
+            {
+                "text": "Ctrl + м"
+            },
+            {
+                "text": "Ctrl+ Alt + M"
+            },
+            {
+                "text": "Ctrl+ Alt + N"
+            }
+        ],
+        "answer": "Ctrl+ Alt + M",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + M. Ctrl + N- Create a new presentation document, Alt + F2 or F12 - Open the Save As dialog box, Ctrl + W or Ctrl + F4 - Close a presentation, Ctrl + Q - Save and close a presentation, Ctrl + F2 - Print Preview View, F1 Open the Help panel, Alt + Q - Directs to the \"Tell me what you want to do\" box."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 14/03/2023 (1st Shift)"
+    },
+    {
+        "id": 67,
+        "question": {
+            "type": "text",
+            "content": "In which of the following modes of data transmission, can the data flow in both directions simultaneously?"
+        },
+        "options": [
+            {
+                "text": "Simplex"
+            },
+            {
+                "text": "Half-duplex"
+            },
+            {
+                "text": "Quarter - duplex"
+            },
+            {
+                "text": "Full - duplex"
+            }
+        ],
+        "answer": "Full - duplex",
+        "solution": {
+            "type": "text",
+            "content": "Full - duplex (Example:- Telephone). Data Transmission - sending digital or analog data over a communication medium to one or more computing, network, communication or electronic devices. Types: Simplex Mode the communication between sender and receiver occurs in only one direction. Example Keyboard and Traditional Monitors. Half duplex both parties can communicate with each other, but not simultaneously. Example- Walkie- Talkie."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 14/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 68,
+        "question": {
+            "type": "text",
+            "content": "Which of the following shortcut keys is used to start a new line in the same cell in MS - Excel 365?"
+        },
+        "options": [
+            {
+                "text": "Tab + Enter"
+            },
+            {
+                "text": "Ctrl + Enter"
+            },
+            {
+                "text": "Alt + Enter"
+            },
+            {
+                "text": "Shift + Enter"
+            }
+        ],
+        "answer": "Ctrl + Enter",
+        "solution": {
+            "type": "text",
+            "content": "Alt + Enter. Ctrl + Enter: Fill the selected cell range with the current entry. Ctrl + A or Ctrl + Shift + Spacebar: Select the entire worksheet. Ctrl + Shift + Page up: Select the current and previous sheet in a workbook. Ctrl + Home: Move to the beginning of a worksheet."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 14/03/2023 (4th Shift)"
+    },
+    {
+        "id": 69,
+        "question": {
+            "type": "text",
+            "content": "In a completely connected network, how many lines are required for connecting 6 nodes?"
+        },
+        "options": [
+            {
+                "text": "12"
+            },
+            {
+                "text": "15"
+            },
+            {
+                "text": "30"
+            },
+            {
+                "text": "24"
+            }
+        ],
+        "answer": "15",
+        "solution": {
+            "type": "text",
+            "content": "15. W = n x Where n = no of nodes; 6x (6-1) W6 = = 15. 2 (n-1) 2"
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 70,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is output device?"
+        },
+        "options": [
+            {
+                "text": "Scanner"
+            },
+            {
+                "text": "Projector"
+            },
+            {
+                "text": "MICR"
+            },
+            {
+                "text": "OCR device an"
+            }
+        ],
+        "answer": "Projector",
+        "solution": {
+            "type": "text",
+            "content": "Projector. Output devices Receives data from one source and converts it into another form. Example - Speakers, GPS (Global Positioning System), Headphones, Monitor, Printer, Optical mark reader (OMR), Sound card, Speech-generating device, Video card, Braille reader, Plotter."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 71,
+        "question": {
+            "type": "text",
+            "content": "Preet wants to use object oriented programming language for her application. Which among the following languages should she pick?"
+        },
+        "options": [
+            {
+                "text": "Java"
+            },
+            {
+                "text": "Pascal"
+            },
+            {
+                "text": "Either Java or Pascal"
+            },
+            {
+                "text": "BASIC"
+            }
+        ],
+        "answer": "Java",
+        "solution": {
+            "type": "text",
+            "content": "Java (developed by James Gosling at Sun Microsystems): Works on different platforms, open-source, used for internet-based applications, formerly known as Oak. Pascal (Programming Language named for Blaise Pascal) (developed by Niklaus Wirth): Used to teach programming techniques. BASIC (Beginner's All-purpose Symbolic Instruction Code): Computer programming language invented by John G Kemeny and Thomas E Kurtz. It was the first language made available for personal computers."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 72,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT a valid file format in MS-Word 365?"
+        },
+        "options": [
+            {
+                "text": ".dotx"
+            },
+            {
+                "text": ".dcp"
+            },
+            {
+                "text": ".doc"
+            },
+            {
+                "text": ".docx"
+            }
+        ],
+        "answer": ".dcp",
+        "solution": {
+            "type": "text",
+            "content": ".dcp. File Extension and Description in MS-Word -.doc (MS Word 2003 and earlier file, LotusWorks word processor file and Microsoft WordPad file), .docm (Microsoft Word file with macros), .dotm (later template file with macros), .dotx (Microsoft Word to have pre-formatted settings). Microsoft Headquarters Washington. Founder Bill Gates and Paul Allen."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/03/2023 (4th Shift)"
+    },
+    {
+        "id": 73,
+        "question": {
+            "type": "text",
+            "content": "Which of the following shortcut keys displays the Editor task pane to check spelling and grammar in the document or the selected text in MS-Word 365?"
+        },
+        "options": [
+            {
+                "text": "F7"
+            },
+            {
+                "text": "F1"
+            },
+            {
+                "text": "F10"
+            },
+            {
+                "text": "F2"
+            }
+        ],
+        "answer": "F7",
+        "solution": {
+            "type": "text",
+            "content": "F7. Function Keys:- F1 - Open Help and Support window. F2- rename files or folders. F3 - Open search window. F4 Repeat the last action performed. F5 Refreshes. F6 moves the cursor to the address bar. F7 - launch Spelling and Grammar check. F8 enter the Windows startup menu. F9 send email. F10 - To access a browser's menu bar. F11 - enter and exit from full screen mode. F12 - Opens 'Save As' window."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (1st Shift)"
+    },
+    {
+        "id": 74,
+        "question": {
+            "type": "text",
+            "content": "Which among the following statements about secondary memory is incorrect?"
+        },
+        "options": [
+            {
+                "text": "It is known as a backup memory."
+            },
+            {
+                "text": "It is used for storing data."
+            },
+            {
+                "text": "It is a volatile memory."
+            },
+            {
+                "text": "These are magnetic and optical memories."
+            }
+        ],
+        "answer": "It is a volatile memory.",
+        "solution": {
+            "type": "text",
+            "content": "It is a volatile memory. Secondary memory is a computer memory that is non-volatile, persistent and not immediately accessible by a computer. Examples Hard Drive, Solid-State Drive (SSD), Flash and Optical Drive."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 75,
+        "question": {
+            "type": "text",
+            "content": "Which of the following shortcut keys is used to print a file in MS-Word 365?"
+        },
+        "options": [
+            {
+                "text": "Ctrl + Р"
+            },
+            {
+                "text": "Shift + P"
+            },
+            {
+                "text": "Ctrl + Alt + P"
+            },
+            {
+                "text": "Alt + P"
+            }
+        ],
+        "answer": "Ctrl + Р",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + P. Ctrl + Shift + P Assigned to font size; Ctrl + Alt + P Switch to print layout view; Alt + P Opens the page layout tab in the ribbon; Ctrl + W Close a document; Ctrl + E- Center the selected text: Ctrl+Z Undo; Ctrl+Y - Redo."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 76,
+        "question": {
+            "type": "text",
+            "content": "\"SOVA Virus\" which has been seen in the news recently, is a"
+        },
+        "options": [
+            {
+                "text": "Malware"
+            },
+            {
+                "text": "Type of Kovid-19"
+            },
+            {
+                "text": "type of monkey virus"
+            },
+            {
+                "text": "Virus found in cattle"
+            }
+        ],
+        "answer": "Malware",
+        "solution": {
+            "type": "text",
+            "content": "Malware is invasive (malicious) software or computer code designed to infect, damage, or gain access to computer systems."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 77,
+        "question": {
+            "type": "text",
+            "content": "Which of the following shortcut keys is used to make the contents of a cell italic in MS- Excel 365?"
+        },
+        "options": [
+            {
+                "text": "Ctrl +4"
+            },
+            {
+                "text": "Ctrl + 6"
+            },
+            {
+                "text": "Ctrl+3"
+            },
+            {
+                "text": "Ctrl + 2"
+            }
+        ],
+        "answer": "Ctrl + 6",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + 3. Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android, and iOS, featuring calculations, graphing tools, pivot tables, and a macro programming language called Visual Basic for applications."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 78,
+        "question": {
+            "type": "text",
+            "content": "Neel wants to use a Character Printer. Which among the following should he pick?"
+        },
+        "options": [
+            {
+                "text": "Chain Printer"
+            },
+            {
+                "text": "Laser Printer"
+            },
+            {
+                "text": "Drum Printer"
+            },
+            {
+                "text": "Dot Matrix Printer"
+            }
+        ],
+        "answer": "Dot Matrix Printer",
+        "solution": {
+            "type": "text",
+            "content": "Dot Matrix Printer. It is an impact printer that prints a single character at a time. The Indian Railway uses this type of printer. Speed is measured in characters per second (CPS)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (4th Shift)"
+    },
+    {
+        "id": 79,
+        "question": {
+            "type": "text",
+            "content": "PARAM supercomputer belongs to which generation of computers?"
+        },
+        "options": [
+            {
+                "text": "Second"
+            },
+            {
+                "text": "First"
+            },
+            {
+                "text": "Fifth"
+            },
+            {
+                "text": "Third"
+            }
+        ],
+        "answer": "Fifth",
+        "solution": {
+            "type": "text",
+            "content": "Fifth. Vijay P. Bhatkar is best known as the architect of India's was developed by the National Centre for Supercomputing Application (NCSA). Feature adding images and an innovative graphical interface. national initiative in supercomputing where he led the development of Param supercomputers. He developed the first Indian supercomputer, the PARAM 8000, in 1991. The Supercomputer PARAM is a series of supercomputers designed and assembled in Pune, India by C-DAС (Centre for development of Advanced Computing)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 80,
+        "question": {
+            "type": "text",
+            "content": "Which of the following keyboard shortcuts is used to switch between open apps in Windows 10?"
+        },
+        "options": [
+            {
+                "text": "Shift + Tab"
+            },
+            {
+                "text": "Shift + Alt + Tab"
+            },
+            {
+                "text": "Alt + Tab"
+            },
+            {
+                "text": "Alt + Shift"
+            }
+        ],
+        "answer": "Alt + Tab",
+        "solution": {
+            "type": "text",
+            "content": "Alt + Tab. Shift + tab is used to perform the action for the selected Show All, Hide All, hidden text, or hyperlink. Shift + Alt + Tab is a keyboard shortcut used to switch between open programs in Microsoft Windows from right to left. Alt + Shift :- It is used to change the language."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 81,
+        "question": {
+            "type": "text",
+            "content": "LTE technology is used in which of the following generations of wireless technologies?"
+        },
+        "options": [
+            {
+                "text": "3G"
+            },
+            {
+                "text": "2G"
+            },
+            {
+                "text": "4G"
+            },
+            {
+                "text": "1G"
+            }
+        ],
+        "answer": "4G",
+        "solution": {
+            "type": "text",
+            "content": "4G. LTE (Long-Term Evolution) is a fourth-generation (4G) wireless standard that provides increased network capacity and speed for cellphones and other cellular devices compared with third-generation (3G) technology."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 82,
+        "question": {
+            "type": "text",
+            "content": "Which of the following shortcut key is used to open a new file in MS-Word 365?"
+        },
+        "options": [
+            {
+                "text": "Alt + O"
+            },
+            {
+                "text": "Ctrl + 0"
+            },
+            {
+                "text": "Alt +N"
+            },
+            {
+                "text": "Ctrl + N"
+            }
+        ],
+        "answer": "Ctrl + N",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + N- To create new pages or documents. Alt + 0 - It is used to open the Format file menu. Ctrl + O - It is used to open a document. Alt + N- It is used to open the Insert option in a file menu or the Ribbon without touching the mouse."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (4th Shift)"
+    },
+    {
+        "id": 83,
+        "question": {
+            "type": "text",
+            "content": "_ was the first web browser developed by the National Centre for Supercomputing Application (NCSA)."
+        },
+        "options": [
+            {
+                "text": "Opera"
+            },
+            {
+                "text": "Mosaic"
+            },
+            {
+                "text": "Safari"
+            },
+            {
+                "text": "Chrome"
+            }
+        ],
+        "answer": "Safari",
+        "solution": {
+            "type": "text",
+            "content": "Mosaic (\"the world's first popular browser\") released in 1993. It"
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (4th Shift)"
+    },
+    {
+        "id": 84,
+        "question": {
+            "type": "text",
+            "content": "C++ is an example of which type of computer language?"
+        },
+        "options": [
+            {
+                "text": "Visual Programming Language"
+            },
+            {
+                "text": "Object-Oriented Language"
+            },
+            {
+                "text": "Business Data Processing"
+            },
+            {
+                "text": "String and List Processing"
+            }
+        ],
+        "answer": "Object-Oriented Language",
+        "solution": {
+            "type": "text",
+            "content": "Object-Oriented Language: A programming paradigm based on the concept of \"objects\", which can contain data, in the form of fields and code, in the form of procedures. Examples Ada, ActionScript, C++, C#, Dart, Java, JavaScript, MATLAB, Objective-C, Object Pascal, Perl, PHP, Python, Visual Basic, .NET."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 85,
+        "question": {
+            "type": "text",
+            "content": "Which of the following keyboard shortcuts is used to lock the windows screen in Windows 10?"
+        },
+        "options": [
+            {
+                "text": "Windows logo key + M"
+            },
+            {
+                "text": "Windows logo key + K"
+            },
+            {
+                "text": "Windows logo key + N"
+            },
+            {
+                "text": "Windows logo key + L"
+            }
+        ],
+        "answer": "Windows logo key + L",
+        "solution": {
+            "type": "text",
+            "content": "Windows logo key + L. Windows logo key + M- Minimize all windows, Windows logo key + K- Open Cast from Quick Settings. Windows logo key + N- Open notification center and calendar."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 86,
+        "question": {
+            "type": "text",
+            "content": "Speed of printer is measured in characters per second (CPS)."
+        },
+        "options": [
+            {
+                "text": "Dot Matrix"
+            },
+            {
+                "text": "Line"
+            },
+            {
+                "text": "Ink-Jet"
+            },
+            {
+                "text": "Laser"
+            }
+        ],
+        "answer": "Dot Matrix",
+        "solution": {
+            "type": "text",
+            "content": "Dot Matrix. Inkjet printing is a type of computer printing that recreates a digital image by propelling ink droplets onto paper and plastic substrates."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 87,
+        "question": {
+            "type": "text",
+            "content": "1 terabytes per second bytes per second"
+        },
+        "options": [
+            {
+                "text": "240"
+            },
+            {
+                "text": "20"
+            },
+            {
+                "text": "220"
+            },
+            {
+                "text": "230"
+            }
+        ],
+        "answer": "240",
+        "solution": {
+            "type": "text",
+            "content": "240. 1 kilobyte (KB) - 1024 byte 210 bytes .1 Megabyte (MB) - 1024 KB - 220 bytes.1 Gigabyte (GB) - 1024 MB 230 bytes .1 Petabyte (PB) 1024 TB - 250 bytes. 1 Exabyte (EB) - 1024 PB - 260 bytes. 1 Zettabyte (ZB) 1024 EB- 270 bytes. 1 Yottabyte (YB) - 1024 ZB - 280 bytes. 1 Brontobyte - 1024 YB - 290 bytes 1 Geopbyte - 1024 Brontobyte- 2100 bytes."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 88,
+        "question": {
+            "type": "text",
+            "content": "The important system components like the central processing unit (CPU) and random access memory (RAM) modules are connected directly to the _"
+        },
+        "options": [
+            {
+                "text": "Magnetic Tape"
+            },
+            {
+                "text": "Optical Disk"
+            },
+            {
+                "text": "Motherboard"
+            },
+            {
+                "text": "Flash Memory"
+            }
+        ],
+        "answer": "Optical Disk",
+        "solution": {
+            "type": "text",
+            "content": "Motherboard. It provides connectivity between the hardware components of a computer, like the CPU, RAM, hard drive and video card."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (4th Shift)"
+    },
+    {
+        "id": 89,
+        "question": {
+            "type": "text",
+            "content": "Before writing codes in a high level language, a of a program helps in representing the basic functionality of the intended program."
+        },
+        "options": [
+            {
+                "text": "Original code"
+            },
+            {
+                "text": "Small code"
+            },
+            {
+                "text": "naive code"
+            },
+            {
+                "text": "pseudocode"
+            }
+        ],
+        "answer": "pseudocode",
+        "solution": {
+            "type": "text",
+            "content": "Pseudocode. High Level Language - Programming language that allows a programmer to write the programs which are independent of a particular type of computer. It is easy to understand for the programmer. Examples C++, Java, Python etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (4th Shift)"
+    },
+    {
+        "id": 90,
+        "question": {
+            "type": "text",
+            "content": "Which among the following is database software?"
+        },
+        "options": [
+            {
+                "text": "MS- PowerPoint"
+            },
+            {
+                "text": "dBase"
+            },
+            {
+                "text": "MS- Word"
+            },
+            {
+                "text": "Word Pad"
+            }
+        ],
+        "answer": "MS- Word",
+        "solution": {
+            "type": "text",
+            "content": "dBase. Database software or DBMSs is used to create, edit, and maintain database files and records, enabling easier file and record creation, data entry, data editing, updating, and reporting. Examples: MySQL, Microsoft Access, Microsoft SQL Server, FileMaker Pro, Oracle Database, and dBASE."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/03/2023 (1st Shift)"
+    },
+    {
+        "id": 91,
+        "question": {
+            "type": "text",
+            "content": "Sir Tim Berners - Lee_ a British computer scientist invented the revolutionary World Wide Web in"
+        },
+        "options": [
+            {
+                "text": "1982"
+            },
+            {
+                "text": "1995"
+            },
+            {
+                "text": "1989"
+            },
+            {
+                "text": "1985"
+            }
+        ],
+        "answer": "1989",
+        "solution": {
+            "type": "text",
+            "content": "1989. Sir Tim invented the Web while at CERN, the European Particle Physics Laboratory, in 1989. He wrote the first web client and server in 1990."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/03/2023 (1st Shift)"
+    },
+    {
+        "id": 92,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT a type of paragraph formatting in MS-Word 365?"
+        },
+        "options": [
+            {
+                "text": "Right"
+            },
+            {
+                "text": "Precise"
+            },
+            {
+                "text": "Justify"
+            },
+            {
+                "text": "Centre"
+            }
+        ],
+        "answer": "Precise",
+        "solution": {
+            "type": "text",
+            "content": "Precise. Microsoft Word provides for aligning text in paragraphs in four different ways - left, right, centre and justified."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 93,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOTa valid file format in MS-PowerPoint 365?"
+        },
+        "options": [
+            {
+                "text": ".pptm"
+            },
+            {
+                "text": ".pwpt"
+            },
+            {
+                "text": ".ppt"
+            },
+            {
+                "text": ".pptx"
+            }
+        ],
+        "answer": ".pwpt",
+        "solution": {
+            "type": "text",
+            "content": ".pwpt. pptm file extension is a macro-enabled presentation created by MS PowerPoint which contains slides with layout, images, texts and embedded macros. PPT file extension refers to PowerPoint 97-2003 presentation. pptx file extension is a PowerPoint presentation for Microsoft Office 2007's and newer versions."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 94,
+        "question": {
+            "type": "text",
+            "content": "In MS-Excel 365 which of the following shortcuts is used to copy the contents and format of the topmost cell of a selected range into the cells below?"
+        },
+        "options": [
+            {
+                "text": "Alt + D"
+            },
+            {
+                "text": "Ctrl + D"
+            },
+            {
+                "text": "Alt + C"
+            },
+            {
+                "text": "Ctrl + C"
+            }
+        ],
+        "answer": "Ctrl + D",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + D. Important commands: Ctrl + C Copy, Ctrl + V paste, Ctrl + X cut, Ctrl + A - Select All, Ctrl + B Bold, Ctrl + F- Find, Ctrl + H - Replace, Ctrl +1 Italic, Ctrl+U Underline, Ctrl + P Print, Ctrl + S Save, Ctrl + Z - Undo, Ctrl + Y - Redo, Ctrl + K- Hyperlink, etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/03/2023 (4th Shift)"
+    },
+    {
+        "id": 95,
+        "question": {
+            "type": "text",
+            "content": "In MS-Excel 365 which of the following appears across the top of the screen and below the title bar and contains all the commands, formulas and features needed to create data-intense spreadsheets? SSC CGL Tier I| 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "Scroll bars"
+            },
+            {
+                "text": "Status bar"
+            },
+            {
+                "text": "Ruler"
+            },
+            {
+                "text": "Ribbon"
+            }
+        ],
+        "answer": "Ribbon",
+        "solution": {
+            "type": "text",
+            "content": "Ribbon. The three parts of the Ribbon are tabs, groups, and commands. A vertical or horizontal scroll bars commonly on the far right or bottom of a window that lets you move the window viewing area up, down, left, or right."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 96,
+        "question": {
+            "type": "text",
+            "content": "_ is also known as electronic disk. SSC CGL Tier II 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "USB Sticks"
+            },
+            {
+                "text": "Network Storage Servers"
+            },
+            {
+                "text": "Solid-State Drive"
+            },
+            {
+                "text": "USB Hard Drives"
+            }
+        ],
+        "answer": "Solid-State Drive",
+        "solution": {
+            "type": "text",
+            "content": "A solid-state drive an (electronic disks) is a type of storage device used in computers. SSDs have access speeds of 35-100 microseconds making it 25 to 100 times faster than Hard Disk Drives. USB (universal serial bus), technology used to connect computers with peripheral devices."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 97,
+        "question": {
+            "type": "text",
+            "content": "is a high-speed device used in CPU that is utilised to store data temporarily during processing. SSC CGL Tier II 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "Arithmetic and Logic Unit"
+            },
+            {
+                "text": "Auxiliary Memory"
+            },
+            {
+                "text": "Control Unit"
+            },
+            {
+                "text": "Registers"
+            }
+        ],
+        "answer": "Registers",
+        "solution": {
+            "type": "text",
+            "content": "A processor register (CPU register) is one of a small set of data holding places that are part of the computer processor. Types of Registers :- accumulator, Data registers, Address registers, Program counter, Memory data registers, index registers, Memory buffer registers."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 98,
+        "question": {
+            "type": "text",
+            "content": "Which among the following statements is incorrect? SSC CGL Tier II 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "Cache memory keeps the programs that can be run in a short amount of time."
+            },
+            {
+                "text": "Cache memory stores data in permanent use."
+            },
+            {
+                "text": "Cache memory is faster than mai memory."
+            },
+            {
+                "text": "The size of cache is usually small."
+            }
+        ],
+        "answer": "Cache memory stores data in permanent use.",
+        "solution": {
+            "type": "text",
+            "content": "Cache memory is a supplementary memory system that temporarily stores frequently used instructions and data for quicker processing by the central processing unit (CPU) of a computer."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 99,
+        "question": {
+            "type": "text",
+            "content": "Which of the following option of print settings is used to choose only specific pages in MS-Word 365? SSC CGL Tier II 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "Print All Pages"
+            },
+            {
+                "text": "Print Current Page"
+            },
+            {
+                "text": "Print Selection"
+            },
+            {
+                "text": "Custom Print"
+            }
+        ],
+        "answer": "Custom Print",
+        "solution": {
+            "type": "text",
+            "content": "Custom Print. Print Selection: Only print the selected content. Print Custom Range:- Enter specific pages or sections to print. Collated (123,123,123), Uncollated (111, 222, 333)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 100,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the correct option in MS-Excel 365, if a value in a cell of column A and row 10 is to be referred to in a function or formula? SSC CGL Tier II (02/03/2023)"
+        },
+        "options": [
+            {
+                "text": "A-10"
+            },
+            {
+                "text": "10A"
+            },
+            {
+                "text": "A10"
+            },
+            {
+                "text": "A:10"
+            }
+        ],
+        "answer": "A10",
+        "solution": {
+            "type": "text",
+            "content": "A10. A cell reference or cell address is a combination of a column letter and a row number that identifies a cell on a worksheet. A range reference is represented by the address of the upper left cell and the lower right cell separated with a colon."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 101,
+        "question": {
+            "type": "text",
+            "content": "Which among the following is incorrect about Laser Printers? SSC CGL Tier I| 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "Uses laser lights for producing dots to form characters on a page"
+            },
+            {
+                "text": "Can print multiple copies at a time"
+            },
+            {
+                "text": "Fast speed"
+            },
+            {
+                "text": "Supports multiple fonts and sizes"
+            }
+        ],
+        "answer": "Can print multiple copies at a time",
+        "solution": {
+            "type": "text",
+            "content": "Laser printer uses a combination of laser-beam & electro photographic techniques. Laser printers are the type of non-impact printers. Impact Printers - Printers in which a printing element directly strikes a surface. Example dot-matrix, daisy-wheel, and line printers. Non-impact printers print characters and graphics without any connection between the printing device and the paper. Examples Inkjet printers and Thermal printers."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 102,
+        "question": {
+            "type": "text",
+            "content": "Shading option in MS-Word 365 is used for SSC CGL Tier II 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "changing the color around the selected text"
+            },
+            {
+                "text": "changing the color behind the selected text"
+            },
+            {
+                "text": "changing the color of the selected text"
+            },
+            {
+                "text": "making the text pop by highlighting it"
+            }
+        ],
+        "answer": "changing the color behind the selected text",
+        "solution": {
+            "type": "text",
+            "content": "Changing the color behind selected text. Font color is used to change the colour of the text. Selection pane sidebar window is used to manage all existing objects. (Shift + F7) is used to show all synonyms of a selected word. Drop Cap Make the first letter of a paragraph or chapter large enough to span several lines."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 103,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT an An example of an email service provider? I. Outlook II. Gmail III. Yandex SSC CGL Tier II (02/03/2023)"
+        },
+        "options": [
+            {
+                "text": "I and II!"
+            },
+            {
+                "text": "Only III"
+            },
+            {
+                "text": "All are email service providers"
+            },
+            {
+                "text": "Only"
+            }
+        ],
+        "answer": "All are email service providers",
+        "solution": {
+            "type": "text",
+            "content": "All are email service providers. Examples of webmail providers include Gmail, Yahoo! Mail, Hotmail, ProtonMail. Zoho, HubSpot, Sendinblue, Aweber, Outlook, AOL Mail, Mail.com, GMX Mail, iCloud Mail."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 104,
+        "question": {
+            "type": "text",
+            "content": "The instruction that is not to be executed immediately is placed in the SSC CGL Tier I| 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "Current Instruction Register"
+            },
+            {
+                "text": "Memory Address Register"
+            },
+            {
+                "text": "Program Counter"
+            },
+            {
+                "text": "Instruction Buffer Register"
+            }
+        ],
+        "answer": "Instruction Buffer Register",
+        "solution": {
+            "type": "text",
+            "content": "Instruction Buffer Register. Current instruction register (CIR) is the part of a CPU's control unit that holds the instruction currently being executed or decoded."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 105,
+        "question": {
+            "type": "text",
+            "content": "Video Graphics Array connectors are those which connect the monitor to a computer's video card and has _ holes. SSC CGL Tier II 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "10"
+            },
+            {
+                "text": "12"
+            },
+            {
+                "text": "18"
+            },
+            {
+                "text": "15"
+            }
+        ],
+        "answer": "15",
+        "solution": {
+            "type": "text",
+            "content": "15. Video Graphics Adapter (Video Graphics Array) is a popular display standard developed by IBM and introduced in 1987."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 106,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a keyboard shortcut to reload the current page in Google search engine? SSC CGL Tier II 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "F7"
+            },
+            {
+                "text": "F5"
+            },
+            {
+                "text": "F1"
+            },
+            {
+                "text": "F3"
+            }
+        ],
+        "answer": "F5",
+        "solution": {
+            "type": "text",
+            "content": "F5. F1 Opens Google Chrome's Help Center in a new tab. F3- Opens the \"Find Bar\" in Chrome, which lets you search for text on the current webpage. F6 -Toggles focus between the webpage, bookmark bar, and address bar. F12 Opens Chrome's Developer Tools."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 107,
+        "question": {
+            "type": "text",
+            "content": "Which among the following keyboard shortcuts is used to insert a hyperlink for the selected text in Microsoft Word? SSC CGL Tier II 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "Ctrl + K"
+            },
+            {
+                "text": "Ctrl + H"
+            },
+            {
+                "text": "Ctrl + M"
+            },
+            {
+                "text": "Ctrl + Z"
+            }
+        ],
+        "answer": "Ctrl + K",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + K. Some other important shortcuts- Indent the paragraph (Ctrl + M), Open a document (Ctrl + O), Create a new document (Ctrl N), Close the document (Ctrl + W), Center the text (Ctrl + E), Split the document window (Ctrl + Alt + S)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 108,
+        "question": {
+            "type": "text",
+            "content": "cookies track you and expose your privacy. SSC CGL Tier II 02/03/2023"
+        },
+        "options": [
+            {
+                "text": "Persistent"
+            },
+            {
+                "text": "Zombi"
+            },
+            {
+                "text": "Third-party"
+            },
+            {
+                "text": "Session"
+            }
+        ],
+        "answer": "Zombi",
+        "solution": {
+            "type": "text",
+            "content": "Third Party. Cookies are small text files placed on a user's computer, which are commonly used to collect personal data."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 109,
+        "question": {
+            "type": "text",
+            "content": "In a web browser, which of the following is responsible for displaying the web pages? SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "Server"
+            },
+            {
+                "text": "Page engine"
+            },
+            {
+                "text": "Rendering engine"
+            },
+            {
+                "text": "Search Engine"
+            }
+        ],
+        "answer": "Page engine",
+        "solution": {
+            "type": "text",
+            "content": "Rendering engine (browser engine or layout engine). Server: A computer program or device that provides a service to another computer program and its user, also known as the client."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 110,
+        "question": {
+            "type": "text",
+            "content": "Which among the following ports is also known as Line Printer Port? SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "Parallel"
+            },
+            {
+                "text": "Video Graphic Array"
+            },
+            {
+                "text": "High Definition Media Interface"
+            },
+            {
+                "text": "Display"
+            }
+        ],
+        "answer": "Parallel",
+        "solution": {
+            "type": "text",
+            "content": "Parallel port: An interface allowing a personal computer (PC) to transmit or receive data down multiple bundled cables to a peripheral device such as a printer."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 111,
+        "question": {
+            "type": "text",
+            "content": "viruses are embedded in a system's memory so it can be reactivated if the original virus is deleted. SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "File"
+            },
+            {
+                "text": "Polymorphic"
+            },
+            {
+                "text": "Resident"
+            },
+            {
+                "text": "Rootkit"
+            }
+        ],
+        "answer": "Polymorphic",
+        "solution": {
+            "type": "text",
+            "content": "Resident. Polymorphic Virus create a modified or morphed version of the existing program and infect the system and retain the original code."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 112,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statement(s) about Quick Access Toolbar in MS-Word 2010 is/are incorrect? P: The Quick Access Toolbar has Save, Undo, and Redo buttons by default. Q: The Quick Access Toolbar has Cut, Undo, and Redo buttons by default. R: You can place more buttons on the Quick Access toolbar. S: There is no option on the Quick -Access toolbar for \"show below the Ribbon\". SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "Only Q and R"
+            },
+            {
+                "text": "Only Q and S"
+            },
+            {
+                "text": "only P, Q, R"
+            },
+            {
+                "text": "All P, Q, R, S"
+            }
+        ],
+        "answer": "Only Q and S",
+        "solution": {
+            "type": "text",
+            "content": "Only Q and S. Quick access toolbar is hidden below the ribbon. It is a customizable toolbar that comes with a set of independent commands. It gives quick access to commonly used commands such as Save, Undo, Redo, etc."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 113,
+        "question": {
+            "type": "text",
+            "content": "is the oldest type of Central Processing Unit (CPU). SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "Triple Core"
+            },
+            {
+                "text": "Dual Core"
+            },
+            {
+                "text": "Single Core"
+            },
+            {
+                "text": "Quad Core"
+            }
+        ],
+        "answer": "Dual Core",
+        "solution": {
+            "type": "text",
+            "content": "Single Core. A CPU core is a CPU's processor. It is responsible for executing programs and multiple other actions on a computer."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 114,
+        "question": {
+            "type": "text",
+            "content": "Which of the following are Math and trigonometric functions available in MS-Excel 365? SSC CGL Tier || 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "Text function"
+            },
+            {
+                "text": "ABS function"
+            },
+            {
+                "text": "Logical function"
+            },
+            {
+                "text": "Financial function"
+            }
+        ],
+        "answer": "ABS function",
+        "solution": {
+            "type": "text",
+            "content": "ABS function. Math and trigonometric functions- COS, COSH, BASE, LCM, INT, EXP, EVEN, ODD, LOG."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 115,
+        "question": {
+            "type": "text",
+            "content": "Each cell in the worksheet of MS-Excel cell☐ 365 is identified by a SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "color"
+            },
+            {
+                "text": "rounding"
+            },
+            {
+                "text": "size"
+            },
+            {
+                "text": "reference"
+            }
+        ],
+        "answer": "reference",
+        "solution": {
+            "type": "text",
+            "content": "Reference. A cell reference or cell address is a combination of a column letter and a row number that identifies a cell on a worksheet. For example, A1 refers to the cell at the intersection of column A and row 1."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 116,
+        "question": {
+            "type": "text",
+            "content": "_ is a type of dedicated file storage device that provides local-area network (LAN) users with centralized, consolidated disk storage through a standard Ethernet connection. SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "Solid-State Drive"
+            },
+            {
+                "text": "USB Hard Drives"
+            },
+            {
+                "text": "USB Sticks"
+            },
+            {
+                "text": "Network Attached Storage"
+            }
+        ],
+        "answer": "Network Attached Storage",
+        "solution": {
+            "type": "text",
+            "content": "Network attached storage (NAS). Examples- manage smart TV storage; manage security systems and security updates; manage consumer -based loT components; create a media streaming service."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 117,
+        "question": {
+            "type": "text",
+            "content": "Which among the following statements is incorrect? SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "The right window of Windows Explorer is called the Navigation Pane."
+            },
+            {
+                "text": "From the Navigation pane, you can view your computer's file and folder structure and access files and folders."
+            },
+            {
+                "text": "In the Navigation Pane, there is a Quick Access area."
+            },
+            {
+                "text": "Navigation Pane is to enable easier navigation through Windows Explorer."
+            }
+        ],
+        "answer": "The right window of Windows Explorer is called the Navigation Pane.",
+        "solution": {
+            "type": "text",
+            "content": "Navigation Pane is the narrow vertical bar on the left edge of the Outlook window. Preview pane is added to the right side of the File Explorer window. It has buttons that allow us to switch quickly between the various Outlook modules (such as Mail, Calendar, and People)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 118,
+        "question": {
+            "type": "text",
+            "content": "Once has infected a substantial number of computer systems, it generates revenue either by displaying advertisements or using a \"pay per click\" mechanism to charge its clients against the number of clicks on their displayed ads. SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "worms"
+            },
+            {
+                "text": "virus"
+            },
+            {
+                "text": "spyware"
+            },
+            {
+                "text": "adware"
+            }
+        ],
+        "answer": "adware",
+        "solution": {
+            "type": "text",
+            "content": "Adware. Adware examples :- Fireball, Appearch, DollarRevenue, Gator, DeskAd etc. Spyware is a type of malicious software or malware that is installed on a computing device without the end user's knowledge."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 119,
+        "question": {
+            "type": "text",
+            "content": "Which among the following keyboard shortcuts is used to bookmark the current webpage on the web browser? SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "Ctrl+N"
+            },
+            {
+                "text": "Ctrl+"
+            },
+            {
+                "text": "Ctrl + B"
+            },
+            {
+                "text": "Ctrl + D"
+            }
+        ],
+        "answer": "Ctrl + D",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + D. Some chrome shortcuts Open a new window in Incognito mode (Ctrl + Shift + N), Jump to the rightmost tab (Ctrl + 9), Open a new tab, and jump to it (Ctrl + T), to open the home page in the current tab (Alt + Home), Open the previous page from your browsing history in the current tab (Alt + Left arrow), Open the next page from your browsing history in the current tab (Alt + Right arrow) etc."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 120,
+        "question": {
+            "type": "text",
+            "content": "several _ are rules that exist at levels in a telecommunication connection. SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "Bandwidth"
+            },
+            {
+                "text": "Network Surface Unit"
+            },
+            {
+                "text": "Protocol"
+            },
+            {
+                "text": "Domain Name"
+            }
+        ],
+        "answer": "Protocol",
+        "solution": {
+            "type": "text",
+            "content": "Protocol. Bandwidth: The maximum amount of data transmitted over an internet connection in a given amount of time. Domain name: A unique, easy-to-remember address used to access websites."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 121,
+        "question": {
+            "type": "text",
+            "content": "Which of the following font effects is not available in the MS-Word 2010 font dialog box? SSC CGL Tier II 03/03/2023"
+        },
+        "options": [
+            {
+                "text": "Superscript"
+            },
+            {
+                "text": "Small Cap"
+            },
+            {
+                "text": "Double Strikethrough"
+            },
+            {
+                "text": "Equalize Character Height"
+            }
+        ],
+        "answer": "Equalize Character Height",
+        "solution": {
+            "type": "text",
+            "content": "Equalize character height is available in MS Powerpoint. Font Effect in MS Excel - Bold, Italic, Underline, Double Underline, Strike-through, Super Script, Sub Script. A superscript or subscript is a number, figure, symbol, or indicator that is smaller than the normal line of type and is set slightly above it (superscript) or below it (subscript)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 122,
+        "question": {
+            "type": "text",
+            "content": "A can either be malware or hardware. The main purpose of this malware is to record the keys pressed by a user on the keyboard. SSC CGL Tier II 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Keyloggers"
+            },
+            {
+                "text": "Worm"
+            },
+            {
+                "text": "Rootkit"
+            },
+            {
+                "text": "Trojan"
+            }
+        ],
+        "answer": "Keyloggers",
+        "solution": {
+            "type": "text",
+            "content": "Keyloggers. Five common types of Keyloggers: Form Grabbing, Javascript, Memory Injection, Application Programming Interface (API), Hardware."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 123,
+        "question": {
+            "type": "text",
+            "content": "A port transmits one bit of a byte at a time as a single stream of bits. It is meant for transmitting slow data over long distances. SSC CGL Tier II 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Parallel"
+            },
+            {
+                "text": "Universal Serial Bus"
+            },
+            {
+                "text": "Serial"
+            },
+            {
+                "text": "Display"
+            }
+        ],
+        "answer": "Serial",
+        "solution": {
+            "type": "text",
+            "content": "Serial Port (Two versions: 9 pin, 25 pin model). Parallel ports (printer port, 25 pin model) are mainly used to connect those computer peripheral devices that require high bandwidth. It can transfer multiple data streams."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 124,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is also known as a flash drive? SSC CGL Tier II 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Disk Array"
+            },
+            {
+                "text": "HDD"
+            },
+            {
+                "text": "SSD"
+            },
+            {
+                "text": "Pen drive"
+            }
+        ],
+        "answer": "Pen drive",
+        "solution": {
+            "type": "text",
+            "content": "Pendrive (flash drive) is a data storage device that includes flash memory with an integrated USB interface. Disk array (storage array) is a data storage system used for block-based storage, file-based storage or object storage."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 125,
+        "question": {
+            "type": "text",
+            "content": "Which of the following keyboard shortcut is used to close a MS-Word 365 document? SSC CGL Tier-2 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Ctrl + F3"
+            },
+            {
+                "text": "Alt + F4"
+            },
+            {
+                "text": "Alt + F3"
+            },
+            {
+                "text": "Shift + F5"
+            }
+        ],
+        "answer": "Alt + F3",
+        "solution": {
+            "type": "text",
+            "content": "Alt + F4. Ctrl + F3- It is used to Cut the selected content to the Spike. Alt + F3 is a keyboard shortcut to open the Create New Building Block window in Microsoft Word. Shift + F5- Move the cursor to the location of the previous revision."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 126,
+        "question": {
+            "type": "text",
+            "content": "server acts as a set of components accessible to the software developer through an API defined by the platform itself. SSC CGL Tier I| 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Application"
+            },
+            {
+                "text": "Mail"
+            },
+            {
+                "text": "FTP"
+            },
+            {
+                "text": "Database"
+            }
+        ],
+        "answer": "Application",
+        "solution": {
+            "type": "text",
+            "content": "Application. File Transfer Protocol is a standard communication protocol used for the transfer of computer files from a server to a client on a computer network."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 127,
+        "question": {
+            "type": "text",
+            "content": "Which among the following keyboard shortcuts open the properties for the selected item on a Windows 10 home screen? SSC CGL Tier II 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Alt + Shift + Spacebar"
+            },
+            {
+                "text": "Ctrl + Shift + Spacebar"
+            },
+            {
+                "text": "Alt + Enter"
+            },
+            {
+                "text": "Ctrl + Enter"
+            }
+        ],
+        "answer": "Alt + Enter",
+        "solution": {
+            "type": "text",
+            "content": "Alt + Enter. Some other window explorer shortcuts duplicate the File Explorer (Ctrl + N), navigate to the Search field (Ctrl + F), open file explorer (Window key + E), to selects the entire worksheet (Ctrl + Shift + Space Bar)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 128,
+        "question": {
+            "type": "text",
+            "content": "Which of the following shortcut keys is used to quickly create a new, blank workbook in MS-Excel 2010? SSC CGL Tier I| 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Ctrl + N"
+            },
+            {
+                "text": "Alt+Shift+W"
+            },
+            {
+                "text": "Alt+Shift+N"
+            },
+            {
+                "text": "Ctrl + W"
+            }
+        ],
+        "answer": "Ctrl + N",
+        "solution": {
+            "type": "text",
+            "content": "Ctrl + N. Some MS Excel shortcuts - Close the current workbook (both CTRL + W and CTRL + F4), open the 'Find and Replace' Window (Shift + F5), provide the name of the selected range or cell (Alt + Ctrl + F3), open the 'Name Manager' dialog box (Ctrl + F3), create a new workbook (Ctrl+ N), open an existing workbook (Ctrl + O), save a workbook (Ctrl + S), move to the next sheet (Ctrl + PageDown), move to the previous sheet (Ctrl + PageUp), go to the Data tab (Alt + A)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 129,
+        "question": {
+            "type": "text",
+            "content": "_isa reading device that reads printed text by scanning it character by character. SSC CGL Tier-2 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Track Ball"
+            },
+            {
+                "text": "Digitizer"
+            },
+            {
+                "text": "Magnetic Ink Card Reader"
+            },
+            {
+                "text": "Optical Character Reader"
+            }
+        ],
+        "answer": "Optical Character Reader",
+        "solution": {
+            "type": "text",
+            "content": "Optical Character Reader (OCR). Magnetic ink character recognition (MICR) is a convenient and human-friendly pattern recognition system. It can directly scan and read the information into a data collection device. Trackball is an input device which comprises an exposed protruding ball held by a socket having sensors for detecting the ball's rotation."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 130,
+        "question": {
+            "type": "text",
+            "content": "Consider the following statement about MATCH() function of MS-Excel 2010: P: It searches for a specified item in a range of cells, and then returns the relative position of that item in the range. Q: The MATCH function syntax is MATCH( lookup_value, lookup_array, [match_type]) R: All the arguments in a MATCH() function are required. Which of the following statement(s) is/are true SSC CGL Tier II06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Only Q"
+            },
+            {
+                "text": "AlI P, Q, R"
+            },
+            {
+                "text": "Only P and R"
+            },
+            {
+                "text": "Only P and Q"
+            }
+        ],
+        "answer": "Only P and Q",
+        "solution": {
+            "type": "text",
+            "content": "Only P and Q. The MATCH function is used to determine the position of a value in a range or array. MATCH only supports one-dimensional arrays or ranges, either vertical or horizontal."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 131,
+        "question": {
+            "type": "text",
+            "content": "Which among the following statements is incorrect about Central Processing Unit? SSC CGL Tier II 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Control Unit controls the order in which instructions enter and leave the processor and how the instructions are executed."
+            },
+            {
+                "text": "Arithmetic Logic Unit is responsible for taking the input, converting it into a signal, and storing it for further processing."
+            },
+            {
+                "text": "Arithmetic Logic Unit is also known as the mathematical brain of a computer."
+            },
+            {
+                "text": "Control Unit directs and manages operation sequences."
+            }
+        ],
+        "answer": "Arithmetic Logic Unit is responsible for taking the input, converting it into a signal, and storing it for further processing.",
+        "solution": {
+            "type": "text",
+            "content": "Arithmetic - logic unit is the part of a central processing unit that carries out arithmetic and logic operations on the operands in computer instruction words. In some processors, the ALU is divided into two units: an arithmetic unit (AU) and a logic unit (LU). Control Unit coordinates the flow of data out of, into, and between the various subunits of a processor."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 132,
+        "question": {
+            "type": "text",
+            "content": "Which among the following registers in Instruction Cycle holds the last instruction fetched? SSC CGL Tier I| 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Memory Address Register"
+            },
+            {
+                "text": "Instruction Register"
+            },
+            {
+                "text": "Program Counter"
+            },
+            {
+                "text": "Memory Buffer Register"
+            }
+        ],
+        "answer": "Instruction Register",
+        "solution": {
+            "type": "text",
+            "content": "Instruction Register (IR). Program Counter (PC) holds the address of the next instruction to be fetched. Memory buffer register (MBR) or memory data register (MDR) is the register in a computer's CPU that stores the data being transferred to and from the immediate access storage. Memory address registers (MAR) are connected to the address lines of the system bus."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 133,
+        "question": {
+            "type": "text",
+            "content": "Which among the following statements is incorrect? SSC CGL Tier II 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "Memory is required in the webserver to downloading anything."
+            },
+            {
+                "text": "Uploading is a procedure for copying data from the device to the webserver."
+            },
+            {
+                "text": "Data travels from user's device to the web server while uploading."
+            },
+            {
+                "text": "Downloading is a procedure of copying files from the webserver to the machine."
+            }
+        ],
+        "answer": "Memory is required in the webserver to downloading anything.",
+        "solution": {
+            "type": "text",
+            "content": "Memory is required in the device on which the file is downloaded from the server. A web server is computer software and underlying hardware that accepts requests via HTTP (Hypertext Transfer Protocol)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 134,
+        "question": {
+            "type": "text",
+            "content": "Which of the following Internet protocol specifies how data is exchanged over the Internet and how it should be broken into IP packets? SSC CGL Tier I| 06/03/2023"
+        },
+        "options": [
+            {
+                "text": "PPP"
+            },
+            {
+                "text": "HTTP"
+            },
+            {
+                "text": "TCP"
+            },
+            {
+                "text": "SMTP"
+            }
+        ],
+        "answer": "TCP",
+        "solution": {
+            "type": "text",
+            "content": "TCP (Transmission Control Protocol). Internet Protocol (IP) is a set of rules that governs the communication and exchange of data over the internet. TCP/IP is the most popular protocol connecting the networks."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 135,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is not a LibreOffice Software Suite program? SSC CGL Tier II 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "LibreOffice Writer"
+            },
+            {
+                "text": "LibreOffice Excel"
+            },
+            {
+                "text": "LibreOffice Calc"
+            },
+            {
+                "text": "LibreOffice Impress"
+            }
+        ],
+        "answer": "LibreOffice Excel",
+        "solution": {
+            "type": "text",
+            "content": "LibreOffice Excel. LibreOffice includes several applications that make it the most versatile Free and Open Source office suite: Writer (word processing), Calc (spreadsheets), Impress (presentations), Draw (vector graphics and flowcharts), Base (databases), and Math (formula editing)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 136,
+        "question": {
+            "type": "text",
+            "content": "Which among the following is not a magnetic storage? SSC CGL Tier I| 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "Winchester disk"
+            },
+            {
+                "text": "Memory Card"
+            },
+            {
+                "text": "Floppy Drive"
+            },
+            {
+                "text": "Magnetic Tape"
+            }
+        ],
+        "answer": "Floppy Drive",
+        "solution": {
+            "type": "text",
+            "content": "Memory Card (flash memory). Magnetic storage is a form of non-volatile storage. This means that the data is not lost when the storage device is not powered. Examples:- Hard Disk Drive, Floppy Disk, Magnetic Tape, Magnetic Drum, Zip Diskette, Magnetoresistive Random Access Memory (MRAM), Winchester Disks etc."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 137,
+        "question": {
+            "type": "text",
+            "content": "Which among the following types of computer is also known as a notebook? SSC CGL Tier II 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "Micro Computer"
+            },
+            {
+                "text": "Multi Core"
+            },
+            {
+                "text": "Work Station"
+            },
+            {
+                "text": "Laptop Computer"
+            }
+        ],
+        "answer": "Laptop Computer",
+        "solution": {
+            "type": "text",
+            "content": "Laptop Computer (Notebook). Five types of Computers :- Supercomputer, Mainframe computer, Minicomputer, Workstation, PC (Personal Computer).On the basis of data handling capabilities, there are three types of computer: Analogue Computer, Digital Computer, Hybrid Computer."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 138,
+        "question": {
+            "type": "text",
+            "content": "available _is the bit-rate of or consumed information capacity expressed typically in metric multiples of bits per second. SSC CGL Tier |I 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "Frequency"
+            },
+            {
+                "text": "Speed"
+            },
+            {
+                "text": "Protocol"
+            },
+            {
+                "text": "Bandwidth"
+            }
+        ],
+        "answer": "Bandwidth",
+        "solution": {
+            "type": "text",
+            "content": "Bandwidth specifically refers to the capacity at which a network can transmit data. The more bandwidth a data connection has, the more data it can send and receive at one time. Bandwidth is usually expressed in terms of bits per second or, in bytes per second"
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 139,
+        "question": {
+            "type": "text",
+            "content": "Which of the following shortcut keys is used to select all cells of the current row in MS-Excel 2010 worksheet? SSC CGL Tier II 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "Shift + Page down"
+            },
+            {
+                "text": "Ctrl+Spacebar"
+            },
+            {
+                "text": "Shift+Page up"
+            },
+            {
+                "text": "Shift+Spacebar"
+            }
+        ],
+        "answer": "Shift+Spacebar",
+        "solution": {
+            "type": "text",
+            "content": "Shift + Spacebar. In MS Excel- Shift + Page Down It is used to extend the selection down one screen. Ctrl + Spacebar- Select the entire column. Shift + Page up (It is used to extend the selection up one screen)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 140,
+        "question": {
+            "type": "text",
+            "content": "CryptoLocker is a form of which of the following? SSC CGL Tier II 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "Ransomware"
+            },
+            {
+                "text": "Adware"
+            },
+            {
+                "text": "Spyware"
+            },
+            {
+                "text": "Worms"
+            }
+        ],
+        "answer": "Ransomware",
+        "solution": {
+            "type": "text",
+            "content": "Ransomware. CryptoLocker is a form of ransomware that restricts access to infected computers by encrypting its contents. Examples :- BitPaymer, DarkSide, Darma, DoppelPaymer, GandCrab, Maze, MedusaLocker, NetWalker, NotPetya, Petya, REvil, Ryuk, SamSam, WannaCry, Hive etc."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 141,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a web browser created and developed by Microsoft? SSC CGL Tier II 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "Opera"
+            },
+            {
+                "text": "Chrome"
+            },
+            {
+                "text": "Edge"
+            },
+            {
+                "text": "Brave"
+            }
+        ],
+        "answer": "Edge",
+        "solution": {
+            "type": "text",
+            "content": "Edge web browser is developed by Microsoft. Chrome (developed by Google). Most popular web browsers are Firefox, Google Chrome, Microsoft Edge, Apple Safari, Opera, Brave, Vivaldi, DuckDuckGo, Chromium, Epic."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 142,
+        "question": {
+            "type": "text",
+            "content": "Consider the following statements regarding line spacing of a paragraph in MS-Word 2010: P: Line spacing determines the amount of vertical space between lines of text in a paragraph. Q: Line spacing determines the amount of diagonal space between lines of text in a paragraph Which of the following statement(s) is/are correct? SSC CGL Tier II 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "Only P"
+            },
+            {
+                "text": "Both P and Q"
+            },
+            {
+                "text": "Neither P nor Q"
+            },
+            {
+                "text": "Only Q"
+            }
+        ],
+        "answer": "Only P",
+        "solution": {
+            "type": "text",
+            "content": "Only P. Types of line spacing in Word: single spacing; 1.5 times spacing; double spacing or a custom amount, in which the numbers refer to the size of the space, relative to the size of a line. If we choose single line spacing, the space between lines will be 12 points."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 143,
+        "question": {
+            "type": "text",
+            "content": "Which among the following ports is also called a mouse port? SSC CGL Tier I| 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "Video Graphic Array"
+            },
+            {
+                "text": "High Definition Media Interface"
+            },
+            {
+                "text": "Firewire"
+            },
+            {
+                "text": "PS/2"
+            }
+        ],
+        "answer": "PS/2",
+        "solution": {
+            "type": "text",
+            "content": "PS/2 (Mouse port). The PS/2 port is a 6-pin mini-DIN connector used for connecting keyboards and mice to a PC compatible computer system."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 144,
+        "question": {
+            "type": "text",
+            "content": "What will the function given below return in MS-Excel 2010? =MATCH(12,(10,13,30,40,60),1) SSC CGL Tier II07/03/2023"
+        },
+        "options": [
+            {
+                "text": "0"
+            },
+            {
+                "text": "1"
+            },
+            {
+                "text": "#N/A"
+            },
+            {
+                "text": "2"
+            }
+        ],
+        "answer": "1",
+        "solution": {
+            "type": "text",
+            "content": "1. The MATCH function searches for a specified item in a range of cells and then returns the relative position of that item in the range. Syntax {MATCH(lookup_value, lookup_array, [match_type])}."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 145,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is an extension of a temporary file?"
+        },
+        "options": [
+            {
+                "text": ".tnt"
+            },
+            {
+                "text": ".tar"
+            },
+            {
+                "text": ".tmp"
+            },
+            {
+                "text": ".txt"
+            }
+        ],
+        "answer": ".tmp",
+        "solution": {
+            "type": "text",
+            "content": ".tmp. The full form of JPG or JPEG is Joint Photographic Expert Group. PDF stands for Portable Document Format."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/04/2021 (Morning)"
+    },
+    {
+        "id": 146,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT an open-source operating system?"
+        },
+        "options": [
+            {
+                "text": "Windows"
+            },
+            {
+                "text": "Ubuntu"
+            },
+            {
+                "text": "Linux"
+            },
+            {
+                "text": "Drupal"
+            }
+        ],
+        "answer": "Windows",
+        "solution": {
+            "type": "text",
+            "content": "Windows. An Open-source Operating System is the Operating System in which source code is visible publicly and editable. The generally known Operating Systems like Microsoft's Windows, Apple's iOS, and Mac OS, are closed Operating systems."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/04/2021 (Morning)"
+    },
+    {
+        "id": 147,
+        "question": {
+            "type": "text",
+            "content": "What do you call an event where a computer becomes unresponsive due to either a program or the system itself becoming unresponsive and no longer taking input?"
+        },
+        "options": [
+            {
+                "text": "Booting"
+            },
+            {
+                "text": "Hanging"
+            },
+            {
+                "text": "Ejecting"
+            },
+            {
+                "text": "Moving"
+            }
+        ],
+        "answer": "Hanging",
+        "solution": {
+            "type": "text",
+            "content": "Hanging. Booting is the process of starting a computer. Eject removes the media from the device (e.g., ejects the CD tray) but doesn't remove the device itself."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/04/2021 (Afternoon)"
+    },
+    {
+        "id": 148,
+        "question": {
+            "type": "text",
+            "content": "A is an ordered list in which all insertions and deletions are made at one end."
+        },
+        "options": [
+            {
+                "text": "front"
+            },
+            {
+                "text": "rear"
+            },
+            {
+                "text": "stack"
+            },
+            {
+                "text": "queue"
+            }
+        ],
+        "answer": "stack",
+        "solution": {
+            "type": "text",
+            "content": "stack. Queue: the name of the array storing queue elements. Front: the index where the first element is stored in the array representing the queue. Rear: the index where the last element is stored in an array representing the queue."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/04/2021 (Morning)"
+    },
+    {
+        "id": 149,
+        "question": {
+            "type": "text",
+            "content": "A message that tries to trick a person into providing information such as his social security number, bank account information or login username and password for a website is a type of malware called:"
+        },
+        "options": [
+            {
+                "text": "Worms"
+            },
+            {
+                "text": "Macro Virus"
+            },
+            {
+                "text": "Zombie"
+            },
+            {
+                "text": "Phishing"
+            }
+        ],
+        "answer": "Phishing",
+        "solution": {
+            "type": "text",
+            "content": "Phishing."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/08/2021 (Evening)"
+    },
+    {
+        "id": 150,
+        "question": {
+            "type": "text",
+            "content": "Which of the following languages is an example of a fourth-generation language in computer programming?"
+        },
+        "options": [
+            {
+                "text": "ALGOL"
+            },
+            {
+                "text": "SQL"
+            },
+            {
+                "text": "SNOBOL"
+            },
+            {
+                "text": "Pascal"
+            }
+        ],
+        "answer": "SQL",
+        "solution": {
+            "type": "text",
+            "content": "SQL. The fourth-generation language is also called a non-procedural language/ 4GL. It enables users to access the database. Examples: SQL, Foxpro, Focus, etc. Many fourth-generation languages use Structured Query Language (SQL) as the basis for operations. SQL was developed at IBM to develop information stored in relational databases."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/04/2021 (Evening)"
+    },
+    {
+        "id": 151,
+        "question": {
+            "type": "text",
+            "content": "Chad Hurley and Steve Chen are computer innovators credited with co-founding _"
+        },
+        "options": [
+            {
+                "text": "Instagram"
+            },
+            {
+                "text": "WhatsApp"
+            },
+            {
+                "text": "Facebook"
+            },
+            {
+                "text": "YouTube"
+            }
+        ],
+        "answer": "YouTube",
+        "solution": {
+            "type": "text",
+            "content": "YouTube. Steve Chen, Chad Hurley, and Jawed Karim launched You Tube in February 2005 and In October 2006, at a later time, YouTube was bought by Google for $1.65 billion."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/04/2021 (Morning)"
+    },
+    {
+        "id": 152,
+        "question": {
+            "type": "text",
+            "content": "In which year was Microsoft's Windows operating system first introduced?"
+        },
+        "options": [
+            {
+                "text": "1985"
+            },
+            {
+                "text": "1989"
+            },
+            {
+                "text": "1991"
+            },
+            {
+                "text": "1993"
+            }
+        ],
+        "answer": "1985",
+        "solution": {
+            "type": "text",
+            "content": "1985 Microsoft introduced an operating environment named Windows on November 20, 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIS)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/04/2021 (Afternoon)"
+    },
+    {
+        "id": 153,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the core of an operating system?"
+        },
+        "options": [
+            {
+                "text": "Kernel"
+            },
+            {
+                "text": "Xenix"
+            },
+            {
+                "text": "Device Driver"
+            },
+            {
+                "text": "Ventura"
+            }
+        ],
+        "answer": "Kernel",
+        "solution": {
+            "type": "text",
+            "content": "Kernel is a computer program at the core of a computer's operating system and has complete control over everything in the system. It is the \"portion of the operating system code that is always resident in memory\", and facilitates interactions between hardware and software components."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/04/2021 (Evening)"
+    },
+    {
+        "id": 154,
+        "question": {
+            "type": "text",
+            "content": "What kind of file has the extension.png?"
+        },
+        "options": [
+            {
+                "text": "Document file"
+            },
+            {
+                "text": "Video file"
+            },
+            {
+                "text": "Audio file"
+            },
+            {
+                "text": "Image file"
+            }
+        ],
+        "answer": "Image file",
+        "solution": {
+            "type": "text",
+            "content": "Image file. A PNG file is an and invented and established image saved in the Portable Network Graphic (PNG) format. It is the most frequently used uncompressed raster image format on the internet, having the ability to display transparent backgrounds."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/04/2021 (Evening)"
+    },
+    {
+        "id": 155,
+        "question": {
+            "type": "text",
+            "content": "In which year was the first-ever version of Microsoft Word - Word 1.0 launched?"
+        },
+        "options": [
+            {
+                "text": "1985"
+            },
+            {
+                "text": "1996"
+            },
+            {
+                "text": "1992"
+            },
+            {
+                "text": "1983"
+            }
+        ],
+        "answer": "1983",
+        "solution": {
+            "type": "text",
+            "content": "1983. Microsoft Word is a word-processor software launched by the Microsoft Corporation. Word 1.0 was the first Word version of Microsoft Word. It was released for Xenix and MS-DOS in October 1983. Microsoft Word was developed by Richard Brodie and Charles Simonyi."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/04/2021 (Morning)"
+    },
+    {
+        "id": 156,
+        "question": {
+            "type": "text",
+            "content": "Which of the following operating systems guarantees a response within specified time constraints?"
+        },
+        "options": [
+            {
+                "text": "Time sharing operating system"
+            },
+            {
+                "text": "Distributed operating system"
+            },
+            {
+                "text": "Real-time operating system"
+            },
+            {
+                "text": "Interactive operating system"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "с) Real-time operating systems are used in environments where a large number of events, mostly external to the computer system, must be accepted and processed in a short time within certain deadlines."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/04/2021 (Afternoon)"
+    },
+    {
+        "id": 157,
+        "question": {
+            "type": "text",
+            "content": "GIMP is a/an"
+        },
+        "options": [
+            {
+                "text": "application software"
+            },
+            {
+                "text": "diagnostic utility program"
+            },
+            {
+                "text": "text editor"
+            },
+            {
+                "text": "operating system"
+            }
+        ],
+        "answer": "application software",
+        "solution": {
+            "type": "text",
+            "content": "Application software. GIMP stands for \"GNU Image Manipulation Program\", a self-explanatory name for an application that processes digital graphics."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/04/2021 (Evening)"
+    },
+    {
+        "id": 158,
+        "question": {
+            "type": "text",
+            "content": "The first barcode system was developed by:"
+        },
+        "options": [
+            {
+                "text": "Norman Joseph Woodland"
+            },
+            {
+                "text": "John Mc Carthy"
+            },
+            {
+                "text": "John Barger"
+            },
+            {
+                "text": "David Bradley"
+            }
+        ],
+        "answer": "Norman Joseph Woodland",
+        "solution": {
+            "type": "text",
+            "content": ", Norman Joseph Woodland (In 1952). John McCarthy, coined the term \"Artificial Intelligence,\" invented the first programming language for symbolic computation, LISP (which is still used as a preferred language in the field of Al), time-sharing."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/04/2021 (Evening)"
+    },
+    {
+        "id": 159,
+        "question": {
+            "type": "text",
+            "content": "A is a software program that travels the web locating and indexing websites for search engines."
+        },
+        "options": [
+            {
+                "text": "bug"
+            },
+            {
+                "text": "spider"
+            },
+            {
+                "text": "python"
+            },
+            {
+                "text": "penguin"
+            }
+        ],
+        "answer": "spider",
+        "solution": {
+            "type": "text",
+            "content": "A spider is a program that visits Web sites and reads their pages and other information in order to create entries for a search engine index. Bug- It is an unexpected problem with software or hardware. Python - It is a high-level, general-purpose programming language."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/04/2021 (Evening)"
+    },
+    {
+        "id": 160,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the full form of ASCII?"
+        },
+        "options": [
+            {
+                "text": "American Standard Code for Information Interchange"
+            },
+            {
+                "text": "Asian Standard Code for Information Interchange"
+            },
+            {
+                "text": "Analytical Scientific Code for Information Interchange"
+            },
+            {
+                "text": "Analytical Standard Code for Intermittent Information"
+            }
+        ],
+        "answer": "American Standard Code for Information Interchange",
+        "solution": {
+            "type": "text",
+            "content": "American Standard Code for Information Interchange."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/04/2021 (Morning)"
+    },
+    {
+        "id": 161,
+        "question": {
+            "type": "text",
+            "content": "An/A is a finite set of instructions which. when followed. accomplish a particular task."
+        },
+        "options": [
+            {
+                "text": "array"
+            },
+            {
+                "text": "algorithm"
+            },
+            {
+                "text": "data"
+            },
+            {
+                "text": "node"
+            }
+        ],
+        "answer": "algorithm",
+        "solution": {
+            "type": "text",
+            "content": "An algorithm is a finite set of instructions that, when followed, accomplish a particular task. The algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of specific problems or to perform a computation."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/04/2021 (Morning)"
+    },
+    {
+        "id": 162,
+        "question": {
+            "type": "text",
+            "content": "A User Interface is the part of _ that allows the user to enter and receive information."
+        },
+        "options": [
+            {
+                "text": "computer network"
+            },
+            {
+                "text": "operating system"
+            },
+            {
+                "text": "computer hardware"
+            },
+            {
+                "text": "data science"
+            }
+        ],
+        "answer": "operating system",
+        "solution": {
+            "type": "text",
+            "content": "A User Interface is the part of the operating system that allows the user to enter and receive information. Popular Operating Systems include Microsoft Windows, Mac OS X, and Linux."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/04/2021 (Afternoon)"
+    },
+    {
+        "id": 163,
+        "question": {
+            "type": "text",
+            "content": "What do you call a key on a computer keyboard that is used to move the pointer (cursor) around on the screen?"
+        },
+        "options": [
+            {
+                "text": "Navigation key"
+            },
+            {
+                "text": "Numeric key"
+            },
+            {
+                "text": "Function key"
+            },
+            {
+                "text": "Control key"
+            }
+        ],
+        "answer": "Navigation key",
+        "solution": {
+            "type": "text",
+            "content": "A navigation key is a key on a computer keyboard that is used to move the pointer (cursor) around on the screen. They include the Four Arrow keys, PageUp, PageDown, Home and End keys."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 04/08/2021 (Morning)"
+    },
+    {
+        "id": 164,
+        "question": {
+            "type": "text",
+            "content": "Which of the following keyboard shortcuts will you press in order to minimise all programs on a computer screen and display the desktop?"
+        },
+        "options": [
+            {
+                "text": "Windows + C"
+            },
+            {
+                "text": "Windows + M"
+            },
+            {
+                "text": "Windows + F"
+            },
+            {
+                "text": "Windows + D"
+            }
+        ],
+        "answer": "Windows + D",
+        "solution": {
+            "type": "text",
+            "content": "Windows + D should be pressed in order to minimize all programs on a computer screen and display the desktop."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 04/08/2021 (Afternoon)"
+    },
+    {
+        "id": 165,
+        "question": {
+            "type": "text",
+            "content": "CorelDraw is an example of a/an:"
+        },
+        "options": [
+            {
+                "text": "database software"
+            },
+            {
+                "text": "accounting software"
+            },
+            {
+                "text": "spreadsheet software"
+            },
+            {
+                "text": "desktop publishing software"
+            }
+        ],
+        "answer": "desktop publishing software",
+        "solution": {
+            "type": "text",
+            "content": "desktop publishing software. Other examples of software: Spreadsheet software: Microsoft Excel, Apple Numbers, Google Sheets. Accounting software Sage Intacct, Desktop Pro, QuickBooks Online Advanced,Oracle ERP Cloud."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 04/08/2021 (Afternoon)"
+    },
+    {
+        "id": 166,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the full form of EBCDIC?"
+        },
+        "options": [
+            {
+                "text": "Extended Binary-Coded-Decimal Interchange Code"
+            },
+            {
+                "text": "Extended Binary-Control-Device Interchange Code"
+            },
+            {
+                "text": "Electronic Binary-Coded-Device Interchange Code"
+            },
+            {
+                "text": "Electronic Binary-Control-Decimal Interchange Code"
+            }
+        ],
+        "answer": "Extended Binary-Coded-Decimal Interchange Code",
+        "solution": {
+            "type": "text",
+            "content": "Extended Binary-Coded-Dec mal Interchange Code (EBCDIC), data-encoding system, developed by IBM."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 04/08/2021 (Evening)"
+    },
+    {
+        "id": 167,
+        "question": {
+            "type": "text",
+            "content": "Which keyboard shortcut in Microsoft Excel 2016 should you use to insert a new worksheet for Windows 10 operating system?"
+        },
+        "options": [
+            {
+                "text": "Shift + F12"
+            },
+            {
+                "text": "Shift + F5"
+            },
+            {
+                "text": "Shift + F7"
+            },
+            {
+                "text": "Shift +F11"
+            }
+        ],
+        "answer": "Shift +F11",
+        "solution": {
+            "type": "text",
+            "content": "Shift + F11."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 06/08/2021 (Afternoon)"
+    },
+    {
+        "id": 168,
+        "question": {
+            "type": "text",
+            "content": "Which of the following was the first operating system written in 'C language?"
+        },
+        "options": [
+            {
+                "text": "UNIX"
+            },
+            {
+                "text": "Xenix"
+            },
+            {
+                "text": "Windows 95"
+            },
+            {
+                "text": "LINUX"
+            }
+        ],
+        "answer": "UNIX",
+        "solution": {
+            "type": "text",
+            "content": "UNIX. The C programming language came out of Bell Labs in the early 1970s by Dennis Ritchie. The C programming language was devised in the early 1970s as a system implementation language for the nascent Unix operating system."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 06/08/2021 (Evening)"
+    },
+    {
+        "id": 169,
+        "question": {
+            "type": "text",
+            "content": "On a computer keyboard, Shift and Alt keys are examples of:"
+        },
+        "options": [
+            {
+                "text": "numeric keys"
+            },
+            {
+                "text": "modifier keys"
+            },
+            {
+                "text": "function keys"
+            },
+            {
+                "text": "cursor movement keys the"
+            }
+        ],
+        "answer": "modifier keys",
+        "solution": {
+            "type": "text",
+            "content": "modifier keys. A modifier key is a key on a computer's keyboard that's only used in conjunction with another key."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Afternoon)"
+    },
+    {
+        "id": 170,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the slowest type of internet connection?"
+        },
+        "options": [
+            {
+                "text": "Dial-up"
+            },
+            {
+                "text": "Satellite"
+            },
+            {
+                "text": "Cable"
+            },
+            {
+                "text": "Digital subscriber line"
+            }
+        ],
+        "answer": "Dial-up",
+        "solution": {
+            "type": "text",
+            "content": "Dial-up. Internet connection speed in decreasing order:- Fiber - Cable - Satellite DSL - Wireless Dial-up. A dial-up connection uses a standard phone line and analog modem to access the Internet at data transfer rates (DTR) of up to 56 Kbps."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Afternoon)"
+    },
+    {
+        "id": 171,
+        "question": {
+            "type": "text",
+            "content": "Who created FORTRAN - the first high-level computer programming language?"
+        },
+        "options": [
+            {
+                "text": "Dan Bricklin"
+            },
+            {
+                "text": "Larry Ellison"
+            },
+            {
+                "text": "Marc Andreessen"
+            },
+            {
+                "text": "John Backus"
+            }
+        ],
+        "answer": "John Backus",
+        "solution": {
+            "type": "text",
+            "content": "John Backus Fortran (Formula Translation) is a general -purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 11/08/2021 (Evening)"
+    },
+    {
+        "id": 172,
+        "question": {
+            "type": "text",
+            "content": "What is the keyboard shortcut to add a new row above a given row in Microsoft Excel?"
+        },
+        "options": [
+            {
+                "text": "Alt +I+R"
+            },
+            {
+                "text": "Alt + C+I"
+            },
+            {
+                "text": "Shift + Spacebar"
+            },
+            {
+                "text": "Shift + 1+R"
+            }
+        ],
+        "answer": "Alt +I+R",
+        "solution": {
+            "type": "text",
+            "content": "Alt + I + R. Shift + Spacebar = Select Row in Excel."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/08/2021 (Afternoon)"
+    },
+    {
+        "id": 173,
+        "question": {
+            "type": "text",
+            "content": "'Nibble' in computer terminology is also called"
+        },
+        "options": [
+            {
+                "text": "Bit"
+            },
+            {
+                "text": "Half byte"
+            },
+            {
+                "text": "Half bit"
+            },
+            {
+                "text": "Byte"
+            }
+        ],
+        "answer": "Half bit",
+        "solution": {
+            "type": "text",
+            "content": "Nibble is also called Half byte. 1 Nibble = 4 bit."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2020 (Morning)"
+    },
+    {
+        "id": 174,
+        "question": {
+            "type": "text",
+            "content": "Which company manufactured the first microprocessor 4004?"
+        },
+        "options": [
+            {
+                "text": "ENOcean Private Company"
+            },
+            {
+                "text": "NVIDIA Corporation"
+            },
+            {
+                "text": "PLX Devices"
+            },
+            {
+                "text": "INTEL Corporation"
+            }
+        ],
+        "answer": "INTEL Corporation",
+        "solution": {
+            "type": "text",
+            "content": "INTEL Corporation. Examples- Intel 8085, pentium, 1486, Itanium."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2020 (Afternoon)"
+    },
+    {
+        "id": 175,
+        "question": {
+            "type": "text",
+            "content": "The speed of the Central Processing Unit (CPU) is measured in , which represents a CPU cycle."
+        },
+        "options": [
+            {
+                "text": "Gigabyte"
+            },
+            {
+                "text": "Hertz"
+            },
+            {
+                "text": "Terabyte"
+            },
+            {
+                "text": "Kilobyte"
+            }
+        ],
+        "answer": "Hertz",
+        "solution": {
+            "type": "text",
+            "content": "Hertz (Hz). It is considered as the brain of the computer because it contains all the circuitry needed to process input, store data and output results."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 18/03/2020 (Afternoon)"
+    },
+    {
+        "id": 176,
+        "question": {
+            "type": "text",
+            "content": "In the field of computing, what does VRML stand for?"
+        },
+        "options": [
+            {
+                "text": "Virtual Reality MarkUp Language"
+            },
+            {
+                "text": "Visual Reality MarkUp Language"
+            },
+            {
+                "text": "Virtual Reality Machine Language"
+            },
+            {
+                "text": "Visual Reality Machine Language"
+            }
+        ],
+        "answer": "Virtual Reality MarkUp Language",
+        "solution": {
+            "type": "text",
+            "content": "Virtual Reality MarkUp Language (VRML) is an open-standard programming language created to design three-dimensional and Web-based models, textures and illusion. It is a modeling language."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/03/2020 (Morning)"
+    },
+    {
+        "id": 177,
+        "question": {
+            "type": "text",
+            "content": "In the field of computing, what does ENIAC stand for?"
+        },
+        "options": [
+            {
+                "text": "Electronic Numerical Integrator and Computer"
+            },
+            {
+                "text": "Electronic Numerical Integrated Advanced Computer"
+            },
+            {
+                "text": "Electronic Numerals Integration and Computing"
+            },
+            {
+                "text": "Electronic Numbers Integration and Computer"
+            }
+        ],
+        "answer": "Electronic Numerical Integrator and Computer",
+        "solution": {
+            "type": "text",
+            "content": "Electronic Numerical Integrator and Computer. It was the first programmable, electronic, general -purpose digital computer."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/10/2020 (Afternoon)"
+    },
+    {
+        "id": 178,
+        "question": {
+            "type": "text",
+            "content": "In which year did the JavaScript Programming language come into existence?"
+        },
+        "options": [
+            {
+                "text": "2000"
+            },
+            {
+                "text": "1990"
+            },
+            {
+                "text": "1995"
+            },
+            {
+                "text": "1999"
+            }
+        ],
+        "answer": "1995",
+        "solution": {
+            "type": "text",
+            "content": "1995. Objective-C, C++ (1983), Haskell (1990), Python (1991), JAVA, PHP, JavaScript (1995), Python (1991), SQL(1972), MATLAB (1978), Swift (2014)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/10/2020 (Afternoon)"
+    },
+    {
+        "id": 179,
+        "question": {
+            "type": "text",
+            "content": "Who designed the first analog computer in India?"
+        },
+        "options": [
+            {
+                "text": "Samarendra Kumar Mitra"
+            },
+            {
+                "text": "Deb Kumar Bose"
+            },
+            {
+                "text": "Subodh Chandra Das Gupta"
+            },
+            {
+                "text": "Bimal Kumar Bhattacharyya"
+            }
+        ],
+        "answer": "Samarendra Kumar Mitra",
+        "solution": {
+            "type": "text",
+            "content": "Samarendra Kumar Mitra was an Indian scientist and mathematician. He designed India's first computer in 1954 at Indian Statistical Institute, Calcutta."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/10/2020 (Evening)"
+    },
+    {
+        "id": 180,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a lever that can be moved in several directions to control the movement of an image on a computer monitor or similar display screen?"
+        },
+        "options": [
+            {
+                "text": "MIDI Devices"
+            },
+            {
+                "text": "Optical Mark Reader"
+            },
+            {
+                "text": "Joystick"
+            },
+            {
+                "text": "Visual Display Unit"
+            }
+        ],
+        "answer": "Joystick",
+        "solution": {
+            "type": "text",
+            "content": "Joystick is an input device consisting of a lever that can be moved in several directions to control the movement of an image on a computer monitor or similar display screen."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 14/10/2020 (Morning)"
+    },
+    {
+        "id": 181,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is used to receive and send computer files over telephone lines?"
+        },
+        "options": [
+            {
+                "text": "Modem"
+            },
+            {
+                "text": "Floppy disk"
+            },
+            {
+                "text": "MICR device"
+            },
+            {
+                "text": "Light pen"
+            }
+        ],
+        "answer": "Modem",
+        "solution": {
+            "type": "text",
+            "content": "Modem (Modulator Demodulator) is a hardware component that allows a computer or another device, such as a router or switch, to connect to the Internet."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 14/10/2020 (Afternoon)"
+    },
+    {
+        "id": 182,
+        "question": {
+            "type": "text",
+            "content": "Which of the following consists of an electronic writing area and a special 'pen' that works with it?"
+        },
+        "options": [
+            {
+                "text": "Trackball"
+            },
+            {
+                "text": "Abacus"
+            },
+            {
+                "text": "Plotters"
+            },
+            {
+                "text": "Graphics Tablet"
+            }
+        ],
+        "answer": "Graphics Tablet",
+        "solution": {
+            "type": "text",
+            "content": "A graphics tablet is a computer input device that enables a user to hand-draw images, animations and graphics, with a special pen like stylus, similar to the way a person draws images with a pencil and paper."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/10/2020 (Afternoon)"
+    },
+    {
+        "id": 183,
+        "question": {
+            "type": "text",
+            "content": "_ is the fastest to read from and write to than the other kinds of storage in a computer."
+        },
+        "options": [
+            {
+                "text": "CD ROM"
+            },
+            {
+                "text": "RAM"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "с) (b) Floppy Disk (d) Hard Disk RAM Access (Random Memory) is a form of computer memory that can be read and changed in any order, typically used to store working data and machine code. A random -access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/10/2020 (Evening)"
+    },
+    {
+        "id": 184,
+        "question": {
+            "type": "text",
+            "content": "_is a diagrammatic representation of a program logic."
+        },
+        "options": [
+            {
+                "text": "Process"
+            },
+            {
+                "text": "Flowchart"
+            },
+            {
+                "text": "Data"
+            },
+            {
+                "text": "Legend"
+            }
+        ],
+        "answer": "Flowchart",
+        "solution": {
+            "type": "text",
+            "content": "A flowchart is simply a graphical representation of steps. It shows steps in sequential order and is widely used in presenting the flow of algorithms, workflow or processes."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/10/2020 (Morning)"
+    },
+    {
+        "id": 185,
+        "question": {
+            "type": "text",
+            "content": "_ is the central server in computer network which lets the concerned user utilize the storage capacity of the server."
+        },
+        "options": [
+            {
+                "text": "Application Server"
+            },
+            {
+                "text": "File Server"
+            },
+            {
+                "text": "Print Server"
+            },
+            {
+                "text": "Web Server"
+            }
+        ],
+        "answer": "File Server",
+        "solution": {
+            "type": "text",
+            "content": "file server. An application server enables a server to generate a dynamic, customized response to a client request. A print server is а dedicated appliance or central point of software."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/10/2020 (Evening)"
+    },
+    {
+        "id": 186,
+        "question": {
+            "type": "text",
+            "content": "Who Automatically (APT)? has developed the Programmable Tool"
+        },
+        "options": [
+            {
+                "text": "Gary Kildall"
+            },
+            {
+                "text": "Douglas T Ross"
+            },
+            {
+                "text": "Ralph H Baer"
+            },
+            {
+                "text": "Jonathan Fletcher"
+            }
+        ],
+        "answer": "Douglas T Ross",
+        "solution": {
+            "type": "text",
+            "content": "Douglas T Ross. Automatically Programmable Tool (APT) is a program which consists of instructions/statements which are used to specify the path of the tool to follow for producing a given part."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/10/2020 (Evening)"
+    },
+    {
+        "id": 187,
+        "question": {
+            "type": "text",
+            "content": "In which of the following countries was the first Electronic Numerical Integrator and Computer, the first programmable general purpose electronic digital computer, developed?"
+        },
+        "options": [
+            {
+                "text": "United Kingdom"
+            },
+            {
+                "text": "Japan"
+            },
+            {
+                "text": "China"
+            },
+            {
+                "text": "USA"
+            }
+        ],
+        "answer": "USA",
+        "solution": {
+            "type": "text",
+            "content": "United States of America. Electronic Numerical Integrator and Computer (ENIAC) was invented at the University of Pennsylvania to calculate artillery firing tables for the United States Army's Ballistic Research Laboratory."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/10/2020 (Morning)"
+    },
+    {
+        "id": 188,
+        "question": {
+            "type": "text",
+            "content": "In Microsoft Office 2016, which shortcut key is used to open the Design tab?"
+        },
+        "options": [
+            {
+                "text": "Ctrl + A"
+            },
+            {
+                "text": "Alt + G"
+            },
+            {
+                "text": "Shift + F3"
+            },
+            {
+                "text": "Ctrl+ K"
+            }
+        ],
+        "answer": "Shift + F3",
+        "solution": {
+            "type": "text",
+            "content": "Alt + G. In Microsoft Office 2016 - Ctrl + K inserts a hyperlink at the text cursor's current location. Shift + F3 shortcut switches the text between uppercase, lowercase, and title case."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/10/2020 (Evening)"
+    },
+    {
+        "id": 189,
+        "question": {
+            "type": "text",
+            "content": "Which type of computers is used to control air traffic and radar of national defence?"
+        },
+        "options": [
+            {
+                "text": "Personal computers"
+            },
+            {
+                "text": "Analogue computers"
+            },
+            {
+                "text": "Hybrid computers"
+            },
+            {
+                "text": "Digital computers"
+            }
+        ],
+        "answer": "Hybrid computers",
+        "solution": {
+            "type": "text",
+            "content": "Hybrid computers exhibit features of analog computers and digital computers."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/10/2020 (Evening)"
+    },
+    {
+        "id": 190,
+        "question": {
+            "type": "text",
+            "content": "Who has created LISP, the Programming Language for Artificial Intelligence?"
+        },
+        "options": [
+            {
+                "text": "Grace Hopper"
+            },
+            {
+                "text": "John McCarthy"
+            },
+            {
+                "text": "Charles Bachman"
+            },
+            {
+                "text": "Leslie Lamport"
+            }
+        ],
+        "answer": "John McCarthy",
+        "solution": {
+            "type": "text",
+            "content": "John McCarthy. Grace Brewster Murray Hopper (1906 - 1992) - Known as \"the first lady of software\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 26/10/2020 (Evening)"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "Who among the following was the founding member of Sri Sai Nataraja Academy of Kuchipudi that offers training and higher studies in Kuchipudi?"
+        },
+        "options": [
+            {
+                "text": "P Ramadevi"
+            },
+            {
+                "text": "Kaushalya Reddy"
+            },
+            {
+                "text": "Yamini Krishnamurthy"
+            },
+            {
+                "text": "Aparna Satheesan"
+            }
+        ],
+        "answer": "P Ramadevi",
+        "solution": {
+            "type": "text",
+            "content": "P Ramadevi. Natya Tarangini Institute of Kuchipudi Dance: Founded by Raja and Radha Reddy in New Delhi (1976)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "Who among the following was the founder of the Indian Association for the Cultivation of Science?"
+        },
+        "options": [
+            {
+                "text": "Ashutosh Mukhopadhyay"
+            },
+            {
+                "text": "Mahendra Lal Sircar"
+            },
+            {
+                "text": "Prafulla Chandra Roy"
+            },
+            {
+                "text": "Jagadish Chandra Bose"
+            }
+        ],
+        "answer": "Mahendra Lal Sircar",
+        "solution": {
+            "type": "text",
+            "content": "Mahendra Lal Sircar. Ashutosh Mukhopadhyay founded the Calcutta Mathematical Society in 1908. Prafulla Chandra Roy is known as the father of Indian Chemistry. A crescograph is a device for measuring the growth in plants was invented by Jagadish Chandra Bose."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 18/04/2022 (Evening)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "Which of the following firms is run by billionaire Warren Buffet?"
+        },
+        "options": [
+            {
+                "text": "American Express Company"
+            },
+            {
+                "text": "Berkshire Hathaway"
+            },
+            {
+                "text": "Bank of America"
+            },
+            {
+                "text": "JP Morgan Chase"
+            }
+        ],
+        "answer": "Berkshire Hathaway",
+        "solution": {
+            "type": "text",
+            "content": "Berkshire Hathaway."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/10/2021 (Evening)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Who among the following made the first compound microscope?"
+        },
+        "options": [
+            {
+                "text": "William Gilbert"
+            },
+            {
+                "text": "Zacharias Jansen"
+            },
+            {
+                "text": "John Harrington"
+            },
+            {
+                "text": "Galileo Galilei"
+            }
+        ],
+        "answer": "Zacharias Jansen",
+        "solution": {
+            "type": "text",
+            "content": "Zacharias Jansen. A compound microscope has multiple lenses: The objective lens is compounded (multiplied) by the eyepiece lens to obtain a high magnification."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/10/2021 (Afternoon)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "Who among the following Sikh Gurus founded the Tarn Taran Sahib?"
+        },
+        "options": [
+            {
+                "text": "Guru Ram Das"
+            },
+            {
+                "text": "Guru Arjan Dev"
+            },
+            {
+                "text": "Guru Nanak Dev"
+            },
+            {
+                "text": "Guru Gobind Singh"
+            }
+        ],
+        "answer": "Guru Arjan Dev",
+        "solution": {
+            "type": "text",
+            "content": "Guru Arjan Dev. He was the fifth Sikh Guru and laid the foundation of Tarn Taran Sahib in 1596."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 20/08/2021 (Evening)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Who among the following invented the aeroplane?"
+        },
+        "options": [
+            {
+                "text": "Auguste and Louis Lumière"
+            },
+            {
+                "text": "Alexander Graham Bell"
+            },
+            {
+                "text": "Orville and Wilbur Wright"
+            },
+            {
+                "text": "Louis Pasteur and Alexander Fleming"
+            }
+        ],
+        "answer": "Orville and Wilbur Wright",
+        "solution": {
+            "type": "text",
+            "content": "Orville and Wilbur Wright (Wright brothers). Auguste and Louis Lumiere invented cinematograph and autochrome (a photography process). The first practical telephone and Graphophone was invented by Alexander Graham Bell."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/10/2020 (Afternoon)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Which of the following was invented by Walter Hunt?"
+        },
+        "options": [
+            {
+                "text": "Ship"
+            },
+            {
+                "text": "Safety pin"
+            },
+            {
+                "text": "Scooter"
+            },
+            {
+                "text": "Safety lamp"
+            }
+        ],
+        "answer": "Safety pin",
+        "solution": {
+            "type": "text",
+            "content": "Safety pin. Walter Hunt also invented a sewing machine in 1833. Safety Lamp invented in 1815 by Sir Humphry Davy."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/10/2020 (Afternoon)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Who among the following founded the Bombay Stock Exchange?"
+        },
+        "options": [
+            {
+                "text": "Ashishkumar Chauhan"
+            },
+            {
+                "text": "Premchand Roychand"
+            },
+            {
+                "text": "Vikramjit Sen"
+            },
+            {
+                "text": "Roychand Deepchand"
+            }
+        ],
+        "answer": "Premchand Roychand",
+        "solution": {
+            "type": "text",
+            "content": "Premchand Roychand."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 05/03/2020 (Evening)"
+    }
+]

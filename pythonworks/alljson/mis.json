@@ -1,0 +1,2631 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "From which of the following cities does the National Remote Sensing Centre provide acquisition of data and its processing under satellite communication?"
+        },
+        "options": [
+            {
+                "text": "New Delhi"
+            },
+            {
+                "text": "Chennai"
+            },
+            {
+                "text": "Hyderabad"
+            },
+            {
+                "text": "Bengaluru"
+            }
+        ],
+        "answer": "Chennai",
+        "solution": {
+            "type": "text",
+            "content": "Hyderabad. National Remote Sensing Centre (NRSC) is one of the primary centers of Indian Space Research Organisation (ISRO), Department of Space (DOS). Five Regional Centres Jodhpur (Regional Centre-West), New Delhi (Regional Centre-North), New Salt Lake City in Kolkata (Regional Centre-East), Nagpur (Regional Centre-Central), and Bangalore (Regional Centre-South)."
+        },
+        "videoUrl": "",
+        "status": "SSC Stenographer 12/10/2023 (Evening)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "What is the name of the geostationary satellite launched by ISRO in 1983 that provides high power TV broadcasting and telecommunications national coverage transponders?"
+        },
+        "options": [
+            {
+                "text": "RISAT-1"
+            },
+            {
+                "text": "Insat-1B"
+            },
+            {
+                "text": "Bhaskara-l"
+            },
+            {
+                "text": "GSAT-7"
+            }
+        ],
+        "answer": "Bhaskara-l",
+        "solution": {
+            "type": "text",
+            "content": "Insat-1B (Indian Satellite 1B) was launched on 30 August 1983, and continued to operate till 1990. Launch Site: Cape Canaveral, United States."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 04/10/2023 (Afternoon)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "Who among the following designed the India Gate?"
+        },
+        "options": [
+            {
+                "text": "Lord Wavell"
+            },
+            {
+                "text": "Edwin Lutyens"
+            },
+            {
+                "text": "Lord Dalhousie"
+            },
+            {
+                "text": "John Nash"
+            }
+        ],
+        "answer": "Lord Dalhousie",
+        "solution": {
+            "type": "text",
+            "content": "Edwin Lutyens. India Gate was constructed in 1931. The India Gate is a war memorial located astride the Kartavya path (formerly Raj path) on the eastern edge of the 'ceremonial axis' of New Delhi. 0.2033. The Red Fort is located in: SSC MTS 13/09/2023 (3rd Shift) (a) Lucknow (b) Delhi (c) Indore (d) Ahmedabad Sol.2033.(b) Delhi. Red Fort: Built by - Shah Jahan (Fifth Mughal Emperor). The fort was designated a UNESCO World Heritage site in 2007."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 06/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is named as Asia's largest slum?"
+        },
+        "options": [
+            {
+                "text": "Orangi town"
+            },
+            {
+                "text": "Dharavi"
+            },
+            {
+                "text": "Niza"
+            },
+            {
+                "text": "Khayelitsha"
+            }
+        ],
+        "answer": "Dharavi",
+        "solution": {
+            "type": "text",
+            "content": "Dharavi (Mumbai, Maharashtra). Other Slums In India Bhalswa Slum (Delhi), Nochikuppam Slum (Chennai), Rajendra Nagar Slum (Bangalore), Basanti Slum (Kolkata)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2023 (3rd shift)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is Tibeto-Burmese language?"
+        },
+        "options": [
+            {
+                "text": "Odia"
+            },
+            {
+                "text": "Tripuri"
+            },
+            {
+                "text": "Assamese"
+            },
+            {
+                "text": "Tulu"
+            }
+        ],
+        "answer": "Tripuri",
+        "solution": {
+            "type": "text",
+            "content": "Tripuri (Kokborok) One of a the official languages of Tripura. Kokborok Day (Tripuri Language Day) 19th January."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 14/07/2023 (2nd shift)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Krishnadeva Raya composed a work on_ in Telugu known as the Amuktamalyada."
+        },
+        "options": [
+            {
+                "text": "statecraft"
+            },
+            {
+                "text": "dance"
+            },
+            {
+                "text": "medicine"
+            },
+            {
+                "text": "music"
+            }
+        ],
+        "answer": "statecraft",
+        "solution": {
+            "type": "text",
+            "content": "Statecraft. Krishnadevaraya : Ruler of the Tuluva dynasty of Vijayanagar empire (1509-29 AD)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 20/07/2023 (4th shift)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Who among the following Indian music directors, specially known as a leading drummer of India, was awarded the Padma Shri in 2019?"
+        },
+        "options": [
+            {
+                "text": "Sivamani"
+            },
+            {
+                "text": "Nucleya"
+            },
+            {
+                "text": "Bappi Lahiri"
+            },
+            {
+                "text": "Naushad"
+            }
+        ],
+        "answer": "Sivamani",
+        "solution": {
+            "type": "text",
+            "content": "Sivamani (an Indian percussionist). His stage name - Drums Sivamani."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 26/07/2023 (4th shift)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "The Lomas Rishi cave which is a man made cave is located in which state of India?"
+        },
+        "options": [
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Bihar"
+            }
+        ],
+        "answer": "Bihar",
+        "solution": {
+            "type": "text",
+            "content": "Bihar. Badami cave temples in Karnataka, India, comprise four caves out of which three are Brahmanical and one is Jain."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 27/07/2023 (1st shift)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "The Rajgir Zoo is located in which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Bihar"
+            }
+        ],
+        "answer": "Bihar",
+        "solution": {
+            "type": "text",
+            "content": "Bihar. Zoos in India: Sri Chamarajendra Zoological Gardens (Karnataka), Nandankanan Zoological Park (Odisha), Rajiv Gandhi Zoological Park (Maharashtra)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 27/07/2023 (2nd shift)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "In which year did Narendra Modi proposed to celebrate a day for yoga as 'International Day of Yoga' while speaking at the United Nations General Assembly?"
+        },
+        "options": [
+            {
+                "text": "2013"
+            },
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2016"
+            },
+            {
+                "text": "2014"
+            }
+        ],
+        "answer": "2014",
+        "solution": {
+            "type": "text",
+            "content": "2014. The United Nations proclaimed 21st June as International day of yoga (IDY). The first Yoga Day celebrations (2015). Theme: 'Yoga for Harmony and Peace. The 9th IDY, 2023 Theme: \"Yoga for Vasudhaiva Kutumbakam,\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 27/07/2023 (3rd shift)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "In which of the following years did the Indian team win the ODI cricket world cup?"
+        },
+        "options": [
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2007"
+            },
+            {
+                "text": "2011"
+            },
+            {
+                "text": "2019"
+            }
+        ],
+        "answer": "2011",
+        "solution": {
+            "type": "text",
+            "content": "2011."
+        },
+        "videoUrl": "",
+        "status": "Higher Secondary 27/06/2023 (Shift - 3)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "What was the style of architecture used in Laxmi Vilas Palace of Vadodara, Gujarat?"
+        },
+        "options": [
+            {
+                "text": "Indo-lslamic"
+            },
+            {
+                "text": "Indo-Saracenic"
+            },
+            {
+                "text": "Hindu Temple"
+            },
+            {
+                "text": "Mughal"
+            }
+        ],
+        "answer": "Hindu Temple",
+        "solution": {
+            "type": "text",
+            "content": "Indo-Saracenic. Laxmi Vilas Palace of Vadodara was built by Maharaja Sayajirao Gaekwad III in 1890."
+        },
+        "videoUrl": "",
+        "status": "Matric Level 27/06/2023 (Shift-2)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Rani Ki Vav (the Queen's stepwell) is situated on the banks of which river?"
+        },
+        "options": [
+            {
+                "text": "Ganga"
+            },
+            {
+                "text": "Krishna"
+            },
+            {
+                "text": "Yamuna"
+            },
+            {
+                "text": "Saraswati"
+            }
+        ],
+        "answer": "Saraswati",
+        "solution": {
+            "type": "text",
+            "content": "Saraswati. Rani-ki-Vav (UNESCO World Heritage Site) Its construction is attributed to Udayamati (the spouse of the 11th-century Chaulukya king Bhima 1) in Patan (Gujarat). It is on the new 100 rupee note (coloured Lavender)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/05/2023 (Morning)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "Bhopal gas disaster occurred in Which of the following factories?"
+        },
+        "options": [
+            {
+                "text": "Meghnagar Pharmachem Pvt Ltd"
+            },
+            {
+                "text": "Standard Surfactants Limited"
+            },
+            {
+                "text": "Union Carbide Pesticide plant"
+            },
+            {
+                "text": "Bhopal Incinerator Ltd."
+            }
+        ],
+        "answer": "Union Carbide Pesticide plant",
+        "solution": {
+            "type": "text",
+            "content": "Union Carbide Pesticide Plant. Bhopal Gas Disaster occurred on Dec 3, 1984. Methyl Isocyanate (C₂H₂NO) gas leaked from the plant of Union Carbide. Warren Anderson was the CEO of the Union Carbide Corporation at the time of Bhopal Gas tragedy."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/05/2023 (Evening)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "The famous Sheesh Mahal in Punjab was built by which of the following rulers?"
+        },
+        "options": [
+            {
+                "text": "Maharaja Sawai Pratap Singh"
+            },
+            {
+                "text": "Rana Kumbha"
+            },
+            {
+                "text": "Maharaja Narinder Singh"
+            },
+            {
+                "text": "Raja Man Singh - 1"
+            }
+        ],
+        "answer": "Maharaja Narinder Singh",
+        "solution": {
+            "type": "text",
+            "content": "Maharaja Narinder Singh. Sheesh Mahal - It is located in Patiala (Punjab)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/06/2023 (Morning)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "The Chhatrapati Shivaji Maharaj Terminus, was formerly known as"
+        },
+        "options": [
+            {
+                "text": "Elizabeth Terminus Station"
+            },
+            {
+                "text": "James Terminus Station"
+            },
+            {
+                "text": "George Terminus Station"
+            },
+            {
+                "text": "Victoria Terminus Station"
+            }
+        ],
+        "answer": "Victoria Terminus Station",
+        "solution": {
+            "type": "text",
+            "content": "Victoria Terminus Station. The Chhatrapati Shivaji Terminus (Mumbai), is an example of Indo-Gothic Style of architecture. Architect 'F. W. Stevens'. It was recognised as a UNESCO World Heritage Site in 2004 and is the headquarters of Indian Central Railway."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 15/05/2023 (Evening)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "How many UNESCO Natural World Heritage sites are there in India?"
+        },
+        "options": [
+            {
+                "text": "Seven"
+            },
+            {
+                "text": "Four"
+            },
+            {
+                "text": "Six"
+            },
+            {
+                "text": "Five"
+            }
+        ],
+        "answer": "Seven",
+        "solution": {
+            "type": "text",
+            "content": "Seven. UNESCO (United Nations Educational, Scientific and Cultural Organization) World Heritage Convention which was established in 1972."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 18/05/2023 (Morning)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "Lomas Rishi cave is situated in which of the following Hills?"
+        },
+        "options": [
+            {
+                "text": "Vindhyas Hills"
+            },
+            {
+                "text": "Aravali Hills"
+            },
+            {
+                "text": "Barabar Hills"
+            },
+            {
+                "text": "Satpura Hills"
+            }
+        ],
+        "answer": "Aravali Hills",
+        "solution": {
+            "type": "text",
+            "content": "Barabar Hills (Bihar). It was constructed by emperor Ashoka for the use of Ajivaka. Buddhist, Hindu and Jain sculptures are also found there. It includes four caves - Lomas Rishi Caves, Sudama caves, Vishwakarma Caves, and Karan Chaupar caves. The Barabar Hill Caves are the oldest surviving rock-cut caves in India."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/06/2023 (Morning)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Rabindranath Tagore started Shantiniketan institute in"
+        },
+        "options": [
+            {
+                "text": "1905"
+            },
+            {
+                "text": "1901"
+            },
+            {
+                "text": "1903"
+            },
+            {
+                "text": "1899"
+            }
+        ],
+        "answer": "1901",
+        "solution": {
+            "type": "text",
+            "content": "1901. Santiniketan literally means \"abode of peace\" in Bengali."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/06/2023 (Morning)"
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT a family in classification of Modern Indian Languages?"
+        },
+        "options": [
+            {
+                "text": "Indo - European"
+            },
+            {
+                "text": "Sino - Tibetan"
+            },
+            {
+                "text": "Indo - African"
+            },
+            {
+                "text": "Dravidian"
+            }
+        ],
+        "answer": "Indo - African",
+        "solution": {
+            "type": "text",
+            "content": "Indo-african. People of India speak a large number of languages which are broadly divided into the following four families: Indo-European Family (Arya), Dravidian Family (Dravida), Austric Family (Nishada), and Sino Tibetan Family (Kirata)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 19/06/2023 (Evening)"
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "The amount of water recommended by the United Nations for drinking, washing, cooking and maintaining proper hygiene is a minimum of litres per person per day."
+        },
+        "options": [
+            {
+                "text": "50"
+            },
+            {
+                "text": "60"
+            },
+            {
+                "text": "40"
+            },
+            {
+                "text": "70"
+            }
+        ],
+        "answer": "50",
+        "solution": {
+            "type": "text",
+            "content": "50 litres. This amount is about two and a half buckets of water per person per day."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 19/06/2023 (Evening)"
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "is an ancient martial art that originated in peninsular India as a part of military training for warriors."
+        },
+        "options": [
+            {
+                "text": "Gatka"
+            },
+            {
+                "text": "Muay Thai"
+            },
+            {
+                "text": "Kalaripayattu"
+            },
+            {
+                "text": "Karate"
+            }
+        ],
+        "answer": "Kalaripayattu",
+        "solution": {
+            "type": "text",
+            "content": "Kalaripayattu is a martial art based on the ancient knowledge of the human body. It originated in Kerala during 3nd century BC to the 2nd century AD."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "According to WHO, if a person's BMI is below 18.5 he/she is classified as"
+        },
+        "options": [
+            {
+                "text": "Healthy"
+            },
+            {
+                "text": "Blind"
+            },
+            {
+                "text": "Underweight"
+            },
+            {
+                "text": "Mentally unfit"
+            }
+        ],
+        "answer": "Underweight",
+        "solution": {
+            "type": "text",
+            "content": "Underweight. BMI (Body mass Index)- It is an individual weight in kilograms (or pounds) divided by the square of height in meters (or feet). According to WHO, for adults over 20 years old, BMI falls into- Underweight (less than 18.5), Normal (18.5 24.9), Overweight (25 29.9), Obesity (30 34.9), Severely obese(35 - 39.9) Morbid obesity (more than 40)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": "Who is the first Indian President to be born in Independent India?"
+        },
+        "options": [
+            {
+                "text": "Ram Nath Kovind"
+            },
+            {
+                "text": "Droupadi Murmu"
+            },
+            {
+                "text": "Pratibha Patil"
+            },
+            {
+                "text": "Pranab Mukherjee"
+            }
+        ],
+        "answer": "Droupadi Murmu",
+        "solution": {
+            "type": "text",
+            "content": "Droupadi Murmu. She was born in 1958 in Odisha. She took oath as the 15th President of India on July 25, 2022. She has become the first tribal (Santali) and the second woman President. She became the first woman Governor of Jharkhand."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": "Who hosted the first meeting of India-Central Asia Summit?"
+        },
+        "options": [
+            {
+                "text": "India"
+            },
+            {
+                "text": "Kyrgyzstan"
+            },
+            {
+                "text": "Kazakhstan"
+            },
+            {
+                "text": "Tajikistan"
+            }
+        ],
+        "answer": "India",
+        "solution": {
+            "type": "text",
+            "content": "India. Prime Minister Shri Narendra Modi hosted the first meeting of the India-Central Asia Summit on 27 January 2022."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/03/2023 (1st Shift)"
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": "India's short-range Ballistic Missile, Prithvi II was successfully test fired from"
+        },
+        "options": [
+            {
+                "text": "Rutland Island, Andaman"
+            },
+            {
+                "text": "Sriharikota, Andhra Pradesh"
+            },
+            {
+                "text": "Machilipatnam, Andhra Pradesh"
+            },
+            {
+                "text": "Chandipur, Odisha"
+            }
+        ],
+        "answer": "Chandipur, Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Chandipur, Odisha. Submarine Launched Ballistic Missiles- Ashwin, Sagarika, K-4 and K-5. Surface -to-surface Missiles Prithvi I, Prithvi II, Agni (I- V), Dhanush, Prahar and Shaurya (Medium-Range Ballistic Missile)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/03/2023 (1st Shift)"
+    },
+    {
+        "id": 27,
+        "question": {
+            "type": "text",
+            "content": "The length of the badminton court for singles is"
+        },
+        "options": [
+            {
+                "text": "13.44 m"
+            },
+            {
+                "text": "14 m"
+            },
+            {
+                "text": "13.55 m"
+            },
+            {
+                "text": "13.40 m"
+            }
+        ],
+        "answer": "13.40 m",
+        "solution": {
+            "type": "text",
+            "content": "13.40 m (44ft). The width for singles court is 5.18m (17 feet), while for the doubles court, the width is 6.1m (20 feet).The diagonal length of the full court is 14.723 m."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 14/07/2023 (1st shift)"
+    },
+    {
+        "id": 28,
+        "question": {
+            "type": "text",
+            "content": "The world's highest motorable road passes through. India, as of 2022."
+        },
+        "options": [
+            {
+                "text": "Khunjerab"
+            },
+            {
+                "text": "Dihang"
+            },
+            {
+                "text": "Rohtang"
+            },
+            {
+                "text": "Umling La pass in"
+            }
+        ],
+        "answer": "Umling La pass in",
+        "solution": {
+            "type": "text",
+            "content": "Umling La. It connects Chisumle and Demchok village. The Border Roads Organization (BRO) has constructed the road at an altitude of 19,300 feet. Highest motorable roads in India - Dungri La (Uttarakhand,18,406 ft), Marsimik La (Jammu & Kashmir, 18,314 ft), Donkia La (Sikkim,18,045 ft), Photi La, (Jammu & Kashmir - 18,124 ft), Khardung La (Jammu & Kashmir - 17,583 ft) etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/03/2023 (4th Shift)"
+    },
+    {
+        "id": 29,
+        "question": {
+            "type": "text",
+            "content": "Which among the following is India's first indigenously developed COVID-19 vaccine?"
+        },
+        "options": [
+            {
+                "text": "Sputnik V"
+            },
+            {
+                "text": "COVAXIN"
+            },
+            {
+                "text": "Covishield"
+            },
+            {
+                "text": "Novavax"
+            }
+        ],
+        "answer": "Covishield",
+        "solution": {
+            "type": "text",
+            "content": "COVAXIN - India's first indigenous COVID-19 vaccine by Bharat Biotech is developed in collaboration with the Indian Council of Medical Research (ICMR) National Institute of Virology (NIV). Covishield manufactured by Serum Institute of India Private Limited (Pune). Sputnik V developed by Russia."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (1st Shift)"
+    },
+    {
+        "id": 30,
+        "question": {
+            "type": "text",
+            "content": "ISRO successfully launched the communication satellite GSAT-24 from"
+        },
+        "options": [
+            {
+                "text": "Moscow in Russia"
+            },
+            {
+                "text": "Chicago in US"
+            },
+            {
+                "text": "Berlin in Germany"
+            },
+            {
+                "text": "Kourou in French Guiana"
+            }
+        ],
+        "answer": "Kourou in French Guiana",
+        "solution": {
+            "type": "text",
+            "content": "Kourou in French Guiana. GSAT-24 is a 24-Ku band communication satellite (23 June 2022) meant for meeting the DirectTo-Home (DTH) communication needs of the country, built by ISRO (15 August 1969) for NewSpace India Limited (NSIL)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 31,
+        "question": {
+            "type": "text",
+            "content": "How many non-major (minor) ports are there in India as on 31st October 2022?"
+        },
+        "options": [
+            {
+                "text": "154"
+            },
+            {
+                "text": "168"
+            },
+            {
+                "text": "200"
+            },
+            {
+                "text": "246"
+            }
+        ],
+        "answer": "200",
+        "solution": {
+            "type": "text",
+            "content": "200. India has 13 major ports and more than 200 notified minor and intermediate ports. Kolkata Port is the only riverine port in India. Mumbai Port is the biggest port in India in terms of size and shipping traffic."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 32,
+        "question": {
+            "type": "text",
+            "content": "Market Based Economic Dispatch (MBED) Mechanism is related with which of the following ministry?"
+        },
+        "options": [
+            {
+                "text": "Ministry of Power"
+            },
+            {
+                "text": "Ministry of Corporate Affairs"
+            },
+            {
+                "text": "Ministry of Finance"
+            },
+            {
+                "text": "Ministry of Micro, Small and Medium Enterprises"
+            }
+        ],
+        "answer": "Ministry of Power",
+        "solution": {
+            "type": "text",
+            "content": "The Ministry of Power. The Electricity Act, 2003 An Act to consolidate the laws relating to generation, transmission, distribution, trading and use of electricity."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 33,
+        "question": {
+            "type": "text",
+            "content": "Intermediate Range Ballistic Missile Agni-4 has been successfully test fired in"
+        },
+        "options": [
+            {
+                "text": "Pokhran Firing Range, Rajasthan"
+            },
+            {
+                "text": "Neil Island, Andaman and Nicobar Islands"
+            },
+            {
+                "text": "Sriharikota, Andhra Pradesh"
+            },
+            {
+                "text": "APJ Abdul Kalam Island, Odisha"
+            }
+        ],
+        "answer": "APJ Abdul Kalam Island, Odisha",
+        "solution": {
+            "type": "text",
+            "content": "APJ Abdul Kalam Island, Odisha. The Agni-IV (range 4000 Km) is a two-stage surface-to-surface missile. It has been developed by DRDO (Defence Research and Development Organisation)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 34,
+        "question": {
+            "type": "text",
+            "content": "Which among the following is a surface-to-surface missile of India?"
+        },
+        "options": [
+            {
+                "text": "Javelin"
+            },
+            {
+                "text": "AIM-120 AMRAAM"
+            },
+            {
+                "text": "Spike"
+            },
+            {
+                "text": "Agni V"
+            }
+        ],
+        "answer": "Agni V",
+        "solution": {
+            "type": "text",
+            "content": "Agni V {(range around 5000 km 5500 km), developed by Defence Research and Development Organisation} is a ballistic missile developed under the Integrated Guided Missile Development Programme (IGMDP). On October 27, 2021, (test fired on) the country celebrated 75th infantry day. The missiles developed under IGMDP (established in 1983) are Prithvi, Agni, Trishul, Akash, Nag."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 35,
+        "question": {
+            "type": "text",
+            "content": "The S-400 Triumf (Russian for Triumph) Missile System is _ missile defence system designed in Russia."
+        },
+        "options": [
+            {
+                "text": "air - to - underwater"
+            },
+            {
+                "text": "surface - to air"
+            },
+            {
+                "text": "surface - to - surface"
+            },
+            {
+                "text": "air - to- air"
+            }
+        ],
+        "answer": "surface - to air",
+        "solution": {
+            "type": "text",
+            "content": "surfacetoair. This System is an anti-aircraft missile defence system developed by Russia's Almaz Central Design Bureau."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/03/2023 (1st Shift)"
+    },
+    {
+        "id": 36,
+        "question": {
+            "type": "text",
+            "content": "\"Statue of Equality\" has been inaugurated in Hyderabad in the memory of"
+        },
+        "options": [
+            {
+                "text": "Saint Ramanujacharya"
+            },
+            {
+                "text": "Swami Vivekananda"
+            },
+            {
+                "text": "Swami Dayananda"
+            },
+            {
+                "text": "Shri Ravi Das"
+            }
+        ],
+        "answer": "Saint Ramanujacharya",
+        "solution": {
+            "type": "text",
+            "content": "Saint Ramanujacharya. Statue of Equality: Height 216 feet. Material - Panchaloha. Statue of Unity Tallest statue in world 182 meters Located in Kevadia, Narmada District, Gujarat. Swami Vivekanand Statue - 33 ft tall - Ranchi Jharkhand."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 37,
+        "question": {
+            "type": "text",
+            "content": "Chandigarh International Airport has been renamed as"
+        },
+        "options": [
+            {
+                "text": "Manmohan Singh International Airport"
+            },
+            {
+                "text": "Shaheed Bhagat Singh International Airport"
+            },
+            {
+                "text": "Guru Gobind Singh International Airport"
+            },
+            {
+                "text": "Rajguru International Airport"
+            }
+        ],
+        "answer": "Shaheed Bhagat Singh International Airport",
+        "solution": {
+            "type": "text",
+            "content": "Shaheed Bhagat Singh International Airport (Chandigarh, Punjab). Guru Gobind Singh Airport (Maharashtra). Amritsar International Airport renamed as Sri Guru Ram Das Jee International Airport (Amritsar, Punjab). Netaji Subhash Chandra Bose International Airport (Kolkata). Bharat Ratna Babasaheb Dr. B.R. Ambedkar International Airport (Nagpur, Maharashtra)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/03/2023 (4th Shift)"
+    },
+    {
+        "id": 38,
+        "question": {
+            "type": "text",
+            "content": "When was the None of the Above (NOTA) ballot option first implemented in India? SSC CGL Tier II 07/03/2023"
+        },
+        "options": [
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2004"
+            },
+            {
+                "text": "2013"
+            },
+            {
+                "text": "2010"
+            }
+        ],
+        "answer": "2013",
+        "solution": {
+            "type": "text",
+            "content": "2013. \"None of the above\" (NOTA): It does not hold any electoral value, it allows the voter to indicate disapproval of all of the candidates, it does not provide for a 'right to reject'."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 39,
+        "question": {
+            "type": "text",
+            "content": "When was 'Vayudoot' airline setup in India?"
+        },
+        "options": [
+            {
+                "text": "1981"
+            },
+            {
+                "text": "1991"
+            },
+            {
+                "text": "1971"
+            },
+            {
+                "text": "1969"
+            }
+        ],
+        "answer": "1981",
+        "solution": {
+            "type": "text",
+            "content": "1981. The airline was headquartered at New Delhi's Safdarjung Airport. It ceased operations on 1 April 1997. Air India (J.R.D Tata, 1932,). Kingfisher airlines (Vijay Mallya, 2003, Ceased operations: 20 October 2012)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 01/12/2022 (1st Shift)"
+    },
+    {
+        "id": 40,
+        "question": {
+            "type": "text",
+            "content": "The railway system connecting St Petersburg to Vladivostok is"
+        },
+        "options": [
+            {
+                "text": "The Altai Railway"
+            },
+            {
+                "text": "The Amur Railways"
+            },
+            {
+                "text": "Trans - Baikal Railway"
+            },
+            {
+                "text": "Trans - Siberian Railways"
+            }
+        ],
+        "answer": "Trans - Siberian Railways",
+        "solution": {
+            "type": "text",
+            "content": "The Trans-Siberian Railway is the longest railway system connecting St. Petersburg in Western Russia to Vladivostok on the Pacific coast. India's longest distance train (Vivek Express Dibrugarh to Kanyakumari-4189 km)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 01/12/2022 (3rd Shift)"
+    },
+    {
+        "id": 41,
+        "question": {
+            "type": "text",
+            "content": "The word Manuscripts derived from which of the following languages?"
+        },
+        "options": [
+            {
+                "text": "Latin"
+            },
+            {
+                "text": "Prakrit"
+            },
+            {
+                "text": "Sanskrit"
+            },
+            {
+                "text": "Greek"
+            }
+        ],
+        "answer": "Latin",
+        "solution": {
+            "type": "text",
+            "content": "Latin. The manuscript word evolved from the Latin Manu Scriptus, meaning \"written by hand.\" Manu is \"hand\" and Scriptus is \"to write.\""
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 02/12/2022 (1st Shift)"
+    },
+    {
+        "id": 42,
+        "question": {
+            "type": "text",
+            "content": "At present, the Grand Trunk Road extends from in India."
+        },
+        "options": [
+            {
+                "text": "Kashmir to Kanyakumari"
+            },
+            {
+                "text": "Amritsar to Kolkata"
+            },
+            {
+                "text": "Chennai to Kolkata"
+            },
+            {
+                "text": "Agra to Kolkata"
+            }
+        ],
+        "answer": "Amritsar to Kolkata",
+        "solution": {
+            "type": "text",
+            "content": "Amritsar to Kolkata. Grand Trunk Road was built by Sher Shah Suri in the 16th century. National Highway 1 is known as Sher Shah Suri Marg."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 02/12/2022 (2nd Shift)"
+    },
+    {
+        "id": 43,
+        "question": {
+            "type": "text",
+            "content": "Which city is called the 'Manchester of India'?"
+        },
+        "options": [
+            {
+                "text": "Ludhiana"
+            },
+            {
+                "text": "Hyderabad"
+            },
+            {
+                "text": "Visakhapatnam"
+            },
+            {
+                "text": "Ahmedabad"
+            }
+        ],
+        "answer": "Ahmedabad",
+        "solution": {
+            "type": "text",
+            "content": "Ahmedabad - Boston of East'. Visakhapatnam - City of Destiny,. Jaipur - Pink City. Surat - Silk City of India, Diamond City of India. Akola - Cotton City of India. Coorg (Karnataka) Scotland of India."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 05/12/2022 (1st Shift)"
+    },
+    {
+        "id": 44,
+        "question": {
+            "type": "text",
+            "content": "The 'flag-raising' ceremony by the Prime Minister of India on Independence Day is held at which of the following places in Delhi?"
+        },
+        "options": [
+            {
+                "text": "Old Fort"
+            },
+            {
+                "text": "Parliament House"
+            },
+            {
+                "text": "Rashtrapati Bhavan"
+            },
+            {
+                "text": "Red Fort"
+            }
+        ],
+        "answer": "Red Fort",
+        "solution": {
+            "type": "text",
+            "content": "Red Fort. Independence Day is to mark India's rise as an independent country and the end of British rule. Republic Day President of India unfurls the flag on Rajpath (kartavya path)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 05/12/2022 (1st Shift)"
+    },
+    {
+        "id": 45,
+        "question": {
+            "type": "text",
+            "content": "is called Developing place of settlement"
+        },
+        "options": [
+            {
+                "text": "Home"
+            },
+            {
+                "text": "Site"
+            },
+            {
+                "text": "Plain"
+            },
+            {
+                "text": "Shelter"
+            }
+        ],
+        "answer": "Site",
+        "solution": {
+            "type": "text",
+            "content": "site. Types of settlements: Compact or Nucleated settlements (develop along river valleys and in fertile plains) and Dispersed Settlements (a place of worship or a market, binds the settlement together). Rural settlement patterns (linear pattern, cross shaped pattern, star like pattern, T-shape pattern, circular pattern, double pattern). Urban settlements (town, city, conurbation, million city)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 05/12/2022 (4th Shift)"
+    },
+    {
+        "id": 46,
+        "question": {
+            "type": "text",
+            "content": "What is the duration of the lunch interval in a cricket test match?"
+        },
+        "options": [
+            {
+                "text": "25 minutes"
+            },
+            {
+                "text": "35 minutes"
+            },
+            {
+                "text": "30 minutes"
+            },
+            {
+                "text": "40 minutes"
+            }
+        ],
+        "answer": "40 minutes",
+        "solution": {
+            "type": "text",
+            "content": "40 minutes. Tea break in test cricket lasts for 20 minutes. The first Test match was between Australia and England in Melbourne in 1877. The first test match in India was played between India and England in Bombay Gymkhana ground (Mumbai) in 1933. C.K. Naidu - then the Captain of India."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 12/12/2022 (3rd Shift)"
+    },
+    {
+        "id": 47,
+        "question": {
+            "type": "text",
+            "content": "The National Archives of India came up in the"
+        },
+        "options": [
+            {
+                "text": "1930s"
+            },
+            {
+                "text": "1910s"
+            },
+            {
+                "text": "1920s"
+            },
+            {
+                "text": "1900s"
+            }
+        ],
+        "answer": "1920s",
+        "solution": {
+            "type": "text",
+            "content": "1920s. The Imperial Record Department (Now- The National Archives of India) was set up on 11 March 1891 in Calcutta (Kolkata). In 1926 the Department was shifted into its new building in New Delhi. It is the biggest archival repository in South Asia."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/12/2022 (3rd Shift)"
+    },
+    {
+        "id": 48,
+        "question": {
+            "type": "text",
+            "content": "Which series of satellite carrying Very High-Resolution Radiometer (VHRR) provides valuable observations of temperature, cloud cover, wind and related weather phenomena?"
+        },
+        "options": [
+            {
+                "text": "IRS series"
+            },
+            {
+                "text": "GSAT series"
+            },
+            {
+                "text": "INSAT series"
+            },
+            {
+                "text": "SROSS series"
+            }
+        ],
+        "answer": "INSAT series",
+        "solution": {
+            "type": "text",
+            "content": "INSAT Series. The Indian National Satellite System is a series of geostationary satellites launched by ISRO."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 10/11/2022 (Morning)"
+    },
+    {
+        "id": 49,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements is/are true about the communication development in India? A. TV services began in India before Independence. B. TV was delinked from All India Radio. C. Doordarshan got a separate identity in 1976."
+        },
+        "options": [
+            {
+                "text": "Only C"
+            },
+            {
+                "text": "Both A and B"
+            },
+            {
+                "text": "Both A and C"
+            },
+            {
+                "text": "Both B and C"
+            }
+        ],
+        "answer": "Both B and C",
+        "solution": {
+            "type": "text",
+            "content": "Both B and C. Television started in India on September 15, 1959. Doordarshan (1959), Headquarters-New Delhi. All India Radio (AIR), officially known since 1957 as Akashvani is the national public radio broadcaster of India and is a division of Prasar Bharati. It was established in 1936."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 10/11/2022 (Morning)"
+    },
+    {
+        "id": 50,
+        "question": {
+            "type": "text",
+            "content": "Air transport was launched in India in the year 1911 between which two places?"
+        },
+        "options": [
+            {
+                "text": "Allahabad and Naini"
+            },
+            {
+                "text": "Allahabad and Jaipur"
+            },
+            {
+                "text": "Allahabad and Kanpur"
+            },
+            {
+                "text": "Allahabad and Delhi"
+            }
+        ],
+        "answer": "Allahabad and Naini",
+        "solution": {
+            "type": "text",
+            "content": "Allahabad and Naini (short distance of 10km). Indian National Airways (1933, between Karachi and Lahore). Airports Authority of India {Founded (1 April 1995), Headquarters (New Delhi), Longest air route in India {Srinagar (J&K) to Port Blair (Andaman and Nicobar)}."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 11/11/2022 (Afternoon)"
+    },
+    {
+        "id": 51,
+        "question": {
+            "type": "text",
+            "content": "Who among the following is the architect of the World Heritage site, Chhatrapati Shivaji Terminus in Mumbai?"
+        },
+        "options": [
+            {
+                "text": "Vincent Esch"
+            },
+            {
+                "text": "FW Stevens"
+            },
+            {
+                "text": "Samuel Swinton Jacob"
+            },
+            {
+                "text": "George Wittet"
+            }
+        ],
+        "answer": "FW Stevens",
+        "solution": {
+            "type": "text",
+            "content": "FW Stevens (Frederick William Stevens). Chhatrapati Shivaji Terminus (Headquarters of Central Railway), Former name Victoria Terminus. George Wittet - The Gateway of India (Mumbai). Vincent Esch and William Emerson - Victoria memorial hall (Kolkata)."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 01/08/2022 (Shift-4)"
+    },
+    {
+        "id": 52,
+        "question": {
+            "type": "text",
+            "content": "On 26 January 1950, the first ever Republic Day parade was performed at"
+        },
+        "options": [
+            {
+                "text": "Rajpath"
+            },
+            {
+                "text": "Irwin Amphitheatre"
+            },
+            {
+                "text": "Kings Avenue"
+            },
+            {
+                "text": "Ramlila Grounds"
+            }
+        ],
+        "answer": "Irwin Amphitheatre",
+        "solution": {
+            "type": "text",
+            "content": "Irwin Amphitheatre (President Sukarno of Indonesia was the Chief guest in 1950). The first Republic Day parade at the Rajpath was held in 1955, five years after India became a republic."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 01/08/2022 (Shift -4)"
+    },
+    {
+        "id": 53,
+        "question": {
+            "type": "text",
+            "content": "Which of the Sustainable Development Goals set by the United Nations aims to achieve universal health coverage that seeks equal access to health services for all men and women?"
+        },
+        "options": [
+            {
+                "text": "SDG 4"
+            },
+            {
+                "text": "SDG 3"
+            },
+            {
+                "text": "SDG 8"
+            },
+            {
+                "text": "SDG 11"
+            }
+        ],
+        "answer": "SDG 3",
+        "solution": {
+            "type": "text",
+            "content": "SDG 3 (Good Health and Well-being)."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 03/08/2022 (Shift -3)"
+    },
+    {
+        "id": 54,
+        "question": {
+            "type": "text",
+            "content": "Which of the following political parties led the Punjabi Suba movement in India?"
+        },
+        "options": [
+            {
+                "text": "Bharatiya Janata Party"
+            },
+            {
+                "text": "Ghadar Party"
+            },
+            {
+                "text": "Shiromani Akali Dal"
+            },
+            {
+                "text": "Indian National Congress"
+            }
+        ],
+        "answer": "Shiromani Akali Dal",
+        "solution": {
+            "type": "text",
+            "content": "Shiromani Akali Dal (Political Party) was leading the Punjabi Suba movement for a Punjabi-speaking state. Slogans were raised 'Punjabi Suba Amar Rahe' (in favour of demand) and 'Maha-Punjab' (Opposing the demand). With the passage of the Punjab Reorganization Act 1966, Haryana was separated from Punjab in 1966 to become the 17th state of India."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 07/07/2022 (Afternoon)"
+    },
+    {
+        "id": 55,
+        "question": {
+            "type": "text",
+            "content": "What was the former name of the Yamuna Expressway Project constructed in Uttar Pradesh, India?"
+        },
+        "options": [
+            {
+                "text": "Purvanchal Expressway"
+            },
+            {
+                "text": "Taj Expressway"
+            },
+            {
+                "text": "Noida-Agra Expressway"
+            },
+            {
+                "text": "Kennedy Expressway"
+            }
+        ],
+        "answer": "Taj Expressway",
+        "solution": {
+            "type": "text",
+            "content": "Taj Expressway. It is presently India's 3rd longest expressway since February 2017."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/07/2022 (Evening)"
+    },
+    {
+        "id": 56,
+        "question": {
+            "type": "text",
+            "content": "Assam and most of the Peninsular states have _ population densities."
+        },
+        "options": [
+            {
+                "text": "high to very high"
+            },
+            {
+                "text": "very low"
+            },
+            {
+                "text": "moderate"
+            },
+            {
+                "text": "moderate to high"
+            }
+        ],
+        "answer": "moderate",
+        "solution": {
+            "type": "text",
+            "content": "Moderate. The Population density in Assam is 398 per sq km."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/07/2022 (Evening)"
+    },
+    {
+        "id": 57,
+        "question": {
+            "type": "text",
+            "content": "The study of human populations including their size, composition and distribution across space and the process through which populations change is called"
+        },
+        "options": [
+            {
+                "text": "ethnography"
+            },
+            {
+                "text": "demography"
+            },
+            {
+                "text": "topography"
+            },
+            {
+                "text": "stenography"
+            }
+        ],
+        "answer": "demography",
+        "solution": {
+            "type": "text",
+            "content": "Demography. Ethnography is a branch of anthropology and the systematic study of individual cultures. Topography is the study of the forms and features of land surfaces. Stenography is the art or process of writing in shorthand."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/07/2022 (Afternoon)"
+    },
+    {
+        "id": 58,
+        "question": {
+            "type": "text",
+            "content": "industrial agriculture. is also known as"
+        },
+        "options": [
+            {
+                "text": "Intensive farming"
+            },
+            {
+                "text": "Plantation agriculture"
+            },
+            {
+                "text": "Subsistence farming"
+            },
+            {
+                "text": "Shifting agriculture"
+            }
+        ],
+        "answer": "Intensive farming",
+        "solution": {
+            "type": "text",
+            "content": "Intensive farming. Q.2089 With respect to communication, 'Doordarshan' in India is a SSC MTS 15/07/2022 (Afternoon) (a) National web browser (b) National radio channel (c) National television channel (d) National newspaper Sol.2089.(c) National television channel . On 15 September 1959, the Government of India launched Doordarshan, India's public service broadcaster in Delhi, later in 1982 it became a national broadcaster."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/07/2022 (Afternoon)"
+    },
+    {
+        "id": 59,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the first six-lane expressway in India?"
+        },
+        "options": [
+            {
+                "text": "Grand Trunk Road"
+            },
+            {
+                "text": "Ahmedabad-Vadodara National Expressway"
+            },
+            {
+                "text": "Mumbai-Pune Expressway"
+            },
+            {
+                "text": "Yamuna Expressway"
+            }
+        ],
+        "answer": "Mumbai-Pune Expressway",
+        "solution": {
+            "type": "text",
+            "content": "Mumbai Pune Expressway. Purvanchal Expressway (Lucknow- Ghazipur).Yamuna Expressway (Noida to Agra)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 18/07/2022 (Evening)"
+    },
+    {
+        "id": 60,
+        "question": {
+            "type": "text",
+            "content": "The Barabati Fort is situated in the city of."
+        },
+        "options": [
+            {
+                "text": "Guwahati"
+            },
+            {
+                "text": "Madurai"
+            },
+            {
+                "text": "Cuttack"
+            },
+            {
+                "text": "Raipur"
+            }
+        ],
+        "answer": "Madurai",
+        "solution": {
+            "type": "text",
+            "content": "Cuttack. More Forts in Odisha: Chudanga Gada Fort (Bhubaneswar), Raibania Fort (Baleswar district), Sisupalgarh Fort (Bhubaneswar), Asurgarh Fort (Kalahandi district), Potagarh Fort. Gulbarga Fort - Karnataka."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 19/07/2022 (Evening)"
+    },
+    {
+        "id": 61,
+        "question": {
+            "type": "text",
+            "content": "The aviation sector was inaugurated in India in the year with the establishment of Tata Airlines."
+        },
+        "options": [
+            {
+                "text": "1925"
+            },
+            {
+                "text": "1932"
+            },
+            {
+                "text": "1929"
+            },
+            {
+                "text": "1935"
+            }
+        ],
+        "answer": "1932",
+        "solution": {
+            "type": "text",
+            "content": "1932. The airline, founded by J.R.D Tata, started as an airmail carrier within India after winning a contract with Imperial Airways. The airline flew its inaugural flight in October 1932, flying from Karachi to Mumbai."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/07/2022 (Morning)"
+    },
+    {
+        "id": 62,
+        "question": {
+            "type": "text",
+            "content": "Who among the following founded the 'Shillong Chamber Choir'?"
+        },
+        "options": [
+            {
+                "text": "Neil Nongkynrih"
+            },
+            {
+                "text": "Madhup Mudgal"
+            },
+            {
+                "text": "Debashish Chaudhuri"
+            },
+            {
+                "text": "António Fortunato de Figueiredo"
+            }
+        ],
+        "answer": "Neil Nongkynrih",
+        "solution": {
+            "type": "text",
+            "content": "Neil Nongkinrih. The Shillong Chamber Choir, established in 2001, is a multi-genre choir, which won the reality TV show India's Got Talent in 2010."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 07/06/2022 (Morning)"
+    },
+    {
+        "id": 63,
+        "question": {
+            "type": "text",
+            "content": "In which year was the 'Lotteries Regulation Act' passed?"
+        },
+        "options": [
+            {
+                "text": "1998"
+            },
+            {
+                "text": "1993"
+            },
+            {
+                "text": "1999"
+            },
+            {
+                "text": "1991"
+            }
+        ],
+        "answer": "1998",
+        "solution": {
+            "type": "text",
+            "content": "1998. The Lotteries Regulation Act, 1998 is an important piece of legislation that lays down thorough guidelines for the central government to conduct lotteries in India."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 11/04/2022(Morning)"
+    },
+    {
+        "id": 64,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is an indigenous dairy breed of cattle?"
+        },
+        "options": [
+            {
+                "text": "Red Sindhi"
+            },
+            {
+                "text": "Chippiparai"
+            },
+            {
+                "text": "Kanni"
+            },
+            {
+                "text": "Kombai"
+            }
+        ],
+        "answer": "Red Sindhi",
+        "solution": {
+            "type": "text",
+            "content": "Red Sindhi is a reputed heat tolerant milch cattle breed originating from Sindh province of Pakistan. The Chippiparai is a breed of sighthound from Tamil Nadu in southern India. The Kanni is a rare indigenous South Indian sighthound breed of dog. The Kombai or Polygar dog is a breed of sighthound native to Tamil Nadu."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 12/04/2022(Evening)"
+    },
+    {
+        "id": 65,
+        "question": {
+            "type": "text",
+            "content": "_ is one of the languages in which the denomination is printed on the reverse of a contemporary Indian currency note."
+        },
+        "options": [
+            {
+                "text": "Burmese"
+            },
+            {
+                "text": "Sinhala"
+            },
+            {
+                "text": "Nepali"
+            },
+            {
+                "text": "Dzongkha"
+            }
+        ],
+        "answer": "Nepali",
+        "solution": {
+            "type": "text",
+            "content": "Nepali. Sinhala, is an Indo-Aryan language primarily spoken by the Sinhalese people of Sri Lankа."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/04/2022(Afternoon)"
+    },
+    {
+        "id": 66,
+        "question": {
+            "type": "text",
+            "content": "The fine for extinguishing public lamps may extend to as per Section 141 of The Electricity Act, 2003."
+        },
+        "options": [
+            {
+                "text": "₹2,000"
+            },
+            {
+                "text": "₹3,000"
+            },
+            {
+                "text": "₹2,500"
+            },
+            {
+                "text": "₹5,000"
+            }
+        ],
+        "answer": "₹2,000",
+        "solution": {
+            "type": "text",
+            "content": "2,000. The Electricity Act, 2003 is an Act of the Parliament of India enacted to transform the power sector in India."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 18/04/2022 (Afternoon)"
+    },
+    {
+        "id": 67,
+        "question": {
+            "type": "text",
+            "content": "What is the maximum permissible limit of turbidity in potable water as per the Bureau of Indian Standards (BIS) (IS-10500: 2012)?"
+        },
+        "options": [
+            {
+                "text": "3 NTU"
+            },
+            {
+                "text": "5 NTU"
+            },
+            {
+                "text": "7 NTU"
+            },
+            {
+                "text": "1 NTU"
+            }
+        ],
+        "answer": "5 NTU",
+        "solution": {
+            "type": "text",
+            "content": "5 NTU. NTU stands for Nephelometric Turbidity unit, i.e. the unit used to measure the turbidity of a fluid or the presence of suspended particles in water. Turbidity is a measure of the cloudiness of water. On a standard silica scale, the permissible value of turbidity for drinking water is 10 (ppm)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 20/04/2022 (Evening)"
+    },
+    {
+        "id": 68,
+        "question": {
+            "type": "text",
+            "content": "Who among the following was a saint from Maharashtra?"
+        },
+        "options": [
+            {
+                "text": "Dadu Dayal"
+            },
+            {
+                "text": "Bhakhan"
+            },
+            {
+                "text": "Chokhamela"
+            },
+            {
+                "text": "Sundar Das"
+            }
+        ],
+        "answer": "Bhakhan",
+        "solution": {
+            "type": "text",
+            "content": "Chokhamela. Dadu Dayal was a poet-saint from Gujarat."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 02/11/2021 (Morning)"
+    },
+    {
+        "id": 69,
+        "question": {
+            "type": "text",
+            "content": "For which of the following productions is the Ramagundam power plant famous?"
+        },
+        "options": [
+            {
+                "text": "hydroelectricity"
+            },
+            {
+                "text": "thermal energy"
+            },
+            {
+                "text": "nuclear energy"
+            },
+            {
+                "text": "Bio-gas"
+            }
+        ],
+        "answer": "nuclear energy",
+        "solution": {
+            "type": "text",
+            "content": "Thermal energy. Ramagundam power plant - It is part of the National Thermal Power Corporation, a 2600 MW power station located in Ramagundam, Telangana."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 18/10/2021 (Evening)"
+    },
+    {
+        "id": 70,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the name of the spacecraft developed by SpaceX for NASA's manned mission to the International Space Station?  Crew Centaurus (c) Crew Shark (Afternoon) (b) Crew Dragon (d) Crew Aries"
+        },
+        "options": [
+            {
+                "text": "Crew Shark"
+            },
+            {
+                "text": "Crew Dragon"
+            },
+            {
+                "text": "Crew Aries"
+            }
+        ],
+        "answer": "Crew Dragon",
+        "solution": {
+            "type": "text",
+            "content": "Crew Dragon is the name of the spacecraft developed by SpaceX for NASA'S manned mission to the International Space Station. NASA headquarters is in Washington DC."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/10/2021 (a)"
+    },
+    {
+        "id": 71,
+        "question": {
+            "type": "text",
+            "content": "Which is the national heritage animal of India?"
+        },
+        "options": [
+            {
+                "text": "Lion"
+            },
+            {
+                "text": "Horse"
+            },
+            {
+                "text": "Tiger"
+            },
+            {
+                "text": "Elephant"
+            }
+        ],
+        "answer": "Elephant",
+        "solution": {
+            "type": "text",
+            "content": "Elephant (2010). Project Elephant (PE) was launched by the Government of India in the year 1992."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 22/10/2021 (Evening)"
+    },
+    {
+        "id": 72,
+        "question": {
+            "type": "text",
+            "content": "Unique Transaction Reference number is a _ character code used to uniquely identify a transaction in the RTGS system."
+        },
+        "options": [
+            {
+                "text": "17"
+            },
+            {
+                "text": "34"
+            },
+            {
+                "text": "22"
+            },
+            {
+                "text": "45"
+            }
+        ],
+        "answer": "22",
+        "solution": {
+            "type": "text",
+            "content": "22. Unique Transaction Reference number used to uniquely identify a transaction in the RTGS system. It is used to identify a specific bank transaction in India. All banks in India use UTR numbers for all types of money transfers."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/08/2021 (Morning)"
+    },
+    {
+        "id": 73,
+        "question": {
+            "type": "text",
+            "content": "Who among the following was the founder of Homeopathy?"
+        },
+        "options": [
+            {
+                "text": "Samuel Hahnemann"
+            },
+            {
+                "text": "FG Hopkins"
+            },
+            {
+                "text": "Robert Koch"
+            },
+            {
+                "text": "Selman Waksman"
+            }
+        ],
+        "answer": "Samuel Hahnemann",
+        "solution": {
+            "type": "text",
+            "content": "Samuel Hahnemann espoused the law of cure known as \"Similia Similibus Curentur\", or \"Like Cures Like\"."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/08/2021 (Afternoon)"
+    },
+    {
+        "id": 74,
+        "question": {
+            "type": "text",
+            "content": "SIMBEX is a military exercise conducted between the defense forces of which of the following nations?"
+        },
+        "options": [
+            {
+                "text": "India and Thailand"
+            },
+            {
+                "text": "India and Singapore"
+            },
+            {
+                "text": "India and the US"
+            },
+            {
+                "text": "India and Sri Lanka"
+            }
+        ],
+        "answer": "India and Singapore",
+        "solution": {
+            "type": "text",
+            "content": "India and Singapore. India and Thailand (Maitree, CORPAT), India and the US (Vajra Prahar, Yudh Abhyas), India and Sri Lanka (Mitra Shakti)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 17/08/2021 (Afternoon)"
+    },
+    {
+        "id": 75,
+        "question": {
+            "type": "text",
+            "content": "Who among the following is the founder of the field of psychoanalysis?"
+        },
+        "options": [
+            {
+                "text": "Carl Jung"
+            },
+            {
+                "text": "Kai T Erikson"
+            },
+            {
+                "text": "Jean Piaget"
+            },
+            {
+                "text": "Sigmund Freud"
+            }
+        ],
+        "answer": "Sigmund Freud",
+        "solution": {
+            "type": "text",
+            "content": "Sigmund Freud. Carl Jung- Founded analytical psychology. Kai T Erikson- specializing in the social consequences of catastrophic events. Jean Piaget Worked on child development."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 18/08/2021 (Morning)"
+    },
+    {
+        "id": 76,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the largest sea bird with the longest wingspan?"
+        },
+        "options": [
+            {
+                "text": "Frigatebird"
+            },
+            {
+                "text": "Wandering Albatross"
+            },
+            {
+                "text": "Booby"
+            },
+            {
+                "text": "Auk"
+            }
+        ],
+        "answer": "Booby",
+        "solution": {
+            "type": "text",
+            "content": "Wandering Albatross. The maximum dimensions in this species are a length of 1.44 m (4.7 ft) and а wingspan of 3.65 m (12.0 ft)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 20/08/2021 (Morning)"
+    },
+    {
+        "id": 77,
+        "question": {
+            "type": "text",
+            "content": "'Oolong' is a variant of"
+        },
+        "options": [
+            {
+                "text": "jute"
+            },
+            {
+                "text": "tea"
+            },
+            {
+                "text": "rubber"
+            },
+            {
+                "text": "coffee"
+            }
+        ],
+        "answer": "tea",
+        "solution": {
+            "type": "text",
+            "content": "Tea. Oolong It is a traditional semi-oxidized Chinese tea. It is made from the leaves of the Camellia Sinensis plant. The same plant is used to make Green tea and Black tea."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 20/08/2021 (Evening)"
+    },
+    {
+        "id": 78,
+        "question": {
+            "type": "text",
+            "content": "The rupee symbol, which was introduced in India in 2010, is an amalgamation of the Devanagari 'Ra' and the 'R' without the stem."
+        },
+        "options": [
+            {
+                "text": "Roman"
+            },
+            {
+                "text": "Cyrillic"
+            },
+            {
+                "text": "Ol Chiki"
+            },
+            {
+                "text": "Brahmi"
+            }
+        ],
+        "answer": "Roman",
+        "solution": {
+            "type": "text",
+            "content": "Roman. The Indian Rupee sign was adopted by the Government of India on 15th July 2010. Udaya Kumar won a national contest to design a symbol for the Indian rupee."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 23/08/2021 (Evening)"
+    },
+    {
+        "id": 79,
+        "question": {
+            "type": "text",
+            "content": "Hakki, Pikki and Siddi are _ from Karnataka."
+        },
+        "options": [
+            {
+                "text": "language"
+            },
+            {
+                "text": "Music type"
+            },
+            {
+                "text": "Theater form"
+            },
+            {
+                "text": "dance form"
+            }
+        ],
+        "answer": "language",
+        "solution": {
+            "type": "text",
+            "content": "Language. These languages are critically endangered in Karnataka. Hakki, Pikki and Siddi is a mix of Konkani, Kannada and Hindi. Kannada is the official language of Karnataka."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/04/2021 (Morning)"
+    },
+    {
+        "id": 80,
+        "question": {
+            "type": "text",
+            "content": "In which year was the Marine Products Export Development Authority (MPEDA) established in India?"
+        },
+        "options": [
+            {
+                "text": "1948"
+            },
+            {
+                "text": "1974"
+            },
+            {
+                "text": "1947"
+            },
+            {
+                "text": "1972"
+            }
+        ],
+        "answer": "1972",
+        "solution": {
+            "type": "text",
+            "content": "1972. The Marine Products Export Development Authority (MPEDA) is a statutory body that was established under the Ministry of Commerce and Industry for the promotion of the export of marine products from India."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 05/08/2021 (Evening)"
+    },
+    {
+        "id": 81,
+        "question": {
+            "type": "text",
+            "content": "Since 2000, Euro norms are followed in India under the name Stage Emission Standards for four wheeled vehicles."
+        },
+        "options": [
+            {
+                "text": "Bharat"
+            },
+            {
+                "text": "India"
+            },
+            {
+                "text": "Jagat"
+            },
+            {
+                "text": "Hindustan"
+            }
+        ],
+        "answer": "Bharat",
+        "solution": {
+            "type": "text",
+            "content": "Bharat. Vehicle emission norms were introduced in India in 1991 for petrol and in 1992 for diesel vehicles."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 06/08/2021 (Afternoon)"
+    },
+    {
+        "id": 82,
+        "question": {
+            "type": "text",
+            "content": "When was the Editors Guild of India founded?"
+        },
+        "options": [
+            {
+                "text": "1982"
+            },
+            {
+                "text": "1978"
+            },
+            {
+                "text": "1956"
+            },
+            {
+                "text": "1989"
+            }
+        ],
+        "answer": "1978",
+        "solution": {
+            "type": "text",
+            "content": "1978. It was established with the twin objectives of protecting press freedom and raising the standards of editorial leadership of newspapers and magazines."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Morning)"
+    },
+    {
+        "id": 83,
+        "question": {
+            "type": "text",
+            "content": "Where was the first factory of the Indian Iron and Steel Company (IISCO) set up?"
+        },
+        "options": [
+            {
+                "text": "Durgapur"
+            },
+            {
+                "text": "Jabalpur"
+            },
+            {
+                "text": "Jamshedpur"
+            },
+            {
+                "text": "Hirapur"
+            }
+        ],
+        "answer": "Hirapur",
+        "solution": {
+            "type": "text",
+            "content": "Hirapur. IISCO Steel Plant of Steel Authority of India Limited is an integrated steel plant located at Hirapur (later to be called Burnpur) in the Asansol subdivision of Paschim Bardhaman district, West Bengal."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Morning)"
+    },
+    {
+        "id": 84,
+        "question": {
+            "type": "text",
+            "content": "Where is the Rumi Darwaza located?"
+        },
+        "options": [
+            {
+                "text": "Lucknow"
+            },
+            {
+                "text": "Agra"
+            },
+            {
+                "text": "Gwalior"
+            },
+            {
+                "text": "Bhopal"
+            }
+        ],
+        "answer": "Lucknow",
+        "solution": {
+            "type": "text",
+            "content": "Lucknow. It is an imposing gateway that was built by Nawab Asaf-Ud-Daula in 1784."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Evening)"
+    },
+    {
+        "id": 85,
+        "question": {
+            "type": "text",
+            "content": "In the context of forest conservation, Navadanya Movement was founded in 1987 by"
+        },
+        "options": [
+            {
+                "text": "Medha Patkar"
+            },
+            {
+                "text": "Vandana Shiva"
+            },
+            {
+                "text": "Baba Amte"
+            },
+            {
+                "text": "Pandurang Hegde"
+            }
+        ],
+        "answer": "Vandana Shiva",
+        "solution": {
+            "type": "text",
+            "content": "Vandana Shiva. Navdanya is an Indian-based non-governmental organization that promotes biodiversity conservation, biodiversity, organic farming, the rights of farmers, and the process of seed saving."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 23/11/2020 (Evening)"
+    },
+    {
+        "id": 86,
+        "question": {
+            "type": "text",
+            "content": "Actor Kamal Haasan is the Founder President of the political party"
+        },
+        "options": [
+            {
+                "text": "Makkal Needhi Maiam"
+            },
+            {
+                "text": "Thayaka Marumalarchi Kazhagam"
+            },
+            {
+                "text": "Dhiravida Thelugar Munnetra Kalagam"
+            },
+            {
+                "text": "Marumalarchi Thamizhagam"
+            }
+        ],
+        "answer": "Makkal Needhi Maiam",
+        "solution": {
+            "type": "text",
+            "content": "Makkal Needhi Maiam Party (Tamilnadu state territory of Puducherry). and union"
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 25/11/2020 (Evening)"
+    },
+    {
+        "id": 87,
+        "question": {
+            "type": "text",
+            "content": "How many windows are there on the outside walls of Hawa Mahal of Jaipur?"
+        },
+        "options": [
+            {
+                "text": "965"
+            },
+            {
+                "text": "964"
+            },
+            {
+                "text": "953"
+            },
+            {
+                "text": "973"
+            }
+        ],
+        "answer": "953",
+        "solution": {
+            "type": "text",
+            "content": "953. Hawa Mahal of Jaipur was designed by Lal Chand Ustad."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2020 (Evening)"
+    },
+    {
+        "id": 88,
+        "question": {
+            "type": "text",
+            "content": "In which color are the railway lines and telephone lines shown in the topographic map?"
+        },
+        "options": [
+            {
+                "text": "Blue"
+            },
+            {
+                "text": "Yellow"
+            },
+            {
+                "text": "Black"
+            },
+            {
+                "text": "Red"
+            }
+        ],
+        "answer": "Black",
+        "solution": {
+            "type": "text",
+            "content": "Black Railroads, boundaries, telephone lines. Brown Topographic contours. Blue - Lakes, streams, irrigation ditches and other hydrographic features Red - Land grids and important roads."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 14/10/2020 (Evening)"
+    },
+    {
+        "id": 89,
+        "question": {
+            "type": "text",
+            "content": "Which of the following animals is used for transport in Tibet?"
+        },
+        "options": [
+            {
+                "text": "Bullock"
+            },
+            {
+                "text": "Llama"
+            },
+            {
+                "text": "Yak"
+            },
+            {
+                "text": "Camel"
+            }
+        ],
+        "answer": "Yak",
+        "solution": {
+            "type": "text",
+            "content": "Yak. It is commonly found in Tibet, Ladakh and Sikkim. It is used as a beast of burden and is also reared for its wool, milk and meat."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/10/2020 (Morning)"
+    },
+    {
+        "id": 90,
+        "question": {
+            "type": "text",
+            "content": "Which of the following was previously known as 'the Lady Willingdon Park."
+        },
+        "options": [
+            {
+                "text": "Buddha Jayanti Park"
+            },
+            {
+                "text": "Mughal Gardens"
+            },
+            {
+                "text": "Deer Park"
+            },
+            {
+                "text": "Lodhi Garden"
+            }
+        ],
+        "answer": "Lodhi Garden",
+        "solution": {
+            "type": "text",
+            "content": "Lodhi Garden. Lady Willingdon Park was inaugurated in April 1936."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 03/03/2020 (Afternoon)"
+    },
+    {
+        "id": 91,
+        "question": {
+            "type": "text",
+            "content": "Which ISO certification pertains to Environmental Management Systems?"
+        },
+        "options": [
+            {
+                "text": "9001"
+            },
+            {
+                "text": "22000"
+            },
+            {
+                "text": "14001"
+            },
+            {
+                "text": "27001"
+            }
+        ],
+        "answer": "14001",
+        "solution": {
+            "type": "text",
+            "content": "14001. ISO 22000 - It is an international standard for food safety established by the International Organization for Standardization."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 06/03/2020 (Afternoon)"
+    },
+    {
+        "id": 92,
+        "question": {
+            "type": "text",
+            "content": "Which of the following martial art forms is practiced in the state of Punjab and West Bengal?"
+        },
+        "options": [
+            {
+                "text": "Lathi"
+            },
+            {
+                "text": "Kalaripayattu"
+            },
+            {
+                "text": "Mardaani Khel"
+            },
+            {
+                "text": "Thang-ta"
+            }
+        ],
+        "answer": "Lathi",
+        "solution": {
+            "type": "text",
+            "content": "Lathi (stick). Mardaani Khel is from Maharashtra."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 07/03/2020 (Afternoon)"
+    },
+    {
+        "id": 93,
+        "question": {
+            "type": "text",
+            "content": "Which of the following animals does NOT find a place in the National Emblem of India?"
+        },
+        "options": [
+            {
+                "text": "Horse"
+            },
+            {
+                "text": "Camel"
+            },
+            {
+                "text": "Lion"
+            },
+            {
+                "text": "Bull"
+            }
+        ],
+        "answer": "Camel",
+        "solution": {
+            "type": "text",
+            "content": "Camel. The Emblem is a replica of the Lion of Sarnath, near Varanasi, Uttar Pradesh. The abacus is girded by four smaller animals- guardians of the four directions: the lion of the north, the elephant of the east, the horse of the south and the bull of the west."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 07/03/2020 (Evening)"
+    },
+    {
+        "id": 94,
+        "question": {
+            "type": "text",
+            "content": "Who designed the logo for Lokpal in India?"
+        },
+        "options": [
+            {
+                "text": "Deepak Punia"
+            },
+            {
+                "text": "Prashant Mishra"
+            },
+            {
+                "text": "Kamareddy"
+            },
+            {
+                "text": "B.P.Raju"
+            }
+        ],
+        "answer": "Prashant Mishra",
+        "solution": {
+            "type": "text",
+            "content": "Prashant Mishra. The logo of Lokpal: LOK people and PAL - caretaker, i.e. \"caretaker of people\". 7/7"
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 09/03/2020 (Morning)"
+    }
+]

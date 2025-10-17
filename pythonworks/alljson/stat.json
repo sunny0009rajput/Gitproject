@@ -1,0 +1,3431 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "In which of the following states are Aus, Boro and Aman paddy crops grown in a year?"
+        },
+        "options": [
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Haryana"
+            },
+            {
+                "text": "Uttarakhand"
+            },
+            {
+                "text": "Punjab"
+            }
+        ],
+        "answer": "Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Odisha. Aman, Aus and Boro are rice varieties. Rice is usually sown thrice in a year. Aman: This variety is sown in the rainy season (July-August) and harvested in winter. Aus: Rice sown in summer along with the pre-monsoonal showers and harvested in autumn. Boro: Rice sown in winter and harvested in summer. This is also called spring rice."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 05/10/2023 (Evening)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "In which state is the Sanchi Stupa situated?"
+        },
+        "options": [
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Madhya Pradesh"
+            }
+        ],
+        "answer": "Madhya Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Madhya Pradesh. The Sanchi Stupa was discovered by Sir Henry Taylor in 1818. Sanchi Stupa was declared as a world heritage site by UNESCO (1989)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "located in Bharhut Stupa is which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Punjab"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Bihar"
+            }
+        ],
+        "answer": "Madhya Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Madhya Pradesh. Bharhut is famous for the ruins of a Buddhist stupa (shrine) discovered there by Major General Alexander Cunningham in 1873. The stupa's sculptural remains are now mainly preserved in the Indian Museum, Kolkata, and in the Municipal Museum of Allahabad."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 06/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "In which state of India is Kaziranga National Park located?"
+        },
+        "options": [
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "West Bengal"
+            }
+        ],
+        "answer": "Assam",
+        "solution": {
+            "type": "text",
+            "content": "Assam. Kaziranga National Park A UNESCO world heritage site of India and known for one horned Rhinoceros. National Parks in India: Jim Corbett National Park Uttarakhand, Ranthambore National Park - Rajasthan, Blackbuck National Park, Gir National Park Gujarat. Kanha National Park Madhya Pradesh, Bhitarkanika National Park Odisha."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "According to the Ministry of Commerce and Industry (2018-19), which state of India is the largest producer of Rubber?"
+        },
+        "options": [
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Uttar Pradesh"
+            }
+        ],
+        "answer": "Gujarat",
+        "solution": {
+            "type": "text",
+            "content": "Kerala (490460 tonnes). Total production of Natural Rubber (NR) during 2018-19 is estimated at 648000 tonnes and in 2017-18 is 694000 tonnes. Top Natural Rubber producing Indian States: Kerala, Tamil Nadu, Tripura, Assam, Meghalaya, Nagaland, Manipur, Mizoram."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Which of the following states has introduced a dedicated Semiconductor Policy 2022- 27 with a view to generate at least 2,00,000 new employment opportunities in the state?"
+        },
+        "options": [
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Gujarat",
+        "solution": {
+            "type": "text",
+            "content": "Gujarat. Semiconductor Policy (2022-27) will facilitate the eligible projects for land allotment, enable expedited process approvals, ready access to utilities such as power, water, gas and other industrial infrastructure. Other Schemes of employment: SAUNI (Saurashtra Narmada Avtaran Irrigation, 2012), Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA, 2005)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/09/2023 (1st Shift)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "In which state is Vijay Stambh situated?"
+        },
+        "options": [
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Punjab"
+            },
+            {
+                "text": "Gujarat"
+            }
+        ],
+        "answer": "Rajasthan",
+        "solution": {
+            "type": "text",
+            "content": "Rajasthan. Vijay Stambh (Tower of Victory) was built by Maharana Kumbha between 1440 AD and 1448 AD to commemorate his victory over combined armies of Gujarat and Malwa led by Mahmud Khilji. It is situated inside Chittor Fort in Chittorgarh. This tower is dedicated to Hindu God Vishnu."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Birsa Munda Hockey Stadium was built in which state?"
+        },
+        "options": [
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Jharkhand"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Odisha"
+            }
+        ],
+        "answer": "Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Odisha. The Guinness Book of World Records has officially recognised the Birsa Munda Hockey Stadium in Rourkela as the world's largest fully seated hockey stadium (As of September 2023). It acted as the second venue for the Hockey World Cup 2023. Ноckey Stadiums: Biju Patnaik Hockey Stadium (Odisha), Dhanraj Pillay Hockey Stadium (Maharashtra), Astro Turf Hockey Stadium (Jharkhand)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/09/2023 (1st Shift)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "In which city is the Rajghat memorial situated?"
+        },
+        "options": [
+            {
+                "text": "Ahmedabad"
+            },
+            {
+                "text": "Delhi"
+            },
+            {
+                "text": "Surat"
+            },
+            {
+                "text": "Agra"
+            }
+        ],
+        "answer": "Surat",
+        "solution": {
+            "type": "text",
+            "content": "Delhi. Famous Memorials in Delhi: Shanti Van (Jawaharlal Nehru), Vijay Ghat (Lal Bahadur Shastri), Shakti Sthal (Indira Gandhi), Sadaiv Atal (Atal Bihari Vajpayee), Vir Bhumi (Rajiv Gandhi), Samta Sthal (Babu Jagjivan Ram), Sangharsh Sthal (Chaudhary Devi Lal)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/09/2023 (1st Shift)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "Dr. Teejan Bai, who was awarded by Padma Vibhushan (2019) renowned Indian folk singer performer from the state of is a and"
+        },
+        "options": [
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Chhattisgarh"
+            },
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Chhattisgarh",
+        "solution": {
+            "type": "text",
+            "content": "Chhattisgarh. Other Awards Padma Bhushan (2003), Padma Shri (1988). States and their Folk dances: Chhattisgarh Raut Nacha, Panthi, Soowa, Karma, Saila. Assam Bihu, jhumur dance, Bagurumba. Himachal Pradesh Nati, Kulluvi Nati, Chamba, Gaddi, Kinnauri."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "Where is the Vivekanand Rock Memorial situated?"
+        },
+        "options": [
+            {
+                "text": "Port Blair"
+            },
+            {
+                "text": "Kanyakumari"
+            },
+            {
+                "text": "Vishakhapatnam"
+            },
+            {
+                "text": "Chennai"
+            }
+        ],
+        "answer": "Vishakhapatnam",
+        "solution": {
+            "type": "text",
+            "content": "Kanyakumari (Tamil Nadu). Vivekananda Rock Memorial - Its construction was completed in 1970. Swami Vivekananda visited Kanyakumari in 1892. He was a disciple of Ramakrishna Paramahamsa and the founder of Ramakrishna Mission. The memorial consists of two main structures, the Vivekananda Mandapam and the Shripada Mandapam."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/09/2023 (1st Shift)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "Rann Utsav is celebrated in which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Goa"
+            },
+            {
+                "text": "Punjab"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Haryana"
+            }
+        ],
+        "answer": "Gujarat",
+        "solution": {
+            "type": "text",
+            "content": "Gujarat. Rann Utsav - It was conceptualised as a three-day festival, which progressively evolved into a 100-day celebration at Dhordo, a village near Rann of Kutch. States and Festivals: Gujarat Navratri, Janmashtami, Kutch Utsav, Uttarayana, Punjab Lohri, Baisakhi, Haryana The Kurukshetra Festival, Goa Shigmo, Sunburn festival, Ladain, Mando."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 03/08/2023 (3rd shift)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Which of the following states has the honour of being India's first carbon-free state?"
+        },
+        "options": [
+            {
+                "text": "Arunachal Pradesh"
+            },
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Himachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Himachal Pradesh (India's first and the world's second carbon-free state). A state is carbon-free if all of its electricity is from clean energy sources like wind, solar, and nuclear. First carbon neutral district Majuli (Assam). First carbon free panchayat Pali Village (Jammu and Kashmir). Bhutan is the first carbon negative country in the world."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 04/08/2023 (1st shift)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "Which Indian state is renowned for the traditional canal irrigation method known as 'Kulh'?"
+        },
+        "options": [
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Uttar Pradesh"
+            }
+        ],
+        "answer": "Himachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Himachal Pradesh. Kuhls are shallow surface channels diverting water from naturally flowing streams or springs, to cultivated fields, and mainly used for flood irrigation. Water Harvesting Structures found in other states: Kerala and Karnataka (Kattas, Surangams), Maharashtra (Bandharas and Tals), Tamil Nadu (Eris), Uttar Pradesh and Madhya Pradesh (Bundhis)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 07/08/2023 (3rd shift)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "According to the Indian Minerals Yearbook 2020, which state in India has the highest share of limestone production?"
+        },
+        "options": [
+            {
+                "text": "Telangana"
+            },
+            {
+                "text": "Chhattisgarh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Rajasthan",
+        "solution": {
+            "type": "text",
+            "content": "Rajasthan. Limestone (Calcium Carbonate (CaCO3)). Mineral Producing State: Iron ore Orissa, Chattisgarh, Karnataka.Manganese -Orissa, Karnataka, Madhya Pradesh. Gold Bihar, Rajasthan, Karnataka. Diamond Madhya Pradesh. Coal Chhattisgarh, Jharkhand, Orissa."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 11/08/2023 (1st shift)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "Which Indian state was the first to make it mandatory for all homes to have rooftop rainwater harvesting structures?"
+        },
+        "options": [
+            {
+                "text": "Sikkim"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Haryana"
+            }
+        ],
+        "answer": "Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Tamil Nadu. Rooftop rainwater harvesting is a technique used for the conservation of water. The rainwater that has fallen on the roof of houses or buildings is collected in storage or underground tanks through the help of pipes in this technique. This helps in recharging the groundwater levels. Rainwater harvesting is already a common practice in Mizoram."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/08/2023 (1st shift)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "Lotia is a regional music form of which state?"
+        },
+        "options": [
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Bihar"
+            }
+        ],
+        "answer": "Assam",
+        "solution": {
+            "type": "text",
+            "content": "Rajasthan. Lotia - It is sung by the peasants while working in the fields on the occasion of Lotia festival in the Chaitra month according to the Hindu calendar. Women bring lotas (a vessel to fill water) and kalash (a vessel considered to be auspicious to fill water during worship) filled with water from ponds and wells. Traditional Folk Music of Rajasthan Pabuji Ki Phach, Maand, Panihari."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/08/2023 (3rd shift)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "In which state is the Maski inscription located at present?"
+        },
+        "options": [
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Karnataka"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka. Maski inscription: Ashoka's minor rock edict. It is situated on the banks of the Muski River, a tributary of the Tungabhadra River. The inscription is written in the Brahmi script. The edict was the first of Emperor Ashoka to include the name Ashoka and not by his usual Title 'Devanampiya Piyadasi'. Discovered by - C. Beadon in 1915."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 17/07/2023 (1st shift)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Which of the following states used EVMs for the first time in the general elections held in May 1982?"
+        },
+        "options": [
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Maharashtra"
+            }
+        ],
+        "answer": "Kerala",
+        "solution": {
+            "type": "text",
+            "content": "Kerala (Ernakulam, Parvur Vidhan Sabha). Electronic Voting Machine (EVM) - In 1989, the Parliament amended the Representation of the People Act, 1951 to create a provision for the use of EVMs in the elections. EVM consists of two units - Control Unit (CU) and Balloting Unit (BU)."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 27/06/2023 (Shift - 4)"
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "The Ravan Phadi cave in is an example of the early Chalukya style architecture which is known for its distinct sculptural style."
+        },
+        "options": [
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Karnataka"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka. Ravana Phadi Cave Temple is one of the jewels in the Aihole monuments. Other Historic Caves: Maharashtra Ajanta Caves, Ellora Caves, Elephanta Caves. Kerala Edakkal caves, Maniyoor caves, Ezhuthupara cave. Andhra Pradesh- Erravaram Caves, Belum Caves, Akkanna Madanna Caves."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 04/05/2023 (Afternoon)"
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "The famous Dhamek Stupa is located in which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Himachal Pradesh"
+            }
+        ],
+        "answer": "Uttar Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Uttar Pradesh. Dhamek Stupa- It is located at Sarnath, in Varanasi. It was built in 249 B.C. by Ashoka the Great. It was made to commemorate the event of Lord Buddha giving the first sermon to his first five disciples. Other stupas: Swayambhunath Stupa Kathmandu (Nepal), Bharhut Stupa - Satna District (Madhya Pradesh), Kesariya Stupa Champaran District (Bihar), Sanchi Stupa Raisen District (Madhya Pradesh), Chaukhandi Stupa Varanasi (Uttar Pradesh)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 09/05/2023 (Evening)"
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "Which among the following Buddhist Universities is located in Bihar, India?"
+        },
+        "options": [
+            {
+                "text": "Vallabhi University"
+            },
+            {
+                "text": "Somapuri University"
+            },
+            {
+                "text": "Nalanda University"
+            },
+            {
+                "text": "Nabadwip University"
+            }
+        ],
+        "answer": "Nalanda University",
+        "solution": {
+            "type": "text",
+            "content": "Nalanda University (The world's first residential University) - Built by Kumaragupta (Gupta dynasty). Prominent Rulers - Harshavardhana of Kannauj, Pala Rulers, and many scholars patronized Nalanda."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 10/05/2023 (Morning)"
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "The head office of National Bank for Agricultural and Rural Development is located in _"
+        },
+        "options": [
+            {
+                "text": "Pune"
+            },
+            {
+                "text": "Chennai"
+            },
+            {
+                "text": "Mumbai"
+            },
+            {
+                "text": "Kolkata"
+            }
+        ],
+        "answer": "Chennai",
+        "solution": {
+            "type": "text",
+            "content": "Mumbai. NABARD (National Bank for Agricultural and Rural Development) is administered by the Government of India. It was instituted on the recommendations of B.Sivaraman Committee on 12 July 1982 by implementing the National Bank for Agriculture and Rural Development Act 1981."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 10/05/2023 (afternoon)"
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": "Bagh Caves, which has 9 Buddhist caves, was developed around the 6th Century AD situated on the Bagh river in"
+        },
+        "options": [
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Gujarat"
+            }
+        ],
+        "answer": "Madhya Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Madhya Pradesh. Bagh Caves - These are a group of nine Buddhist caves, first discovered in 1818, located on the bank of the Baghani River in Dhar district, Madhya Pradesh. Other caves: Madhya Pradesh Udayagiri Caves (Vidisha), Pandav Caves (Pachmarhi), Dharmrajeshwar Caves (Mandsaur), Bhimbetka Caves (Bhojpur Raisen), Lohani Caves (Mandu) etc."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/05/2023 (Afternoon)"
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": "Which Indian state is home to the Buddhist cave temples known as Barabar Caves?"
+        },
+        "options": [
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Sikkim"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Uttar Pradesh"
+            }
+        ],
+        "answer": "Bihar",
+        "solution": {
+            "type": "text",
+            "content": "Bihar. The Barabar Hill Caves are the oldest surviving rock-cut caves in India. These are supposed to have been constructed by emperor Ashoka for the use of Ajivaka ascetics. These caves are situated in the twin hills of Barabar (four caves) and Nagarjuni (three caves). Most caves at Barabar consist of two chambers, carved entirely out of granite."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 15/05/2023 (Morning)"
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": "The rock cave temple of _ is the largest monolithic structure in the world."
+        },
+        "options": [
+            {
+                "text": "Udaygiri"
+            },
+            {
+                "text": "Ellora"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "с) (b) Ajanta (d) Badami Ellora. The caves are dedicated to Hinduism, Buddhism, and Jainism. The Kailasa Temple (Ellora): It is a UNESCO World Heritage Site and is located in the Aurangabad district of Maharashtra, India. It is dedicated to Lord Shiva and is the largest and most impressive cave in the Ellora complex. It is a monolithic structure (carved out of a single rock)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 16/05/2023 (Afternoon)"
+    },
+    {
+        "id": 27,
+        "question": {
+            "type": "text",
+            "content": "The Elephanta Caves are located in which state?"
+        },
+        "options": [
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Karnataka"
+            }
+        ],
+        "answer": "Maharashtra",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra. Elephanta Caves: Declared a UNESCO World Heritage Site in 1987."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 18/05/2023 (Evening)"
+    },
+    {
+        "id": 28,
+        "question": {
+            "type": "text",
+            "content": "Which city in India is associated with the tea industry?"
+        },
+        "options": [
+            {
+                "text": "Panipat, Haryana"
+            },
+            {
+                "text": "Ahmedabad, Gujarat"
+            },
+            {
+                "text": "Darjeeling, West Bengal"
+            },
+            {
+                "text": "Madurai, Tamil Nadu"
+            }
+        ],
+        "answer": "Darjeeling, West Bengal",
+        "solution": {
+            "type": "text",
+            "content": "Darjeeling, West Bengal. Darjeeling Tea was the first product to get the Geographical Indication (GI) tag in India, in October 2004. Kangra Tea from Himachal Pradesh also has Gl tag status. GI tag is regulated by the Geographical Indications of Goods (Registration and Protection) Act of 1999."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 19/05/2023 (Afternoon)"
+    },
+    {
+        "id": 29,
+        "question": {
+            "type": "text",
+            "content": "The Ganesh-rath is one of the finest monolithic temples located in"
+        },
+        "options": [
+            {
+                "text": "Somnath"
+            },
+            {
+                "text": "Varanasi"
+            },
+            {
+                "text": "Mahabalipuram"
+            },
+            {
+                "text": "Nagpur"
+            }
+        ],
+        "answer": "Varanasi",
+        "solution": {
+            "type": "text",
+            "content": "Mahabalipuram. The Ganesh rath It is one of ten rathas (\"chariots\") carved out of pink granite within the group of monuments of the Pallava Period at Mahabalipuram, a UNESCO-inscribed World Heritage Site since 1984."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/06/2023 (Afternoon)"
+    },
+    {
+        "id": 30,
+        "question": {
+            "type": "text",
+            "content": "Which state became the first to implement \"New Education Policy\" at pre-primary level?"
+        },
+        "options": [
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Haryana"
+            },
+            {
+                "text": "Uttarakhand"
+            }
+        ],
+        "answer": "Uttarakhand",
+        "solution": {
+            "type": "text",
+            "content": "Uttarakhand. National Education Policy (NEP) 2020 was announced by the Ministry of Education. It was based on the recommendation of the 'Kasturiranjan committee'. Aim- Transform the Indian education system to meet the needs of the 21 st Century. Karnataka became the first state to adopt NEP in higher education."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 15/06/2023 (Afternoon)"
+    },
+    {
+        "id": 31,
+        "question": {
+            "type": "text",
+            "content": "The famous Pandav Leni Caves is located in which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Bihar"
+            }
+        ],
+        "answer": "Kerala",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra. Pandavleni Caves These are built on the Tri Rashmi hill about 3004 feet above sea level. These caves are a group of old Buddhist caves (250 В.С. 600 A.D.)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/06/2023 (Afternoon)"
+    },
+    {
+        "id": 32,
+        "question": {
+            "type": "text",
+            "content": "Dhuska is the most popular food item of state of"
+        },
+        "options": [
+            {
+                "text": "Punjab"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Jharkhand"
+            },
+            {
+                "text": "Andhra Pradesh"
+            }
+        ],
+        "answer": "Kerala",
+        "solution": {
+            "type": "text",
+            "content": "Jharkhand. Other Foods of Jharkhand- Handia, Litti Chokha, Mirchi Ka Salan, Mitha Khaja, Rugra. Punjab: Sarso ka saag and Makki di Roti, Lassi, Gobhi Shalgam- Gajar Pickle, Pinni. Kerala: Erissery, Sadya, Appam With Ishtu, Idli Sambar, Nadan Kozhi Varuthathu. Andhra Pradesh: Pulihora, Gutti vankaya kura, Chepa Pulusu, Gongura Pickle Ambadi, Pesarattu, Gutti Vankaya Koora, Punugulu, Bobbatlu, Medu Vada, Uppindi."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 33,
+        "question": {
+            "type": "text",
+            "content": "Kye Gompa, the largest centre of Buddhist learning in the Western Himalayas, is situated in the state/union territory of_"
+        },
+        "options": [
+            {
+                "text": "Uttarakhand"
+            },
+            {
+                "text": "Punjab"
+            },
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Jammu & Kashmir"
+            }
+        ],
+        "answer": "Punjab",
+        "solution": {
+            "type": "text",
+            "content": "Himachal Pradesh. Famous Buddhist monasteries: Hemis Monastery - Ladakh, Tabo Monastery Himachal Pradesh, Tsuglagkhang Monastery Himachal Pradesh, Thiksey Monastery Leh, Ladakh, Tawang Monastery Arunachal Pradesh, Bylakuppe Monastery (Namdroling) Karnataka, Ghoom Monastery West Bengal, Lingdum Monastery - Sikkim."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/03/2023 (4th Shift)"
+    },
+    {
+        "id": 34,
+        "question": {
+            "type": "text",
+            "content": "Aga Khan Palace is located in _ city of Maharashtra."
+        },
+        "options": [
+            {
+                "text": "Pune"
+            },
+            {
+                "text": "Aurangabad"
+            },
+            {
+                "text": "Ahmednagar"
+            },
+            {
+                "text": "Mumbai"
+            }
+        ],
+        "answer": "Pune",
+        "solution": {
+            "type": "text",
+            "content": "Pune. This Palace was built in 1892 by Sultan Muhammed Shah Aga Khan III in the district of Pune (Maharashtra)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 35,
+        "question": {
+            "type": "text",
+            "content": "Which Indian city is also known as Queen of Deccan?"
+        },
+        "options": [
+            {
+                "text": "Ahmedabad"
+            },
+            {
+                "text": "Pune"
+            },
+            {
+                "text": "Amritsar"
+            },
+            {
+                "text": "Puducherry"
+            }
+        ],
+        "answer": "Pune",
+        "solution": {
+            "type": "text",
+            "content": "Pune. Some Indian Cities and Sobriquets: City of Taj - Agra (Uttar Pradesh), Boston/Manchester of India Ahmedabad (Gujarat), Sangam City Allahabad (Uttar Pradesh), Land of Black Diamond Asansol (West Bengal), City of Peace- Bardhaman (West Bengal), Temple City of India Bhubaneswar (Odisha), The Venice of the East Alappuzha (Kerala), Garden City of India - Bengaluru (Karnataka), Detroit of Asia Chennai (Tamil Nadu), Manchester of South India Coimbatore (Tamil Nadu), Scotland of India Coorg (Karnataka), School Capital of India Dehradun (Uttarakhand), Queen of the Hills- Darjeeling (West Bengal)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/03/2023 (4th Shift)"
+    },
+    {
+        "id": 36,
+        "question": {
+            "type": "text",
+            "content": "Which among the following is an Indian martial art from Manipur?"
+        },
+        "options": [
+            {
+                "text": "Muay Thai"
+            },
+            {
+                "text": "Kalaripayattu"
+            },
+            {
+                "text": "Tháng Tại"
+            },
+            {
+                "text": "Gatka"
+            }
+        ],
+        "answer": "Tháng Tại",
+        "solution": {
+            "type": "text",
+            "content": "Thang-Tai (sword and spear) - It is dedicated to fighting skill and worship. The Meitei creation of Thang-ga goes back to antiquity."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 37,
+        "question": {
+            "type": "text",
+            "content": "India's First open Rock Museum is located in which city?"
+        },
+        "options": [
+            {
+                "text": "Varanasi"
+            },
+            {
+                "text": "Chennai"
+            },
+            {
+                "text": "Mysuru"
+            },
+            {
+                "text": "Hyderabad"
+            }
+        ],
+        "answer": "Hyderabad",
+        "solution": {
+            "type": "text",
+            "content": "Hyderabad. Other Famous monuments: Char- Minar, Makka Masjid both built by Quli Qutub Shah."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (1st Shift)"
+    },
+    {
+        "id": 38,
+        "question": {
+            "type": "text",
+            "content": "Nasik is also known as capital of India."
+        },
+        "options": [
+            {
+                "text": "Wine"
+            },
+            {
+                "text": "Gold"
+            },
+            {
+                "text": "Orange"
+            },
+            {
+                "text": "Cotton"
+            }
+        ],
+        "answer": "Wine",
+        "solution": {
+            "type": "text",
+            "content": "Wine. Nashik (\"Wine Capital of India\") holds almost half of the wineries in India. Wine is composed of ethanol (12%). Nashik is situated on the banks of river Godavari. The Godavari starts from Trimbakeshwar, Maharashtra and flows to the Bay of Bengal. It is also known for hosting the Kumbh Mela every 12 years."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (4th Shift)"
+    },
+    {
+        "id": 39,
+        "question": {
+            "type": "text",
+            "content": "Which among the following is the official sport of Maharashtra, as of 2022?"
+        },
+        "options": [
+            {
+                "text": "Mallakhamb"
+            },
+            {
+                "text": "Kalaripayattu"
+            },
+            {
+                "text": "Sand sculptures"
+            },
+            {
+                "text": "Dahi-Handi"
+            }
+        ],
+        "answer": "Dahi-Handi",
+        "solution": {
+            "type": "text",
+            "content": "Dahi Handi. It is an entertainment and competitive event celebrated with Hindu festival Krishna Janmashtami (birth of god Krishna). Madhya Pradesh (Mallakhamb), Kerala (Kalaripayattu). Puri Beach (Odisha) - Here, Sudarsan Pattnaik showcases his sand arts. Mysore Sand Sculpture Museum - It is home to several sand models and was founded by M N Gowri."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (1st Shift)"
+    },
+    {
+        "id": 40,
+        "question": {
+            "type": "text",
+            "content": "\"Living root bridges\" is an iconic structure found in which state?"
+        },
+        "options": [
+            {
+                "text": "Meghalaya"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Assam"
+            }
+        ],
+        "answer": "Meghalaya",
+        "solution": {
+            "type": "text",
+            "content": "Meghalaya. Living root bridges (Jing Kieng Jri) The aerial bridges, built by weaving and adjusting the roots of the Indian rubber tree. Other Famous root bridges - Riwai Root Bridge and Umshiang Double Decker Bridge. Properties Elastic, easily combined, grows in rough and rocky soils. Grown by Khasi and Jaintia tribes of Meghalaya."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 41,
+        "question": {
+            "type": "text",
+            "content": "Surat is also of India. known"
+        },
+        "options": [
+            {
+                "text": "Diamond city"
+            },
+            {
+                "text": "Blue city"
+            },
+            {
+                "text": "Pink City"
+            },
+            {
+                "text": "City of Lakes as"
+            }
+        ],
+        "answer": "Diamond city",
+        "solution": {
+            "type": "text",
+            "content": "Diamond city. It is also known as \"The silk city\", and \"The green city\". Surat (located on the River Tapi) has been called \"The gateway to Mecca\". Old name of Surat - Suryapur."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (4th Shift)"
+    },
+    {
+        "id": 42,
+        "question": {
+            "type": "text",
+            "content": "Which of the following sites do \"Not\" have nuclear power plants?"
+        },
+        "options": [
+            {
+                "text": "Vijayawada"
+            },
+            {
+                "text": "Naraura"
+            },
+            {
+                "text": "Tarapur"
+            },
+            {
+                "text": "Rawat Bhata"
+            }
+        ],
+        "answer": "Vijayawada",
+        "solution": {
+            "type": "text",
+            "content": "Vijayawada. Nuclear power plants in India: Kakrapar Atomic Power Station (1993, Gujarat), Kalpakkam, Madras (1984, Tamil Nadu), Narora (1991, Uttar Pradesh), Kaiga (2000; Karnataka), Rawatbhata (1973, Rajasthan), Tarapur (1969, Maharashtra), Kudankulam (2013, Tamil Nadu). Under Construction: Chutka (Madhya Pradesh), Gorakhpur (Haryana), Bhimpur (Madhya Pradesh), Mahi Banswara (Rajasthan), Haripur (West Bengal), etc."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 01/12/2022 (1st Shift)"
+    },
+    {
+        "id": 43,
+        "question": {
+            "type": "text",
+            "content": "In which of the following states was 'Kudumbashree, women-oriented, community-- based, poverty-reduction programme implemented?"
+        },
+        "options": [
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Uttar Pradesh"
+            }
+        ],
+        "answer": "Kerala",
+        "solution": {
+            "type": "text",
+            "content": "Kerala. The name Kudumbashree in Malayalam language means 'prosperity of the family'. The 'Kudumbashree' SHG (Self Help Groups) was started in 1998."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 01/12/2022 (4th Shift)"
+    },
+    {
+        "id": 44,
+        "question": {
+            "type": "text",
+            "content": "end-to-end launched in India's digital First Lok Al-powered, Adalat was"
+        },
+        "options": [
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Gujarat"
+            }
+        ],
+        "answer": "Madhya Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Rajasthan. Launched by National Legal Services Authority Chairman, Uday Umesh Lalit. About Rajasthan (northwest) - Capital: Jaipur."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 03/12/2022 (4th Shift)"
+    },
+    {
+        "id": 45,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the first 'smoke-free state' in India?"
+        },
+        "options": [
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Uttarakhand"
+            },
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Himachal Pradesh"
+            }
+        ],
+        "answer": "Himachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Himachal Pradesh. This was achieved due to the Ujjwala Scheme (2016, by centre) and Grahini Suvidha Yojana (2018, by Himachal Pradesh Government). Chandigarh is the first smoke-free city in India."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 09/12/2022 (1st Shift)"
+    },
+    {
+        "id": 46,
+        "question": {
+            "type": "text",
+            "content": "The Government of launched Mukhyamantri Chaa Srami Kalyan Prakalpa Scheme for tea garden workers."
+        },
+        "options": [
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Tripura"
+            },
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Andhra Pradesh"
+            }
+        ],
+        "answer": "Assam",
+        "solution": {
+            "type": "text",
+            "content": "Tripura (5th largest tea producing State in India). Assam is the largest tea-producing state in India followed by West Bengal. Jorhat has the world famous Tocklai Experimental Centre. China (1st) and India (2nd) are the largest tea producing countries in the world."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 09/12/2022 (1st Shift)"
+    },
+    {
+        "id": 47,
+        "question": {
+            "type": "text",
+            "content": "The Kashi Yatra Scheme introduced by the government of ....."
+        },
+        "options": [
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Punjab"
+            },
+            {
+                "text": "Kerala was"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka government has launched the Kashi Yatra scheme. It offers cash assistance of Rs 5,000 to pilgrims who visit the Kashi Vishwanath Temple (Varanasi, Uttar Pradesh). The Kashi Vishwanath Temple (Jyotirlingas) is dedicated to Lord Shiva. The current structure was built by the Ahilyabai Holkar of Indore (Maratha ruler) in the year 1780."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/12/2022 (1st Shift)"
+    },
+    {
+        "id": 48,
+        "question": {
+            "type": "text",
+            "content": "India's first Olympic Values Education Programme (OVEP) was launched in _"
+        },
+        "options": [
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Punjab"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Haryana"
+            }
+        ],
+        "answer": "Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Odisha. The Olympic Values Education Programme (OVEP) of the International Olympic Committee (IOC) was launched in Odisha by Chief Minister Naveen Patnaik, in collaboration with the Abhinav Bindra Foundation Trust (ABFT). 10C Headquarters: Lausanne (Switzerland), Founded: 23 June 1894 (Paris, France)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/12/2022 (4th Shift)"
+    },
+    {
+        "id": 49,
+        "question": {
+            "type": "text",
+            "content": "In which district of Maharashtra is Ralegan Siddhi, a small village that has become an example for watershed development, situated?"
+        },
+        "options": [
+            {
+                "text": "Yavatmal"
+            },
+            {
+                "text": "Nashik"
+            },
+            {
+                "text": "Ahmednagar"
+            },
+            {
+                "text": "Pune"
+            }
+        ],
+        "answer": "Ahmednagar",
+        "solution": {
+            "type": "text",
+            "content": "Ahmednagar. Extra Facts Integrated Watershed Development Programme (IWMP) objective is to cover 55 million hectares of rain fed land by 2027. Other Initiatives - Hariyali (Central Government), Neeru-Meeru programme (Andhra Pradesh) and Arvary Pani Sansad (Alwar, Rajasthan). Tamil Nadu has made water harvesting structures in the houses compulsory."
+        },
+        "videoUrl": "",
+        "status": "Higher Secondary 01/08/2022 (Shift - 3)"
+    },
+    {
+        "id": 50,
+        "question": {
+            "type": "text",
+            "content": "In which state in India is Chandratal wetland located?"
+        },
+        "options": [
+            {
+                "text": "Jammu and Kashmir"
+            },
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Uttarakhand"
+            },
+            {
+                "text": "Uttar Pradesh"
+            }
+        ],
+        "answer": "Himachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Himachal Pradesh. Important Wetlands Pong dam, Renuka Wetland (Himachal Pradesh), Tampara Lake (Odisha), Yashwant Sagar (Madhya Pradesh), Chitrangudi Bird Sanctuary (Tamil Nadu), Shallbugh Wetland (Jammu and Kashmir) Thane Creek (Maharashtra), Kanjirankulam Bird Sanctuary (Tamil Nadu) etc."
+        },
+        "videoUrl": "",
+        "status": "Higher Secondary 05/08/2022 (Shift- 2)"
+    },
+    {
+        "id": 51,
+        "question": {
+            "type": "text",
+            "content": "Which state of India has set up District Investment Promotion Agencies (DIPA)?"
+        },
+        "options": [
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Haryana"
+            },
+            {
+                "text": "West Bengal"
+            }
+        ],
+        "answer": "Haryana",
+        "solution": {
+            "type": "text",
+            "content": "Odisha Government has set up District Investment Promotion Agencies (DIPA) to promote and facilitate investment across the State."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/07/2022 (Morning)"
+    },
+    {
+        "id": 52,
+        "question": {
+            "type": "text",
+            "content": "Bidar Fort is situated in which state of India?"
+        },
+        "options": [
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Meghalaya"
+            },
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Karnataka"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka. List of forts in Karnataka- Mudgal Fort, Raichur Fort, Jaladurga Fort, Belgaum Fort."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/07/2022 (Evening)"
+    },
+    {
+        "id": 53,
+        "question": {
+            "type": "text",
+            "content": "The HVJ pipeline does NOT run through the state of"
+        },
+        "options": [
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Karnataka"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka. HVJ an abbreviation for Hazira - Vijaipur Jagdishpur is India's first cross-state gas pipeline that passes through Gujarat, Madhya Pradesh, Rajasthan, Uttar Pradesh, Haryana, and NCT. It was started in 1986 after the incorporation of GAIL Limited."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 18/07/2022 (Afternoon)"
+    },
+    {
+        "id": 54,
+        "question": {
+            "type": "text",
+            "content": "The Janjira Fort is situated on a small island in the Arabian sea, off the coast of"
+        },
+        "options": [
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Karnataka"
+            }
+        ],
+        "answer": "Kerala",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra. Janjira fort is situated on an oval-shaped rock off the Arabian Sea coast near the port town of Murud, 165 km south of Mumbai, Maharashtra. Some other forts in Maharashtra: Lohagad fort, Daulatabad fort, Raigad fort, Shaniwarwada fort pune, Sindhu Garh fort, Pratapgarh fort, Rajmachi fort, Korigad fort, Sinhagad fort etc."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 22/07/2022 (Evening)"
+    },
+    {
+        "id": 55,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a limestone cave in India?"
+        },
+        "options": [
+            {
+                "text": "Undavalli Caves"
+            },
+            {
+                "text": "Varaha Cave"
+            },
+            {
+                "text": "Borra Caves"
+            },
+            {
+                "text": "Bhimbetka Caves"
+            }
+        ],
+        "answer": "Borra Caves",
+        "solution": {
+            "type": "text",
+            "content": "Borra Caves is a limestone cave located in the Ananthagiri hills of the Araku Valley of the Alluri Sitharama Raju district in Andhra Pradesh. Undavalli Caves- Amravati, Andhra Pradesh. Varaha Cave- Mahabalipuram, Tamil Nadu. Bhimbetka Caves Amcha khurd, Madhya Pradesh."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 24/05/2022 (Evening)"
+    },
+    {
+        "id": 56,
+        "question": {
+            "type": "text",
+            "content": "Agumbe, a biodiversity-rich region that receives 7640 mm of average annual rainfall in South India, is located in which state?"
+        },
+        "options": [
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Tamil Nadu",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka. Agumbe ('Cobra Capital' of India) is registered as a UNESCO World Heritage Site and is famous for its rich biodiversity, waterfalls (Onake Abbi, Bakarna, and Jogi Gundi fall), and red-hazy sun-set over the Arabian Sea."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 31/05/2022 (Morning)"
+    },
+    {
+        "id": 57,
+        "question": {
+            "type": "text",
+            "content": "In which of the following Indian states will you find the Buxa Fort?"
+        },
+        "options": [
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Tamil Nadu"
+            }
+        ],
+        "answer": "West Bengal",
+        "solution": {
+            "type": "text",
+            "content": "Buxa Fort is located in the Buxa Tiger Reserve, Alipurduar district, in West Bengal. Kurumbera Fort is located at Gagneswar, West Bengal. Fort William, Kolkata, West Bengal."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 11/04/2022 (Evening)"
+    },
+    {
+        "id": 58,
+        "question": {
+            "type": "text",
+            "content": "Odisha has set _ as the target year for providing 100% functional household tap water connections in every rural household."
+        },
+        "options": [
+            {
+                "text": "2023-24"
+            },
+            {
+                "text": "2024-25"
+            },
+            {
+                "text": "2025-26"
+            },
+            {
+                "text": "2022-23"
+            }
+        ],
+        "answer": "2023-24",
+        "solution": {
+            "type": "text",
+            "content": "2023-24. Goa is the first state in India to provide 100 per cent tap water connections in the rural areas covering 2.30 lakh households."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 12/04/2022 (Morning)"
+    },
+    {
+        "id": 59,
+        "question": {
+            "type": "text",
+            "content": "In which city of Gujarat will you find the Uparkot Buddhist Caves?"
+        },
+        "options": [
+            {
+                "text": "Bhavnagar"
+            },
+            {
+                "text": "Vadodara"
+            },
+            {
+                "text": "Junagadh"
+            },
+            {
+                "text": "Anand"
+            }
+        ],
+        "answer": "Junagadh",
+        "solution": {
+            "type": "text",
+            "content": "Junagadh. Some of the famous Buddhist Caves in India are Ajanta Caves in Maharashtra, Ellora Caves in Maharashtra, Kanheri Caves in Maharashtra, Bhaja Caves in Maharashtra, Barabar Caves in Bihar, Nagarjunakonda Caves in Andhra Pradesh, Dhauli Caves in Orissa, Lalitgiri Caves in Orissa, Ratnagiri Caves in Orissa, Junnar Caves in Maharashtra, Karla Caves in Maharashtra."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 12/04/2022(Afternoon)"
+    },
+    {
+        "id": 60,
+        "question": {
+            "type": "text",
+            "content": "The rooftop of Guru Hemkund Sahib is in the shape of an upturned"
+        },
+        "options": [
+            {
+                "text": "lotus"
+            },
+            {
+                "text": "rose"
+            },
+            {
+                "text": "sunflower"
+            },
+            {
+                "text": "marigold"
+            }
+        ],
+        "answer": "lotus",
+        "solution": {
+            "type": "text",
+            "content": "Lotus. Guru Hemkund Sahib (the holiest shrine of Sikhs) located at Chamoli district of Uttarakhand."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/04/2022(Morning)"
+    },
+    {
+        "id": 61,
+        "question": {
+            "type": "text",
+            "content": "In which of the following Indian states will you find the Tibetan Buddhist Golden Temple?"
+        },
+        "options": [
+            {
+                "text": "Sikkim"
+            },
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Tamil Nadu"
+            }
+        ],
+        "answer": "Himachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka. 12 Famous Buddhist temple and monasteries in India are Mahabodhi Temple (Bodh Gaya), Mahaparinirvana Temple (Kushinagar), Ramadhan Stupa Temple (Kushinagar), Wat Thai Temple (Kushinagar), Thiksey Monastery (Leh), Mindrolling Monastery (Dehradun), Ghoom Monastery (Darjeeling), Namdroling Monastery & Golden Temple (Mysore), Rumtek Monastery (Gangtok), Tsuglagkhang Temple Complex (Dharamsala), Dhamekh Stupa (Sarnath), Vishwa Shanti Stupa (Rajgir)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/04/2022(Evening)"
+    },
+    {
+        "id": 62,
+        "question": {
+            "type": "text",
+            "content": "What is located inside the premises of Akhal Takht Sahib?"
+        },
+        "options": [
+            {
+                "text": "Golden Temple"
+            },
+            {
+                "text": "Paonta Sahib"
+            },
+            {
+                "text": "Patna Sahib"
+            },
+            {
+                "text": "Gurudwara Bangla Sahib"
+            }
+        ],
+        "answer": "Golden Temple",
+        "solution": {
+            "type": "text",
+            "content": "Golden Temple. Shri Guru Hargobind Singh laid the foundation stone of the Akal Takht building in 1605. Paonta Sahib was founded by the Tenth Sikh guru, Guru Gobind Singh. Patna Sahib was built by Maharaja Ranjit Singh. Gurudwara Bangla Sahib is known for its association with the eighth Sikh Guru, Guru Har Krishan."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 21/04/2022(Morning)"
+    },
+    {
+        "id": 63,
+        "question": {
+            "type": "text",
+            "content": "Litti Chokha is a famous cuisine of which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Odisha"
+            }
+        ],
+        "answer": "Bihar",
+        "solution": {
+            "type": "text",
+            "content": "Bihar. Litti Chokha basically consists of wheat and sattu. It originated centuries ago as a staple food in the court of Magadha."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/10/2021 (Afternoon)"
+    },
+    {
+        "id": 64,
+        "question": {
+            "type": "text",
+            "content": "In the context of the culture of Uttarakhand, 'Kafuli' is the name of a:"
+        },
+        "options": [
+            {
+                "text": "cuisine"
+            },
+            {
+                "text": "folk dance"
+            },
+            {
+                "text": "festival"
+            },
+            {
+                "text": "style of painting"
+            }
+        ],
+        "answer": "cuisine",
+        "solution": {
+            "type": "text",
+            "content": "cuisine. Kafuli is a delicacy of Uttarakhand prepared out of leafy greens such as palak (spinach) and methi (fenugreek) leaves. It is also known as Dhapdi in Garhwal."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/10/2021 (Evening)"
+    },
+    {
+        "id": 65,
+        "question": {
+            "type": "text",
+            "content": "In which of the following states of India is the buffalo breed named 'Banni' mainly reared?"
+        },
+        "options": [
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Odisha"
+            }
+        ],
+        "answer": "West Bengal",
+        "solution": {
+            "type": "text",
+            "content": "Gujarat. Banni buffalo is also known as \"Kutchi\" or \"Kundi\". It is a breed of buffalo found primarily in the Kutch district of Gujarat, India."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/10/2021 (Evening)"
+    },
+    {
+        "id": 66,
+        "question": {
+            "type": "text",
+            "content": "Which State/Union Territory is traditionally associated with a yogurt -based gravy dish called 'Yakhni'?"
+        },
+        "options": [
+            {
+                "text": "Jammu and Kashmir"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Jharkhand"
+            }
+        ],
+        "answer": "Jammu and Kashmir",
+        "solution": {
+            "type": "text",
+            "content": "Jammu and Kashmir. Yakhni is a yogurt-based mutton gravy that seems to have originated in Persia and percolated to Kashmir."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/10/2021 (Evening)"
+    },
+    {
+        "id": 67,
+        "question": {
+            "type": "text",
+            "content": "Which of the following Indian states was one of the worst affected by the tsunami on 26th December 2004?"
+        },
+        "options": [
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Uttar Pradesh"
+            }
+        ],
+        "answer": "Tamil Nadu",
+        "solution": {
+            "type": "text",
+            "content": "Tamil Nadu. The magnitude of the Indian Ocean Tsunami 2004 was 9.1."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 06/10/2021 (Morning)"
+    },
+    {
+        "id": 68,
+        "question": {
+            "type": "text",
+            "content": "Which of the following palaces is located in Thiruvananthapuram?"
+        },
+        "options": [
+            {
+                "text": "Chowmahalla Palace"
+            },
+            {
+                "text": "Amber Palace"
+            },
+            {
+                "text": "Ujjayanta Palace"
+            },
+            {
+                "text": "Kanakakunnu Palace"
+            }
+        ],
+        "answer": "Kanakakunnu Palace",
+        "solution": {
+            "type": "text",
+            "content": "Kanakakunnu Palace is situated in Thiruvananthapuram near the Napier museum, India. Chowmahalla Palace is the palace of the Nizams of Hyderabad. Amber Fort is a fort located in Amber, Rajasthan. The Ujjayanta Palace is a museum and the former palace of the Kingdom of Tripura situated in Agartala."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 07/10/2021 (Evening)"
+    },
+    {
+        "id": 69,
+        "question": {
+            "type": "text",
+            "content": "Janapada Geete, which includes the vachanas of Basavanna, associated with the state of"
+        },
+        "options": [
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Karnataka is"
+            }
+        ],
+        "answer": "Karnataka is",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka. Janapada Geete, Jana means people or tribe and pada means verse/rhyme."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/10/2021 (Morning)"
+    },
+    {
+        "id": 70,
+        "question": {
+            "type": "text",
+            "content": "Pochampally Ikat sarees and dress materials, famous for their traditional geometric patterns belong to the state of"
+        },
+        "options": [
+            {
+                "text": "Telangana"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Telangana",
+        "solution": {
+            "type": "text",
+            "content": "Telangana. Traditional Sarees and States: Banarasi Saree - Uttar Pradesh, Kanjivaram Silk Saree Tamil Nadu, Nauvari Saree - Maharashtra, Tant Saree - West Bengal."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/10/2021 (Morning)"
+    },
+    {
+        "id": 71,
+        "question": {
+            "type": "text",
+            "content": "'Muya Awandru' is a traditional food of this Indian state"
+        },
+        "options": [
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Chhattisgarh"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Tripura"
+            }
+        ],
+        "answer": "Tripura",
+        "solution": {
+            "type": "text",
+            "content": "Tripura. Muya awandru is a dish prepared with bamboo shoots, berma (fermented fish), parsley, and green chilies. It is a rice flour-based gravy."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/10/2021 (Morning)"
+    },
+    {
+        "id": 72,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT a town of Karnataka?"
+        },
+        "options": [
+            {
+                "text": "Chikmagalur"
+            },
+            {
+                "text": "Chitradurga"
+            },
+            {
+                "text": "Bijapur"
+            },
+            {
+                "text": "Bhusawal"
+            }
+        ],
+        "answer": "Bhusawal",
+        "solution": {
+            "type": "text",
+            "content": "Bhusawal (Maharashtra). It is situated on the banks of the Tapi river."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/10/2021 (Evening)"
+    },
+    {
+        "id": 73,
+        "question": {
+            "type": "text",
+            "content": "Bombay state was split along linguistic lines, forming Maharashtra and _, in the year 1960."
+        },
+        "options": [
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Goa"
+            }
+        ],
+        "answer": "Gujarat",
+        "solution": {
+            "type": "text",
+            "content": "Gujarat. The States Reorganisation Committee report was to be implemented in 1956."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/10/2021 (Afternoon)"
+    },
+    {
+        "id": 74,
+        "question": {
+            "type": "text",
+            "content": "In which of the following states is the Stanley Reservoir located?"
+        },
+        "options": [
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Goa"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Andhra Pradesh"
+            }
+        ],
+        "answer": "Tamil Nadu",
+        "solution": {
+            "type": "text",
+            "content": "Tamil Nadu. Stanley Reservoir (Mettur dam) is one of the largest fishing reservoirs in South India. Its main source of water is the River Kaveri."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/10/2021 (Evening)"
+    },
+    {
+        "id": 75,
+        "question": {
+            "type": "text",
+            "content": "In which Indian state is 'Pookode Lake' located?"
+        },
+        "options": [
+            {
+                "text": "Punjab"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Tamil Nadu the"
+            }
+        ],
+        "answer": "Kerala",
+        "solution": {
+            "type": "text",
+            "content": "Kerala. 10 Famous Lakes in Kerala: Ashtamudi Lake, Periyar Lake, Vembanad Lake, Pookode Lake, Vellayani Lake, Paravur Lake, Punnamada Lake, Sasthamkotta Lake, Mananchira Lake, Veeran Puzhal Lake."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 18/10/2021 (Evening)"
+    },
+    {
+        "id": 76,
+        "question": {
+            "type": "text",
+            "content": "In which state of India does the 'Weinia Falls' lie?"
+        },
+        "options": [
+            {
+                "text": "Sikkim"
+            },
+            {
+                "text": "Meghalaya"
+            },
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Goa"
+            }
+        ],
+        "answer": "Himachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Meghalaya. Weinia Falls is also known as Kshaid Weinia. Kunchikal Falls in Shimoga District of Karnataka is the highest waterfall in India and the second biggest waterfall in Asia."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 18/10/2021 (Evening)"
+    },
+    {
+        "id": 77,
+        "question": {
+            "type": "text",
+            "content": "Churahi, Mandeali and Keonthali are dialects spoken in the state of:"
+        },
+        "options": [
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Arunachal Pradesh"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Himachal Pradesh"
+            }
+        ],
+        "answer": "Himachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Himachal Pradesh. Other Pahari dialects spoken here - Chambiali, Churahi, Mandeli, Himachali and Kuluhi."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 18/10/2021 (Evening)"
+    },
+    {
+        "id": 78,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the State Tree of Maharashtra?"
+        },
+        "options": [
+            {
+                "text": "Mango"
+            },
+            {
+                "text": "Jammi"
+            },
+            {
+                "text": "Banyan"
+            },
+            {
+                "text": "Ashok"
+            }
+        ],
+        "answer": "Mango",
+        "solution": {
+            "type": "text",
+            "content": "Mango. Scientific name Mangifera indica. Amba (Marathi), Family: Anacardiaceaе."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/10/2021 (Morning)"
+    },
+    {
+        "id": 79,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the state bird of Rajasthan?"
+        },
+        "options": [
+            {
+                "text": "Indian Roller"
+            },
+            {
+                "text": "Crane Crane"
+            },
+            {
+                "text": "Asian Cuckoo"
+            },
+            {
+                "text": "Son Chiraiya"
+            }
+        ],
+        "answer": "Son Chiraiya",
+        "solution": {
+            "type": "text",
+            "content": "Son Chiraiya (Great Indian Bustard). State Animal: Chinkara and Camel. State Dance- Ghoomer, State tree- Khejri (Prosopis Cineraria), State Flower- Rohida (Tecomella Undulata)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/10/2021 (Morning)"
+    },
+    {
+        "id": 80,
+        "question": {
+            "type": "text",
+            "content": "The Mattancherry palace is situated in:"
+        },
+        "options": [
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Tamil Nadu"
+            }
+        ],
+        "answer": "Andhra Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Kerala. The Mattancherry Palace (Dutch Palace) was included in the \"tentative list\" of UNESCO World Heritage Sites."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/10/2021 (Evening)"
+    },
+    {
+        "id": 81,
+        "question": {
+            "type": "text",
+            "content": "Which state among the following is the largest producer of coffee?"
+        },
+        "options": [
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka. Kodagu Chikmagalur and Hassan districts are major coffee producer regions of the state."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/10/2021 (Evening)"
+    },
+    {
+        "id": 82,
+        "question": {
+            "type": "text",
+            "content": "Kakinada, which enjoys a special place in the gas pipeline network of India, is located in:"
+        },
+        "options": [
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Andhra Pradesh"
+            }
+        ],
+        "answer": "Andhra Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Andhra Pradesh. The East-West pipeline originates at Kakinada and travels up to Bharuch in Gujarat."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 22/10/2021 (Afternoon)"
+    },
+    {
+        "id": 83,
+        "question": {
+            "type": "text",
+            "content": "Kavaratti is the capital of which of the following Union Territories?"
+        },
+        "options": [
+            {
+                "text": "Jammu and Kashmir"
+            },
+            {
+                "text": "Ladakh"
+            },
+            {
+                "text": "Andaman and Nicobar Islands"
+            },
+            {
+                "text": "Lakshadweep"
+            }
+        ],
+        "answer": "Lakshadweep",
+        "solution": {
+            "type": "text",
+            "content": "Lakshadweep (Capital Kavaratti). India's smallest Union Territory Lakshadweep is an archipelago consisting of 36 islands with an area of 32 sq km."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 22/10/2021 (Evening)"
+    },
+    {
+        "id": 84,
+        "question": {
+            "type": "text",
+            "content": "'Balchao' and 'Sorpotel' are the traditional culinary dishes of:"
+        },
+        "options": [
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Goa"
+            },
+            {
+                "text": "Uttarakhand"
+            },
+            {
+                "text": "Punjab"
+            }
+        ],
+        "answer": "Uttarakhand",
+        "solution": {
+            "type": "text",
+            "content": "Goa. Famous dishes of Goa are Goan Fish Curry, Prawn Balchao, Fish Recheado, Chicken, Xacuti, Chicken Cafreal, Shark Ambot Tik, Pork Sorpotel, Mussel, Rawa Fry, Caldeirada, Pork Vindaloo."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 26/10/2021 (Morning)"
+    },
+    {
+        "id": 85,
+        "question": {
+            "type": "text",
+            "content": "'Tolu Bommalata' (leather shadow puppet show) is a traditional art form from the state of:"
+        },
+        "options": [
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Andhra Pradesh"
+            }
+        ],
+        "answer": "Andhra Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Andhra Pradesh. Tholu means leather in Telugu and bommalu means dolls. Traditional Art Forms of Andhra Pradesh: Kuchipudi, Kalamkari Paintings, Buta Bommalu, Lambadi Nirmal Painting, Kolattam Bhamakalapam, Veeranatyam, Burrakatha, Dhimsa."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 26/10/2021 (Evening)"
+    },
+    {
+        "id": 86,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a site of archaeological importance in Jammu and Kashmir?"
+        },
+        "options": [
+            {
+                "text": "Maski"
+            },
+            {
+                "text": "Brahmagiri"
+            },
+            {
+                "text": "Burzahom"
+            },
+            {
+                "text": "Watkal"
+            }
+        ],
+        "answer": "Brahmagiri",
+        "solution": {
+            "type": "text",
+            "content": "Burzahom. Maski is a town and an archaeological site in the Raichur district of the state of Karnataka. Brahmagiri is a mountain range in the Western Ghats of south India."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 02/11/2021 (Morning)"
+    },
+    {
+        "id": 87,
+        "question": {
+            "type": "text",
+            "content": "Chutka Atomic Power Plant is situated in which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Haryana"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Madhya Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Madhya Pradesh (in Mandla district). Presently, India has 22 nuclear power reactors. Kudankulam Nuclear Power Plant is the largest nuclear power station in India, situated in Kudankulam Tamil Nadu. Tarapur Atomic Power Station (1969) is located in Tarapur, Maharashtra is the first atomic power plant in India."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 02/11/2021 (Evening)"
+    },
+    {
+        "id": 88,
+        "question": {
+            "type": "text",
+            "content": "'Panche' is a traditional sarong worn by the men in the state of"
+        },
+        "options": [
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Sikkim"
+            }
+        ],
+        "answer": "Assam",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka. Panche (Dhoti) - This unstitched cloth is wrapped around the legs and knotted around the waist."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 23/08/2021 (Morning)"
+    },
+    {
+        "id": 89,
+        "question": {
+            "type": "text",
+            "content": "Which of the following cities is closest to the location of Pushkar Fair?"
+        },
+        "options": [
+            {
+                "text": "Ahmedabad"
+            },
+            {
+                "text": "Ajmer"
+            },
+            {
+                "text": "Prayagraj"
+            },
+            {
+                "text": "Amravati"
+            }
+        ],
+        "answer": "Ajmer",
+        "solution": {
+            "type": "text",
+            "content": "Ajmer. The Pushkar fair is one of India's largest camel, horse and cattle fairs."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 23/08/2021 (Afternoon)"
+    },
+    {
+        "id": 90,
+        "question": {
+            "type": "text",
+            "content": "In which present-day state will you find the Meguti temple?"
+        },
+        "options": [
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka. Megudii Jain temple is a monument in Aihole, constructed in 634 AD in Dravidian style of architecture."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 24/08/2021 (Morning)"
+    },
+    {
+        "id": 91,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the most literate district in India as per Census 2011?"
+        },
+        "options": [
+            {
+                "text": "Ernakulam"
+            },
+            {
+                "text": "Serchhip"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "(b) Kottayam (d) Champhai Serchhip (Mizoram, 97.91%). As per Census 2011: State with highest literacy rate Kerala. State with lowest literacy rate - Bihar."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/04/2021 (Morning)"
+    },
+    {
+        "id": 92,
+        "question": {
+            "type": "text",
+            "content": "Which of the following Indian states has the famous tourist destination called Pamban Island?"
+        },
+        "options": [
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Tamil Nadu Tamil Nadu. Pamban"
+            }
+        ],
+        "answer": "Tamil Nadu Tamil Nadu. Pamban",
+        "solution": {
+            "type": "text",
+            "content": "Island or Rameswaram Island is an island located between peninsular India and Sri Lanka, on the Adam's Bridge archipelago."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/04/2021 (Afternoon)"
+    },
+    {
+        "id": 93,
+        "question": {
+            "type": "text",
+            "content": "In which state is India's least densely populated district Dibang Valley located as per Census 2011?"
+        },
+        "options": [
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Nagaland"
+            },
+            {
+                "text": "Telangana"
+            },
+            {
+                "text": "Arunachal Pradesh"
+            }
+        ],
+        "answer": "Arunachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Arunachal Pradesh. Dibang is named after the Dibang River or the Talon as the Mishmis. It has an area of 9,129 square kilometers (3,525 sq mi)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/04/2021 (Afternoon)"
+    },
+    {
+        "id": 94,
+        "question": {
+            "type": "text",
+            "content": "Where is the Kudremukh iron ore mine located?"
+        },
+        "options": [
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Karnataka"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka (Panambur, Mangalore). Other Iron Ore mine states Orissa, Chhattisgarh and Jharkhand."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/04/2021 (Evening)"
+    },
+    {
+        "id": 95,
+        "question": {
+            "type": "text",
+            "content": "In which of the following states/union territories is India's highest Meteorological Centre situated?"
+        },
+        "options": [
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Meghalaya"
+            },
+            {
+                "text": "Ladakh"
+            },
+            {
+                "text": "Jammu and Kashmir"
+            }
+        ],
+        "answer": "Ladakh",
+        "solution": {
+            "type": "text",
+            "content": "Ladakh. Districts in the Union Territory of Ladakh - Two (Kargil district and Leh district)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/04/2021 (Morning)"
+    },
+    {
+        "id": 96,
+        "question": {
+            "type": "text",
+            "content": "In which of the following states is the famous Chitradurga Fort located?"
+        },
+        "options": [
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka (In Chitradurga District). The fort was built in stages between the 11th and 13th centuries by the dynastic rulers of the region, including the Chalukyas and Hoysalas, later the Nayakas of Chitradurga of the Vijayanagar Empire."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/04/2021 (Evening)"
+    },
+    {
+        "id": 97,
+        "question": {
+            "type": "text",
+            "content": "In which of the following states is Sri Bhramaramba Mallikarjuna Temple located?"
+        },
+        "options": [
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Tamil Nadu"
+            }
+        ],
+        "answer": "Andhra Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Andhra Pradesh. Sri Bhramaramba Mallikarjuna Temple is located in Srisailam, district Kurnool, in Andhra Pradesh. Sri Bhramaramba Mallikarjuna Temple, Srisailam Temple is a historic temple dedicated to Shiva and Parvati."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 04/08/2021 (Evening)"
+    },
+    {
+        "id": 98,
+        "question": {
+            "type": "text",
+            "content": "The Sufi shrine Charar-e-Sharief (or Sharif) is located near city."
+        },
+        "options": [
+            {
+                "text": "Srinagar"
+            },
+            {
+                "text": "Mumbai"
+            },
+            {
+                "text": "Hyderabad"
+            },
+            {
+                "text": "Lucknow"
+            }
+        ],
+        "answer": "Srinagar",
+        "solution": {
+            "type": "text",
+            "content": "Srinagar. Charar-e-Sharief, famous for the shrine of Sufi saint Sheikh Noor-ud-Din Noorani."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 05/08/2021 (Afternoon)"
+    },
+    {
+        "id": 99,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the state flower of Manipur?"
+        },
+        "options": [
+            {
+                "text": "Foxtail Orchids"
+            },
+            {
+                "text": "Pink Rhododendron"
+            },
+            {
+                "text": "Shirui Lily"
+            },
+            {
+                "text": "Retusa"
+            }
+        ],
+        "answer": "Pink Rhododendron",
+        "solution": {
+            "type": "text",
+            "content": "Shirui Lily (Lilium mackliniae). Foxtail Orchids (Rhynchostylis retusa) or Kopou Flower is a flower of Assam. Pink Rhododendron is a flower of Himachal."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Morning)"
+    },
+    {
+        "id": 100,
+        "question": {
+            "type": "text",
+            "content": "Which of the following states emerged as a separate state in 1963?"
+        },
+        "options": [
+            {
+                "text": "Nagaland"
+            },
+            {
+                "text": "Mizoram"
+            },
+            {
+                "text": "Arunachal Pradesh"
+            },
+            {
+                "text": "Tripura"
+            }
+        ],
+        "answer": "Nagaland",
+        "solution": {
+            "type": "text",
+            "content": "Nagaland became the 16th state of India on 1 December 1963. Other states were conferred statehood on Mizoram (20 February 1987), Arunachal Pradesh (20 February 1987), Tripura (21 January 1972)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Morning)"
+    },
+    {
+        "id": 101,
+        "question": {
+            "type": "text",
+            "content": "Which present day Indian state came into existence as the Mysore state in 1953?"
+        },
+        "options": [
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Andhra Pradesh"
+            }
+        ],
+        "answer": "Tamil Nadu",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka (renamed in 1973). Karnataka is the largest state in South India and the sixth-largest (area wise) in India. Mysore was formed on 1 November 1956."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Morning)"
+    },
+    {
+        "id": 102,
+        "question": {
+            "type": "text",
+            "content": "'Rahide' is a long scarf worn by the women of to protect their head from the cool breeze as well as to show their traditional social affinity."
+        },
+        "options": [
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Arunachal Pradesh"
+            }
+        ],
+        "answer": "Himachal Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Himachal Pradesh. Woven in all shapes and sizes, Rahide comes in different fabrics and patterns."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Morning)"
+    },
+    {
+        "id": 103,
+        "question": {
+            "type": "text",
+            "content": "Which modern-day Indian state was created on 1 April 1937 as the United Provinces by the Britishers?"
+        },
+        "options": [
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Arunachal Pradesh"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            }
+        ],
+        "answer": "Uttar Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Uttar Pradesh came into existence on 1 April 1937 as a result of the shortening of \"United Provinces of Agra and Oudh\". Arunachal Pradesh - 20 February 1987 55th constitutional amendment act, 1986. Sikkim - 16 May, 197536th constitutional amendment act, 1975."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 11/08/2021 (Morning)"
+    },
+    {
+        "id": 104,
+        "question": {
+            "type": "text",
+            "content": "In which year did the state of Himachal Pradesh come into existence?"
+        },
+        "options": [
+            {
+                "text": "1971"
+            },
+            {
+                "text": "1947"
+            },
+            {
+                "text": "1956"
+            },
+            {
+                "text": "1965"
+            }
+        ],
+        "answer": "1971",
+        "solution": {
+            "type": "text",
+            "content": "25th January 1971. The State of Himachal Pradesh Act was passed by Parliament on 18th December 1970. Thus it emerged as the eighteenth state of the Indian Union."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 11/08/2021 (Evening)"
+    },
+    {
+        "id": 105,
+        "question": {
+            "type": "text",
+            "content": "'Sandalwood' is the state tree of"
+        },
+        "options": [
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Punjab"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "(Karnataka) (d) Rajasthan Karnataka. Mysore city is also known as 'Sandalwood city of India'."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 11/08/2021 (Evening)"
+    },
+    {
+        "id": 106,
+        "question": {
+            "type": "text",
+            "content": "Dogri language is mainly spoken in which of the following states/union territories?"
+        },
+        "options": [
+            {
+                "text": "Uttarakhand"
+            },
+            {
+                "text": "Jammu & Kashmir"
+            },
+            {
+                "text": "Lakshadweep"
+            },
+            {
+                "text": "Assam"
+            }
+        ],
+        "answer": "Jammu & Kashmir",
+        "solution": {
+            "type": "text",
+            "content": "Jammu and Kashmir. Dogri is spoken by approximately 2.3 million people. It is an officially recognized language in India."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/08/2021 (Evening)"
+    },
+    {
+        "id": 107,
+        "question": {
+            "type": "text",
+            "content": "'Aloo Posto' is a traditional delicacy of which state of India?"
+        },
+        "options": [
+            {
+                "text": "Haryana"
+            },
+            {
+                "text": "Uttarakhand"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "West Bengal"
+            }
+        ],
+        "answer": "West Bengal",
+        "solution": {
+            "type": "text",
+            "content": "West Bengal. A traditional Bengali lunch - bhaat (rice), aloo bhaja (fried potato), begun bhaja (fried eggplant), dal (lentils), chingri macher malaikari (prawn in coconut gravy), mutton, chatni, papad, and mishti (sweets)."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 23/11/2020 (Morning)"
+    },
+    {
+        "id": 108,
+        "question": {
+            "type": "text",
+            "content": "The Barabati Sports Stadium is located in the state of:"
+        },
+        "options": [
+            {
+                "text": "Goa"
+            },
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Odisha"
+            }
+        ],
+        "answer": "Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Odisha (Cuttack). The Barabati Sports Stadium was established in 1958 by the Association. Odisha Cricket"
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 23/11/2020 (Evening)"
+    },
+    {
+        "id": 109,
+        "question": {
+            "type": "text",
+            "content": "In which state is the hill station Matheran located?"
+        },
+        "options": [
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Tamil Nadu"
+            }
+        ],
+        "answer": "Maharashtra",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra. Hill stations of Maharashtra Lonavala, Khandala, Mahabaleshwar, Igatpuri, Panchgani, Karjat, Lavasa."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 23/11/2020 (Evening)"
+    },
+    {
+        "id": 110,
+        "question": {
+            "type": "text",
+            "content": "'Ramoji Film City' is located close to which of the following cities? (b) Hyderabad"
+        },
+        "options": [
+            {
+                "text": "Hyderabad"
+            },
+            {
+                "text": "Pune"
+            },
+            {
+                "text": "Mumbai"
+            },
+            {
+                "text": "Gurugram"
+            }
+        ],
+        "answer": "Pune",
+        "solution": {
+            "type": "text",
+            "content": "Hyderabad. It is the largest integrated film city in the world and it has been certified by the Guinness World Records as the largest studio complex in the world."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 23/11/2020 (Evening)"
+    },
+    {
+        "id": 111,
+        "question": {
+            "type": "text",
+            "content": "Vailankanni (Velankanni) is a pilgrim centre located in the _ district of Tamil Nadu."
+        },
+        "options": [
+            {
+                "text": "Theni"
+            },
+            {
+                "text": "Salem"
+            },
+            {
+                "text": "Nagapattinam"
+            },
+            {
+                "text": "Madurai"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "с) Nagapattinam. This city is famous for the church of Mother Mary and handlooms and silk. Vailankanni (Velankanni) is also known as the Lourdes of the East."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 24/11/2020 (Morning)"
+    },
+    {
+        "id": 112,
+        "question": {
+            "type": "text",
+            "content": "The longest continuous wall in India, the second longest in the world, is at _ Fort."
+        },
+        "options": [
+            {
+                "text": "Kumbhalgarh"
+            },
+            {
+                "text": "Chittorgarh"
+            },
+            {
+                "text": "Mehrangarh"
+            },
+            {
+                "text": "Kangra"
+            }
+        ],
+        "answer": "Kumbhalgarh",
+        "solution": {
+            "type": "text",
+            "content": "Kumbhalgarh (Rajasthan). The Great Wall of China is the longest wall in the world."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 24/11/2020 (Evening)"
+    },
+    {
+        "id": 113,
+        "question": {
+            "type": "text",
+            "content": "At which of the following places is the Nehru Memorial Museum and Library located?"
+        },
+        "options": [
+            {
+                "text": "Kolkata"
+            },
+            {
+                "text": "Prayagraj"
+            },
+            {
+                "text": "New Delhi"
+            },
+            {
+                "text": "Mumbai"
+            }
+        ],
+        "answer": "Prayagraj",
+        "solution": {
+            "type": "text",
+            "content": "New Delhi. The Nehru Memorial Museum and Library aims to preserve and reconstruct the history of the Indian Independence Movement."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 25/11/2020 (Morning)"
+    },
+    {
+        "id": 114,
+        "question": {
+            "type": "text",
+            "content": "Salsette Island is situated in which state of India?"
+        },
+        "options": [
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Andhra Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra (on India's west coast). The highest point is the conical peak of Kanheri in Borivali National Park on the northern reaches of Salsette island."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/03/2020 (Afternoon)"
+    },
+    {
+        "id": 115,
+        "question": {
+            "type": "text",
+            "content": "Which of the following places in India would you visit to see Mughal emperor Humayun's library?"
+        },
+        "options": [
+            {
+                "text": "Aurangabad"
+            },
+            {
+                "text": "Agra"
+            },
+            {
+                "text": "Aligarh"
+            },
+            {
+                "text": "New Delhi"
+            }
+        ],
+        "answer": "New Delhi",
+        "solution": {
+            "type": "text",
+            "content": "Delhi (India). Sher Mandal or Humayun's library is a 16th century historic building within the Purana Qila."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/10/2020 (Evening)"
+    },
+    {
+        "id": 116,
+        "question": {
+            "type": "text",
+            "content": "At which of the following hill stations can tourists visiting in winter experience living in igloos?"
+        },
+        "options": [
+            {
+                "text": "Nainital"
+            },
+            {
+                "text": "Shimla"
+            },
+            {
+                "text": "Manali"
+            },
+            {
+                "text": "Kashmir"
+            }
+        ],
+        "answer": "Kashmir",
+        "solution": {
+            "type": "text",
+            "content": "Manali."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/10/2020 (Evening)"
+    },
+    {
+        "id": 117,
+        "question": {
+            "type": "text",
+            "content": "The Char-Dham Highway Project will connect four holy places: Yamunotri, Gangotri, Kedarnath and Badrinath. To which Indian state do these places belong?"
+        },
+        "options": [
+            {
+                "text": "Uttarakhand"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Jharkhand"
+            }
+        ],
+        "answer": "Uttarakhand",
+        "solution": {
+            "type": "text",
+            "content": "Uttarakhand. The foundation stone of the project was laid by Prime Minister Narendra Modi on 27 December 2016 at Parade Ground in Dehradun. Length 825 km."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/10/2020 (Evening)"
+    },
+    {
+        "id": 118,
+        "question": {
+            "type": "text",
+            "content": "Which state in India was the first to introduce the 'Mid-day Meal Scheme' for school children?"
+        },
+        "options": [
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Gujarat",
+        "solution": {
+            "type": "text",
+            "content": "Tamil Nadu. The basic objective of this scheme is to enhance enrolment in schools. Nodal Ministry: Ministry of Education."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/10/2020 (Morning)"
+    },
+    {
+        "id": 119,
+        "question": {
+            "type": "text",
+            "content": "Yadgir, Bidar and Gadag are districts in the state of"
+        },
+        "options": [
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Karnataka."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/10/2020 (Evening)"
+    },
+    {
+        "id": 120,
+        "question": {
+            "type": "text",
+            "content": "National Highway 18 does NOT pass through which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Jharkhand"
+            }
+        ],
+        "answer": "Bihar",
+        "solution": {
+            "type": "text",
+            "content": "Bihar. NH 18 passes through the states of West Bengal, Jharkhand and Odisha."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 21/10/2020 (Morning)"
+    },
+    {
+        "id": 121,
+        "question": {
+            "type": "text",
+            "content": "At which place was the Saffron Mission initiated in 2010?"
+        },
+        "options": [
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Jammu and Kashmir"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Haryana"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Jammu and Kashmir."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 26/10/2020 (Evening)"
+    },
+    {
+        "id": 122,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT a twin city of India?"
+        },
+        "options": [
+            {
+                "text": "Ahmedabad and Gandhinagar"
+            },
+            {
+                "text": "Hubli and Dharwad"
+            },
+            {
+                "text": "Thrissur and Thiruvalla"
+            },
+            {
+                "text": "Cuttack and Bhubaneswar"
+            }
+        ],
+        "answer": "Thrissur and Thiruvalla",
+        "solution": {
+            "type": "text",
+            "content": "Thrissur and Thiruvalla. Famous twin cities of India: Hyderabad and Secunderabad, Vijayawada and Amaravati, Kochi and Ernakulam, Kolkata and Howrah, Jalpaiguri and Siliguri."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 04/03/2020 (Afternoon)"
+    },
+    {
+        "id": 123,
+        "question": {
+            "type": "text",
+            "content": "Which city of India is known as 'Athens of the East'?"
+        },
+        "options": [
+            {
+                "text": "Allahabad"
+            },
+            {
+                "text": "Patna"
+            },
+            {
+                "text": "Madurai"
+            },
+            {
+                "text": "Kochi"
+            }
+        ],
+        "answer": "Madurai",
+        "solution": {
+            "type": "text",
+            "content": "Madurai (Tamil Nadu). It is located on the banks of River Vaigai."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 04/03/2020 (Afternoon)"
+    }
+]

@@ -1,0 +1,1348 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "Kapaleeshwarar Temple (Chennai)."
+        },
+        "options": [],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "The most famous of all Jain"
+        },
+        "options": [],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "The Kailash temple is located inside"
+        },
+        "options": [
+            {
+                "text": "Khandagiri Caves"
+            },
+            {
+                "text": "Ellora Caves"
+            },
+            {
+                "text": "Ajanta Caves"
+            },
+            {
+                "text": "Elephanta Caves"
+            }
+        ],
+        "answer": "Ellora Caves",
+        "solution": {
+            "type": "text",
+            "content": "Ellora Caves (verul caves). A multi-religious rock-cut cave complex with inscriptions dating from the period 6th century CE onwards, located in Aurangabad (Maharashtra). The Kailasa temple (a rock-cave temple) Largest monolithic structure in the world. Ajanta Caves 29 rock-cut Buddhist cave monuments situated in Aurangabad. The Khandagiri and Udayagiri Caves Situated in Bhubaneswar (Odisha)."
+        },
+        "videoUrl": "",
+        "status": "SSC Stenographer 12/10/2023 (Evening)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Select the correct combination of the temple and the state in which it is located."
+        },
+        "options": [
+            {
+                "text": "Mahakaleshwar Jyotirlinga-Uttarakhand"
+            },
+            {
+                "text": "Somnath Jyotirlinga Temple-Maharashtra"
+            },
+            {
+                "text": "Kamakhya Temple-Assam"
+            },
+            {
+                "text": "Jagannath Temple-West Bengal"
+            }
+        ],
+        "answer": "Kamakhya Temple-Assam",
+        "solution": {
+            "type": "text",
+            "content": "Kamakhya Temple Assam. Other temples and locations: Mahakaleshwar Jyotirlinga Madhya Pradesh, Somnath Jyotirlinga Temple Gujarat, Jagannath Temple Odisha, Badrinath Temple Uttarakhand, Golden Temple Punjab, Meenakshi Temple Tamil Nadu. Hoysaleswara Temple Karnataka."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 04/10/2023 (Evening)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "In which state is the famous Brihadeshwar temple situated?"
+        },
+        "options": [
+            {
+                "text": "Kerala"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Andhra Pradesh"
+            }
+        ],
+        "answer": "Karnataka",
+        "solution": {
+            "type": "text",
+            "content": "Tamil Nadu. The Brihadeshwara temple was built by the Chola King, Raja Raj Chola I. The famous deity in the temple is Lord Shiva in a dancing pose (Nataraj). Other temples in Tamil Nadu- Meenakshi Temple (Madurai), Sri Laxmi Narayan Golden Temple (Vellore), Ramanathaswamy Temple (Rameshwaram), festivals, Mahamastakabhisheka is"
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 01/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "In which state is the Bhitari the temple situated?"
+        },
+        "options": [
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Jharkhand"
+            },
+            {
+                "text": "Bihar"
+            }
+        ],
+        "answer": "Uttar Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Uttar Pradesh. The Victory of Skandagupta over the Huns is mentioned in Bhitari Inscription. Other Religious Sites of Uttar Pradesh: Sarnath, Kashi Vishwanath Temple, Banke Bihari Temple, ISKCON Vrindavan, Banaras Ghats"
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 01/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Where is the Mahabodhi temple situated?"
+        },
+        "options": [
+            {
+                "text": "Varanasi"
+            },
+            {
+                "text": "Patna"
+            },
+            {
+                "text": "Bodh Gaya"
+            },
+            {
+                "text": "Agra"
+            }
+        ],
+        "answer": "Patna",
+        "solution": {
+            "type": "text",
+            "content": "Bodh Gaya (Bihar). The Mahabodhi Temple (located on the banks of the Niranjana River) is one of the four holy sites related to the life of the Lord Buddha, and particularly to the attainment of Enlightenment. First temple was established in the 3rd century BC by Mauryan emperor Ashoka. Famous Temples in Bihar: Vishnupad Mandir and Mangala Gowri Temple (Gaya), Pawapuri Jal Mandir (Nalanda) and Mithila Shakti Peeth (Darbhanga)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 04/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Bhitargaon Brick temple is a good example of architecture of which of the following periods?"
+        },
+        "options": [
+            {
+                "text": "Mughal period"
+            },
+            {
+                "text": "Maurya period"
+            },
+            {
+                "text": "Gupta period"
+            },
+            {
+                "text": "Chola period"
+            }
+        ],
+        "answer": "Maurya period",
+        "solution": {
+            "type": "text",
+            "content": "Gupta Period. Bhitargaon Temple: It is situated in Kanpur (Uttar Pradesh) and is one of the earliest surviving brick temples of India. It was built during the 5th century AD. Other Gupta period Architectures: Ajanta, Ellora, Sarnath. Temples built during Gupta Period: Dashavatara Temple (Deogarh), Bhitari Temple (Ghazipur)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "The 'Mukteshwar' dance festival is held from 14th to 16th January at the Mukteswar temple in the state of"
+        },
+        "options": [
+            {
+                "text": "Uttarakhand"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Himachal Pradesh"
+            }
+        ],
+        "answer": "Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Odisha. Temples in Odisha: Jagannath Temple (Puri), Sun Temple (Konark), Maa Tara Tarini Temple (Purusottampur), Lingaraj Temple (Bhubaneswar), Brahmeswara Temple (Bhubaneswar). performed every 12 years at Digambara sacred complex at_ in Karnataka. SSC MTS 06/09/2023 (2nd Shift) (a) Keelakuilkudi (b) Jinanathapura (c) Shravanabelagola (d) Puliyarmala Sol.1815.(c) Shravanabelagola (Hassan district of Karnataka) Gomateshwara statue located in this place and built under the Ganga dynasty. Karuppanna Swamy Temple (Keelakuilkudi, Madurai), Shantinatha Basadi temple (Jinanathapura), Puliyarmala Jain Temple (Kalpetta Wayanad - Kerala)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "The famous 'Pashupatinath Temple' is located in which country from the following?"
+        },
+        "options": [
+            {
+                "text": "Nepal"
+            },
+            {
+                "text": "Maldives"
+            },
+            {
+                "text": "Bhutan"
+            },
+            {
+                "text": "Sri Lanka"
+            }
+        ],
+        "answer": "Nepal",
+        "solution": {
+            "type": "text",
+            "content": "Nepal. Pashupatinath Temple (Dedicated to Lord Shiva): Stretches on both sides of the Bagmati River. It was conferred the status of a World Heritage Site in 1979 by the United Nations Educational, Scientific and Cultural Organization (UNESCO)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/09/2023 (1st Shift)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "The Sirpur Shrine is situated in which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Chhattisgarh"
+            },
+            {
+                "text": "Bihar"
+            }
+        ],
+        "answer": "Chhattisgarh",
+        "solution": {
+            "type": "text",
+            "content": "Chhattisgarh. Temples in Chhattisgarh: Temple, Chandrahasini Maa Bamleshwari Devi Mahamaya Devi Temple, temple, BhoramdeoTemple, Danteshwari Temple. Temples in Uttar Pradesh: Kashi Vishwanath Temple, Ram Janmabhoomi Temple, Banke Bihari Temple."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "The lofty gates erected in the courtyard of the temples in south India were called"
+        },
+        "options": [
+            {
+                "text": "mandaр"
+            },
+            {
+                "text": "vimana"
+            },
+            {
+                "text": "ardhmandap"
+            },
+            {
+                "text": "gopuram"
+            }
+        ],
+        "answer": "gopuram",
+        "solution": {
+            "type": "text",
+            "content": "Gopuram A monumental entrance tower, built in the Dravidian Style. Tallest Gopuram Ranganathaswamy Temple (Tamil Nadu). Southern Indian temples: Shikhara crowning element at the top of the temple. Vimana shape of the main temple tower."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 02/08/2023 (1st shift)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Builders of which of the following temples had constructed a 4 km long incline for placing 90 tonnes of stone on top of the tallest shikhara amongst temples of its time?"
+        },
+        "options": [
+            {
+                "text": "The Sun Temple"
+            },
+            {
+                "text": "Rajarajeshvara Temple"
+            },
+            {
+                "text": "Kandhariya Mahadeva Temple"
+            },
+            {
+                "text": "Gangadikondha Temple"
+            }
+        ],
+        "answer": "Rajarajeshvara Temple",
+        "solution": {
+            "type": "text",
+            "content": "Rajarajeshvara Temple. It was built by Rajaraja Chola I, in Thanjavur, Tamil Nadu. It is dedicated to Lord Shiva."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 05/08/2022 (Shift - 3)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "The Jagannath Temple in Puri depicts which Indian classical dance form?"
+        },
+        "options": [
+            {
+                "text": "Kuchipudi"
+            },
+            {
+                "text": "Bharatanatyam"
+            },
+            {
+                "text": "Kathak"
+            },
+            {
+                "text": "Odissi"
+            }
+        ],
+        "answer": "Odissi",
+        "solution": {
+            "type": "text",
+            "content": "Odissi. Lord Jagannath is worshipped as Vishnu or Narayana or Krishna and deity Balabhadra as Shesha."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 27/07/2023 (1st shift)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "In which of the following countries is the Hindu religious place 'Chandranath Hill' located?"
+        },
+        "options": [
+            {
+                "text": "Bhutan"
+            },
+            {
+                "text": "Bangladesh"
+            },
+            {
+                "text": "Nepal"
+            },
+            {
+                "text": "Sri Lanka"
+            }
+        ],
+        "answer": "Nepal",
+        "solution": {
+            "type": "text",
+            "content": "Bangladesh. Chandranath Temple:- It is located on top of the Chandranath Hill, is a famous Shakti Peeth located near Sitakunda in Bangladesh."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 30/06/2023 (Shift -1)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "In North Indian temple architecture, which element denotes the superstructure or tower above the sanctum and the pillared mandapas?"
+        },
+        "options": [
+            {
+                "text": "Kalasha"
+            },
+            {
+                "text": "Amalaka"
+            },
+            {
+                "text": "Shikhara"
+            },
+            {
+                "text": "Antarala"
+            }
+        ],
+        "answer": "Shikhara",
+        "solution": {
+            "type": "text",
+            "content": "Shikhara - A tower, in elevation, which is progressively inclined in a convex curve. The three most common temple architecture are: Nagara in the north (between the Himalayas and Vindhyas), and Dravidian in the south. The Vesara style of temples is an admixture of Nagara and Dravidian styles."
+        },
+        "videoUrl": "",
+        "status": "Matric Level 28/06/2023 (Shift - 1)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "Which of the following temples is built in the style of the Rekha Deula or the one with a curvilinear superstructure?"
+        },
+        "options": [
+            {
+                "text": "Kailasanathar Temple in Tamil Nadu"
+            },
+            {
+                "text": "Sri Jagannath Temple in Odisha"
+            },
+            {
+                "text": "Shree Padmanabhaswamy Temple in Kerala"
+            },
+            {
+                "text": "Kandariya Mahadev Temple in Madhya Pradesh"
+            }
+        ],
+        "answer": "Sri Jagannath Temple in Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Sri Jagannath Temple in Odisha. It was built by Anantavarman Chodaganga Deva In Kalinga Style architecture. Temple was called the \"White Pagoda\" and is a part of Char Dham pilgrimages (Badrinath, Dwaraka, Puri, Rameswaram)."
+        },
+        "videoUrl": "",
+        "status": "Matric Level 30/06/2023 (Shift - 3)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "Ramappa Temple is dedicated to which God?"
+        },
+        "options": [
+            {
+                "text": "Lord Rama"
+            },
+            {
+                "text": "Lord Indra"
+            },
+            {
+                "text": "Lord Vishnu"
+            },
+            {
+                "text": "Lord Shiva"
+            }
+        ],
+        "answer": "Lord Shiva",
+        "solution": {
+            "type": "text",
+            "content": "Lord Shiva. Ramappa Temple (Rudreshwara Temple or Ramalingeswara Temple) - Situated in Palampet in (Warangal) Telangana. It is a masterpiece of the Kakatiyan style of temple architecture. In July 2021, Ramappa Temple was declared as a UNESCO World Heritage Site. Other famous temples (Telangana) Chilkur Balaji Temple, Sanghi Temple, Gnana Saraswathi Temple, Surendrapuri Temple, Karmanghat Hanuman Temple, Beechupally Anjaneya Swamy Temple."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 03/05/2023 (Morning)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Dilwara Temples at Mount Abu, Rajasthan is an example of_ temple architecture."
+        },
+        "options": [
+            {
+                "text": "Buddhist"
+            },
+            {
+                "text": "Mughal"
+            },
+            {
+                "text": "Jain"
+            },
+            {
+                "text": "Dravida"
+            }
+        ],
+        "answer": "Mughal",
+        "solution": {
+            "type": "text",
+            "content": "Jain. Dilwara Temple (Nagara Style of Architecture): Built by Vimal Shah and designed by Vastupala. Other Jain Architecture: Ellora Caves (Maharashtra), Hathi Gumpha."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 12/05/2023 (Evening)"
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "was considered as the most important part of some of the earliest Hindu temples."
+        },
+        "options": [
+            {
+                "text": "Shikharas"
+            },
+            {
+                "text": "Gatas"
+            },
+            {
+                "text": "Garbhagriha"
+            },
+            {
+                "text": "Mandapa"
+            }
+        ],
+        "answer": "Gatas",
+        "solution": {
+            "type": "text",
+            "content": "Garbhagriha Inner chamber of the temple where the main deity was placed. It is also known as Sanctum Sanctorium. Other parts of Hindu Temple: Mandapa - Incorporates space for a large number of worshippers, Shikhar - Mountain-like spire, Vahan Vehicle of the temple's main deity, Amalak and Kalash - Crowning elements."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 15/06/2023 (Afternoon)"
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "The Virupaksha Temple is situated at"
+        },
+        "options": [
+            {
+                "text": "Surat"
+            },
+            {
+                "text": "Sanchi"
+            },
+            {
+                "text": "Hampi"
+            },
+            {
+                "text": "Jaipur"
+            }
+        ],
+        "answer": "Hampi",
+        "solution": {
+            "type": "text",
+            "content": "Hampi. Virupaksha Temple (Pampapathi Temple) was built by Lakhan Dandesha in Dravidian style on the south bank of the river Tungabhadra at Hampi (Capital of Vijayanagara). Dedicated to Lord Siva. It is designated as a UNESCO World Heritage site (1986). Other Monuments at Hampi Vittala Temple, Ganigatti Jain temple, Krishna Temple and Lotus Mahal."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 16/06/2023 (Evening)"
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "Lingaraja Temple is situated in which of the following states of India?"
+        },
+        "options": [
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Tamil Nadu"
+            }
+        ],
+        "answer": "Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Odisha (Bhubaneswar): Dedicated to Lord Shiva. Karnataka: The Chalukya Shiva Temple (LadKhan Temple) in Aihole. Maharashtra: Ter Temple, is a temple of Vamana (an incarnation of Vishnu), Trimbakeshwar Temple of Lord Shiva in Nashik. Tamil Nadu: Murugan Temple at Saluvankuppam, Brihadeeswarar Temple (Thanjavur), Iravatanesvara temple."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "Where is the World Heritage Site, Konark Sun Temple situated in India?"
+        },
+        "options": [
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Chhattisgarh"
+            },
+            {
+                "text": "Odisha"
+            }
+        ],
+        "answer": "Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Odisha. It was declared a world heritage site in 1984. It was built by King Narasimhadeva I of the Eastern Ganga Dynasty in the 13th century."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/03/2023 (2nd Shift)"
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": "Which of the following temple is situated in Tamil Nadu?"
+        },
+        "options": [
+            {
+                "text": "Shore temple"
+            },
+            {
+                "text": "Kailasa temple"
+            },
+            {
+                "text": "Virupaksha temple"
+            },
+            {
+                "text": "Jagannatha temple"
+            }
+        ],
+        "answer": "Shore temple",
+        "solution": {
+            "type": "text",
+            "content": "The Shore Temple (Dravidian style). It is located in Mahabalipuram (Tamil Nadu). It was designated a UNESCO World Heritage site in 1984. It was built in the reign of Narasimhavarman II."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (4th Shift)"
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": "Which among the following is NOT a component of Lion Capital at Sarnath, India?"
+        },
+        "options": [
+            {
+                "text": "Carved cow representing South direction"
+            },
+            {
+                "text": "Figures of 4 lions"
+            },
+            {
+                "text": "Dharma Chakras"
+            },
+            {
+                "text": "Lotus base bell"
+            }
+        ],
+        "answer": "Carved cow representing South direction",
+        "solution": {
+            "type": "text",
+            "content": "Carved cow representing South direction. The top of the column-the capital-has three parts. First, a base of a lotus flower (ubiquitous symbol of Buddhism). Then, a drum on which four animals are carved represents the four cardinal directions: a horse (west), an ox (east), an elephant (south), and a lion (north). Four lions stand at top of the drum, each facing in the four cardinal directions."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 20/03/2023 (3rd Shift)"
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": "In the Kandariya Mahadeva Temple, was the place of ritual worship, where only the king, his family members and the priests used to gather."
+        },
+        "options": [
+            {
+                "text": "sanctum sanctorum"
+            },
+            {
+                "text": "Mahamandap"
+            },
+            {
+                "text": "antraal"
+            },
+            {
+                "text": "Amalak"
+            }
+        ],
+        "answer": "sanctum sanctorum",
+        "solution": {
+            "type": "text",
+            "content": "sanctum sanctorum. Garbha griha (Temple's innermost part where the Murti of the deity is kept). Temple Other Part Mahamandapa (greater hall). Antarala (small antechamber or foyer between garbhagriha and mandapa). Amalaka (notched stone disk, usually with ridges on the rim, that sits on the top temple's shikhara. Kandariya Mahadeva temple (Nagara Style of Architecture) (Madhya Pradesh) was constructed by king Dhangadeva (Chandela dynasty) in 999 CE."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 10/11/2022 (Evening)"
+    },
+    {
+        "id": 27,
+        "question": {
+            "type": "text",
+            "content": "In which state of India is the Sri Brahmapureeswarar temple situated?"
+        },
+        "options": [
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Manipur"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Tamil Nadu",
+        "solution": {
+            "type": "text",
+            "content": "Tamil Nadu. Other famous temples of Tamil Nadu: Meenakshi Temple, Rameshwaram Temple, Kumari Amman Temple, Nagannathaswamy Temple, Brihadeeswarar Temple, Kapaleeshwarar Temple, Nataraja Temple, Arunachaleswarar Temple, Ekambareswarar, Mahabalipuram Shore, etc."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 06/07/2022 (Afternoon)"
+    },
+    {
+        "id": 28,
+        "question": {
+            "type": "text",
+            "content": "Kardang Monastery which is a Buddhist Pilgrimage is situated in which state of India?"
+        },
+        "options": [
+            {
+                "text": "Jharkhand"
+            },
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Goa"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Goa",
+        "solution": {
+            "type": "text",
+            "content": "Himachal Pradesh. It is situated on the left bank of River Bhaga. It was renovated in 1912 CE by Lama Norbu Rinpoche."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/07/2022 (Morning)"
+    },
+    {
+        "id": 29,
+        "question": {
+            "type": "text",
+            "content": "What is the stone-like disc seen at the top of the temple in Odisha and nearby district's Temple architecture called?"
+        },
+        "options": [
+            {
+                "text": "Kalasha"
+            },
+            {
+                "text": "Amalaka"
+            },
+            {
+                "text": "Antarala"
+            },
+            {
+                "text": "Jagati"
+            }
+        ],
+        "answer": "Antarala",
+        "solution": {
+            "type": "text",
+            "content": "'Amalaka' is one of the important elements of Temple Shikhara (Tower) in Nagara Shaili usually found in Uttara Bharatha. A mandir 'kalash' is a metal or stone spire used to top the domes of Hindu temples. In Hindu temple architecture, the jagati' is the raised surface of the platform or terrace upon which some Buddhist or Hindu temples are built."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/07/2022 (Morning)"
+    },
+    {
+        "id": 30,
+        "question": {
+            "type": "text",
+            "content": "Pradesh Khajuraho temple in Madhya is an example of style of temple architecture."
+        },
+        "options": [
+            {
+                "text": "Dravida"
+            },
+            {
+                "text": "Nagara"
+            },
+            {
+                "text": "Vesara"
+            },
+            {
+                "text": "Hoysala"
+            }
+        ],
+        "answer": "Vesara",
+        "solution": {
+            "type": "text",
+            "content": "Nagara. The Khajuraho Group of Monuments is a group of Hindu temples and Jain temples in Chhatarpur district, Madhya Pradesh, India. They are a UNESCO World Heritage Site (1986)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/07/2022 (Evening)"
+    },
+    {
+        "id": 31,
+        "question": {
+            "type": "text",
+            "content": "Madan Mohan temple is a centrally protected monument. It is situated in which state of India?"
+        },
+        "options": [
+            {
+                "text": "Himachal Pradesh"
+            },
+            {
+                "text": "Uttarakhand"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Karnataka"
+            }
+        ],
+        "answer": "Uttar Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Uttar Pradesh (in Vrindavan). Madan Mohan temple was built by Sanatana Gosvami in 1580 AD. Some other famous temples of Uttar Pradesh are Ram Janmabhoomi Temple, Shri Krishna Janmabhoomi Mandir, Gorakhnath Math Temple, Kashi Vishwanath Temple, Banke Bihari Temple, Vrindavan, Sarnath temple, etc."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/07/2022 (Morning)"
+    },
+    {
+        "id": 32,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is correct about Nagara or North Indian Temple Style Architecture?"
+        },
+        "options": [
+            {
+                "text": "There were no tower or shikhara"
+            },
+            {
+                "text": "It has elaborate boundary walls"
+            },
+            {
+                "text": "There was no Kalasha, the topmost part of the temple"
+            },
+            {
+                "text": "The garbhagriha is always located directly under the tallest tower."
+            }
+        ],
+        "answer": "The garbhagriha is always located directly under the tallest tower.",
+        "solution": {
+            "type": "text",
+            "content": "Features of Nagara style temple: It is built on a stone platform with steps leading up to it, It does not usually have elaborate boundary walls or gateways, Amalaka or Kalash which is installed on Shikhara, etc. Sub divisions: Rekha-Prasad or Latina, Shekari, Bhumija, Valabhi, and Phamsana."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 21/07/2022 (Afternoon)"
+    },
+    {
+        "id": 33,
+        "question": {
+            "type": "text",
+            "content": "Harmandir Sahib is situated in which city of Punjab?"
+        },
+        "options": [
+            {
+                "text": "Bathinda"
+            },
+            {
+                "text": "Amritsar"
+            },
+            {
+                "text": "Kapurthala"
+            },
+            {
+                "text": "Patiala"
+            }
+        ],
+        "answer": "Amritsar",
+        "solution": {
+            "type": "text",
+            "content": "Amritsar, Punjab. Golden Temple (Sri Harmandar Sahib) is the preeminent spiritual site of Sikhism. Some other spiritual sites of Sikhism are the Gurdwara Darbar Sahib Kartarpur in Kartarpur (Pakistan), and Gurdwara Janam Asthan in Nankana Sahib (Pakistan), etc."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 26/07/2022 (Evening)"
+    },
+    {
+        "id": 34,
+        "question": {
+            "type": "text",
+            "content": "A 7 meter high sculpture known as 'Sadashiva', representing three aspects of Lord Shiva is found at _ Caves."
+        },
+        "options": [
+            {
+                "text": "Khandagiri"
+            },
+            {
+                "text": "Bhimbetka"
+            },
+            {
+                "text": "Udayagiri"
+            },
+            {
+                "text": "Elephanta"
+            }
+        ],
+        "answer": "Elephanta",
+        "solution": {
+            "type": "text",
+            "content": "Elephanta Caves. The sculpture represents three aspects of Shiva: identified as the Creator, the Preserver, and the Destroyer, respectively, along with Aghora or Bhairava (left half), Taptapurusha or Mahadeva (central full face), and Vamadeva or Uma (right half)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/10/2021 (Morning)"
+    },
+    {
+        "id": 35,
+        "question": {
+            "type": "text",
+            "content": "International Who established Society Consciousness (ISKCON)? for the Krishna"
+        },
+        "options": [
+            {
+                "text": "Bhaktivedanta Swami Prabhupada"
+            },
+            {
+                "text": "Sri Chaitanya"
+            },
+            {
+                "text": "Srila Bhaktisiddhanta Sarasvati"
+            },
+            {
+                "text": "Sri Ramakrishna"
+            }
+        ],
+        "answer": "Bhaktivedanta Swami Prabhupada",
+        "solution": {
+            "type": "text",
+            "content": "Bhaktivedanta Swami Prabhupada. ISKCON was founded in 1966 in New York City by A. С. Bhaktivedanta Swami Prabhupada. Its core beliefs are based on Hindu scriptures, particularly the Bhagavad Gita and the Bhagavata Purana, and the Gaudiya Vaishnava tradition."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 14/10/2021 (Morning)"
+    },
+    {
+        "id": 36,
+        "question": {
+            "type": "text",
+            "content": "Phodong Monastery is located in"
+        },
+        "options": [
+            {
+                "text": "Ladakh"
+            },
+            {
+                "text": "Madhya Pradesh"
+            },
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Sikkim"
+            }
+        ],
+        "answer": "Sikkim",
+        "solution": {
+            "type": "text",
+            "content": "Sikkim. Phodong Monastery (or Phodang) is a Buddhist monastery. Hemis Monastery is situated 45 Kms away from Leh in Ladakh."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 12/04/2021 (Evening)"
+    },
+    {
+        "id": 37,
+        "question": {
+            "type": "text",
+            "content": "Shaikh Muinuddin Sijzi (Moinuddin Chishti) dargah is situated in which of the following cities?"
+        },
+        "options": [
+            {
+                "text": "Jalandhar"
+            },
+            {
+                "text": "Panipat"
+            },
+            {
+                "text": "Ajmer"
+            },
+            {
+                "text": "Patna"
+            }
+        ],
+        "answer": "Panipat",
+        "solution": {
+            "type": "text",
+            "content": "Ajmer. Dargah Sharif of Ajmer Sharif is a Sufi tomb (dargah) of the revered Sufi saint, Moinuddin Chishti, located at Ajmer, Rajasthan. The shrine has Chishti's grave (Maqbara)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/04/2021 (Morning)"
+    },
+    {
+        "id": 38,
+        "question": {
+            "type": "text",
+            "content": "On which of the following idols of Hindu mythology has Italian screenwriter-film producer Alfredo Covelli authored 'Vahana Masterclass', a book for kids?"
+        },
+        "options": [
+            {
+                "text": "Lord Vishnu"
+            },
+            {
+                "text": "Lord Shiva"
+            },
+            {
+                "text": "Lord Ganesha"
+            },
+            {
+                "text": "Lord Krishna"
+            }
+        ],
+        "answer": "Lord Shiva",
+        "solution": {
+            "type": "text",
+            "content": "Lord Ganesha."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/04/2021 (Afternoon)"
+    },
+    {
+        "id": 39,
+        "question": {
+            "type": "text",
+            "content": "In which of the following states is Sabarimala Sree Dharma Sastha Temple located?"
+        },
+        "options": [
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Telangana"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Kerala",
+        "solution": {
+            "type": "text",
+            "content": "Kerala. The temple is dedicated to Lord Ayyappa Swamy. Kerala's renowned Sabarimala Temple is to be renamed Sabarimala Sree Ayyappa Swamy Temple."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 04/08/2021 (Morning)"
+    },
+    {
+        "id": 40,
+        "question": {
+            "type": "text",
+            "content": "Kadam Rasul Mosque, whose construction is characterized by the use of bricks and black marble, is situated at"
+        },
+        "options": [
+            {
+                "text": "Purnea"
+            },
+            {
+                "text": "Mandu"
+            },
+            {
+                "text": "Alwar"
+            },
+            {
+                "text": "Gaur"
+            }
+        ],
+        "answer": "Gaur",
+        "solution": {
+            "type": "text",
+            "content": "Gaur, Malda (West Bengal). Kadam Rasool Mosque was built by Sultan Nasseruddin Nusrat Shah in the year 1530-31."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 23/11/2020 (Morning)"
+    },
+    {
+        "id": 41,
+        "question": {
+            "type": "text",
+            "content": "In which of the following places is the Govardhan Math located?"
+        },
+        "options": [
+            {
+                "text": "Badrinath"
+            },
+            {
+                "text": "Dwarka"
+            },
+            {
+                "text": "Sringeri"
+            },
+            {
+                "text": "Puri"
+            }
+        ],
+        "answer": "Puri",
+        "solution": {
+            "type": "text",
+            "content": "Puri (Orissa). Govardhan Math or Govardhan Peetham is one amongst the four cardinal peethams established by the 8th century philosopher-saint Adi Shankara to preserve and propagate Sanatana Dharma."
+        },
+        "videoUrl": "",
+        "status": "SSC CPO 24/11/2020 (Morning)"
+    },
+    {
+        "id": 42,
+        "question": {
+            "type": "text",
+            "content": "Which of the following temples has Panchayatana Style of architecture?"
+        },
+        "options": [
+            {
+                "text": "Sun Temple"
+            },
+            {
+                "text": "Kashi Vishwanath temple"
+            },
+            {
+                "text": "Brihadeeswara Temple"
+            },
+            {
+                "text": "Dashavatara Temple"
+            }
+        ],
+        "answer": "Dashavatara Temple",
+        "solution": {
+            "type": "text",
+            "content": "Dashavatara Temple. Panchayatana is an architectural style where the main shrine is built on a rectangular plinth with four smaller subsidiary shrines at the four corners, making it a total of five shrines."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 13/10/2020 (Evening)"
+    },
+    {
+        "id": 43,
+        "question": {
+            "type": "text",
+            "content": "Where is Bishnupur, which is famous for terracotta temples, located?"
+        },
+        "options": [
+            {
+                "text": "Rajasthan"
+            },
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Assam"
+            }
+        ],
+        "answer": "West Bengal",
+        "solution": {
+            "type": "text",
+            "content": "West Bengal. Terracotta temples are known for their Hindu temples made from local terracotta, such as the pyramid-shaped Rasmancha, established around 1600"
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 14/10/2020 (Afternoon)"
+    },
+    {
+        "id": 44,
+        "question": {
+            "type": "text",
+            "content": "Which of the following cities is home to one of the famous Swaminarayan Akshardham temples in India?"
+        },
+        "options": [
+            {
+                "text": "New Delhi"
+            },
+            {
+                "text": "Vadodara"
+            },
+            {
+                "text": "Madurai"
+            },
+            {
+                "text": "Mysore"
+            }
+        ],
+        "answer": "New Delhi",
+        "solution": {
+            "type": "text",
+            "content": "New Delhi. Swaminarayan Akshardham is the world's largest comprehensive Hindu temple. It measures 356 ft (109 m) in length, 141 ft high and 356 ft in width. It was inaugurated on 6 November 2005."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/10/2020 (Afternoon)"
+    },
+    {
+        "id": 45,
+        "question": {
+            "type": "text",
+            "content": "Kartarpur Sahib corridor connects Dera Baba Nanak Shrine in Gurdaspur, India to Kartarpur Gurudwara in Pakistan, which is located near the banks of the river"
+        },
+        "options": [
+            {
+                "text": "Ravi"
+            },
+            {
+                "text": "Jhelum"
+            },
+            {
+                "text": "Sutlej"
+            },
+            {
+                "text": "Chenab"
+            }
+        ],
+        "answer": "Ravi",
+        "solution": {
+            "type": "text",
+            "content": "Ravi. Kartarpur Corridor was first proposed in early 1999 by Atal Bihari Vajpayee and Nawaz Sharif, the Prime Ministers of India and Pakistan respectively at that time."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/10/2020 (Morning)"
+    },
+    {
+        "id": 46,
+        "question": {
+            "type": "text",
+            "content": "Birthplace of Guru Nanak, known as Nankana Sahib today, was earlier called."
+        },
+        "options": [
+            {
+                "text": "Roda"
+            },
+            {
+                "text": "Rai Bhoi di Talwandi"
+            },
+            {
+                "text": "Umarkot"
+            },
+            {
+                "text": "Luni"
+            }
+        ],
+        "answer": "Umarkot",
+        "solution": {
+            "type": "text",
+            "content": "Rai Bhoi di Talvandi. Guru Nanak was the founder of the Sikh religion and was born on 15th April 1469 in Pakistan."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 16/10/2020 (Morning)"
+    },
+    {
+        "id": 47,
+        "question": {
+            "type": "text",
+            "content": "The Biraja Temple, the Rajarani Temple and the Samaleswari Temple are all located in?"
+        },
+        "options": [
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Odisha",
+        "solution": {
+            "type": "text",
+            "content": "Odisha."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 4/3/2020 (Morning)"
+    },
+    {
+        "id": 48,
+        "question": {
+            "type": "text",
+            "content": "'Dharmaraja (Yudhishthir) Ratha', 'Bhima Ratha', 'Arjuna Ratha' and 'Nakula Sahadeva Ratha' are four of the Panch Rathas at Mahabalipuram. What is the name of the fifth Ratha?"
+        },
+        "options": [
+            {
+                "text": "Draupadi Ratha"
+            },
+            {
+                "text": "Bhishma Ratha"
+            },
+            {
+                "text": "Krishna Ratha"
+            },
+            {
+                "text": "KarnaRatha"
+            }
+        ],
+        "answer": "Draupadi Ratha",
+        "solution": {
+            "type": "text",
+            "content": "Draupadi Ratha."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 5/3/2020 (Afternoon)"
+    },
+    {
+        "id": 49,
+        "question": {
+            "type": "text",
+            "content": "Which tales are related with the painting and sculptures of the Ajanta caves?"
+        },
+        "options": [
+            {
+                "text": "Hitopadesha Tales"
+            },
+            {
+                "text": "Panchatantra Tales"
+            },
+            {
+                "text": "Pentamerone Tales"
+            },
+            {
+                "text": "Jataka Tales"
+            }
+        ],
+        "answer": "Jataka Tales",
+        "solution": {
+            "type": "text",
+            "content": "Jataka tales. These are Buddhist legends describing the previous births of the Buddha. These fables embed ancient morals and cultural lores that are also found in the fables and legends of Hindu and Jain texts."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 09/03/2020 (Afternoon)"
+    }
+]

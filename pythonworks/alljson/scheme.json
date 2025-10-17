@@ -1,0 +1,1984 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "The Swadesh Darshan Scheme (SDS) which was launched in 2014-15 by the Ministry of Tourism, Government of India, has been revamped as in 2023."
+        },
+        "options": [
+            {
+                "text": "Swadesh Darshan 3.0"
+            },
+            {
+                "text": "Swadesh Darshan 4.0"
+            },
+            {
+                "text": "Swadesh Darshan 2.0"
+            },
+            {
+                "text": "Swadesh Darshan 1.0"
+            }
+        ],
+        "answer": "Swadesh Darshan 2.0",
+        "solution": {
+            "type": "text",
+            "content": "Swadesh Darshan 2.0 (SD2.0). It seeks to attain \"Aatmanirbhar Bharat\" with the mantra of 'vocal for local'."
+        },
+        "videoUrl": "",
+        "status": "SSC Stenographer 12/10/2023 (Afternoon)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "Which age group of the population are covered under the Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) scheme of the Government of India?"
+        },
+        "options": [
+            {
+                "text": "25 to 60 years"
+            },
+            {
+                "text": "15 to 35 years"
+            },
+            {
+                "text": "30 to 60 years"
+            },
+            {
+                "text": "14 to 40 years"
+            }
+        ],
+        "answer": "30 to 60 years",
+        "solution": {
+            "type": "text",
+            "content": "15 to 35 years. Deen Dayal Upadhyaya Grameen Kaushalyaya Yojana (Launch 2014): It is a demand-driven placement linked skill training initiative working under the National Rural Livelihood Mission (NRLM). Scheme was announced by the Ministry of Rural Development on Antyodaya Divas."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 01/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "What is the name of the scheme launched by the Himachal Pradesh government for dairy farmers?"
+        },
+        "options": [
+            {
+                "text": "Dugdh Dhan"
+            },
+            {
+                "text": "Pashu Poshan"
+            },
+            {
+                "text": "Doodh aur Dhan"
+            },
+            {
+                "text": "Sanjeevani"
+            }
+        ],
+        "answer": "Sanjeevani",
+        "solution": {
+            "type": "text",
+            "content": "Sanjeevani: This project uses telemedicine and technology to provide convenient and high-quality livestock care services to farmers."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 04/09/2023 (1st Shift)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "In which year was the Training of Rural Youth for Self Employment (TRYSEM) scheme launched by the Government of India?"
+        },
+        "options": [
+            {
+                "text": "1991"
+            },
+            {
+                "text": "2000"
+            },
+            {
+                "text": "1979"
+            },
+            {
+                "text": "1965"
+            }
+        ],
+        "answer": "1979",
+        "solution": {
+            "type": "text",
+            "content": "1979. Objectives of TRYSEM: To provide rural youth (18-35 years) from families below the poverty line with training and technical skills to enable them to take up self-employment in agriculture, industry, services and business activities."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 04/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "Under the Chief Minister Learn and Earn Scheme of Madhya Pradesh, the government will NOT provide which of the following?"
+        },
+        "options": [
+            {
+                "text": "Financial assistance"
+            },
+            {
+                "text": "Training"
+            },
+            {
+                "text": "Laptops"
+            },
+            {
+                "text": "Employable skills"
+            }
+        ],
+        "answer": "Laptops",
+        "solution": {
+            "type": "text",
+            "content": "Laptops. Learn and Earn scheme: The important aspect of this learn-and-earn scheme is that along with learning skills, the youth will also be given an allowance of Rs 8,000 to 10,000 a month."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 04/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements are correct regarding the Power Sector's Revamped Distribution Sector Scheme? 1) The Prime Minister launched the Ministry of Power's flagship Revamped Distribution Sector Scheme in 2022. 2) This scheme is aimed at improving the operational efficiencies and financial sustainability of distribution companies. 3) From FY 2022-23 to FY 2027-28, the scheme aims to provide financial assistance to DISCOMs 4) This scheme proposes to provide 25 crore Smart Prepaid meters to consumers all over the country."
+        },
+        "options": [
+            {
+                "text": "1, 3 and 4"
+            },
+            {
+                "text": "2, 3 and 4"
+            },
+            {
+                "text": "1, 2 and 4"
+            },
+            {
+                "text": "1, 2 and 3"
+            }
+        ],
+        "answer": "2, 3 and 4",
+        "solution": {
+            "type": "text",
+            "content": "1, 2 and 4. The Prime Minister launched the Ministry of Power's flagship Revamped Distribution Sector Scheme with an outlay of Rs.3,03,758 crore over a period of five years from FY 2021-22 to FY 2025-26."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/09/2023 (1st Shift)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Under which scheme of Airport Authority of India did the Jammu and Kashmir Lieutenant Governor inaugurate UMEED Market Place at Srinagar international airport for supporting local art and artisans of Self Help Groups of J&K Rural Livelihood Mission?"
+        },
+        "options": [
+            {
+                "text": "AVSAR Scheme"
+            },
+            {
+                "text": "AAKAR Scheme"
+            },
+            {
+                "text": "AKASH Scheme"
+            },
+            {
+                "text": "ASAR Scheme"
+            }
+        ],
+        "answer": "AVSAR Scheme",
+        "solution": {
+            "type": "text",
+            "content": "AVSAR Scheme - Airport as Venue for Skilled Artisans Of The Region. launched in 2022."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 05/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "What is the name of the scheme launched by the Uttar Pradesh government to boost milk production?"
+        },
+        "options": [
+            {
+                "text": "Nand Baba Milk Mission"
+            },
+            {
+                "text": "Gokul Milk Mission"
+            },
+            {
+                "text": "Krishna Balram Milk Mission"
+            },
+            {
+                "text": "Gua Ras Mission"
+            }
+        ],
+        "answer": "Nand Baba Milk Mission",
+        "solution": {
+            "type": "text",
+            "content": "Nand Baba Milk Mission. Scheme to increase milk production: Rashtriya Gokul Mission (2014), National Dairy Plan-I, Central Herd Registration Scheme. Father of White Revolution in India - Verghese Kurien."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 06/09/2023 (1st Shift)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "The Swarna Jayanti Shahari Rojgar Yojana (SJSRY) was launched in the year by the Government of India."
+        },
+        "options": [
+            {
+                "text": "1990"
+            },
+            {
+                "text": "1997"
+            },
+            {
+                "text": "2010"
+            },
+            {
+                "text": "2004"
+            }
+        ],
+        "answer": "1997",
+        "solution": {
+            "type": "text",
+            "content": "1997. SJSRY: The Swarna Jayanti Shahari Rozgar Yojana (SJSRY) shall seek to provide gainful employment to the urban unemployed. Ministry Ministry of Housing and Urban Affairs."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 08/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "Which of the following has initiated the Village Defence Guards scheme to instil a sense of self protection and ensure the safety and security of villages and infrastructural installations in and around the villages?"
+        },
+        "options": [
+            {
+                "text": "Ladakh"
+            },
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Jammu and Kashmir"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Jammu and Kashmir",
+        "solution": {
+            "type": "text",
+            "content": "Jammu and Kashmir. The persons leading the Village Defence Guards will be paid Rs 4,500 per month by the government."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "The Pradhan Mantri Garib Kalyan Rojgar Abhiyaan (PMGKRA) was launched in the year 2020 by which Ministry of Government of India?"
+        },
+        "options": [
+            {
+                "text": "Ministry of Ports, Shipping and Waterways"
+            },
+            {
+                "text": "Ministry of Social Justice and Empowerment"
+            },
+            {
+                "text": "Ministry of Micro, Small and Medium Enterprises"
+            },
+            {
+                "text": "Ministry of Rural Development"
+            }
+        ],
+        "answer": "Ministry of Rural Development",
+        "solution": {
+            "type": "text",
+            "content": "Ministry of Rural Development. It was for a period of 125 days with a resource envelope of Rs.50,000 crore, to boost employment and livelihood opportunities for returnee migrant workers and similarly affected workers in the rural area, in the wake of COVID-19 pandemic. It will run for 125 days in 116 districts across six states Bihar, Uttar Pradesh, Madhya Pradesh, Jharkhand, Odisha and Rajasthan."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/09/2023 (2nd Shift)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "In which year was the Pradhan Mantri Rojgar Protsahan (PMRPY) launched? Yojana"
+        },
+        "options": [
+            {
+                "text": "2018"
+            },
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2016"
+            },
+            {
+                "text": "2022"
+            }
+        ],
+        "answer": "2016",
+        "solution": {
+            "type": "text",
+            "content": "2016. PMRPY: a scheme to incentivise employers registered with the Employees' Provident Fund Organisation (EPFO) for job creation. Administered by The Employees' Provident Fund Organisation (EPFO). Nodal Ministry Ministry of Labour and Employment."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/09/2023 (3rd Shift)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Which of the following options best describes the purpose of Pradhan Mantri Shram Yogi Mann-Dhan (PM-SYM) scheme, 2019?"
+        },
+        "options": [
+            {
+                "text": "Provide healthcare services to pregnant women"
+            },
+            {
+                "text": "Provide education loans to financially weak students"
+            },
+            {
+                "text": "Provide pension to unorganized sector workers"
+            },
+            {
+                "text": "Provide financial assistance to small and marginal farmers"
+            }
+        ],
+        "answer": "Provide pension to unorganized sector workers",
+        "solution": {
+            "type": "text",
+            "content": "Pradhan Mantri Shram Yogi Maan Dhan (PM-SYM) scheme The scheme provides a monthly pension of Rs. 3000/- to subscribers after they attain the age of 60 years. The scheme is for the age group of 18-40 years."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 09/08/2023 (2nd shift)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "According to the Mukhyamantri Ladli Behna Yojana, which of the following is NOT the correct eligibility?"
+        },
+        "options": [
+            {
+                "text": "Should be belonging to Madhya Pradesh"
+            },
+            {
+                "text": "Age of 23-60"
+            },
+            {
+                "text": "Candidates can be married, widowed or divorced women"
+            },
+            {
+                "text": "Annual family income should be below 4.50 Lakh"
+            }
+        ],
+        "answer": "Annual family income should be below 4.50 Lakh",
+        "solution": {
+            "type": "text",
+            "content": "Mukhyamantri Ladli Behna Yojana: Madhya Pradesh Government announced the implementation of \"Mukhyamantri Ladli Behna Yojana\" on 28 January 2023."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2023 (3rd shift)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "government Which of the schemes subsidised food grains to poor households in India? following provides"
+        },
+        "options": [
+            {
+                "text": "Pradhan Mantri Kaushal Vikas Yojana"
+            },
+            {
+                "text": "Pradhan Mantri Garib Kalyan Anna Yojana"
+            },
+            {
+                "text": "Pradhan Mantri Jan Arogya Yojana"
+            },
+            {
+                "text": "Atal Pension Yojana"
+            }
+        ],
+        "answer": "Pradhan Mantri Garib Kalyan Anna Yojana",
+        "solution": {
+            "type": "text",
+            "content": "Pradhan Mantri Garib Kalyan Anna Yojana (2020). Scheme aims to provide 5 kg of grains (wheat or rice) for free to each individual who is covered under National Food Security Act, 2013."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2023 (4th shift)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) was placed in the Guinness Book of World Records for which of the following achievements?"
+        },
+        "options": [
+            {
+                "text": "Opening the largest number of bank accounts in one month"
+            },
+            {
+                "text": "Opening the largest number of bank accounts in one week"
+            },
+            {
+                "text": "Opening the largest number of bank accounts in one fortnight"
+            },
+            {
+                "text": "Opening the largest number of bank accounts in one day"
+            }
+        ],
+        "answer": "Opening the largest number of bank accounts in one week",
+        "solution": {
+            "type": "text",
+            "content": ". PMJDY (2014). A National Mission for financial inclusion. Benefits- free accident insurance coverage of Rs. 2 lakh, an overdraft facility up to Rs. 10,000 to eligible account holders."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2023 (4th shift)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "Safeguarding India's Intangible Cultural Heritage and Diverse Cultural Traditions of India' is a scheme of which Ministry of the Government of India?"
+        },
+        "options": [
+            {
+                "text": "Ministry of Culture"
+            },
+            {
+                "text": "Ministry of Tourism"
+            },
+            {
+                "text": "Ministry of Education"
+            },
+            {
+                "text": "Ministry of Urban Development"
+            }
+        ],
+        "answer": "Ministry of Culture",
+        "solution": {
+            "type": "text",
+            "content": "Ministry of Culture. Schemes under the Ministry of Culture: Cultural Function & Production Grant, National Mission on Libraries, Scheme for Promotion of Culture of Science (SPOCS)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 14/08/2023 (3rd shift)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "Which of the following initiatives of the Government of India is aimed at developing and rejuvenating 75 water bodies in each district of the country as a part of the celebration of Azadi ka Amrit Mahotsav?"
+        },
+        "options": [
+            {
+                "text": "Mission Amrit Clean Water"
+            },
+            {
+                "text": "Mission Amrit Water"
+            },
+            {
+                "text": "Mission Amrit Sarovar"
+            },
+            {
+                "text": "Mission Amrit District"
+            }
+        ],
+        "answer": "Mission Amrit Sarovar",
+        "solution": {
+            "type": "text",
+            "content": "Mission Amrit Sarovar. With a view to conserve water for the future this Mission launched on 24th April, 2022."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 14/08/2023 (4th shift)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Which of the following components is NOT related to the New India Literacy Programme?"
+        },
+        "options": [
+            {
+                "text": "Business and Enhancing skill Development"
+            },
+            {
+                "text": "Foundational Literacy and Numeracy"
+            },
+            {
+                "text": "Critical Life Skills"
+            },
+            {
+                "text": "Basic Education"
+            }
+        ],
+        "answer": "Business and Enhancing skill Development",
+        "solution": {
+            "type": "text",
+            "content": "Implementation during five years from the FYs 2022-23 to 2026-27. Aim - Aims to cover a target of 5.00 crore non-literates in the age group of 15 years and above. The scheme has five components Foundational Literacy and Numeracy, Critical Life Skills,Vocational Skills Development, Basic Education and Continuing Education."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/08/2023 (2nd shift)"
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "Name the campaign launched by the Madhya Pradesh government on the occasion of National Girl Child Day on January 24, 2021, under the 'Beti Bachao Beti Padhao' scheme."
+        },
+        "options": [
+            {
+                "text": "Mazi Kanya Bhagyashree Scheme"
+            },
+            {
+                "text": "CBSE Udaan scheme"
+            },
+            {
+                "text": "Balika Samridhi Yojana"
+            },
+            {
+                "text": "PANKH Abhiyan"
+            }
+        ],
+        "answer": "PANKH Abhiyan",
+        "solution": {
+            "type": "text",
+            "content": "PANKH Abhiyan. PANKH (Protection, Awareness, Nutrition, Knowledge, and Health) Abhiyan was launched for a year (2021-22) to aid in the holistic development of the girl child."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/08/2023 (3rd shift)"
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the largest pan-India scheme to strengthen health care infrastructure across the country with focus on primary, secondary and tertiary care services?"
+        },
+        "options": [
+            {
+                "text": "LaQshya"
+            },
+            {
+                "text": "PM-ABНІM"
+            },
+            {
+                "text": "AB-PMJAY"
+            },
+            {
+                "text": "PM-MI"
+            }
+        ],
+        "answer": "AB-PMJAY",
+        "solution": {
+            "type": "text",
+            "content": "PM-ABHIM (Prime Minister Ayushman Bharat Health Infrastructure Mission): Ministry (Ministry of Health and Family Welfare), launched (October 2021)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 14/07/2023 (1st shift)"
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "The 'Right to Work' plan, under the National Rural Employment Guarantee Act, 2005, was implemented in how many districts in the first phase?"
+        },
+        "options": [
+            {
+                "text": "150"
+            },
+            {
+                "text": "200"
+            },
+            {
+                "text": "100"
+            },
+            {
+                "text": "120"
+            }
+        ],
+        "answer": "200",
+        "solution": {
+            "type": "text",
+            "content": "200. National Rural Employment Guarantee Act, 2005 (NREGA): It is under the Ministry of Rural development. In (2009), the NREGA scheme was renamed as the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) scheme. Aim to ensure that if any adult member of a rural household is willing to do unskilled manual work, that household gets at least 100 days of jobs in a financial year."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 17/07/2023 (1st shift)"
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "What is the priority zone of the AMRUT (Atal Mission for Rejuvenation and Urban Transformation) mission, which was launched by the Government of India in 2015?"
+        },
+        "options": [
+            {
+                "text": "Water supply followed by sewerage"
+            },
+            {
+                "text": "Electricity and power generation"
+            },
+            {
+                "text": "Primary education for all"
+            },
+            {
+                "text": "Health care of urban dwellers"
+            }
+        ],
+        "answer": "Water supply followed by sewerage",
+        "solution": {
+            "type": "text",
+            "content": "Water supply followed by sewerage. AMRUT: Launched on 25th June 2015 and selected 500 cities and towns to focus on development of basic infrastructure. National Heritage City Development And Augmentation Yojana (HRIDAY) started on 21 January 2015,"
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 17/07/2023 (3rd shift)"
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": "When was the Smart Cities Mission launched in India?"
+        },
+        "options": [
+            {
+                "text": "2017"
+            },
+            {
+                "text": "2016"
+            },
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2014"
+            }
+        ],
+        "answer": "2015",
+        "solution": {
+            "type": "text",
+            "content": "2015. Smart Cities Mission: Launched by Narendra Modi. Other important schemes and their launch date: The Jan Dhan Yojna (August 28, 2014), Skill India Mission (July 15th, 2015), Mission Swachh Bharat (2nd of October, 2014), Sansad Adarsh Gram Yojana (11th of October, 2014)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 19/07/2023 (2nd shift)"
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": "What is the name of the flagship program that was launched in 2005 to address the lack of infrastructure in urban India?"
+        },
+        "options": [
+            {
+                "text": "National Urban Livelihoods Mission"
+            },
+            {
+                "text": "Integrated Development of Small & Medium Towns"
+            },
+            {
+                "text": "Atal Mission for Rejuvenation and Urban Transformation"
+            },
+            {
+                "text": "Jawaharlal Nehru National Urban Renewal Mission"
+            }
+        ],
+        "answer": "Jawaharlal Nehru National Urban Renewal Mission",
+        "solution": {
+            "type": "text",
+            "content": "Jawaharlal Nehru National Urban Renewal Mission (JNNURM) - A massive city-modernization scheme launched by the Government of India under the Ministry of Urban Development. Launched December 2005. Closed - 2014."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 19/07/2023 (3rd shift)"
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": "When was the National Urban Health Mission approved by the Government of India?"
+        },
+        "options": [
+            {
+                "text": "2014"
+            },
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2012"
+            },
+            {
+                "text": "2013"
+            }
+        ],
+        "answer": "2013",
+        "solution": {
+            "type": "text",
+            "content": "2013. The National Urban Health Mission (NUHM): Launched by the Ministry of Health and Family Welfare."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 20/07/2023 (1st shift)"
+    },
+    {
+        "id": 27,
+        "question": {
+            "type": "text",
+            "content": "What is the age criteria for the subscribers of Atal Pension Yojana?"
+        },
+        "options": [
+            {
+                "text": "20-30 Years"
+            },
+            {
+                "text": "25-35 Years"
+            },
+            {
+                "text": "18-40 Years"
+            },
+            {
+                "text": "40-60 Years"
+            }
+        ],
+        "answer": "18-40 Years",
+        "solution": {
+            "type": "text",
+            "content": "18-40 Years. Atal Pension Yojana - Launched in 2015 under Ministry of Finance and administered by Pension Fund Regulatory and Development Authority (PFRDA), mainly focused on providing old age security to the unorganized workers. A minimum guaranteed pension for the subscribers ranging between Rs.1000 Rs. 5000, depending upon his contribution, at the age of 60 years. Other pension schemes for senior citizens - National Pension System (2004), Pradhan Mantri Vaya Vandana Yojana (2017), National Social Assistance Programme (1995)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 21/07/2023 (1st shift)"
+    },
+    {
+        "id": 28,
+        "question": {
+            "type": "text",
+            "content": "Under the PL 480 scheme, India used to import wheat from which country"
+        },
+        "options": [
+            {
+                "text": "USSR"
+            },
+            {
+                "text": "USA"
+            },
+            {
+                "text": "France"
+            },
+            {
+                "text": "UK"
+            }
+        ],
+        "answer": "USA",
+        "solution": {
+            "type": "text",
+            "content": "USA. After independence, India relied on food crop supplies from the United States under Public Law 480 (PL-480) against rupee payments."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 21/07/2023 (2nd shift)"
+    },
+    {
+        "id": 29,
+        "question": {
+            "type": "text",
+            "content": "In which year was the 'Pradhan Mantri Kaushal Vikas Yojana' launched?"
+        },
+        "options": [
+            {
+                "text": "2019"
+            },
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2014"
+            },
+            {
+                "text": "2020"
+            }
+        ],
+        "answer": "2015",
+        "solution": {
+            "type": "text",
+            "content": "2015. Pradhan Mantri Kaushal Vikas Yojana: promotes skill development in the country by providing free short-duration skill training and incentivizes this by providing monetary rewards to youth for skill certification. Ministry - Skill Development and Entrepreneurship."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 24/07/2023 (1st shift)"
+    },
+    {
+        "id": 30,
+        "question": {
+            "type": "text",
+            "content": "The 'Jal Kranti Abhiyan' was launched by which government during the financial year 2015-2016?"
+        },
+        "options": [
+            {
+                "text": "Government of Punjab"
+            },
+            {
+                "text": "Government of Haryana"
+            },
+            {
+                "text": "Government of India"
+            },
+            {
+                "text": "Government of Uttar Pradesh"
+            }
+        ],
+        "answer": "Government of India",
+        "solution": {
+            "type": "text",
+            "content": "Government of India. The Abhiyan was inaugurated by the Union Minister of Water Resources, River Development and Ganga Rejuvenation in Rajasthan in June 2015. Objective: Strengthening grass-root involvement of all stakeholders including Panchayati Raj institutions and local bodies for Participatory Irrigation Management."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 25/07/2023(1st shift)"
+    },
+    {
+        "id": 31,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a Disability Screening Mobile App developed by NCERT launched in Delhi schools to screen students with suspected disabilities?"
+        },
+        "options": [
+            {
+                "text": "SAMAGRA"
+            },
+            {
+                "text": "VIDYAN"
+            },
+            {
+                "text": "PRASHAST"
+            },
+            {
+                "text": "SAMAGAM"
+            }
+        ],
+        "answer": "PRASHAST",
+        "solution": {
+            "type": "text",
+            "content": "PRASHAST (Pre Assessment Holistic Screening Tool) - Launched (2022). This App will help in screening 21 disability conditions recognized in Rights of Persons with Disabilities Act 2016. Vidya Pravesh (2021): A 3 Months Play Based 'School Preparation Module'. Developed by NCERT. SAMAGRA It is a repository of digital resources of all subjects from class 1 to 12 covering syllabus. Developed by KITE (Kerala Infrastructure and Technology for Education) and SCERT (State Council of Educational Research and Training)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 25/07/2023(4th shift)"
+    },
+    {
+        "id": 32,
+        "question": {
+            "type": "text",
+            "content": "'Swachh Bharat Mission' is associated with which public figure?"
+        },
+        "options": [
+            {
+                "text": "Mahatma Gandhi"
+            },
+            {
+                "text": "Jawaharlal Nehru"
+            },
+            {
+                "text": "Vallabhbhai Patel"
+            },
+            {
+                "text": "Lal Bahadur Shastri"
+            }
+        ],
+        "answer": "Mahatma Gandhi",
+        "solution": {
+            "type": "text",
+            "content": "Mahatma Gandhi. Swachh Bharat Mission (SBM) is a country-wide campaign initiated by the Government of India at Rajpath (New Delhi) on October 2, 2014 to eliminate open defecation and improve solid waste management."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 27/07/2023 (2nd shift)"
+    },
+    {
+        "id": 33,
+        "question": {
+            "type": "text",
+            "content": "How many engines drive 'PM Gati Shakti', a project launched by the central government with an aim to revolutionise infrastructure in India?"
+        },
+        "options": [
+            {
+                "text": "Two"
+            },
+            {
+                "text": "Seven"
+            },
+            {
+                "text": "Nine"
+            },
+            {
+                "text": "Four"
+            }
+        ],
+        "answer": "Seven",
+        "solution": {
+            "type": "text",
+            "content": "Seven. Gati Shakti scheme (2021) or National Master Plan for multi-modal connectivity plan comes under the Ministry of Commerce."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 27/07/2023 (3rd shift)"
+    },
+    {
+        "id": 34,
+        "question": {
+            "type": "text",
+            "content": "What is the aim of the Annapurna Yojana of the Government of India?"
+        },
+        "options": [
+            {
+                "text": "To provide food grains to children"
+            },
+            {
+                "text": "To provide food grains to women"
+            },
+            {
+                "text": "To provide food to all"
+            },
+            {
+                "text": "To provide food grains to senior citizens"
+            }
+        ],
+        "answer": "To provide food grains to senior citizens",
+        "solution": {
+            "type": "text",
+            "content": ". Annapurna Yojana Launched by the Ministry of Rural Development. It is a part of the National Social Assistance Programme (1995). Objective It provides Food Security to Senior Citizens above 60 years of age and to those eligible old-aged persons who remained uncovered under Indira Gandhi NOAPS (National Old Age Pension Scheme). Eligible beneficiaries will receive 10 kg (Every month) of grains free of charge."
+        },
+        "videoUrl": "",
+        "status": "Higher Secondary 27/06/2023 (Shift - 3)"
+    },
+    {
+        "id": 35,
+        "question": {
+            "type": "text",
+            "content": "Karmayogi Bharat owns and operates the digital assets and platforms for the onlinetraining of_"
+        },
+        "options": [
+            {
+                "text": "civil servants"
+            },
+            {
+                "text": "defense personnel"
+            },
+            {
+                "text": "social activists"
+            },
+            {
+                "text": "academicians"
+            }
+        ],
+        "answer": "civil servants",
+        "solution": {
+            "type": "text",
+            "content": "Civil servants. Karmayogi Bharat: A Special Purpose Vehicle (set up under section 8 of Companies Act, 2013 as a 100% government-owned entity) which shall own, manage, maintain and improve the digital platform, IGOT (Integrated Govt. Online training) to implement Mission Karmayogi (2020) the National Programme for Civil Services Capacity Building."
+        },
+        "videoUrl": "",
+        "status": "Matric Level 27/06/2023 (Shift - 2)"
+    },
+    {
+        "id": 36,
+        "question": {
+            "type": "text",
+            "content": "The Pudhumai Penn scheme is launched by which state government?"
+        },
+        "options": [
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Tamil Nadu",
+        "solution": {
+            "type": "text",
+            "content": "Tamil Nadu. The Pudhumai Penn scheme: Tamil Nadu Chief minister M K Stalin launched this Scheme on 5 September 2022. Aim : To enhance the enrolment ratio of girls from Government schools to Higher Education Institutions. Beneficiaries: Girl students studying from class VI to XIl in Government school. Benefits: ₹1000 will be deposited in the bank account of the girl student."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 03/05/2023 (Morning)"
+    },
+    {
+        "id": 37,
+        "question": {
+            "type": "text",
+            "content": "The National Rural Employment Programme was merged with in 1989."
+        },
+        "options": [
+            {
+                "text": "Indira Awas Yojana"
+            },
+            {
+                "text": "Rural Landless Employment Guarantee Programme"
+            },
+            {
+                "text": "Employment Assurance Scheme"
+            },
+            {
+                "text": "Jawahar Rozgar Yojana"
+            }
+        ],
+        "answer": "Jawahar Rozgar Yojana",
+        "solution": {
+            "type": "text",
+            "content": "Jawahar Rozgar Yojana - It was launched in April 1989 by merging National Rural Employment Program (NREP) and Rural Landless Employment Guarantee Programme (RLEGP). It was replaced by Jawahar Gram Samridhi Yojna on 1 April 1999 and on 25 September 2001, merged with Sampoorna Grameen Rozgar Yojana. Indira Awaas Yojana (IAY) 1985-86 (Now replaced by Pradhan Mantri Gramin Awas Yojana)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 03/05/2023 (Morning)"
+    },
+    {
+        "id": 38,
+        "question": {
+            "type": "text",
+            "content": "Which state government launched the \"Panchamrut Yojana\"?"
+        },
+        "options": [
+            {
+                "text": "Karnataka"
+            },
+            {
+                "text": "Odisha"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Uttar Pradesh"
+            }
+        ],
+        "answer": "Uttar Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Uttar Pradesh. The Panchamrut scheme seeks to reduce the production cost of sugarcane, as wellas increase productivity and the fertility of the land."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 03/05/2023 (Afternoon)"
+    },
+    {
+        "id": 39,
+        "question": {
+            "type": "text",
+            "content": "Pradhan Mantri Gramodaya Yojana was launched in"
+        },
+        "options": [
+            {
+                "text": "2000"
+            },
+            {
+                "text": "2010"
+            },
+            {
+                "text": "2005"
+            },
+            {
+                "text": "1998"
+            }
+        ],
+        "answer": "2000",
+        "solution": {
+            "type": "text",
+            "content": "2000. Pradhan Mantri Gramodaya Yojana It was started to improve the lives of the rural poor population. Other important government scheme: National Social Assistance Programme (Launched on 15th August, 1995). Pradhan Mantri Gram Sadak Yojana (Launched on 25th December, 2000). Saansad Adarsh Gram Yojana (October 2014). Pradhan Mantri Ujjwala Yojana (launched in 2016)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 04/05/2023 (Morning)"
+    },
+    {
+        "id": 40,
+        "question": {
+            "type": "text",
+            "content": "The Central Government has recently launched the YUVA 2.0 Scheme. It is a mentoring programme for young and budding authors below the age of"
+        },
+        "options": [
+            {
+                "text": "45"
+            },
+            {
+                "text": "40"
+            },
+            {
+                "text": "35"
+            },
+            {
+                "text": "30"
+            }
+        ],
+        "answer": "30",
+        "solution": {
+            "type": "text",
+            "content": "30. YUVA 2.0 (Young, Upcoming and Versatile Authors) - It is the Part of India 75 Project (Azadi Ka Amrit Mahotsav) to promote reading, writing and book culture in the country. It was announced on 2nd October 2022 under The Ministry of Education, Department of Higher Education."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 09/05/2023 (Afternoon)"
+    },
+    {
+        "id": 41,
+        "question": {
+            "type": "text",
+            "content": "In MUDRA Yojana, what does 'M' stand for?"
+        },
+        "options": [
+            {
+                "text": "Macro"
+            },
+            {
+                "text": "Money"
+            },
+            {
+                "text": "Micro"
+            },
+            {
+                "text": "Multi"
+            }
+        ],
+        "answer": "Micro",
+        "solution": {
+            "type": "text",
+            "content": "Micro. MUDRA (Micro Units Development and Refinance Agency) Pradhan Mantri MUDRA Yojana (PMMY) is a scheme launched by the Hon'ble Prime Minister on April 8, 2015 for providing loans up to 10 lakh to the non-corporate, non-farm small or micro enterprises. Three types of mudra loan products Tarun (above Rs 5 lakh and up to Rs10 lakh), Kishor (above Rs 50,000 and up to Rs 5 lakh), and Shishu (covering loans up to Rs 50,000)."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 09/05/2023 (Afternoon)"
+    },
+    {
+        "id": 42,
+        "question": {
+            "type": "text",
+            "content": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi) Scheme was launched by which ministry?"
+        },
+        "options": [
+            {
+                "text": "Ministry of Consumer Affairs"
+            },
+            {
+                "text": "Ministry of Finance"
+            },
+            {
+                "text": "Ministry of Commerce"
+            },
+            {
+                "text": "Ministry of Housing and Urban Affairs"
+            }
+        ],
+        "answer": "Ministry of Housing and Urban Affairs",
+        "solution": {
+            "type": "text",
+            "content": "Ministry of Housing and Urban Affairs. The PM Street Vendor's Atma Nirbhar Nidhi (PM SVANidhi) launched on June 01, 2020. Aim Providing affordable Working Capital loans to street vendors to resume their livelihoods that have been adversely affected due to Covid-19 lockdown."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 10/05/2023 (Morning)"
+    },
+    {
+        "id": 43,
+        "question": {
+            "type": "text",
+            "content": "The government launched the Stand - Up India scheme to promote entrepreneurship among _  Disabled Individuals (b) Transgender community (c) Elderly Individuals (d) Women and SC/ST communities"
+        },
+        "options": [
+            {
+                "text": "Transgender community"
+            },
+            {
+                "text": "Elderly Individuals"
+            },
+            {
+                "text": "Women and SC/ST communities"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "Women and SC/ST communities. Stand up India Scheme was launched on April 05, 2016. The scheme has been extended till 2025. Startup India: 2016. Objective: Promote innovation and entrepreneurship in India. Digital India: 2015."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 10/05/2023 (a)"
+    },
+    {
+        "id": 44,
+        "question": {
+            "type": "text",
+            "content": "Pradhan Mantri Awas Yojana- Urban was launched by which Union Ministry?"
+        },
+        "options": [
+            {
+                "text": "Ministry of Finance"
+            },
+            {
+                "text": "Ministry of Housing and Urban Affairs"
+            },
+            {
+                "text": "Ministry of Human Resource Development"
+            },
+            {
+                "text": "Ministry of Rural Development"
+            }
+        ],
+        "answer": "Ministry of Housing and Urban Affairs",
+        "solution": {
+            "type": "text",
+            "content": "Ministry of Housing and Urban Affairs. It was launched on 25th June 2015. Pradhan Mantri Awas Yojana Gramin (PMAY-G) - It was launched in June 2015 with the aim to provide 'Housing for All' by 2022 in rural areas"
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 10/05/2023 (Evening)"
+    },
+    {
+        "id": 45,
+        "question": {
+            "type": "text",
+            "content": "Which of the following programmes was launched in 1999?"
+        },
+        "options": [
+            {
+                "text": "Rural Employment Generation Programme"
+            },
+            {
+                "text": "Mahatma Gandhi National Rural Employment Guarantee scheme"
+            },
+            {
+                "text": "Swarnajayanti Gram Swarozgar Yojana"
+            },
+            {
+                "text": "Pradhan Mantri Gramodaya Yojana"
+            }
+        ],
+        "answer": "Swarnajayanti Gram Swarozgar Yojana",
+        "solution": {
+            "type": "text",
+            "content": "Swarnajayanti Gram Swarozgar Yojana. It is operative since 1st April 1999 in rural areas and was launched by the Ministry of Rural Development India. SGSY will focus on the vulnerable section and the rural poor. Accordingly the SC/ST will account for at least 50%, Women 40% and the disabled 3% of those assisted."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 11/05/2023 (Afternoon)"
+    },
+    {
+        "id": 46,
+        "question": {
+            "type": "text",
+            "content": "The Union Government's \"PAHAL Scheme\" is related to _"
+        },
+        "options": [
+            {
+                "text": "Girl Scholarship"
+            },
+            {
+                "text": "Medical Subsidy"
+            },
+            {
+                "text": "LPG Subsidy"
+            },
+            {
+                "text": "Bathroom Construction"
+            }
+        ],
+        "answer": "LPG Subsidy",
+        "solution": {
+            "type": "text",
+            "content": "LPG Subsidy. PAHAL (Pratyaksh Hanstantrit Labh) entered into Guinness Book of World Records (largest Direct Benefit Transfer of LPG), was launched on 01 June 2013 by the Ministry of Petroleum & Natural Gas."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 17/05/2023 (Morning)"
+    },
+    {
+        "id": 47,
+        "question": {
+            "type": "text",
+            "content": "The National Literacy Mission (NLM) was set up in"
+        },
+        "options": [
+            {
+                "text": "1971"
+            },
+            {
+                "text": "1982"
+            },
+            {
+                "text": "1988"
+            },
+            {
+                "text": "1998"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "с) 1988. The National Literacy Mission - It aimed to educate people in the age group of 15 - 35. The major aim of the programme is on the promotion of literacy among women, scheduled castes and tribes and backward classes."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 13/06/2023 (Afternoon)"
+    },
+    {
+        "id": 48,
+        "question": {
+            "type": "text",
+            "content": "The Chief Minister of which of the following states launched the second phase of Ladli Laxmi Scheme 2.0 in November 2022?"
+        },
+        "options": [
+            {
+                "text": "Uttar Pradesh"
+            },
+            {
+                "text": "Andhra Pradesh"
+            },
+            {
+                "text": "Bihar"
+            },
+            {
+                "text": "Madhya Pradesh"
+            }
+        ],
+        "answer": "Madhya Pradesh",
+        "solution": {
+            "type": "text",
+            "content": "Madhya Pradesh. Ladli Laxmi Scheme 2.0 - The financial assistance of Rs 25,000 will be given to the daughter after going to college after passing class 12th, which will help her in educating and choosing a career."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 15/06/2023 (Morning)"
+    },
+    {
+        "id": 49,
+        "question": {
+            "type": "text",
+            "content": "\"PM POSHAN\" Scheme implemented by which ministry?"
+        },
+        "options": [
+            {
+                "text": "Ministry of Women & Child Development"
+            },
+            {
+                "text": "Ministry of Agriculture & Farmers Welfare"
+            },
+            {
+                "text": "Ministry of Education"
+            },
+            {
+                "text": "Ministry of Social Justice is"
+            }
+        ],
+        "answer": "Ministry of Education",
+        "solution": {
+            "type": "text",
+            "content": "Ministry of Education. In 2021, the Union Cabinet approved the PM-POSHAN (Pradhan Mantri Poshan Shakti Nirman) for providing one hot cooked meal in Government and Government-aided schools. The scheme replaced the Mid-day Meal Scheme. The Mid Day Meal Scheme was started in India on 15th August 1995."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 20/06/2023 (Morning)"
+    },
+    {
+        "id": 50,
+        "question": {
+            "type": "text",
+            "content": "Which Union Ministry implements the \"Saksham Anganwadi and Poshan 2.0\" scheme?"
+        },
+        "options": [
+            {
+                "text": "Ministry of Consumer Affairs, Food & Public Distribution"
+            },
+            {
+                "text": "Ministry of Health and Family welfare"
+            },
+            {
+                "text": "Ministry of Women and Child Development"
+            },
+            {
+                "text": "Ministry of Agriculture & Farmers Welfare"
+            }
+        ],
+        "answer": "Ministry of Women and Child Development",
+        "solution": {
+            "type": "text",
+            "content": "Ministry of Women and Child Development. Saksham Anganwadi and Poshan 2.0 is a Centrally Sponsored Scheme implemented by States/UTs providing a package of six services to all eligible beneficiaries, namely, children in the age group of 0-6 years, pregnant women and lactating mothers through the platform of Anganwadi Centres across the country."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (1st Shift)"
+    },
+    {
+        "id": 51,
+        "question": {
+            "type": "text",
+            "content": "Which Union Ministry is related to the Prime Minister's Employment Generation Programme (PMEGP)?"
+        },
+        "options": [
+            {
+                "text": "Ministry of Micro, Small and Medium Enterprises"
+            },
+            {
+                "text": "Ministry of Commerce and Industry"
+            },
+            {
+                "text": "Ministry of Labour and Employment"
+            },
+            {
+                "text": "Ministry of Corporate Affairs"
+            }
+        ],
+        "answer": "Ministry of Micro, Small and Medium Enterprises",
+        "solution": {
+            "type": "text",
+            "content": "Ministry of Micro, Small and Medium Enterprises. About PMEGP: Any entrepreneur who is above 18 is allowed to set up factories or units with the government aid upto 25 lakhs for manufacturing sector and ₹ 10 lakhs for business/service sector for his/her new venture."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 17/03/2023 (1st Shift)"
+    },
+    {
+        "id": 52,
+        "question": {
+            "type": "text",
+            "content": "Which road plan in India was the first attempt for the Road Development Programme between 1943-1963?"
+        },
+        "options": [
+            {
+                "text": "Poona Road Plan"
+            },
+            {
+                "text": "Nagpur Road Plan"
+            },
+            {
+                "text": "Bombay Road Plan"
+            },
+            {
+                "text": "Lucknow Road Plan"
+            }
+        ],
+        "answer": "Nagpur Road Plan",
+        "solution": {
+            "type": "text",
+            "content": "Nagpur Road plan (1943 1963). Bombay road plan (1961-1981, Lucknow road plan (1981 - 2001)."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 02/12/2022 (4th Shift)"
+    },
+    {
+        "id": 53,
+        "question": {
+            "type": "text",
+            "content": "In which of the following years was the Fit India Movement launched by the Ministry of Youth Affairs and Sports, Gol?"
+        },
+        "options": [
+            {
+                "text": "2018"
+            },
+            {
+                "text": "2001"
+            },
+            {
+                "text": "2020"
+            },
+            {
+                "text": "2019"
+            }
+        ],
+        "answer": "2019",
+        "solution": {
+            "type": "text",
+            "content": "2019. Fit India Movement was launched on the occasion of National Sports Day to make fitness an integral part of the daily lives of the people of India."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 03/12/2022 (2nd Shift)"
+    },
+    {
+        "id": 54,
+        "question": {
+            "type": "text",
+            "content": "Smart cities and Academia Towards Action and Research (SAAR) scheme was launched by the"
+        },
+        "options": [
+            {
+                "text": "Ministry of Commerce and Industry"
+            },
+            {
+                "text": "Ministry of Culture"
+            },
+            {
+                "text": "Ministry of Housing and Urban Affairs"
+            },
+            {
+                "text": "Ministry of External Affairs"
+            }
+        ],
+        "answer": "Ministry of Housing and Urban Affairs",
+        "solution": {
+            "type": "text",
+            "content": "The Ministry of Housing and Urban Affairs (MoHUA) launched the SAAR program under the Smart Cities Mission."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 26/07/2022 (Afternoon)"
+    },
+    {
+        "id": 55,
+        "question": {
+            "type": "text",
+            "content": "In which year was Soil Health Card launched in India to enable the farmers to apply appropriate recommended dosages of nutrients for crop production and improving soil health and its fertility?"
+        },
+        "options": [
+            {
+                "text": "2017"
+            },
+            {
+                "text": "2019"
+            },
+            {
+                "text": "2013"
+            },
+            {
+                "text": "2015"
+            }
+        ],
+        "answer": "2015",
+        "solution": {
+            "type": "text",
+            "content": "2015 (Ministry of Agriculture and Farmers' Welfare). Soil Health Card (SHC) is a printed report which contains nutrient status of soil with respect to 12 nutrients: pH, Electrical Conductivity (EC), Organic Carbon (OC), Nitrogen (N), Phosphorus (P), Potassium (K), Sulphur (S), Zinc (Zn), Boron (B), Iron (Fe), Manganese (Mn) and Copper (Cu) of farm holdings."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 02/08/2022 (Shift -3)"
+    },
+    {
+        "id": 56,
+        "question": {
+            "type": "text",
+            "content": "When was the Ayushman Bharat Digital Mission launched?"
+        },
+        "options": [
+            {
+                "text": "27 September 2021"
+            },
+            {
+                "text": "2 October 2021"
+            },
+            {
+                "text": "27 January 2020"
+            },
+            {
+                "text": "17 February 2021"
+            }
+        ],
+        "answer": "27 September 2021",
+        "solution": {
+            "type": "text",
+            "content": "27 September 2021. Ayushman Bharat Digital Mission aims to provide digital health IDs for all Indian citizens to help hospitals, insurance firms, and citizens access health records electronically when required."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 02/08/2022 (Shift -3)"
+    },
+    {
+        "id": 57,
+        "question": {
+            "type": "text",
+            "content": "Which scheme is NOT proposed to be covered under the Pradhan Mantri Swasthya Suraksha Nidhi?"
+        },
+        "options": [
+            {
+                "text": "Ayushman Bharat - Health and Wellness Centres"
+            },
+            {
+                "text": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana"
+            },
+            {
+                "text": "Pradhan Mantri Swasthya Suraksha Yojana"
+            },
+            {
+                "text": "Rashtriya Swasthya Aashwasan Yojana"
+            }
+        ],
+        "answer": "Rashtriya Swasthya Aashwasan Yojana",
+        "solution": {
+            "type": "text",
+            "content": "Rashtriya Swasthya Aashwasan Yojana (RSAY)."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 03/08/2022 (Shift -3)"
+    },
+    {
+        "id": 58,
+        "question": {
+            "type": "text",
+            "content": "What is the name of the scheme proposed as a single non-lapsable reserve fund for a share of health from the proceeds of health and education cess?"
+        },
+        "options": [
+            {
+                "text": "Pradhan Mantri Swasthya Suraksha Nidhi"
+            },
+            {
+                "text": "National Digital Health Mission"
+            },
+            {
+                "text": "Intensified Mission Indradhanush 3.0"
+            },
+            {
+                "text": "Ayushman Bharat Pradhan Mantri Jan Aarogya Yojana"
+            }
+        ],
+        "answer": "Pradhan Mantri Swasthya Suraksha Nidhi",
+        "solution": {
+            "type": "text",
+            "content": "Pradhan Mantri Swasthya Suraksha Nidhi. It provides financial support to the flagship schemes such as Ayushman Bharat Pradhan Mantri Jan Arogya Yojana, Pradhan Mantri Swasthya Suraksha Yojana, and National Health Mission."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 03/08/2022 (Shift -3)"
+    },
+    {
+        "id": 59,
+        "question": {
+            "type": "text",
+            "content": "'Surakshit Hum Surakshit Tum Abhiyan' was launched by which of the following institutions?"
+        },
+        "options": [
+            {
+                "text": "NITI Aayog and bill and Melinda Gates Foundation"
+            },
+            {
+                "text": "Ministry of Women and Child Development and Piramal Foundation"
+            },
+            {
+                "text": "Ministry of Women and Child Development and Bill and Melinda Gates Foundation"
+            },
+            {
+                "text": "NITI Aayog and Piramal Foundation"
+            }
+        ],
+        "answer": "NITI Aayog and Piramal Foundation",
+        "solution": {
+            "type": "text",
+            "content": "NITI Aayog and Piramal Foundation. NITI stands for \"National Institution for Transforming India\" (2015). Its initiatives include \"15-year road map\", \"7-year vision, strategy, and action plan\", AMRUT, Digital India, Atal Innovation Mission."
+        },
+        "videoUrl": "",
+        "status": "Graduate Level 04/08/2022 (Shift - 2)"
+    },
+    {
+        "id": 60,
+        "question": {
+            "type": "text",
+            "content": "Which ministry launched the 'Start-up India Seed Fund Scheme'?"
+        },
+        "options": [
+            {
+                "text": "Ministry of Commerce and Industry"
+            },
+            {
+                "text": "Ministry of Finance"
+            },
+            {
+                "text": "Ministry of Skill Development and Entrepreneurship"
+            },
+            {
+                "text": "Ministry of Textiles"
+            }
+        ],
+        "answer": "Ministry of Commerce and Industry",
+        "solution": {
+            "type": "text",
+            "content": "Ministry of Commerce and Industry. The Startup India Seed Fund Scheme aims to provide seed funding to startups through approved incubators across all sectors and areas. Launched by the Department for Promotion of Industry and Internal Trade under the Ministry of Commerce and Industry in 2021."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 8/06/2022 (Afternoon)"
+    },
+    {
+        "id": 61,
+        "question": {
+            "type": "text",
+            "content": "In which year was the Immunization Programme introduced in India as 'Expanded Programme of Immunization' (EPI) by the Ministry of Health and Family Welfare?"
+        },
+        "options": [
+            {
+                "text": "1982"
+            },
+            {
+                "text": "1974"
+            },
+            {
+                "text": "1978"
+            },
+            {
+                "text": "1980"
+            }
+        ],
+        "answer": "1978",
+        "solution": {
+            "type": "text",
+            "content": "1978. The Expanded Programme on Immunization (EPI) was started in India in 1978 with the objective to reduce morbidity and mortality from tetanus, poliomyelitis, diphtheria, pertussis, and childhood tuberculosis by providing immunization services to all eligible children and pregnant women by 1990."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/04/2022 (Evening)"
+    },
+    {
+        "id": 62,
+        "question": {
+            "type": "text",
+            "content": "Realizing the importance of maintaining the cleanliness of the water bodies, the Government of India passed the Water (Prevention and Control of Pollution) Act, to safeguard our water resources."
+        },
+        "options": [
+            {
+                "text": "1974"
+            },
+            {
+                "text": "1973"
+            },
+            {
+                "text": "1971"
+            },
+            {
+                "text": "1969"
+            }
+        ],
+        "answer": "1974",
+        "solution": {
+            "type": "text",
+            "content": "1974."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 21/04/2022 (Evening)"
+    },
+    {
+        "id": 63,
+        "question": {
+            "type": "text",
+            "content": "In which year was the 'Pradhan Mantri Annadata Aay Sanrakshan Abhiyan' (PM AASHA) launched by the Government of India?"
+        },
+        "options": [
+            {
+                "text": "2016"
+            },
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2018"
+            }
+        ],
+        "answer": "2018",
+        "solution": {
+            "type": "text",
+            "content": "2018. The 'Pradhan Mantri Annadata Aay Sanrakshan Abhiyan' (PM AASHA) was launched by the Government of India. Pradhan Mantri Annadata Aay SanraksHan Abhiyan (PM-AASHA) is an umbrella scheme aimed at ensuring remunerative prices to the farmers for their produce."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 18/10/2021 (Afternoon)"
+    },
+    {
+        "id": 64,
+        "question": {
+            "type": "text",
+            "content": "'Mission Antyodaya' is a mission mode project envisaged by the:"
+        },
+        "options": [
+            {
+                "text": "Ministry of Urban Development"
+            },
+            {
+                "text": "Ministry of Rural Development"
+            },
+            {
+                "text": "Ministry of Health Development"
+            },
+            {
+                "text": "Ministry of Transport Development"
+            }
+        ],
+        "answer": "Ministry of Rural Development",
+        "solution": {
+            "type": "text",
+            "content": "Ministry of Rural Development. Mission Antyodaya is a convergence and accountability framework aiming to bring optimum use and management of resources. It was adopted in the Union Budget 2017-18."
+        },
+        "videoUrl": "",
+        "status": "SSC MTS 02/11/2021 (Afternoon)"
+    },
+    {
+        "id": 65,
+        "question": {
+            "type": "text",
+            "content": "Which of the following schemes is aimed at helping accelerate the uptake of broadband internet services?"
+        },
+        "options": [
+            {
+                "text": "PM-DHWANI"
+            },
+            {
+                "text": "PM-WANI"
+            },
+            {
+                "text": "PM-VAARTA"
+            },
+            {
+                "text": "PM-INTERNET"
+            }
+        ],
+        "answer": "PM-WANI",
+        "solution": {
+            "type": "text",
+            "content": "PM-WANI. It will consist of elements such as Public Data Office (PDO), Public Data Office Aggregator (PDOA), App Provider and Central Registry."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 13/08/2021 (Morning)"
+    },
+    {
+        "id": 66,
+        "question": {
+            "type": "text",
+            "content": "'Swasthya Sathi' scheme is the health insurance scheme that covers the entire population of which of the following states?"
+        },
+        "options": [
+            {
+                "text": "Assam"
+            },
+            {
+                "text": "Meghalaya"
+            },
+            {
+                "text": "West Bengal"
+            },
+            {
+                "text": "Bihar"
+            }
+        ],
+        "answer": "Meghalaya",
+        "solution": {
+            "type": "text",
+            "content": "West Bengal. Under this scheme, basic health insurance cover up to Rs 5 lakh is provided for both tertiary and secondary medical care for each family."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 16/08/2021 (Evening)"
+    },
+    {
+        "id": 67,
+        "question": {
+            "type": "text",
+            "content": "In which year was the Target Olympic Podium Scheme' ('TOPS') formulated by the Ministry of Youth Affairs and Sports?"
+        },
+        "options": [
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2014"
+            },
+            {
+                "text": "2013"
+            },
+            {
+                "text": "2016"
+            }
+        ],
+        "answer": "2014",
+        "solution": {
+            "type": "text",
+            "content": "2014. TOPS facilitates selected athletes with support staff and training personnel, sports psychologists, physiotherapists etc including direct financial support of 50,000 rupees per month."
+        },
+        "videoUrl": "",
+        "status": "SSC CGL 24/08/2021 (Evening)"
+    },
+    {
+        "id": 68,
+        "question": {
+            "type": "text",
+            "content": "In which year was National Mission for Clean Ganga (NMCG) registered as a society under the Societies Registration Act 1860?"
+        },
+        "options": [
+            {
+                "text": "2018"
+            },
+            {
+                "text": "2014"
+            },
+            {
+                "text": "2011"
+            },
+            {
+                "text": "2009"
+            }
+        ],
+        "answer": "2011",
+        "solution": {
+            "type": "text",
+            "content": "2011. National Mission for Clean Ganga (NMCG) is the implementation wing of the National Ganga River Basin Authority (NGRBA)."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 15/04/2021 (Evening)"
+    },
+    {
+        "id": 69,
+        "question": {
+            "type": "text",
+            "content": "When was the Jal Jeevan Mission launched by the Prime Minister, with the goal of 'Har Ghar Jal'?"
+        },
+        "options": [
+            {
+                "text": "2015"
+            },
+            {
+                "text": "2019"
+            },
+            {
+                "text": "2014"
+            },
+            {
+                "text": "2020"
+            }
+        ],
+        "answer": "2019",
+        "solution": {
+            "type": "text",
+            "content": "2019."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 19/04/2021 (Morning)"
+    },
+    {
+        "id": 70,
+        "question": {
+            "type": "text",
+            "content": "'Per Drop More Crop' is the goal for which Government of India scheme?"
+        },
+        "options": [
+            {
+                "text": "Pradhan Mantri Krishi Sinchayee Yojana"
+            },
+            {
+                "text": "Pradhan Mantri Awaas Yojana Gramin"
+            },
+            {
+                "text": "Pradhan Mantri Jan-Dhan Yojana"
+            },
+            {
+                "text": "Pradhan Mantri MUDRA Yojana"
+            }
+        ],
+        "answer": "Pradhan Mantri Krishi Sinchayee Yojana",
+        "solution": {
+            "type": "text",
+            "content": "Per Drop More Crop is implemented by the Department of Agriculture Cooperation and Farmers' Welfare."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 06/08/2021 (Morning)"
+    },
+    {
+        "id": 71,
+        "question": {
+            "type": "text",
+            "content": "'Nikshay Poshan Yojana' is a scheme introduced by the Government of India to provide nutritional support to _ patients."
+        },
+        "options": [
+            {
+                "text": "diabetes"
+            },
+            {
+                "text": "tuberculosis"
+            },
+            {
+                "text": "arthritis"
+            },
+            {
+                "text": "cancer"
+            }
+        ],
+        "answer": "arthritis",
+        "solution": {
+            "type": "text",
+            "content": "Tuberculosis. Nikshay Poshan Yojana is a government scheme in India to provide 500 rupees per month for tuberculosis patients to buy food."
+        },
+        "videoUrl": "",
+        "status": "SSC CHSL 10/08/2021 (Morning)"
+    }
+]
