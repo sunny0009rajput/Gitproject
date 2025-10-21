@@ -82,9 +82,14 @@ const Navbar = () => {
     <header className="fixed top-4 left-4 right-4 z-50">
       <div className="h-20 bg-black/10 backdrop-blur-lg rounded-2xl border border-white/30 shadow-2xl">
         <div className="max-w-7xl mx-auto px-6 sm:px-8 h-full flex justify-between items-center">
-          <h1 className="text-white text-2xl font-bold tracking-wide">
-            BrandName
-          </h1>
+          {/* <h1 className="text-white text-2xl font-bold tracking-wide">
+            CodeMonarch Academy
+          </h1> */}
+          <img
+            src="LOGO.png"
+            alt="CodeMonarch Academy Logo"
+            className="w-28 h-20 sm:w-40 sm:h-28 md:w-52 md:h-32 lg:w-60 lg:h-34 object-contain shadow-md transition-all duration-300"
+          />
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex space-x-8 items-center relative">
@@ -116,6 +121,12 @@ const Navbar = () => {
                 </div>
               )}
             </div>
+            <Link
+              href="/support"
+              className="text-white hover:text-gray-300 px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 hover:bg-white/10 flex items-center justify-between"
+            >
+              Support
+            </Link>
 
             {/* Login / User */}
             {loadingCustomer ? null : customer ? (
@@ -150,7 +161,7 @@ const Navbar = () => {
           </div>
 
           {/* Mobile Navigation */}
-          
+
           <div
             className="md:hidden flex items-center space-x-2 relative"
             ref={userRef}
@@ -254,6 +265,9 @@ const Navbar = () => {
                 </div>
               )}
             </div>
+            <MobileLink to="/support" close={() => setIsOpen(false)}>
+              Support
+            </MobileLink>
           </div>
         )}
       </div>

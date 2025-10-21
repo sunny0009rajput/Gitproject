@@ -241,8 +241,8 @@ export default function RevisionPage() {
                                       className="w-6 h-6 mx-auto text-gray-400 hover:text-white cursor-pointer transition"
                                       onClick={() =>
                                         window.open(
-                                          `/concept/${
-                                            concept.id
+                                          `/sscsheet/gk/problem/${
+                                            q.id
                                           }?chapter=${encodeURIComponent(
                                             chapter.title
                                           )}`,
@@ -256,8 +256,8 @@ export default function RevisionPage() {
                                       className="w-6 h-6 mx-auto text-red-500 hover:text-red-400 cursor-pointer transition"
                                       onClick={() =>
                                         window.open(
-                                          `/concept/${
-                                            concept.id
+                                          `/gk/problem/${
+                                            q.id
                                           }?chapter=${encodeURIComponent(
                                             chapter.title
                                           )}`,
@@ -360,7 +360,9 @@ export default function RevisionPage() {
                                       className="w-6 h-6 mx-auto text-gray-400 hover:text-white cursor-pointer transition"
                                       onClick={() =>
                                         window.open(
-                                          `/problem/${problemId}?chapter=${encodeURIComponent(
+                                          `/sscsheet/gk/problem/${
+                                            q.id
+                                          }?chapter=${encodeURIComponent(
                                             chapter.title
                                           )}`,
                                           "_blank"
@@ -373,7 +375,9 @@ export default function RevisionPage() {
                                       className="w-6 h-6 mx-auto text-red-500 hover:text-red-400 cursor-pointer transition"
                                       onClick={() =>
                                         window.open(
-                                          `/problem/${problemId}?chapter=${encodeURIComponent(
+                                          `/sscsheet/gk/problem/${
+                                            q.id
+                                          }?chapter=${encodeURIComponent(
                                             chapter.title
                                           )}`,
                                           "_blank"

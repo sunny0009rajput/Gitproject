@@ -29,7 +29,8 @@ app.use(
 );
 app.use(express.json());
 app.use(cookieParser());
-
+app.use(bodyParser.json({ limit: "10mb" }));
+app.use(bodyParser.urlencoded({ limit: "100mb", extended: true }));
 // Increase the body size limit
 app.use(bodyParser.json({ limit: "10mb" }));
 app.use(bodyParser.urlencoded({ limit: "100mb", extended: true }));
@@ -54,8 +55,10 @@ mongoose
 const customerRoutes = require("./routes/customerRoutes");
 const userProgressRoutes = require("./routes/userProgressRoutes");
 const favouriteRoutes = require("./routes/favouriteRoutes");
+const proxyRoutes = require("./routes/proxyRoutes");
 app.use("/customer", customerRoutes);
 app.use("/userprogress", userProgressRoutes);
 app.use("/userprogress/favourite", favouriteRoutes);
+app.use("/secureapi", proxyRoutes);
 
 module.exports = app;

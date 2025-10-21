@@ -69,7 +69,7 @@ export default function page() {
       );
 
       if (res.status === 201) {
-        router.push("/login");
+        router.push("/customerlogin");
       }
     } catch (err) {
       setApiError(err.response?.data?.message || "Signup failed, try again.");
