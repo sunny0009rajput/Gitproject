@@ -1,0 +1,30 @@
+[
+    {
+        "id": 673,
+        "question": {
+            "type": "text",
+            "content": "I take pride to serve my country. ||| SSC CGL Tier II ( 08 / 08 / 2022 ) |||"
+        },
+        "options": [
+            {
+                "text": "to be serving |||"
+            },
+            {
+                "text": "No Improvement |||"
+            },
+            {
+                "text": "to have served |||"
+            },
+            {
+                "text": "in serving |||"
+            }
+        ],
+        "answer": "in serving |||",
+        "solution": {
+            "type": "text",
+            "content": "In serving ||| ‘Take pride in someone or something’ is the correct phrase. ||| Hence, ‘in serving’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CGL 2021 Tier - 2",
+        "videoUrl": ""
+    }
+]

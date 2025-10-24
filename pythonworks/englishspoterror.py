@@ -2,7 +2,7 @@ import fitz  # PyMuPDF
 import json
 import re
 
-def extract_english_pdf_to_json(pdf_path, output_json="newspoterror_fixed.json"):
+def extract_english_pdf_to_json(pdf_path, output_json="spoterror10.json"):
     pdf_document = fitz.open(pdf_path)
     all_text = ""
 
@@ -10,6 +10,11 @@ def extract_english_pdf_to_json(pdf_path, output_json="newspoterror_fixed.json")
     for page_number in range(len(pdf_document)):
         page = pdf_document.load_page(page_number)
         text = page.get_text("text")
+
+        # Fix line breaks and spacing
+        text = re.sub(r"(\w)-\n(\w)", r"\1\2", text)
+        text = re.sub(r"(?<=\w)\n(?=\w)", " ", text)
+        text = text.replace("\n", " ")
 
         # Remove repeating headers and watermarks
         text = re.sub(r"www\.ssccglpinnacle\.com.*", "", text)
@@ -22,6 +27,8 @@ def extract_english_pdf_to_json(pdf_path, output_json="newspoterror_fixed.json")
         text = re.sub(r"[\u202a-\u202e\u200e\u200f]+", "", text)
         text = re.sub(r"PDF|LRQ|LRO|RLO", "", text, flags=re.IGNORECASE)
 
+        # Normalize spaces
+        text = re.sub(r"\s{2,}", " ", text).strip()
         all_text += text + "\n"
 
     pdf_document.close()

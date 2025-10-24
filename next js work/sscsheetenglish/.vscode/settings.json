@@ -1,0 +1,7 @@
+{
+    "editor.foldingImportsByDefault": true,
+    "editor.foldingMaximumRegions": 65000,
+    "editor.showFoldingControls": "always",
+    "notebook.showFoldingControls": "always",
+    "json.maxItemsComputed": 65000
+}

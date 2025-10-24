@@ -14,8 +14,11 @@ export default function ProblemPage() {
   const router = useRouter();
   const [problem, setProblem] = useState(null);
   const [selectedOption, setSelectedOption] = useState(null);
+  const [correctOption, setCorrectOption] = useState(null);
   const [showSolution, setShowSolution] = useState(false);
   const [playVideo, setPlayVideo] = useState(false);
+  const [allQuestions, setAllQuestions] = useState([]);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(null);
 
   const apidatasheeturl = process.env.NEXT_PUBLIC_DATASHEET_URLGK;
 
@@ -27,8 +30,10 @@ export default function ProblemPage() {
           `${apidatasheeturl}/${chapter.replace(/\s/g, "_")}`
         );
         const data = res.data?.[1]?.Questions || [];
-        const prob = data.find((_, idx) => String(idx + 1) === id);
-        setProblem(prob);
+        setAllQuestions(data); // Store all questions
+        const probIndex = data.findIndex((_, idx) => String(idx + 1) === id);
+        setCurrentQuestionIndex(probIndex);
+        setProblem(data[probIndex]);
       } catch (err) {
         console.error("Error fetching problem:", err);
       }
@@ -40,9 +45,33 @@ export default function ProblemPage() {
   const handleOptionClick = (option) => {
     setSelectedOption(option);
     if (option === problem.answer) {
+      setCorrectOption(option);
       toast.success("✅ You are correct!");
     } else {
+      setCorrectOption(problem.answer);
       toast.error("❌ Wrong answer, try again!");
+    }
+  };
+
+  const handleNextQuestion = () => {
+    if (currentQuestionIndex < allQuestions.length - 1) {
+      const nextIndex = currentQuestionIndex + 1;
+      setCurrentQuestionIndex(nextIndex);
+      setProblem(allQuestions[nextIndex]);
+      setSelectedOption(null);
+      setCorrectOption(null);
+      router.push(`/sscsheet/gk/problem/${nextIndex + 1}?chapter=${chapter}`);
+    }
+  };
+
+  const handlePreviousQuestion = () => {
+    if (currentQuestionIndex > 0) {
+      const prevIndex = currentQuestionIndex - 1;
+      setCurrentQuestionIndex(prevIndex);
+      setProblem(allQuestions[prevIndex]);
+      setSelectedOption(null);
+      setCorrectOption(null);
+      router.push(`/sscsheet/gk/problem/${prevIndex + 1}?chapter=${chapter}`);
     }
   };
 
@@ -67,19 +96,28 @@ export default function ProblemPage() {
     <div className="min-h-screen bg-black text-white px-4 sm:px-8 md:px-16">
       <Toaster position="top-center" />
 
-      {/* Back Button */}
-      {/* <button
-        onClick={() => router.back()}
-        className="flex items-center gap-2 mb-6 text-gray-300 hover:text-white transition"
-      >
-        <ArrowLeft className="w-5 h-5" />
-        Back
-      </button> */}
-
       <div className="w-full max-w-4xl mx-auto bg-zinc-900 border border-zinc-800 rounded-2xl p-6 sm:p-8 shadow-lg">
         <h1 className="text-2xl font-bold mb-4 text-orange-400">
-          {chapter} — Problem 
+          {chapter} Problem
         </h1>
+
+        {/* Navigation Buttons */}
+        <div className="flex justify-between mt-8 mb-4">
+          <button
+            onClick={handlePreviousQuestion}
+            disabled={currentQuestionIndex === 0}
+            className="bg-orange-500 hover:bg-orange-600 text-white px-2 py-2 rounded-lg font-semibold transition disabled:opacity-50 sm:px-1 sm:py-1.5 md:px-4 md:py-2"
+          >
+            Previous Question
+          </button>
+          <button
+            onClick={handleNextQuestion}
+            disabled={currentQuestionIndex === allQuestions.length - 1}
+            className="bg-orange-500 hover:bg-orange-600 text-white px-2 py-2 rounded-lg font-semibold transition disabled:opacity-50 sm:px-1 sm:py-1.5 md:px-4 md:py-2"
+          >
+            Next Question
+          </button>
+        </div>
 
         {/* Question */}
         <div className="mb-6">
@@ -105,7 +143,9 @@ export default function ProblemPage() {
               onClick={() => handleOptionClick(opt.text)}
               className={`cursor-pointer p-3 rounded-xl border transition-all ${
                 selectedOption === opt.text
-                  ? "border-orange-500 bg-zinc-800"
+                  ? opt.text === correctOption
+                    ? "bg-green-600 border-green-500"
+                    : "bg-red-600 border-red-500"
                   : "border-zinc-700 hover:border-orange-400"
               }`}
             >
@@ -147,24 +187,21 @@ export default function ProblemPage() {
             <p className="text-gray-300">Solution not available.</p>
           ) : null}
         </div>
-        {/* YouTube Video Section */}
+
+        {/* Video Section */}
         {videoId && (
           <div className="mt-6">
             <h2 className="text-xl font-semibold mb-2">Video Explanation:</h2>
-
             {!playVideo ? (
               <div
                 className="relative w-full pb-[56.25%] cursor-pointer rounded-lg overflow-hidden"
                 onClick={() => setPlayVideo(true)}
               >
-                {/* Thumbnail */}
                 <img
                   src={`https://img.youtube.com/vi/${videoId}/hqdefault.jpg`}
                   alt="video thumbnail"
                   className="absolute top-0 left-0 w-full h-full object-cover"
                 />
-
-                {/* Play Button */}
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="bg-orange-500 rounded-full flex items-center justify-center opacity-80 w-16 h-16">
                     <svg

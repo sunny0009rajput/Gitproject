@@ -4,7 +4,7 @@ import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { Menu, X } from "lucide-react";
 import axios from "axios";
-
+import Image from "next/image";
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false); // Mobile menu
   const [sscOpen, setSscOpen] = useState(false); // Desktop dropdown
@@ -85,11 +85,20 @@ const Navbar = () => {
           {/* <h1 className="text-white text-2xl font-bold tracking-wide">
             CodeMonarch Academy
           </h1> */}
-          <img
+          {/* <img
             src="LOGO.png"
             alt="CodeMonarch Academy Logo"
             className="w-28 h-20 sm:w-40 sm:h-28 md:w-52 md:h-32 lg:w-60 lg:h-34 object-contain shadow-md transition-all duration-300"
-          />
+          /> */}
+          <Image
+  src="/LOGO.png" // Make sure to use the path correctly for the Next.js static folder or an external URL
+  alt="CodeMonarch Academy Logo"
+  width={240} // Set a default width
+  height={160} // Set a default height
+  className="object-contain shadow-md transition-all duration-300"
+  sizes="(max-width: 768px) 160px, (max-width: 1024px) 200px, 240px" // Add responsive size handling for different breakpoints
+/>
+          
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex space-x-8 items-center relative">

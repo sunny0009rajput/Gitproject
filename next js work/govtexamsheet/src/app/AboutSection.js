@@ -6,25 +6,25 @@ const AboutSection = () => {
     {
       name: "YouTube",
       icon: <Youtube className="w-6 h-6" />,
-      url: "#",
+      url: "https://www.youtube.com/channel/UCZXCgZgwwneej0Q_qXD3Kew",
       hoverColor: "hover:bg-red-600"
     },
     {
       name: "Instagram", 
       icon: <Instagram className="w-6 h-6" />,
-      url: "#",
+      url: "https://www.instagram.com/codemonarchsunny/?hl=en",
       hoverColor: "hover:bg-pink-600"
     },
     {
       name: "Twitter",
       icon: <Twitter className="w-6 h-6" />,
-      url: "#",
+      url: "https://www.instagram.com/codemonarchsunny/?hl=en",
       hoverColor: "hover:bg-blue-400"
     },
     {
       name: "Facebook",
       icon: <Facebook className="w-6 h-6" />,
-      url: "#",
+      url: "https://www.instagram.com/codemonarchsunny/?hl=en",
       hoverColor: "hover:bg-blue-600"
     }
   ];

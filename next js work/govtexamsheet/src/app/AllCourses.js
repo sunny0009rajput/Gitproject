@@ -25,7 +25,7 @@ export default function AllCourses() {
       image: "ssc.png",
       gradient: "from-yellow-500 to-orange-500",
       bgGradient: "from-yellow-50 to-orange-50",
-      url: "/lightning-fast",
+      url: "/soon",
     },
     {
       id: 3,
@@ -35,7 +35,7 @@ export default function AllCourses() {
       image: "ssc.png",
       gradient: "from-red-500 to-rose-500",
       bgGradient: "from-red-50 to-rose-50",
-      url: "/user-focused",
+      url: "/soon",
     },
     {
       id: 4,
@@ -45,7 +45,7 @@ export default function AllCourses() {
       image: "ssc.png",
       gradient: "from-blue-500 to-cyan-500",
       bgGradient: "from-blue-50 to-cyan-50",
-      url: "/premium-quality",
+      url: "/soon",
     },
   ];
 
@@ -89,7 +89,7 @@ export default function AllCourses() {
                       />
                     </div>
 
-                    <h3 className="text-xl font-bold text-white mt-2 mb-3 group-hover:text-transparent group-hover:bg-gradient-to-r group-hover:bg-clip-text group-hover:from-slate-800 group-hover:to-slate-600 transition-all duration-300">
+                    <h3 className="text-xl font-bold text-white mt-2 mb-3 group-hover:text-transparent group-hover:bg-gradient-to-r group-hover:bg-clip-text group-hover:from-green-600 group-hover:to-green-500 transition-all duration-300">
                       {card.title}
                     </h3>
 

@@ -1,0 +1,2363 @@
+[
+    {
+        "id": 674,
+        "question": {
+            "type": "text",
+            "content": "My sister resembles to my mother a lot in looks and in ||| temperament. ||| ||| ||| SSC CPO Tier II (08 / 01 / 2024) |||"
+        },
+        "options": [
+            {
+                "text": "is resembling to ||| |||"
+            },
+            {
+                "text": "resembles ||| |||"
+            },
+            {
+                "text": "has resemblance to ||| |||"
+            },
+            {
+                "text": "No improvement |||"
+            }
+        ],
+        "answer": "resembles ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "resembles ||| The verb ‘resembles’ does not take the preposition ‘to’ after it. ||| Hence, ‘resembles’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CPO Tier II (08 / 01 / 2024)",
+        "videoUrl": ""
+    },
+    {
+        "id": 675,
+        "question": {
+            "type": "text",
+            "content": "Effective communication is a skill that can significant ||| enhance your personal and professional life. ||| ||| ||| SSC CPO Tier II (08 / 01 / 2024) |||"
+        },
+        "options": [
+            {
+                "text": "which can significant enhanced ||| |||"
+            },
+            {
+                "text": "No improvement required ||| |||"
+            },
+            {
+                "text": "which can significantly enhancing ||| |||"
+            },
+            {
+                "text": "which can significantly enhance |||"
+            }
+        ],
+        "answer": "which can significantly enhance |||",
+        "solution": {
+            "type": "text",
+            "content": "which can significantly enhance ||| The given sentence needs an adverb(significantly) to modify the ||| verb (enhance) and not an adjective (significant). Hence, ‘which ||| can significantly enhance’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CPO Tier II (08 / 01 / 2024)",
+        "videoUrl": ""
+    },
+    {
+        "id": 676,
+        "question": {
+            "type": "text",
+            "content": "We have received no information so far to the main island. ||| ||| ||| SSC CPO Tier II (08 / 01 / 2024) |||"
+        },
+        "options": [
+            {
+                "text": "No improvement required ||| |||"
+            },
+            {
+                "text": "so farther from ||| |||"
+            },
+            {
+                "text": "so far from ||| |||"
+            },
+            {
+                "text": "such far from |||"
+            }
+        ],
+        "answer": "so far from ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "so far from ||| ‘From’ is used with ‘receive’ to indicate the source destination or ||| sender. In the given sentence, ‘the main island’ is the source ||| destination from which no information has been received so far. ||| Hence, ‘so far from’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CPO Tier II (08 / 01 / 2024)",
+        "videoUrl": ""
+    },
+    {
+        "id": 677,
+        "question": {
+            "type": "text",
+            "content": "When he was falsely accused of embezzlement, he was ||| beside himself in anger. ||| ||| ||| SSC CPO Tier II (08 / 01 / 2024) |||"
+        },
+        "options": [
+            {
+                "text": "No improvement ||| |||"
+            },
+            {
+                "text": "he went beside himself ||| |||"
+            },
+            {
+                "text": "he were beside himself |||"
+            },
+            {
+                "text": "he was besides himself |||"
+            }
+        ],
+        "answer": "No improvement ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "No improvement ||| ‘Be beside oneself’ is a phrase which means to be in an ||| extremely emotional state. The given sentence states that the ||| person was in an extreme state of anger. Hence, option (a) is the ||| most appropriate answer. |||"
+        },
+        "status": "SSC CPO Tier II (08 / 01 / 2024)",
+        "videoUrl": ""
+    },
+    {
+        "id": 678,
+        "question": {
+            "type": "text",
+            "content": "She is married with a rich businessman and has enough ||| money to splurge on luxuries. ||| ||| ||| SSC CPO Tier II (08 / 01 / 2024) |||"
+        },
+        "options": [
+            {
+                "text": "has marriage with ||| |||"
+            },
+            {
+                "text": "is married to ||| |||"
+            },
+            {
+                "text": "has married with ||| |||"
+            },
+            {
+                "text": "No improvement |||"
+            }
+        ],
+        "answer": "is married to ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "is married to ||| ‘To’ is used after the verb ‘married’ in the passive voice. Hence, ||| 'is married to' is the most appropriate answer. |||"
+        },
+        "status": "SSC CPO Tier II (08 / 01 / 2024)",
+        "videoUrl": ""
+    },
+    {
+        "id": 679,
+        "question": {
+            "type": "text",
+            "content": "Sherpas have prospered and come along the way from ||| being just porters to becoming mountaineers. ||| ||| ||| SSC CPO Tier II (08 / 01 / 2024) |||"
+        },
+        "options": [
+            {
+                "text": "are coming along ||| |||"
+            },
+            {
+                "text": "come all along ||| |||"
+            },
+            {
+                "text": "No improvement ||| |||"
+            },
+            {
+                "text": "come a long way |||"
+            }
+        ],
+        "answer": "come a long way |||",
+        "solution": {
+            "type": "text",
+            "content": "come a long way ||| The phrase ‘come a long way’ means to make significant ||| progress or improvement. The given sentence states that ||| Sherpas have prospered and made significant progress from ||| being just porters to becoming mountaineers. Hence, ‘come a ||| long way’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CPO Tier II (08 / 01 / 2024)",
+        "videoUrl": ""
+    },
+    {
+        "id": 680,
+        "question": {
+            "type": "text",
+            "content": "As bombs keep falling on Gaza, hundreds of thousands of ||| children have been order to flee their homes. ||| ||| ||| SSC CPO Tier II (08 / 01 / 2024) |||"
+        },
+        "options": [
+            {
+                "text": "have been ordered to flee |||"
+            },
+            {
+                "text": "have been ordered fleeing ||| |||"
+            },
+            {
+                "text": "No improvement required |||"
+            },
+            {
+                "text": "has been ordered to flee |||"
+            }
+        ],
+        "answer": "have been ordered to flee |||",
+        "solution": {
+            "type": "text",
+            "content": "have been ordered to flee ||| ‘Subject + has/have + been + V 3 ’ is the correct grammatical ||| structure for passive voice of Present perfect tense. ‘Ordered’ is ||| the correct third form of ‘order’. Hence, ‘have been ordered(V 3 ) to ||| flee’ is the most appropriate answer. ||| Sol. 16 .(c) ought to be kept under ||| Passive voice is used when the action is performed upon the ||| subject, not by the subject. ‘Ought to + be + V 3 ’ is the correct ||| passive form. Hence, ‘ought to be kept(V 3 ) under’ is the most ||| appropriate answer. |||"
+        },
+        "status": "SSC CPO Tier II (08 / 01 / 2024)",
+        "videoUrl": ""
+    },
+    {
+        "id": 681,
+        "question": {
+            "type": "text",
+            "content": "The pollution level ought to keep under control. ||| ||| ||| SSC CPO Tier II (08 / 01 / 2024) |||"
+        },
+        "options": [
+            {
+                "text": "No improvement required ||| |||"
+            },
+            {
+                "text": "ought to be keeping ||| |||"
+            },
+            {
+                "text": "ought to be kept ||| |||"
+            },
+            {
+                "text": "ought to have kept ||| |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CPO Tier II (08 / 01 / 2024)",
+        "videoUrl": ""
+    },
+    {
+        "id": 682,
+        "question": {
+            "type": "text",
+            "content": "He said that I have finished my work . ||| (3rd Shift) ||| ||| SSC MTS 01 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "he had finished his work |||"
+            },
+            {
+                "text": "he has finished his work ||| |||"
+            },
+            {
+                "text": "I had finished my work ||| |||"
+            },
+            {
+                "text": "he was finished his work |||"
+            }
+        ],
+        "answer": "he had finished his work |||",
+        "solution": {
+            "type": "text",
+            "content": "he had finished his work . ||| The given sentence is an example of indirect speech as the ||| conjunction 'that' has been used after the verb 'said'. As per the ||| rules of Indirect speech, the pronouns 'I' and ‘My’ change into ||| 'He' and ‘His’ and ‘Present perfect (have + V 3 ) changes to past ||| perfect (had + V 3 ). Hence, 'he had finished his homework' is the ||| most appropriate answer. |||"
+        },
+        "status": "SSC MTS 01 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 683,
+        "question": {
+            "type": "text",
+            "content": "Many great people born in that small village. ||| (3rd Shift) ||| ||| SSC MTS 01 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "was born |||"
+            },
+            {
+                "text": "No substitution required |||"
+            },
+            {
+                "text": "is born |||"
+            },
+            {
+                "text": "were born |||"
+            }
+        ],
+        "answer": "were born |||",
+        "solution": {
+            "type": "text",
+            "content": "were born ||| We generally use the passive voice when the subject is unknown ||| or unimportant. According to the “Subject-Verb Agreement Rule”, ||| a plural subject always takes a plural verb. Similarly, ‘people’ is a ||| plural subject that will take ‘were’ as a plural verb. Hence, ‘were ||| born’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 01 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 684,
+        "question": {
+            "type": "text",
+            "content": "It is true that learning English is essential for professionals ||| to survived the national and international competitions. ||| (3rd Shift) ||| ||| SSC MTS 01 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "to be survive ||| |||"
+            },
+            {
+                "text": "having to survive ||| |||"
+            },
+            {
+                "text": "No improvement required ||| |||"
+            },
+            {
+                "text": "for surviving |||"
+            }
+        ],
+        "answer": "for surviving |||",
+        "solution": {
+            "type": "text",
+            "content": "for surviving ||| ‘For’ is used to indicate the purpose or reason of something. ||| Similarly, the given sentence states the purpose of learning ||| English. We generally use gerund(V ing ) after a preposition(for). ||| Hence, ‘for surviving(V ing )’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 01 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 685,
+        "question": {
+            "type": "text",
+            "content": "Peer pressure is bound to effect most of us both positively ||| and negatively. ||| (1st Shift) ||| ||| SSC MTS 04 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "to invoke most of us ||| |||"
+            },
+            {
+                "text": "to affect most of us ||| |||"
+            },
+            {
+                "text": "to impede most of us ||| |||"
+            },
+            {
+                "text": "to prompt most of us |||"
+            }
+        ],
+        "answer": "to affect most of us ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "to affect most of us ||| We generally use the first form of the verb(V 1 ) after the ||| preposition ‘to’. ‘Affect’ is the verb form of the noun ‘effect’. ||| Hence, ‘to affect(V 1 ) most of us’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 04 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 686,
+        "question": {
+            "type": "text",
+            "content": "The pandemic has challenged education systems to ||| ensure learning continuity, substantially increasing the demands ||| placed on teachers. ||| (1st Shift) ||| ||| SSC MTS 04 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "education systems to ensuring learning ||| |||"
+            },
+            {
+                "text": "education systems for ensure learning ||| |||"
+            },
+            {
+                "text": "education systems in ensure learning ||| |||"
+            },
+            {
+                "text": "No substitution required |||"
+            }
+        ],
+        "answer": "No substitution required |||",
+        "solution": {
+            "type": "text",
+            "content": "No substitution required. ||| The given sentence is grammatically correct. |||"
+        },
+        "status": "SSC MTS 04 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 687,
+        "question": {
+            "type": "text",
+            "content": "They would find someone drive the wagon back across ||| the desert. ||| (2nd Shift) ||| ||| SSC MTS 04 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "in drive in the |||"
+            },
+            {
+                "text": "to drive |||"
+            },
+            {
+                "text": "to drive the |||"
+            },
+            {
+                "text": "in driving |||"
+            }
+        ],
+        "answer": "to drive the |||",
+        "solution": {
+            "type": "text",
+            "content": "to drive the ||| We generally use infinitive (To + V 1 ) to denote the purpose of ||| something. Similarly, the given sentence talks about the purpose ||| of finding someone. Hence, ‘to drive(V 1 ) the’ is the most ||| appropriate answer. |||"
+        },
+        "status": "SSC MTS 04 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 688,
+        "question": {
+            "type": "text",
+            "content": "The airplane flowed over the mountains, offering the ||| passengers a breath-taking view of the majestic peaks below. ||| (2nd Shift) ||| ||| SSC MTS 04 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "flew beyond |||"
+            },
+            {
+                "text": "flew over |||"
+            },
+            {
+                "text": "flowed above |||"
+            },
+            {
+                "text": "flowed beyond |||"
+            }
+        ],
+        "answer": "flew over |||",
+        "solution": {
+            "type": "text",
+            "content": "flew over ||| ‘Flew’ is the past form of ‘fly’ and ‘flowed’ means to move in a ||| current or stream. The given sentence states that the airplane ||| flew over the mountains giving passengers a stunning view of ||| the majestic peaks beneath them. Hence, ‘flew over’ is the most ||| appropriate answer. |||"
+        },
+        "status": "SSC MTS 04 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 689,
+        "question": {
+            "type": "text",
+            "content": "Select the word segment which substitutes the bracketed ||| word correctly and completes the sentence meaningfully. ||| Mathematics (are not) easy to learn. ||| (3rd Shift) ||| ||| SSC MTS 04 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "were not ||| |||"
+            },
+            {
+                "text": "was not ||| |||"
+            },
+            {
+                "text": "has not ||| |||"
+            },
+            {
+                "text": "is not |||"
+            }
+        ],
+        "answer": "is not |||",
+        "solution": {
+            "type": "text",
+            "content": "is not ||| According to the “Subject-Verb Agreement Rule”, a singular ||| subject always takes a singular verb and a plural subject always ||| takes a plural verb. In the given sentence, ‘Mathematics’ is a ||| singular subject that will take ‘is’ as a singular verb. Hence, ‘is ||||||Pinnacle ||| Sentence Improvement ||| not’ is the most appropriate answer. ||| Sol. 61 .(a) added salt instead of sugar ||| ‘Alter’ means to change the form of something & ‘add’ means to ||| put in an additional element or ingredient. The word ‘added’ is a ||| more precise and clear choice in this sentence. Hence, ‘added ||| salt instead of sugar’ is the most appropriate answer. ||| Sol. 62 .(a) no sooner did he finish ||| “Do/does/did + V 1 “ is the correct grammatical structure. Hence, ||| ‘no sooner did he finish’ is the most appropriate answer. ||| Sol. 63 .(d) the threat to civic health ||| The phrase ‘the threat to civic health’ means the potential danger ||| or risk to the well-being and overall health of a city. Hence, ‘the ||| threat to civic health’ is the most appropriate answer. ||| Sol. 64 .(d) to eat ||| ‘Too + adjective + to + V 1 ’ is the correct grammatical structure. ||| Hence, ‘to eat(V 1 )’ is the most appropriate answer. ||| Sol. 65 .(c) trying to jump ||| The given sentence is an example of Present Continuous ||| Tense(Plural Sub. + are + V ing ). We generally use the preposition ||| ‘to’ with the verb ‘try’ for an activity. Hence, ‘trying(V ing ) to jump’ is ||| the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 04 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 690,
+        "question": {
+            "type": "text",
+            "content": "Mohan unknowingly altered salt instead of sugar to the ||| dessert making it taste terrible. ||| (1st Shift) ||| ||| SSC MTS 05 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "added salt instead of sugar ||| |||"
+            },
+            {
+                "text": "anguished salt instead of sugar ||| |||"
+            },
+            {
+                "text": "amplified salt instead of sugar ||| |||"
+            },
+            {
+                "text": "abridged salt instead of sugar |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC MTS 05 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 691,
+        "question": {
+            "type": "text",
+            "content": "They are sell their company's products to people. ||| (2nd Shift) ||| ||| SSC MTS 06 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "are sell the company ||| |||"
+            },
+            {
+                "text": "are selling their company's ||| |||"
+            },
+            {
+                "text": "was sell the company's |||"
+            },
+            {
+                "text": "is selling they company's |||"
+            }
+        ],
+        "answer": "are selling their company's ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "are selling their company's ||| We use ‘V-ing’ with the helping verb ‘is/am/are’ in the Present ||| Continuous Tense. Hence, “are selling(V-ing) their company’s” is ||| the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 06 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 692,
+        "question": {
+            "type": "text",
+            "content": "You are the beautiful woman I have ever seen. ||| (1st Shift) ||| ||| SSC MTS 08 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "no rectification needed ||| |||"
+            },
+            {
+                "text": "more beautiful ||| |||"
+            },
+            {
+                "text": "beauty ||| |||"
+            },
+            {
+                "text": "most beautiful |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC MTS 08 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 693,
+        "question": {
+            "type": "text",
+            "content": "Larger emissions of greenhouse gases lead to higher ||| concentrations in the atmosphere. ||| (1st Shift) ||| ||| SSC MTS 08 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "leaded to higher concentrations ||| |||"
+            },
+            {
+                "text": "have lead to higher concentrations ||| |||"
+            },
+            {
+                "text": "is lead to higher concentrations ||| |||"
+            },
+            {
+                "text": "No substitution required |||"
+            }
+        ],
+        "answer": "No substitution required |||",
+        "solution": {
+            "type": "text",
+            "content": "No substitution required. ||| The given sentence is grammatically correct. |||"
+        },
+        "status": "SSC MTS 08 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 694,
+        "question": {
+            "type": "text",
+            "content": "France is a largest country. ||| (3rd Shift) ||| ||| SSC MTS 08 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "smaller |||"
+            },
+            {
+                "text": "larger |||"
+            },
+            {
+                "text": "smallest |||"
+            },
+            {
+                "text": "large |||"
+            }
+        ],
+        "answer": "large |||",
+        "solution": {
+            "type": "text",
+            "content": "large ||| We generally use a positive degree of adjective while describing ||| or qualifying a noun and ‘large’ is a positive degree adjective. ||| Hence, ‘large’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 08 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 695,
+        "question": {
+            "type": "text",
+            "content": "Very early in the morning, at the beginning of January, Opu ||| was lying in bed waiting for the sun having rose. ||| (2nd Shift) ||| ||| SSC MTS 12 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "waited for the sun rising |||"
+            },
+            {
+                "text": "waited for the sun having rose ||| |||"
+            },
+            {
+                "text": "No improvement required |||"
+            },
+            {
+                "text": "waiting for the sun to rise |||"
+            }
+        ],
+        "answer": "waiting for the sun to rise |||",
+        "solution": {
+            "type": "text",
+            "content": "waiting for the sun to rise ||| We generally use the infinitive form of the verb “to + V 1 ” to ||| combine two actions. Similarly, in the given sentence, the two ||| actions are ‘waiting’ and ‘rising’. Hence, ‘waiting for the sun to ||| rise’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 12 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 696,
+        "question": {
+            "type": "text",
+            "content": "Newton, after seeing the apple falling from a tree, began to ||| wonder whether if it moved towards the earth and not upwards ||| towards the sky. ||| (2nd Shift) ||| ||| SSC MTS 12 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "No improvement required ||| |||"
+            },
+            {
+                "text": "began to wondering if ||| |||"
+            },
+            {
+                "text": "began his wondering how ||| |||"
+            },
+            {
+                "text": "began to wonder why |||"
+            }
+        ],
+        "answer": "began to wonder why |||",
+        "solution": {
+            "type": "text",
+            "content": "began to wonder why ||| The phrase 'began to wonder why' means started thinking about ||| the reason behind the happening of some event. The given ||| sentence states that Newton started thinking about the reason ||| for the fall of the apple towards the Earth, not towards the sky. ||| Hence, 'began to wonder why' is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 12 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 697,
+        "question": {
+            "type": "text",
+            "content": "They serve stuffed garlic bread and molten chocolate in ||| the birthday party of their son, Parth, last week. ||| (2nd Shift) ||| ||| SSC MTS 12 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "served |||"
+            },
+            {
+                "text": "serves |||"
+            },
+            {
+                "text": "are serving |||"
+            },
+            {
+                "text": "be served |||"
+            }
+        ],
+        "answer": "served |||",
+        "solution": {
+            "type": "text",
+            "content": "served ||| The phrase ‘last week’ indicates that the given sentence is in the ||| past tense. So, it must have the verb in the past form(V 2 ) and not ||| in the present form(serve). Hence, ‘served(V 2 )’ is the most ||| appropriate answer. |||"
+        },
+        "status": "SSC MTS 12 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 698,
+        "question": {
+            "type": "text",
+            "content": "If I hand her a flower and say, \"Give it to mamma,\" she take ||| it to her mother. ||| (2nd Shift) ||| ||| SSC MTS 13 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "was taking it |||"
+            },
+            {
+                "text": "takes it |||"
+            },
+            {
+                "text": "had took it |||"
+            },
+            {
+                "text": "had taken it |||"
+            }
+        ],
+        "answer": "takes it |||",
+        "solution": {
+            "type": "text",
+            "content": "takes it ||| According to the “Subject-Verb Agreement Rule”, a singular ||| subject always takes a singular verb. Similarly, ‘she’ is a singular ||| pronoun that will take ‘takes’ as a singular verb. Hence, ‘takes it’ ||| is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 13 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 699,
+        "question": {
+            "type": "text",
+            "content": "The new chairman of the company announced attracted ||| bonus for the employees on the occasion of the new year. ||| (2nd Shift) ||| ||| SSC MTS 13 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "No improvement required ||| |||"
+            },
+            {
+                "text": "announced an attractive bonus for the employees ||| |||"
+            },
+            {
+                "text": "announcing attracted bonus for the employees ||| |||"
+            },
+            {
+                "text": "announced attracting bonus for the employees |||"
+            }
+        ],
+        "answer": "announced an attractive bonus for the employees ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "announced an attractive bonus for the employees ||| ‘Attracted’ must be replaced with the adjective ‘attractive’ as we ||| need to use an adjective to qualify the noun ‘bonus.’ Hence, ||| ‘ announced an attractive bonus for the employees ’ is the most ||| appropriate answer. ||||||Pinnacle ||| Sentence Improvement |||"
+        },
+        "status": "SSC MTS 13 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 700,
+        "question": {
+            "type": "text",
+            "content": "Rishi asked Karan will he get a new football for him ? ||| (2nd Shift) ||| ||| SSC MTS 13 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "would he get a new football for him? ||| |||"
+            },
+            {
+                "text": "if he would get a new football for him. ||| |||"
+            },
+            {
+                "text": "if would he get a new football for him? ||| |||"
+            },
+            {
+                "text": "if he will get a new football for him? |||"
+            }
+        ],
+        "answer": "if he would get a new football for him. ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "if he would get a new football for him. ||| In indirect speech, we generally use ‘if’ while changing the ||| interrogative sentence and ‘will’ is changed into ‘would’. Also, the ||| interrogative sentence is changed into an assertive sentence. ||| Hence, ‘if he would get a new football for him’ is the most ||| appropriate answer. |||"
+        },
+        "status": "SSC MTS 13 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 701,
+        "question": {
+            "type": "text",
+            "content": "They said that he is not going to call them. ||| (3rd Shift) ||||||Pinnacle ||| Sentence Improvement ||| ||| SSC MTS 13 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "he shall not call them ||| |||"
+            },
+            {
+                "text": "he has not gone to call then ||| |||"
+            },
+            {
+                "text": "they are not going to call them ||| |||"
+            },
+            {
+                "text": "he was not going to call them |||"
+            }
+        ],
+        "answer": "he was not going to call them |||",
+        "solution": {
+            "type": "text",
+            "content": "he was not going to call them ||| The given sentence is in past tense so we need to use Past ||| Continuous Tense (Singular Sub. was + V 1 -ing) to make the ||| sentence grammatically correct. Hence, ‘he was not going to call ||| them’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 13 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 702,
+        "question": {
+            "type": "text",
+            "content": "If you need any help tomorrow, let him knows . ||| (3rd Shift) ||| ||| SSC MTS 13 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "let me know ||| |||"
+            },
+            {
+                "text": "let us known ||| |||"
+            },
+            {
+                "text": "let him known ||| |||"
+            },
+            {
+                "text": "let them knew |||"
+            }
+        ],
+        "answer": "let me know ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "let me know ||| ‘Let + objective case pronoun(me/him/us) + V 1 ’ is the correct ||| grammatical structure. Hence, ‘let me know(V 1 )’ is the most ||| appropriate answer. |||"
+        },
+        "status": "SSC MTS 13 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 703,
+        "question": {
+            "type": "text",
+            "content": "Helena loves to dig and played in the dirt like any other ||| child. ||| (3rd Shift) ||| ||| SSC MTS 13 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "playing on dirt ||| |||"
+            },
+            {
+                "text": "playing with in dirt ||| |||"
+            },
+            {
+                "text": "plays of dirt ||| |||"
+            },
+            {
+                "text": "play in the dirt |||"
+            }
+        ],
+        "answer": "play in the dirt |||",
+        "solution": {
+            "type": "text",
+            "content": "play in the dirt ||| According to the ‘Rule of Parallelism’, two or more verbs must be ||| in the same form if they are connected with one another. ||| Similarly, in the given sentence, ‘and’ connects two verbs 'dig(V 1 )’ ||| and ‘played’. Therefore, ‘play(V 1 )’ must be used in place of ||| ‘played’. Hence, ‘play in the dirt’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 13 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 704,
+        "question": {
+            "type": "text",
+            "content": "The development of skills can contribute to structural ||| transformation and economic growth in enhance employability ||| and labour productivity and helping countries to become more ||| competitive. ||| (3rd Shift) ||| ||| SSC MTS 13 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "about enhancing employability |||"
+            },
+            {
+                "text": "by enhanced employability ||| |||"
+            },
+            {
+                "text": "by enhancing employability |||"
+            },
+            {
+                "text": "for enhanced employability |||"
+            }
+        ],
+        "answer": "by enhancing employability |||",
+        "solution": {
+            "type": "text",
+            "content": "by enhancing employability ||| ‘By’ is a preposition that indicates the means or method by ||| which something is done. A preposition is always followed by a ||| gerund(V 1 -ing). Hence, ‘by enhancing employability’ is the most ||| appropriate answer. |||"
+        },
+        "status": "SSC MTS 13 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 705,
+        "question": {
+            "type": "text",
+            "content": "He push the bushes aside and went a little farther. ||| (1st Shift) ||| ||| SSC MTS 14 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "pushed with bush ||| |||"
+            },
+            {
+                "text": "pushing the bush ||| |||"
+            },
+            {
+                "text": "pushes in bush ||| |||"
+            },
+            {
+                "text": "pushed the bushes |||"
+            }
+        ],
+        "answer": "pushed the bushes |||",
+        "solution": {
+            "type": "text",
+            "content": "pushed the bushes ||| The second clause of the sentence is in past tense so we need ||| to use simple past tense(V 2 ) in the first clause. Hence, ||| ‘pushed(V 2 ) the bushes’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 14 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 706,
+        "question": {
+            "type": "text",
+            "content": "I used a variety of sources to find the more cheap flight. ||| (1st Shift) ||| ||| SSC MTS 14 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "no rectification needed |||"
+            },
+            {
+                "text": "cheaper |||"
+            },
+            {
+                "text": "cheapest |||"
+            },
+            {
+                "text": "cheap |||"
+            }
+        ],
+        "answer": "cheapest |||",
+        "solution": {
+            "type": "text",
+            "content": "cheapest ||| We generally use article ‘the’ with a superlative degree and the ||| correct superlative degree of ‘cheap’ is ‘cheapest’. Hence, ||| ‘cheapest’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 14 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 707,
+        "question": {
+            "type": "text",
+            "content": "His claim to be the smartly kid in the school was a bit ||| hyperbole ! ||| (2nd Shift) ||| ||| SSC MTS 14 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "no rectification needed |||"
+            },
+            {
+                "text": "smartest |||"
+            },
+            {
+                "text": "smarter |||"
+            },
+            {
+                "text": "smart |||"
+            }
+        ],
+        "answer": "smartest |||",
+        "solution": {
+            "type": "text",
+            "content": "smartest ||| We generally use a superlative degree adjective with the definite ||| article ‘the’. The correct superlative adjective of ‘smartly’ is ||| ‘smartest’. Hence, ‘smartest’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 14 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 708,
+        "question": {
+            "type": "text",
+            "content": "The rise in temperature is playing havoc with India's ||| rainfall which is pertinent for India's agriculture sector. ||| (3rd Shift) ||| ||| SSC MTS 14 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "rainfall who is pertinent |||"
+            },
+            {
+                "text": "rainfall which is significant ||| |||"
+            },
+            {
+                "text": "rainfall which is decant |||"
+            },
+            {
+                "text": "rainfall which was mendicant |||"
+            }
+        ],
+        "answer": "rainfall which is significant ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "rainfall which is significant ||| ‘Significant’ means important. The given sentence states that ||| the rise in temperature is playing havoc with India’s rainfall which ||| is significant for India’s agricultural sector. Hence, ‘rainfall which ||| is significant’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 14 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 709,
+        "question": {
+            "type": "text",
+            "content": "Rahul's sister says that my brother is the best dancer in ||| the city . ||| (3rd Shift) ||| ||| SSC MTS 14 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "her brother is the best dancer in the city ||| |||"
+            },
+            {
+                "text": "my brother was the best dancer in the city ||| |||"
+            },
+            {
+                "text": "her brother was the best dancer in the city ||| |||"
+            },
+            {
+                "text": "his brother was the best dancer in the city |||"
+            }
+        ],
+        "answer": "her brother is the best dancer in the city ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "her brother is the best dancer in the city ||| The main subject in the sentence is ‘Rahul’s sister’ which is ||| feminine gender. ‘Her’ is used for feminine gender. Hence, ‘her ||| brother is the best dancer in the city’ is the most appropriate ||| answer. |||"
+        },
+        "status": "SSC MTS 14 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 710,
+        "question": {
+            "type": "text",
+            "content": "A wonder in the plant kingdom, the Great Banyan Tree of ||| the AJC Bose Botanical Garden at Shibpur in Howrah, occupies a ||| unique position in the world records. ||| (3rd Shift) ||| ||| SSC MTS 14 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "occupying a unique position in ||| |||"
+            },
+            {
+                "text": "occupies an unique position in ||| |||"
+            },
+            {
+                "text": "No improvement required ||| |||"
+            },
+            {
+                "text": "being occupied a unique position of |||"
+            }
+        ],
+        "answer": "No improvement required ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "No improvement required. ||| The given sentence is grammatically correct. |||"
+        },
+        "status": "SSC MTS 14 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 711,
+        "question": {
+            "type": "text",
+            "content": "It has raining very hard and he has a very large umbrella to ||| keep off the rain-drops. ||| (3rd Shift) ||| ||| SSC MTS 14 / 09 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "shall rain |||"
+            },
+            {
+                "text": "is raining |||"
+            },
+            {
+                "text": "will be rainy |||"
+            },
+            {
+                "text": "rained ||| |||"
+            }
+        ],
+        "answer": "is raining |||",
+        "solution": {
+            "type": "text",
+            "content": "is raining ||| Time period is not given in the sentence, so we can not use ||| Present Perfect Continuous Tense. Rather, we will use Present ||| Continuous Tense(Singular Sub. + is + V ing ) in the given ||| sentence. Hence, 'is raining' is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 14 / 09 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 712,
+        "question": {
+            "type": "text",
+            "content": "I enjoy learn languages because I like them. ||| (4th Shift) ||| ||| SSC CHSL 03 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "to learning |||"
+            },
+            {
+                "text": "lean |||"
+            },
+            {
+                "text": "learning |||"
+            },
+            {
+                "text": "No substitution required |||"
+            }
+        ],
+        "answer": "learning |||",
+        "solution": {
+            "type": "text",
+            "content": "learning ||| There are certain verbs which always take a gerund(V ing ) after ||| them. These verbs include ‘love, enjoy, stop, suggest, consider, ||| etc’. Hence, ‘learning(V ing )’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 03 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 713,
+        "question": {
+            "type": "text",
+            "content": "Abraham narrated Reshma his last escapade in a ||| dramatic way. ||| (1st Shift) ||| ||| SSC CHSL 04 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "exertion |||"
+            },
+            {
+                "text": "ordeal ||| |||"
+            },
+            {
+                "text": "adventure |||"
+            },
+            {
+                "text": "escape |||"
+            }
+        ],
+        "answer": "adventure |||",
+        "solution": {
+            "type": "text",
+            "content": "Escapade - adventure. ||| Sol. 110 .(c) accused of beating up on the ||| The phrasal verb ‘beat up on’ means to assault or injure ||| someone by hitting repeatedly. The given sentence states that ||| Mr. Arvind faced an accusation of assaulting or beating the ||| students in the class. Hence, ‘accused of beating up on the’ is ||| the most appropriate answer. ||| Sol. 111 .(c) I would have had ||| The given sentence is an example of a third conditional ||| sentence and the correct grammatical structure for it is “If + past ||| perfect(had + V 3 ) …….. Would have + V 3 ”. Hence, ‘I would have ||| had’ is the most appropriate answer. ||| Sol. 112 .(b) with their dialectical varieties ||| Possessive pronoun ‘Its’ is used for a singular noun and ‘their’ is ||| used for a plural noun. Similarly, ‘European languages’ is a plural ||| noun and it will take ‘their’ with it. Hence, ‘with their dialectical ||| varieties’ is the most appropriate answer. ||| Sol. 113 .(a) finish the marathon in record time ||| The phrase ‘in record time’ means within a remarkably short ||| amount of time. Preposition ‘In’ specifies the time frame for the ||| action of finishing the marathon. Hence, ‘finish the marathon in ||| record time’ is the most appropriate answer. ||| Sol. 114 .(a) more brave than intelligent ||| When there is a comparison between two qualities of a single ||| person or thing, we do not use normal comparative degree. E.g.- ||| more smart than beautiful(not ‘smarter than beautiful’). Similarly, ||| the given sentence compares two qualities, ‘bravery’ and ||| ‘intelligence’ of Himanshu. Hence, ‘more brave than intelligent’ is ||| the most appropriate answer. ||| Sol. 115 .(b) nothing else ||| ‘Nothing else’ is used to emphasize a quality or feature that one ||| has. Similarly, in the given sentence, there is emphasis on the ||| quality of pride. Hence, ‘nothing else’ is the most appropriate ||| answer. ||| Sol. 116 .(a) has not been and can never be ||| ‘Singular Sub. + has + V 3 ’ and ‘Modal(can) + V 1 ’ is the correct ||| grammatical structure for the given sentence. Hence, ‘has not ||| been(V 3 ) and can never be(V,)’ is the most appropriate answer. ||| Sol. 117 .(c) has the prospect ||| According to the ‘Subject-Verb Agreement Rule’, a singular ||| subject always takes a singular verb. In the given sentence, ||| ‘integration’ is a singular subject that will take ‘has’ as a singular ||| verb. Hence, ‘has the prospect’ is the most appropriate answer. ||| Sol. 118 .(d) Our teachers have planned a picnic ||| According to the “Subject-Verb ||| Agreement Rule”, a plural subject always takes a plural verb. ||| In the given sentence, ‘our teachers’ is a plural subject that will ||| take ‘have’ as a plural verb. Hence, ‘Our teachers have planned a ||| picnic’ is the most appropriate answer. ||| Sol. 119 .(a) due to his hard work and dedication ||| ‘Their’ is used for plural nouns whereas ‘his’ is used for singular ||| nouns of common gender. In the given sentence, ‘the new ||| employees’ is a singular noun of common gender. Hence, ‘due to ||| his hard work and dedication’ is the most appropriate answer. ||| Sol. 120 .(a) for the last several years ||| ‘Since’ is used to denote a point of time like since 1960. ‘For’ is ||| used for a fixed period of time(countable) like 2 years/3 ||| months/4 days/8 hours. Hence, ‘for the last several years’ is the ||| most appropriate answer. ||| Sol. 121 .(a) from one and all in the country and abroad ||| The phrase ‘one and all’ conveys the idea that he received ||| appreciation from everyone. Also, article ‘the’ will be used before ||| the country. Hence, ‘from one and all in the country and abroad’ ||| is the most appropriate answer. ||| Sol. 122 .(b) No correction required. ||| The given sentence is grammatically correct. ||| Sol. 123 .(c) continued to study for his upcoming exam ||| The given sentence contains a verb in past form i.e. “was ||| exhausted” so we will use simple past tense(V 2 ) in the latter ||| part. Hence, ‘continued to study for his upcoming exam’ is the ||| most appropriate answer. ||| Sol. 124 .(b) did not call ||| ‘Yesterday’ denotes an action that happened in the past. So, we ||| need to use simple past tense(V 2 ) to make the sentence ||| grammatically correct. Hence, ‘did not call’ is the most ||||||Pinnacle ||| Sentence Improvement ||| appropriate answer. ||| Sol. 125 .(c) Prefigure - to give an advance indication or warning ||| of something. ||| Predict - to forecast or foretell an event or outcome. ||| Deliberate - to think carefully and consider all aspects before ||| making a decision. ||| Precipitate - to cause something to happen suddenly or ||| unexpectedly. ||| Proliferate - to cause something to happen suddenly or ||| unexpectedly. ||| Sol. 126 .(b) found everywhere in a huge amount ||| The phrase \"found everywhere in a huge amount\" conveys the ||| same meaning more clearly and grammatically. Hence, ‘found ||| everywhere in a huge amount’ is the most appropriate answer. ||| Sol. 127 .(c) guests are gathered by ||| We use plural nouns after ‘all’ and the preposition ‘by’ means ||| near or close to something. Hence, ‘guests are gathered by’ is ||| the most appropriate answer. ||| Sol. 128 .(a) the newly released books ||| ‘Released’ means to make something available for public use & ||| ‘realised’ means to become aware of or understand something. ||| The phrase ‘the newly released books’ means the new books ||| which are now available for the public. Hence, ‘the newly ||| released books’ is the most appropriate answer. ||| Sol. 129 .(c) Reprehensible ||| ‘Reprehensible’ means deserving blame or strong criticism & ||| ‘Ignominious’ means deserving shame or disgrace. The given ||| sentence states that the fall of Ranjith for the petty material ||| benefit was really deserving of shame. Hence, ‘reprehensible’ is ||| the most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 04 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 714,
+        "question": {
+            "type": "text",
+            "content": "Mr. Arvind was accused of beating up before the ||| students in the class. ||| (1st Shift) ||| ||| SSC CHSL 04 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "accused of beating up off the ||| |||"
+            },
+            {
+                "text": "accused of beating up of the ||| |||"
+            },
+            {
+                "text": "accused of beating up on the ||| |||"
+            },
+            {
+                "text": "accused of beating up in the |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 04 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 715,
+        "question": {
+            "type": "text",
+            "content": "If we had moved to Italy when I was a child, I will had an ||| Italian accent. ||| (1st Shift) ||| ||| SSC CHSL 04 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "I will be have ||| |||"
+            },
+            {
+                "text": "I would has ||| |||"
+            },
+            {
+                "text": "I would have had |||"
+            },
+            {
+                "text": "I am having |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 04 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 716,
+        "question": {
+            "type": "text",
+            "content": "Lewis can handle many of the European languages with ||| its dialectical varieties fluently ||| (2nd Shift) ||| ||| SSC CHSL 04 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "on its dialectical varieties |||"
+            },
+            {
+                "text": "with their dialectical varieties ||| |||"
+            },
+            {
+                "text": "with a dialectical varieties |||"
+            },
+            {
+                "text": "with they dialectical varieties |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 04 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 717,
+        "question": {
+            "type": "text",
+            "content": "Despite having a broken leg, Sarah managed to finish the ||| marathon on record time. ||| (2nd Shift) ||| ||| SSC CHSL 04 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "finish the marathon in record time ||| |||"
+            },
+            {
+                "text": "finish a marathon on record time ||| |||"
+            },
+            {
+                "text": "finish the marathon to record time ||| |||"
+            },
+            {
+                "text": "finish the marathon at record time |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 04 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 718,
+        "question": {
+            "type": "text",
+            "content": "Himanshu is braver than intelligent. ||| (2nd Shift) ||| ||| SSC CHSL 04 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "more brave than intelligent ||| |||"
+            },
+            {
+                "text": "most brave than intelligent ||| |||"
+            },
+            {
+                "text": "braver than more intelligent ||| |||"
+            },
+            {
+                "text": "most brave than more intelligent |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 04 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 719,
+        "question": {
+            "type": "text",
+            "content": "It is nothing but pride. ||| (4th Shift) ||| ||| SSC CHSL 04 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "nothing ever ||| |||"
+            },
+            {
+                "text": "nothing else ||| |||"
+            },
+            {
+                "text": "nothing seldom |||"
+            },
+            {
+                "text": "nothing so |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 04 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 720,
+        "question": {
+            "type": "text",
+            "content": "Sujata has not and can never in the good books of her ||| principal as she lacks honesty. ||| (1st Shift) ||| ||| SSC CHSL 07 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "has not been and can never be ||| |||"
+            },
+            {
+                "text": "has not been and can never been ||| |||"
+            },
+            {
+                "text": "has not be and can never be ||| |||"
+            },
+            {
+                "text": "has not be and can never been |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 07 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 721,
+        "question": {
+            "type": "text",
+            "content": "The integration of cutting-edge technologies into the ||| healthcare industry have the prospect of revolutionising the way ||| medical professionals provide patient care. ||| (1st Shift) ||| ||| SSC CHSL 07 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "were the potential ||| |||"
+            },
+            {
+                "text": "have the potential ||| |||"
+            },
+            {
+                "text": "has the prospect ||| |||"
+            },
+            {
+                "text": "will have potential |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 07 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 722,
+        "question": {
+            "type": "text",
+            "content": "Our teachers has p lanned of g oin g for a p icnic to the ||| Doon Valley. ||| (2nd Shift) ||| ||| SSC CHSL 07 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "Our teachers has planned a picnic ||| |||"
+            },
+            {
+                "text": "Our teachers has plan a picnic ||| |||"
+            },
+            {
+                "text": "Our teachers is planned a picnic ||| |||"
+            },
+            {
+                "text": "Our teachers have planned a picnic |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 07 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 723,
+        "question": {
+            "type": "text",
+            "content": "The new employee was quickly promoted due to their ||| hard work and dedication . ||| (2nd Shift) ||| ||| SSC CHSL 07 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "due to his hard work and dedication ||| |||"
+            },
+            {
+                "text": "due to the hard work and dedication of him ||| |||"
+            },
+            {
+                "text": "due to hard work and dedication ||| |||"
+            },
+            {
+                "text": "due to giving hard work and showing dedication |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 07 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 724,
+        "question": {
+            "type": "text",
+            "content": "I have been living in this country since last several years ||| but have never experienced any discrimination. ||| (3rd Shift) ||| ||| SSC CHSL 07 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "for the last several years |||"
+            },
+            {
+                "text": "in the last several years ||| |||"
+            },
+            {
+                "text": "by the last several years |||"
+            },
+            {
+                "text": "from the last several years |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 07 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 725,
+        "question": {
+            "type": "text",
+            "content": "He got appreciation from every people in a country and ||| abroad. ||| (3rd Shift) ||| ||| SSC CHSL 07 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "from one and all in the country and abroad ||| |||"
+            },
+            {
+                "text": "from one or all in a country and abroad ||| |||"
+            },
+            {
+                "text": "from one and all from a country and abroad ||| |||"
+            },
+            {
+                "text": "from one and all in country and abroad |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 07 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 726,
+        "question": {
+            "type": "text",
+            "content": "The mermaid murmured that it had been very difficult for ||| her to live far from human civilisation. ||| (4th Shift) ||| ||| SSC CHSL 07 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "it had ||| |||"
+            },
+            {
+                "text": "No correction required ||| |||"
+            },
+            {
+                "text": "this have been |||"
+            },
+            {
+                "text": "this had been |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 07 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 727,
+        "question": {
+            "type": "text",
+            "content": "Although he was exhausted from working all day, John ||| continues to study for his upcoming exam. ||| (1st Shift) ||| ||| SSC CHSL 08 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "will continue to study for his upcoming exam ||| |||"
+            },
+            {
+                "text": "has been studying for his upcoming exam ||| |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 08 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 728,
+        "question": {
+            "type": "text",
+            "content": "My parents had not call me yesterday ||| (1st Shift) ||| ||| SSC CHSL 08 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "does not calling |||"
+            },
+            {
+                "text": "did not call |||"
+            },
+            {
+                "text": "do not call |||"
+            },
+            {
+                "text": "have not call |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 08 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 729,
+        "question": {
+            "type": "text",
+            "content": "One cannot exactly predict the way she behaves in public ||| gatherings ||| (1st Shift) ||| ||| SSC CHSL 08 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "deliberate |||"
+            },
+            {
+                "text": "precipitate |||"
+            },
+            {
+                "text": "prefigure |||"
+            },
+            {
+                "text": "proliferate |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 08 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 730,
+        "question": {
+            "type": "text",
+            "content": "The most important fruit in Kinnaur is apricot. It is ||| possible to get it at everyplace in huge amount. ||| (1st Shift) ||| ||| SSC CHSL 08 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "found for a huge amount everywhere ||| |||"
+            },
+            {
+                "text": "found everywhere in a huge amount ||| |||"
+            },
+            {
+                "text": "found everywhere with a huge amount ||| |||"
+            },
+            {
+                "text": "find everywhere in a huge amount |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 08 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 731,
+        "question": {
+            "type": "text",
+            "content": "Can you please make sure that all the g uest are g athered ||| on the stage before the performance begins? ||| (2nd Shift) ||| ||| SSC CHSL 08 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "guest is gathered on ||| |||"
+            },
+            {
+                "text": "guests are gathered in ||| |||"
+            },
+            {
+                "text": "guests are gathered by ||| |||"
+            },
+            {
+                "text": "guests is gathered by |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 08 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 732,
+        "question": {
+            "type": "text",
+            "content": "She makes sure that all the newly realised books are ||| available in her ||||||Pinnacle ||| Sentence Improvement ||| personal library. ||| (4th Shift) ||| ||| SSC CHSL 08 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "the newly released books |||"
+            },
+            {
+                "text": "the newly regaled books ||| |||"
+            },
+            {
+                "text": "the newly relieved books |||"
+            },
+            {
+                "text": "the newly reverberated books |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 08 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 733,
+        "question": {
+            "type": "text",
+            "content": "The fall of Ranjith for the petty material benefit was really ||| ignominious . ||| (1st Shift) ||| ||| SSC CHSL 09 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "unfaltering |||"
+            },
+            {
+                "text": "amusing |||"
+            },
+            {
+                "text": "reprehensible |||"
+            },
+            {
+                "text": "ignorable |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 09 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 734,
+        "question": {
+            "type": "text",
+            "content": "The number of seats in the movie theatre were reduced ||| to comply with the new social distancing guidelines. ||| (3rd Shift) ||| ||| SSC CHSL 09 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "in the movie theater was reduced ||| |||"
+            },
+            {
+                "text": "in the movie theater were being reduced ||| |||"
+            },
+            {
+                "text": "of the movie theater were reduced ||| |||"
+            },
+            {
+                "text": "in the movie theater are reduced |||"
+            }
+        ],
+        "answer": "in the movie theater was reduced ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "in the movie theater was reduced ||| ‘The number of + plural noun + Singular Verb’ is the correct ||| grammatical structure for the given sentence. Hence, ‘in the ||| movie theater was reduced’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 09 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 735,
+        "question": {
+            "type": "text",
+            "content": "Our former minister Mr. Sikhar is in the running from ||| Shrinet Nagar for the post of Member of Legislative Assembly. ||| (3rd Shift) ||| ||| SSC CHSL 09 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "contesting the elections ||| |||"
+            },
+            {
+                "text": "making laws ||| |||"
+            },
+            {
+                "text": "teaching students ||| |||"
+            },
+            {
+                "text": "giving speeches |||"
+            }
+        ],
+        "answer": "contesting the elections ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "contesting the elections ||| The phrase ‘contesting elections’ means running as a candidate ||| to try and win a political position or office in an election. The ||| given sentence states that Mr. Shikhar is contesting the ||| elections from Shrinet Nagar. Hence, ‘contesting elections’ is the ||| most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 09 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 736,
+        "question": {
+            "type": "text",
+            "content": "As the orchestra began to play, the audience was ||| transported to another world, enthralled by the psychological ||| effects of the music and the skill of the musicians, who ||| performed each note with precision and passion. ||| (4th Shift) ||| ||| SSC CHSL 09 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "influenced by the overall scenario ||| |||"
+            },
+            {
+                "text": "impacted by feelings ||| |||"
+            },
+            {
+                "text": "swept away by the emotive power ||| |||"
+            },
+            {
+                "text": "taken in by the effect on emotions |||"
+            }
+        ],
+        "answer": "swept away by the emotive power ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "swept away by the emotive power ||| The phrase ‘swept away by the emotive power’ means being ||| deeply moved by intense emotions. The given sentence states ||| that the audience was emotionally moved by the music and the ||| skill of the musicians. Hence, ‘swept away by the emotive power’ ||| is the most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 09 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 737,
+        "question": {
+            "type": "text",
+            "content": "I need to put out my clothes before I leave for work this ||| morning otherwise, I will be restless when I return. ||| (1st Shift) ||| ||| SSC CHSL 10 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "need for put out |||"
+            },
+            {
+                "text": "need to put in ||| |||"
+            },
+            {
+                "text": "need to put off |||"
+            },
+            {
+                "text": "need to put away |||"
+            }
+        ],
+        "answer": "need to put away |||",
+        "solution": {
+            "type": "text",
+            "content": "need to put away ||| The phrase ‘put away’ means to place something in an ||| appropriate or usual place. The given sentence states that I need ||| to put my clothes in a proper place before leaving for work, or I ||| will be restless when I return. Hence, ‘need to put away’ is the ||| most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 10 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 738,
+        "question": {
+            "type": "text",
+            "content": "The newly admitted students has been given a pair of ||| uniforms by the management. ||| (2nd Shift) ||| ||| SSC CHSL 10 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "are been given a pair ||| |||"
+            },
+            {
+                "text": "has given a pair ||| |||"
+            },
+            {
+                "text": "have been given a pair |||"
+            },
+            {
+                "text": "have being given a pair |||"
+            }
+        ],
+        "answer": "have been given a pair |||",
+        "solution": {
+            "type": "text",
+            "content": "have been given a pair ||| According to the “Subject-Verb Agreement Rule”, a singular ||| subject always takes a singular verb and a plural subject always ||| takes a plural verb. ‘Students’ is a plural subject that will take ||| ‘have’ as a plural verb. Hence, ‘have been given a pair’ is the ||| most appropriate answer. ||| Sol. 140 .(d) building up inside her ||| The phrase ‘building up’ means becoming stronger or more ||| intense. Hence, ‘building up inside her’ is the most appropriate ||| answer. ||| Sol. 141 .(b) at the moment ||| The phrase ‘at the moment’ means ‘right now’ or ‘currently.’ ||| Hence, ‘at the moment’ is the most appropriate answer. ||| Sol. 142 .(d) that are abundant ||| ‘Abundant’ means available in large quantities. Hence, ‘that are ||| abundant‘’ is the most appropriate answer. ||| Sol. 143 .(a) I think ||| ‘Simple Present tense’ is used to express the act of thinking ||| about a future action. Hence, ‘I think’ is the most appropriate ||| answer. ||| Sol. 144 .(c) if he expresses ||| The given sentence is an example of Type 1 conditional and the ||| correct grammatical structure is “if + simple present…….will +V 1 ”. ||| Hence ‘if he expresses’ is the most appropriate answer. ||| Sol. 145 .(c) you are wishing to watch ||| The phrase ‘would like to’ is a polite way of expressing our ||| preference or intention to do or have something. Similarly, we ||| use the phrase ‘wish to’ to express our desire or intention to do ||| something. Hence, ‘you are wishing to watch’ is the most ||| appropriate answer. ||| Sol. 146 .(b) inspired them to continue pursuing their ||| The given sentence is in the simple past tense so the verb must ||| be used in the simple past form(V 2 ). However, the past form of ||| ‘inspire’ is ‘inspired’. Hence, ‘ inspired(V 2 ) them to continue ||| pursuing their ’ is the most appropriate answer. ||| Sol. 147 .(a) accordance with ||| ‘In accordance with’ is the correct phrase. ‘In accordance with’ ||| means following or obeying a rule, law or advice. Hence, ||| ‘accordance with’ is the most appropriate answer. ||| Sol. 148 .(b) but it is impossible ||||||Pinnacle ||| Sentence Improvement ||| We generally use the conjunction ‘but’ to express a different ||| opinion or idea. Hence, ‘but it is impossible’ is the most ||| appropriate answer. ||| Sol. 149 .(b) Everyone was sincerely and positively ||| ‘Everyone /each/ every/ nothing/ everything/ anything/ either/ ||| neither’ represents a singular noun. Therefore, singular verbs will ||| be used with them. Hence, ‘Everyone was sincerely and ||| positively’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 10 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 739,
+        "question": {
+            "type": "text",
+            "content": "Pooja could feel the anger building off inside her . ||| (2nd Shift) ||| ||| SSC CHSL 10 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "building upon inside her ||| |||"
+            },
+            {
+                "text": "building of inside her ||| |||"
+            },
+            {
+                "text": "building on inside her ||| |||"
+            },
+            {
+                "text": "building up inside her |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 10 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 740,
+        "question": {
+            "type": "text",
+            "content": "The health-care system is in transition at those moment . ||| (2nd Shift) ||| ||| SSC CHSL 10 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "at that moments ||| |||"
+            },
+            {
+                "text": "at the moment ||| |||"
+            },
+            {
+                "text": "at a moments ||| |||"
+            },
+            {
+                "text": "at these moment |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 10 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 741,
+        "question": {
+            "type": "text",
+            "content": "The fields are full of crops existing in large quantities. ||| (3rd Shift) ||| ||| SSC CHSL 10 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "that are sufficient ||| |||"
+            },
+            {
+                "text": "that are limited ||| |||"
+            },
+            {
+                "text": "that are customized ||| |||"
+            },
+            {
+                "text": "that are abundant |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 10 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 742,
+        "question": {
+            "type": "text",
+            "content": "I have think tomorrow I will take my belongings to the ||| new apartment. ||| (3rd Shift) ||| ||| SSC CHSL 10 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "I think |||"
+            },
+            {
+                "text": "I will think |||"
+            },
+            {
+                "text": "I had think |||"
+            },
+            {
+                "text": "I am think |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 10 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 743,
+        "question": {
+            "type": "text",
+            "content": "She will accept his love proposal if he will express ||| impressively. ||| (4th Shift) ||| ||| SSC CHSL 10 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "if he has been pressed |||"
+            },
+            {
+                "text": "if he had express ||| |||"
+            },
+            {
+                "text": "if he expresses ||| |||"
+            },
+            {
+                "text": "if he expressed |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 10 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 744,
+        "question": {
+            "type": "text",
+            "content": "Could you please tell me which movie you would like to ||| watch tonight ? ||| (4th Shift) ||| ||| SSC CHSL 10 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "you may wish to scroll |||"
+            },
+            {
+                "text": "you have desire to see ||| |||"
+            },
+            {
+                "text": "you are wishing to watch |||"
+            },
+            {
+                "text": "are you interested in watching |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 10 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 745,
+        "question": {
+            "type": "text",
+            "content": "In accordin g to his advice I took this medicine. ||| (2nd Shift) ||| ||| SSC CHSL 11 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "accordance with ||| |||"
+            },
+            {
+                "text": "accordingly ||| |||"
+            },
+            {
+                "text": "accordance to ||| |||"
+            },
+            {
+                "text": "accord with |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 11 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 746,
+        "question": {
+            "type": "text",
+            "content": "I am trying to study, if it is im p ossible with all this noise. ||| (2nd Shift) ||| ||| SSC CHSL 11 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "that it is impossible ||| |||"
+            },
+            {
+                "text": "but it is impossible ||| |||"
+            },
+            {
+                "text": "while it is impossible ||| |||"
+            },
+            {
+                "text": "unless it is impossible |||"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 11 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 747,
+        "question": {
+            "type": "text",
+            "content": "Ever y one sincerel y and p ositivel y were ready to find the ||| SSC CHSL 2023 Tier - 1 |||"
+        },
+        "options": [],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "SSC CHSL 2023 Tier - 1",
+        "videoUrl": ""
+    },
+    {
+        "id": 748,
+        "question": {
+            "type": "text",
+            "content": "One of them who were hidings at the back of a rock fired ||| at the villagers. ||| (2nd Shift) ||| ||| SSC CHSL 14 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "one of them who were hiding behind a rock ||| |||"
+            },
+            {
+                "text": "one of them who was hide behind a rock ||| |||"
+            },
+            {
+                "text": "one of them who hiding behind a rock ||| |||"
+            },
+            {
+                "text": "one of them who was hiding behind a rock |||"
+            }
+        ],
+        "answer": "one of them who was hiding behind a rock |||",
+        "solution": {
+            "type": "text",
+            "content": "one of them who was hiding behind a rock ||| According to the “Subject-Verb Agreement Rule”, ‘One of/ Each ||| of/ Most of/ Either of + Plural Subject + Singular verb’ is the ||| correct grammatical structure. Hence, ‘one of them who was ||| hiding behind a rock’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 14 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 749,
+        "question": {
+            "type": "text",
+            "content": "Despite facing numerous obstacles and setbacks, the ||| determined entrepreneur refused to give up on her dream of ||| creating a successful startup that would transform the sector . ||| (3rd Shift) ||| ||| SSC CHSL 14 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "that will improvise the sector ||| |||"
+            },
+            {
+                "text": "that shall redesign the industry ||| |||"
+            },
+            {
+                "text": "that could socialise the sector ||| |||"
+            },
+            {
+                "text": "that would revolutionise the industry |||"
+            }
+        ],
+        "answer": "that would revolutionise the industry |||",
+        "solution": {
+            "type": "text",
+            "content": "that would revolutionise the industry ||| ‘Revolutionise’ means to bring about significant change or ||| transformation in something, which has the same meaning as ||| the phrase “that would transform the sector”. Hence, ‘that would ||| revolutionise the industry’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 14 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 750,
+        "question": {
+            "type": "text",
+            "content": "The company is planning to cut back few employees. ||| (4th Shift) ||| ||| SSC CHSL 14 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "reduce some ||| |||"
+            },
+            {
+                "text": "lay off some ||| |||"
+            },
+            {
+                "text": "refuse some ||| |||"
+            },
+            {
+                "text": "lay down some |||"
+            }
+        ],
+        "answer": "lay off some ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "lay off some ||| ‘Lay off’ means to discharge an employee temporarily or ||| permanently because of shortage of work or funds. The given ||| sentence states that the company is discharging some ||| employees. Hence, ‘lay off some’ is the most appropriate ||| answer. |||"
+        },
+        "status": "SSC CHSL 14 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 751,
+        "question": {
+            "type": "text",
+            "content": "From a recent research, evident is it that a lot more ||| women have been opting for professional courses. ||| (2nd Shift) ||| ||| SSC CHSL 17 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "it is evident that more a lot women ||| |||"
+            },
+            {
+                "text": "it is evidently that a lot more women ||| |||"
+            },
+            {
+                "text": "it is evident that a lot more women ||| |||"
+            },
+            {
+                "text": "it is evidence that a lot more women |||"
+            }
+        ],
+        "answer": "it is evident that a lot more women ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "it is evident that a lot more women ||| ‘Subject ||| + ||| Verb ||| + ||| Object/Complement’ ||| is the correct ||| grammatical structure of a sentence. Hence, ‘It is evident that a ||| lot more women’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 17 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 752,
+        "question": {
+            "type": "text",
+            "content": "She is the least reliablest person of all. ||| (3rd Shift) ||| ||| SSC CHSL 17 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "leastest reliable |||"
+            },
+            {
+                "text": "less reliable ||| |||"
+            },
+            {
+                "text": "least reliable |||"
+            },
+            {
+                "text": "lesser reliable |||"
+            }
+        ],
+        "answer": "least reliable |||",
+        "solution": {
+            "type": "text",
+            "content": "least reliable ||| ‘Least / most reliable’ is the correct superlative degree of ||| ‘reliable’. Hence, ‘least reliable’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 17 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 753,
+        "question": {
+            "type": "text",
+            "content": "The young artist spent countless hours perfecting her ||| craft, trying with various methods and mediums, and honing her ||| creative vision until she had produced a stunning collection of ||| works that showcased her unique talent and perspective. ||| (3rd Shift) ||| ||| SSC CHSL 17 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "exploring with different factors ||| |||"
+            },
+            {
+                "text": "experimenting with different techniques ||| |||"
+            },
+            {
+                "text": "merging with different variations ||| |||"
+            },
+            {
+                "text": "researching with different types |||"
+            }
+        ],
+        "answer": "experimenting with different techniques ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "experimenting with different techniques ||| The phrase ‘experimenting with different techniques’ means ||| trying out various methods to achieve a goal. The given ||| sentence states that the young artist spent countless hours ||| trying out various methods and mediums. Hence, ‘experimenting ||| with different techniques’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 17 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 754,
+        "question": {
+            "type": "text",
+            "content": "The students were restored to complete the assignment ||| by Friday. ||| (3rd Shift) ||| ||| SSC CHSL 17 / 08 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "declared ||| |||"
+            },
+            {
+                "text": "expected ||| |||"
+            },
+            {
+                "text": "designed ||| |||"
+            },
+            {
+                "text": "No substitution required |||"
+            }
+        ],
+        "answer": "expected ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "expected ||| ‘Expect’ means to think that something will happen. The word ||| ‘expect’ makes the sentence meaningful. Hence, ‘expect’ is the ||| most appropriate answer. |||"
+        },
+        "status": "SSC CHSL 17 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 755,
+        "question": {
+            "type": "text",
+            "content": "Pintu has been advised to reduce smoking by his family ||| doctor. ||| (3rd shift) ||| ||| SSC CGL 26 / 07 / 2023 |||"
+        },
+        "options": [
+            {
+                "text": "lower down |||"
+            },
+            {
+                "text": "up down |||"
+            },
+            {
+                "text": "less down |||"
+            },
+            {
+                "text": "cut down |||"
+            }
+        ],
+        "answer": "cut down |||",
+        "solution": {
+            "type": "text",
+            "content": "cut down ||| The phrasal verb ‘cut down’ means to reduce. Hence, ‘cut down’ ||| is the most appropriate answer. |||"
+        },
+        "status": "SSC CGL 26 / 07 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 756,
+        "question": {
+            "type": "text",
+            "content": "Holi is a festival of revelry and camaraderie which is ||| celebrated between the country. ||| (2nd Shift) ||| ||| SSC CGL 08 / 12 / 2022 |||"
+        },
+        "options": [
+            {
+                "text": "No substitution ||| |||"
+            },
+            {
+                "text": "celebrated upon the country ||| |||"
+            },
+            {
+                "text": "celebrated at the country |||"
+            },
+            {
+                "text": "celebrated across the country |||"
+            }
+        ],
+        "answer": "celebrated across the country |||",
+        "solution": {
+            "type": "text",
+            "content": "celebrated across the country. ||| The preposition ‘across’ means from one side/part of something ||| to the other. The given sentence states that Holi is a festival of ||| revelry and camaraderie which is celebrated from one part of the ||| country to the other. Hence, ‘celebrated across the country’ is the ||| most appropriate answer. |||"
+        },
+        "status": "SSC CGL 08 / 12 / 2022",
+        "videoUrl": ""
+    },
+    {
+        "id": 757,
+        "question": {
+            "type": "text",
+            "content": "I take pride to serve my country. ||| SSC CGL Tier II ( 08 / 08 / 2022 ) ||| ||| SSC CGL 2021 Tier - 2 |||"
+        },
+        "options": [
+            {
+                "text": "to be serving ||| |||"
+            },
+            {
+                "text": "No Improvement ||| |||"
+            },
+            {
+                "text": "to have served ||| |||"
+            },
+            {
+                "text": "in serving |||"
+            }
+        ],
+        "answer": "in serving |||",
+        "solution": {
+            "type": "text",
+            "content": "In serving ||| ‘Take pride in someone or something’ is the correct phrase. ||| Hence, ‘in serving’ is the most appropriate answer. |||"
+        },
+        "status": "SSC CGL 2021 Tier - 2",
+        "videoUrl": ""
+    },
+    {
+        "id": 758,
+        "question": {
+            "type": "text",
+            "content": "Major hubs of the information technology industry is the ||| Silicon Valley of Central California. ||| (Evening) ||| ||| SSC MTS 12 / 07 / 2022 |||"
+        },
+        "options": [
+            {
+                "text": "No improvement required ||| |||"
+            },
+            {
+                "text": "A major hub of ||| |||"
+            },
+            {
+                "text": "Major hub by ||| |||"
+            },
+            {
+                "text": "The majors hub of |||"
+            }
+        ],
+        "answer": "A major hub of ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "According to the “Subject-Verb Agreement Rule”, a ||| singular subject always takes a singular verb and a plural subject ||| always takes a plural verb. In the given sentence, ‘A major hub’ is ||| a singular subject that will take ‘is’ as a singular verb. Hence, ‘A ||| major hub of’ is the most appropriate answer. |||"
+        },
+        "status": "SSC MTS 12 / 07 / 2022",
+        "videoUrl": ""
+    }
+]

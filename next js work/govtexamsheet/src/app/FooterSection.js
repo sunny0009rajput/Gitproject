@@ -2,12 +2,12 @@ import React from "react";
 
 const FooterSection = () => {
   const quickLinks = [
-    { name: "Login", url: "#" },
-    { name: "Testimonials", url: "#" },
+    { name: "Login", url: "/customerlogin" },
+    { name: "Home", url: "/" },
     { name: "Top", url: "#" },
-    { name: "Tech Support", url: "#" },
-    { name: "Courses", url: "#" },
-    { name: "Contact Us", url: "#" },
+    { name: "Support", url: "/support" },
+    { name: "Courses", url: "/" },
+    { name: "Contact Us", url: "/support" },
   ];
 
   return (

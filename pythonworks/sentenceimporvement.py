@@ -3,7 +3,7 @@ import json
 import re
 
 
-def extract_english_pdf_to_json(pdf_path, output_json="homonyms.json"):
+def extract_english_pdf_to_json(pdf_path, output_json="comprehension.json"):
     pdf_document = fitz.open(pdf_path)
     all_text = ""
 
@@ -147,4 +147,4 @@ def extract_english_pdf_to_json(pdf_path, output_json="homonyms.json"):
 
 
 # Example usage
-extract_english_pdf_to_json("C:/Users/sunny/Downloads/homonyms.pdf")
+extract_english_pdf_to_json("C:/Users/sunny/Downloads/comprehension.pdf")

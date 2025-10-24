@@ -2,7 +2,7 @@ import fitz  # PyMuPDF
 import json
 import re
 
-def extract_pdf_to_custom_json(pdf_path, output_json="bio.json"):
+def extract_pdf_to_custom_json(pdf_path, output_json="spoterror2.json"):
     pdf_document = fitz.open(pdf_path)
     all_text = ""
 
@@ -83,4 +83,4 @@ def extract_pdf_to_custom_json(pdf_path, output_json="bio.json"):
 
 
 # Example usage
-extract_pdf_to_custom_json("C:/Users/sunny/Downloads/biotext.pdf")
+extract_pdf_to_custom_json("C:/Users/sunny/Downloads/spoterror.pdf")
