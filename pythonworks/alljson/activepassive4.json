@@ -1,0 +1,282 @@
+[
+    {
+        "id": 245,
+        "question": {
+            "type": "text",
+            "content": "Why was such a letter written by your brother? "
+        },
+        "options": [
+            {
+                "text": "Why is your brother writing such a letter?"
+            },
+            {
+                "text": "Why has your brother written such a letter?"
+            },
+            {
+                "text": "Why did your brother write such a letter?"
+            },
+            {
+                "text": "Why your brother wrote such a letter?"
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "  Why did your brother write such a letter? (Correct)  (a) Why  is  your brother writing such a letter? (Incorrect  Tense)  (b) Why  has  your brother written such a letter? (Incorrect  Tense)  (d)  Why  your  brother  wrote  such  a  letter  ?  (Incorrect  Sentence  Structure) "
+        },
+        "status": "Graduate Level 28/06/2023 (Shift - 3)",
+        "videoUrl": ""
+    },
+    {
+        "id": 246,
+        "question": {
+            "type": "text",
+            "content": "He ordered the police to pursue the robber and his gang. "
+        },
+        "options": [
+            {
+                "text": "The police were ordered to pursue the robber and his gang."
+            },
+            {
+                "text": "Order the police to pursue the robber gang."
+            },
+            {
+                "text": "Pursue the robber and gang were the orders by police."
+            },
+            {
+                "text": "The robber and gang were pursued."
+            }
+        ],
+        "answer": "The police were ordered to pursue the robber and his gang.",
+        "solution": {
+            "type": "text",
+            "content": "The  police  were  ordered  to  pursue  the  robber  and  his  gang. (Correct)  (b)  Order  the  police  to  pursue  the  robber  gang.  (Incorrect  sentence structure)  (c)  Pursue  the  robber  and  gang  were  the  orders  by  police.  (Incorrect sentence structure)  (d)  The  robber  and  gang  were  pursued.  (Incorrect  sentence  structure)"
+        },
+        "status": "Higher Secondary 27/06/2023 (Shift - 3)",
+        "videoUrl": ""
+    },
+    {
+        "id": 247,
+        "question": {
+            "type": "text",
+            "content": "Paddy is grown by the farmers of this village."
+        },
+        "options": [
+            {
+                "text": "The farmers of this village grew paddy."
+            },
+            {
+                "text": "The farmers of this village have grown paddy."
+            },
+            {
+                "text": "The farmers of this village grow paddy."
+            },
+            {
+                "text": "The farmers of this village had grown Paddy"
+            }
+        ],
+        "answer": "The farmers of this village grow paddy.",
+        "solution": {
+            "type": "text",
+            "content": "  The farmers of this village grow paddy.  (Correct)  (a) The farmers of this village  grew  paddy. (Incorrect  Tense)  (b)  The  farmers  of  this  village  have  grown  paddy.  (Incorrect  Helping Verb) (d)  The  farmers  of  this  village  had  grown  paddy.  (Incorrect  Helping Verb)"
+        },
+        "status": " Matriculation Level 27/06/2023 (Shift - 2)",
+        "videoUrl": ""
+    },
+    {
+        "id": 248,
+        "question": {
+            "type": "text",
+            "content": "The shop owners were requested to close the shops by the agitators. "
+        },
+        "options": [
+            {
+                "text": "The agitators request the shop owners to close the shops."
+            },
+            {
+                "text": "The agitators have requested the shop owners to close the shops."
+            },
+            {
+                "text": "The agitators are requesting the shop owners to close the shops."
+            },
+            {
+                "text": "The agitators requested the shop owners to close the shops"
+            }
+        ],
+        "answer": "The agitators requested the shop owners to close the shops",
+        "solution": {
+            "type": "text",
+            "content": "The  agitators  requested  the  shop  owners  to  close  the shops. (Correct)  (a)  The  agitators  request  the  shop  owners  to  close  the  shops.  (Incorrect form of Verb)  (b)  The  agitators  have  requested  the  shop  owners  to  close  the  shops. (Incorrect Tense)  (c)  The  agitators  are  requesting  the  shop  owners  to  close  the  shops. (Incorrect Tense)"
+        },
+        "status": "Matriculation Level 30/06/2023 (Shift - 3)",
+        "videoUrl": ""
+    },
+    {
+        "id": 249,
+        "question": {
+            "type": "text",
+            "content": "Are fossil fuels not impacting human health? "
+        },
+        "options": [
+            {
+                "text": "Is human health not impacted by fossil fuel?"
+            },
+            {
+                "text": "Was human health not being impacted by fossil fuel?"
+            },
+            {
+                "text": "Did human health not being impacted by fossil fuel?"
+            },
+            {
+                "text": "Is human health not being impacted by fossil fuel?"
+            }
+        ],
+        "answer": "Is human health not being impacted by fossil fuel?",
+        "solution": {
+            "type": "text",
+            "content": " Is  human  health  not  being  impacted  by  fossil  fuel?  (Correct)  (a)  Is  human  health  not  impacted  by  fossil  fuel?  (incorrect  Tense  structure)  (b)  Was  human  health  not  being  impacted  by  fossil  fuel?  (Incorrect Tense)  (c)  Did  human  health  not  being  impacted  by  fossil  fuel?  (Incorrect Tense)"
+        },
+        "status": "Graduate Level 01/08/2022 (Shift - 4)",
+        "videoUrl": ""
+    },
+    {
+        "id": 250,
+        "question": {
+            "type": "text",
+            "content": "She will be wearing a pink dress to the wedding. "
+        },
+        "options": [
+            {
+                "text": "A pink dress will be wear by her to the wedding.Pinnacle Active Passive"
+            },
+            {
+                "text": "A pink dress will be worn by her to the wedding."
+            },
+            {
+                "text": "A pink dress would be worn by her at the wedding."
+            },
+            {
+                "text": "A pink dress would be worn by her to the wedding."
+            }
+        ],
+        "answer": "A pink dress will be worn by her to the wedding.",
+        "solution": {
+            "type": "text",
+            "content": " A  pink  dress  will  be  worn  by  her  to  the  wedding.  (Correct)  (a)  A  pink  dress  will  be  wear  by  her  to  the  wedding.  (Incorrect  form of Verb)  (c)  A  pink  dress  would  be  worn  by  her  at  the  wedding.  (Incorrect  Tense)  (d)  A  pink  dress  would  be  worn  by  her  to  the  wedding.  (Incorrect  Tense) "
+        },
+        "status": "Graduate Level 03/08/2022 (Shift - 3)",
+        "videoUrl": ""
+    },
+    {
+        "id": 251,
+        "question": {
+            "type": "text",
+            "content": "Why would Celia burn the letter? "
+        },
+        "options": [
+            {
+                "text": "Why is the letter burned by Celia?"
+            },
+            {
+                "text": "Why the letter burned by Celia?"
+            },
+            {
+                "text": "Why Celia would burn the letter?"
+            },
+            {
+                "text": "Why would the letter be burned by Celia?"
+            }
+        ],
+        "answer": "Why would the letter be burned by Celia?",
+        "solution": {
+            "type": "text",
+            "content": "  Why would the letter be burned by Celia?(Correct)  (a) Why  is  the letter burned by Celia? (Incorrect  Tense)  (b) Why the letter  burned  by Celia? (Incorrect Tense)  (c)  Why  Celia  would  burn  the  letter?  (Incorrect  sentence  structure)"
+        },
+        "status": "Graduate Level 04/08/2022 (Shift - 4)",
+        "videoUrl": ""
+    },
+    {
+        "id": 252,
+        "question": {
+            "type": "text",
+            "content": "My father had to attend the meeting on Saturday. "
+        },
+        "options": [
+            {
+                "text": "The meeting had been attended by my father on Saturday."
+            },
+            {
+                "text": "The meeting has to be attended by my father on Saturday."
+            },
+            {
+                "text": "The meeting had been to be attended by my father on Saturday."
+            },
+            {
+                "text": "The meeting had to be attended by my father on Saturday."
+            }
+        ],
+        "answer": "The meeting had to be attended by my father on Saturday.",
+        "solution": {
+            "type": "text",
+            "content": " The  meeting  had  to  be  attended  by  my  father  on  Saturday. (a)  The  meeting  had  been  attended  by  my  father  on  Saturday. (Incorrect Sentence structure)  (b)  The  meeting  has  to  be  attended  by  my  father  on  Saturday.  (Incorrect Tense)  (c)  The  meeting  had  been  to  be  attended  by  my  father  on  Saturday. (Incorrect Sentence structure) "
+        },
+        "status": "Graduate Level 05/08/2022 (Shift - 3)",
+        "videoUrl": ""
+    },
+    {
+        "id": 253,
+        "question": {
+            "type": "text",
+            "content": "People say that she is a kind lady. "
+        },
+        "options": [
+            {
+                "text": "It is said by people that she is a kind lady."
+            },
+            {
+                "text": "It is said that she is a kind lady."
+            },
+            {
+                "text": "It is claimed people that she is a kind lady."
+            },
+            {
+                "text": "It was said that she is a kind lady."
+            }
+        ],
+        "answer": "It is said that she is a kind lady",
+        "solution": {
+            "type": "text",
+            "content": "It is said that she is a kind lady. (Correct)  (a)  It  is  said  by  people  that  she  is  a  kind  lady.  (Incorrect  sentence  structure)  (c) It is  claimed  people that she is a kind lady.  (Incorrect Verb)  (d) It  was  said that she is a kind lady. (Incorrect  Tense) "
+        },
+        "status": "Higher Secondary 01/08/2022 (Shift - 3)",
+        "videoUrl": ""
+    },
+    {
+        "id": 254,
+        "question": {
+            "type": "text",
+            "content": "The author was writing the novel when the house caught fire. "
+        },
+        "options": [
+            {
+                "text": "The novel has been written by the author when the house caught fire."
+            },
+            {
+                "text": "The novel was being written by the author when the house caught fire."
+            },
+            {
+                "text": "The novel was written by the author when the house caught fire."
+            },
+            {
+                "text": "The novel had been written by the author when the house caught fire"
+            }
+        ],
+        "answer": "The novel was being written by the author when the house caught fire.",
+        "solution": {
+            "type": "text",
+            "content": " The  novel  was  being  written  by  the  author  when  the  house caught fire. (Correct)  (a)  The  novel  has  been  written  by  the  author  when  the  house  caught fire. (Incorrect Tense)  (c)  The  novel  was  written  by  the  author  when  the  house  caught  fire. (‘being’ is missing)  (d)  The  novel  had  been  written  by  the  author  when  the  house  caught fire. (Incorrect Tense structure) "
+        },
+        "status": "Higher Secondary 05/08/2022 (Shift - 2)",
+        "videoUrl": ""
+    }
+]

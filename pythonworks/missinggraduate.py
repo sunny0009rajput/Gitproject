@@ -7,7 +7,7 @@ def extract_selected_questions_to_json(
     pdf_path,
     output_json="selected_questions.json",
     selected_numbers=None,
-    start_id=759,
+    start_id=194,
 ):
     if not selected_numbers:
         print("⚠️ Please provide a list of question numbers to extract.")
@@ -116,13 +116,10 @@ def extract_selected_questions_to_json(
 
 # 🧠 Example usage
 extract_selected_questions_to_json(
-    "C:/Users/sunny/Downloads/sentenceimprovement.pdf",
-    output_json="selected_questions_final_clean5.json",
+    "C:/Users/sunny/Downloads/comprehension.pdf",
+    output_json="comprehension8.json",
     selected_numbers=[
-        220,
-        221, 222, 223, 224, 434, 435, 436, 437, 438, 439, 440,
-        441, 442, 443, 444, 445, 446, 447, 448, 449, 450,
-        451, 452, 453, 454
+        81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230,
     ],
-    start_id=759,
+    start_id=194,
 )

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 223,
+        "question": {
+            "type": "text",
+            "content": "The child asked his mother if he could swim in the pool ||| There. ||| SSC CHSL 15 / 10 / 2020 (Morning) ||| |||"
+        },
+        "options": [
+            {
+                "text": "The child said to his mother, “Will I swim in the pool here?” ||| |||"
+            },
+            {
+                "text": "The child asked to his mother, “Can he swim in the pool ||| there?” ||| |||"
+            },
+            {
+                "text": "The child asked his mother, “Could he swim in the pool ||| there?” ||| |||"
+            },
+            {
+                "text": "The child asked his mother, “May I swim in the pool here?” |||"
+            }
+        ],
+        "answer": "The child asked his mother, “May I swim in the pool here?” |||",
+        "solution": {
+            "type": "text",
+            "content": "The child asked his mother, “May I swim in the pool ||| here?”(Correct) ||| (a) The child said to his mother, “Will I swim in the pool ||| here?”(Change of reported speech to simple future and also ||| reported verb is incorrect) ||| (b) The child asked to his mother, “Can he swim in the pool ||| there?” ( “can and there” are incorrect) ||| (c) The child asked his mother, “Could he swim in the pool ||| there?”( “could and there” are incorrect) |||"
+        },
+        "status": "SSC CHSL 2019 Tier - 1",
+        "videoUrl": ""
+    },
+    {
+        "id": 224,
+        "question": {
+            "type": "text",
+            "content": "The Principal said to them that he did not want to see any ||| one to return with a complaint against them. ||| SSC CPO Tier II (27 / 09 / 2019) ||| |||"
+        },
+        "options": [
+            {
+                "text": "The Principal said to them, “I did not want to saw any one to ||| return with a complaint against them.” ||| |||"
+            },
+            {
+                "text": "The Principal said to them, “I do not want to see any one to ||| return with a complaint against you.” ||| |||"
+            },
+            {
+                "text": "The Principal said to them, “I do not wanted to see any of ||| them to be returning with a complaint.” ||| |||"
+            },
+            {
+                "text": "The Principal said to them, “I do not want to see any one to ||| returns with a complaint against you.” |||"
+            }
+        ],
+        "answer": "The Principal said to them, “I do not want to see any one to ||| return with a complaint against you.” ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "The Principal said to them, “I do not want to see any ||| one to return with a complaint against you.” (Correct) ||| (a) The Principal said to them, “I did not want to saw any one to ||| return with a complaint against them.” (Change of reported ||| speech to simple past is incorrect.) ||| (c) The Principal said to them, “I do not wanted to see any of ||| them to be returning with a complaint.” (Change of reported ||| speech to simple present and usage of wanted is incorrect.) ||| (d) The Principal said to them, “I do not want to see anyone to ||| returns with a complaint against you.” (“returns” in reported ||| speech is incorrect.) |||"
+        },
+        "status": "SSC CPO 2018 Tier - 2",
+        "videoUrl": ""
+    }
+]

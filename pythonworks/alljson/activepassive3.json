@@ -1,0 +1,30 @@
+[
+    {
+        "id": 244,
+        "question": {
+            "type": "text",
+            "content": "Who stole my tickets?   ||| |||"
+        },
+        "options": [
+            {
+                "text": "My tickets was stolen by whom? ||| |||"
+            },
+            {
+                "text": "My tickets got stolen by who? ||| |||"
+            },
+            {
+                "text": "By whom were my tickets stolen? ||| |||"
+            },
+            {
+                "text": "My tickets were stolen by who? |||"
+            }
+        ],
+        "answer": "By whom were my tickets stolen? ||| |||",
+        "solution": {
+            "type": "text",
+            "content": "By whom were my tickets stolen? (Correct) ||| (a) My tickets was stolen by whom ? (Incorrect sentence ||| structure) ||| (b) My tickets got stolen by who ? (Incorrect sentence structure) ||| (d) My tickets were stolen by who ? (Incorrect sentence ||| structure) |||"
+        },
+        "status": "SSC CGL 14 / 07 / 2023 (3rd shift)",
+        "videoUrl": ""
+    }
+]

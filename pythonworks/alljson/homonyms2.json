@@ -1,0 +1,941 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym to fill in the blanks of the given  sentences.  A. I use a ______ to weigh my ingredients  while cooking.  B. The mountaineer is going to _______  the rocky hills.  "
+        },
+        "options": [
+            {
+                "text": "horn"
+            },
+            {
+                "text": "crawl"
+            },
+            {
+                "text": "scale"
+            },
+            {
+                "text": "climb "
+            }
+        ],
+        "answer": "scale",
+        "solution": {
+            "type": "text",
+            "content": "scale  In Sentence A, ‘scale’ refers to an  instrument used to measure the weight.  In Sentence B, ‘scale’ means to climb or  ascend, especially a rocky surface.  ‘Scale’  makes  both  the  sentences  meaningful. Hence, ‘scale’ is the most  appropriate answer. "
+        },
+        "status": "SSC CHSL Tier II (02 / 11 / 2023)",
+        "videoUrl": ""
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophone to fill in the blank.  Even animals find it difficult to _____ the  loss of their loved ones.   "
+        },
+        "options": [
+            {
+                "text": "bear"
+            },
+            {
+                "text": "wear"
+            },
+            {
+                "text": "where"
+            },
+            {
+                "text": "bare "
+            }
+        ],
+        "answer": "bear",
+        "solution": {
+            "type": "text",
+            "content": "bear  ‘Bear’  means  to  accept something  painful or unpleasant. The given passage  states that even animals find it difficult to  bear the loss of their loved ones. Hence,  ‘bear’ is the most appropriate answer. "
+        },
+        "status": "SSC CHSL 02 / 08 / 2023 1st Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophones to fill in the blanks.  Kindly accept my ________ on your new  haircut. It ________ your personality.   "
+        },
+        "options": [
+            {
+                "text": "compliment; complaints "
+            },
+            {
+                "text": "compliment; complements "
+            },
+            {
+                "text": "compliment; compliments "
+            },
+            {
+                "text": "complement; complements "
+            }
+        ],
+        "answer": "compliment; complements ",
+        "solution": {
+            "type": "text",
+            "content": "compliment ; complements  ‘Compliment’  means  to  politely  congratulate or praise and ‘complement’  means to enhance something. In the  given sentence, the speaker is praising  the new haircut, and it enhances the  person's personality. Hence, ‘compliment;  complements’ is the most appropriate  answer. "
+        },
+        "status": "SSC CHSL 02 / 08 / 2023 2nd Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym in the context of the following  sentence to fill in the blank.  My birthday will ____ on a Friday this year.  (4th Shift) "
+        },
+        "options": [
+            {
+                "text": "fall: to go down onto the ground  suddenly "
+            },
+            {
+                "text": "fall: to come at a particular time or  happen in a particular place "
+            },
+            {
+                "text": "fall: to change to a particular  condition "
+            },
+            {
+                "text": "fall: to be beaten or defeated "
+            }
+        ],
+        "answer": "fall: to come at a particular time or  happen in a particular place ",
+        "solution": {
+            "type": "text",
+            "content": "Fall - to come at a particular  time or happen in a particular place. \nPinnacle  Homonyms "
+        },
+        "status": "SSC CHSL 02 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophone to fill in the blank.  The dog took _______ during his walk and  lifted his _______ to indicate that he was  tired.   "
+        },
+        "options": [
+            {
+                "text": "pause; pours"
+            },
+            {
+                "text": "pours; pores "
+            },
+            {
+                "text": "paws; pause"
+            },
+            {
+                "text": "pause; paws "
+            }
+        ],
+        "answer": "pause; paws ",
+        "solution": {
+            "type": "text",
+            "content": "pause; paws  ‘Pause’ means to temporarily stop and  ‘paws’ is the soft, padded part of an  animal’s feet. The given sentence states  that the dog stopped briefly during his  walk and raised its paws to show that it  was tired. Hence, ‘pause; paws’ is the  most appropriate answer. "
+        },
+        "status": "SSC CHSL 03 / 08 / 2023 1st Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym in the context of the following  sentence to fill in the blank.  He was convicted of assaulting a police  officer, but he got off with a _________  sentence.   "
+        },
+        "options": [
+            {
+                "text": "light: any device serving as a source  of illumination "
+            },
+            {
+                "text": "light: not serious or profound "
+            },
+            {
+                "text": "light: the energy from the sun "
+            },
+            {
+                "text": "light: lightly; with few burdens "
+            }
+        ],
+        "answer": "light: not serious or profound ",
+        "solution": {
+            "type": "text",
+            "content": "light : not serious or profound. "
+        },
+        "status": "SSC CHSL 04 / 08 / 2023 1st Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophone to fill in the blank.  The doctors gave him more powerful  drugs in the _________ hope that he might  recover  (4th Shift) "
+        },
+        "options": [
+            {
+                "text": "when"
+            },
+            {
+                "text": "vein"
+            },
+            {
+                "text": "wane"
+            },
+            {
+                "text": "vain "
+            }
+        ],
+        "answer": "vain ",
+        "solution": {
+            "type": "text",
+            "content": "vain  ‘Vain’  means  without  success  or  producing no result. The given sentence  states that the doctors used stronger  drugs in the hope of the patient  recovering,  but  it  was  unlikely  to  succeed. Hence, ‘vain’ is the most  appropriate answer. "
+        },
+        "status": "SSC CHSL 07 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym in the context of the following  sentence to fill in the blank.  The key was hanging on a ________ by the  door.   "
+        },
+        "options": [
+            {
+                "text": "nail: to catch someone, especially  when they are doing something  wrong, or guilty "
+            },
+            {
+                "text": "nail: a small metal spike, driven into  wood to join things together or to  serve as a hook "
+            },
+            {
+                "text": "nail: a thin, hard area that covers the  upper side of the end of each finger  and each toe "
+            },
+            {
+                "text": "nail: to do something successfully "
+            }
+        ],
+        "answer": "nail: a small metal spike, driven into  wood to join things together or to  serve as a hook ",
+        "solution": {
+            "type": "text",
+            "content": "nail : a small metal spike, driven  into wood to join things together or to  serve as a hook. "
+        },
+        "status": "SSC CHSL 08 / 08 / 2023 2nd Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophones to fill in the blanks.  He was criticised for the______ leadership  of his team. His casual body language  seemed ______ for a leader.   "
+        },
+        "options": [
+            {
+                "text": "inapt; inapt "
+            },
+            {
+                "text": "inapt; inept "
+            },
+            {
+                "text": "inept; inapt "
+            },
+            {
+                "text": "inept; inept "
+            }
+        ],
+        "answer": "inept; inapt ",
+        "solution": {
+            "type": "text",
+            "content": "Inept; inapt  ‘Inept’ means lacking skill or ability &  ‘Inapt’ means not suitable or appropriate.  The given sentence states that he was  criticised for lacking skills of leadership  and his casual body language seemed  inappropriate for a leader. Hence, ‘inept;  inapt’ is the most appropriate answer. "
+        },
+        "status": "SSC CHSL 08 / 08 / 2023 3rd Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophone to fill in the blank.  Developers ________ the old buildings on  the  site  to  make  way  for  new  construction.   "
+        },
+        "options": [
+            {
+                "text": "raze"
+            },
+            {
+                "text": "rays"
+            },
+            {
+                "text": "raise"
+            },
+            {
+                "text": "rase "
+            }
+        ],
+        "answer": "raze",
+        "solution": {
+            "type": "text",
+            "content": "Raze  ‘Raze’ means to completely destroy an  old building or town. The given sentence  states that developers raze the old  buildings on the site to make way for  new construction. Hence, ‘raze’ is the  most appropriate answer. "
+        },
+        "status": "SSC CHSL 09 / 08 / 2023 1st Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  meaning of the homonym in the context  of the following sentence to fill in the  blank.  They do not say anything but stalk  furiously out of the room.  'Stalk' here means ________.   "
+        },
+        "options": [
+            {
+                "text": "the stem or main axis of a plant "
+            },
+            {
+                "text": "to walk in an angry or proud way "
+            },
+            {
+                "text": "to go through an area in search of prey "
+            },
+            {
+                "text": "recur constantly and spontaneously "
+            }
+        ],
+        "answer": "to walk in an angry or proud way ",
+        "solution": {
+            "type": "text",
+            "content": " to walk in an angry or proud way  The given sentence states that they do  not say anything but walk furiously out of  the room. Hence, ‘to walk in an angry or  proud way’ is the most appropriate  answer. "
+        },
+        "status": "SSC CHSL 10 / 08 / 2023 2nd Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophone to fill in the blank.  I will ________ any job offer __________ for  the one that requires me to work on  weekends.  (4th Shift) "
+        },
+        "options": [
+            {
+                "text": "except; accept"
+            },
+            {
+                "text": "expect; except "
+            },
+            {
+                "text": "expect; accept"
+            },
+            {
+                "text": "accept; except "
+            }
+        ],
+        "answer": "accept; except ",
+        "solution": {
+            "type": "text",
+            "content": "accept; except  ‘Modal verbs’ are auxiliary verbs(also  called helping verbs) like can, will, could,  shall, must, would, might, and should.  However, after a modal verb, we generally  use the first form of the verb (V 1 ). Hence,  ‘accept (V 1 ); except ’ is the most  appropriate answer. "
+        },
+        "status": "SSC CHSL 10 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophone to fill in the blank.  The  shareholders  are  planning  to  ___________ control of the company from  the current directors.  (4th Shift) "
+        },
+        "options": [
+            {
+                "text": "roost"
+            },
+            {
+                "text": "roast"
+            },
+            {
+                "text": "wrest"
+            },
+            {
+                "text": "rest "
+            }
+        ],
+        "answer": "wrest",
+        "solution": {
+            "type": "text",
+            "content": "wrest  ‘Wrest’ means to forcibly take or obtain  something. The given sentence states  that the shareholders are planning to  forcibly take control of the company  from the current directors. Hence, ‘wrest’  is the most appropriate answer. "
+        },
+        "status": "SSC CHSL 11 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophones to fill in the blanks.  I got _______ while replacing the ________.  (4th Shift) "
+        },
+        "options": [
+            {
+                "text": "tyre; tire "
+            },
+            {
+                "text": "tyred; tire "
+            },
+            {
+                "text": "tired; tier "
+            },
+            {
+                "text": "tired; tyre "
+            }
+        ],
+        "answer": "tired; tyre ",
+        "solution": {
+            "type": "text",
+            "content": "tired ; tyre  ‘Tired’ means feeling a need to rest &  ‘tyre’ means a rubber ring placed over the  rim of a wheel. The given sentence  states that I got tired while replacing the  tyre. Hence, ‘tired; tyre’ is the most  appropriate answer. "
+        },
+        "status": "SSC CHSL 14 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym to fill in the blank.  Should we go shopping for a ________ fan  for our new house?   "
+        },
+        "options": [
+            {
+                "text": "ceiling "
+            },
+            {
+                "text": "sealink "
+            },
+            {
+                "text": "sealing "
+            },
+            {
+                "text": "selling "
+            }
+        ],
+        "answer": "ceiling ",
+        "solution": {
+            "type": "text",
+            "content": "Ceiling  ‘Ceiling’ means the upper surface of a  room. The given sentence states a  question, asking about going shopping  for a ceiling fan. Hence, ‘ceiling’ is the  most appropriate answer. "
+        },
+        "status": "SSC CHSL 17 / 08 / 2023 1st Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophone to fill in the blank.  Ants_________food during the summer  and save it for winter.  (4th Shift) "
+        },
+        "options": [
+            {
+                "text": "horde"
+            },
+            {
+                "text": "hoard"
+            },
+            {
+                "text": "heard"
+            },
+            {
+                "text": "herd "
+            }
+        ],
+        "answer": "hoard",
+        "solution": {
+            "type": "text",
+            "content": "hoard  ‘Hoard’ means to store large amounts of  something. The given sentence states  that ants store a large amount of food  during the summer and save it for winter.  Hence, ‘hoard’ is the most appropriate  answer. "
+        },
+        "status": "SSC CHSL 17 / 08 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym to fill in the blank.  The  hunter  dogs  followed  the  hyena's______.   "
+        },
+        "options": [
+            {
+                "text": "sense"
+            },
+            {
+                "text": "scent"
+            },
+            {
+                "text": "cense"
+            },
+            {
+                "text": "cents "
+            }
+        ],
+        "answer": "scent",
+        "solution": {
+            "type": "text",
+            "content": "scent  ‘Scent’ means a smell that is pleasant.  The given sentence states that the  hunter dogs followed the hyena’s scent.  Hence, ‘scent’ is the most appropriate  answer. "
+        },
+        "status": "SSC CGL 14 / 07 / 2023 1st shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym of the underlined word to fill in  the blank.  He was complimented for his appearance.  His shirt _______ his trousers perfectly.   "
+        },
+        "options": [
+            {
+                "text": "competed "
+            },
+            {
+                "text": "complement "
+            },
+            {
+                "text": "commented "
+            },
+            {
+                "text": "complemented "
+            }
+        ],
+        "answer": "complemented ",
+        "solution": {
+            "type": "text",
+            "content": "complemented  ‘Complemented’ means to make a good  combination with something. The given  sentence states that the shirt and  trousers  made  a  perfectly  good  combination. Hence, ‘complemented’ is  the most appropriate answer. "
+        },
+        "status": "SSC CGL 17 / 07 / 2023 1st shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Select the correct homonym to fill  in the blank in the given sentence.  I will just _________ some figures for  comparison.   "
+        },
+        "options": [
+            {
+                "text": "cete"
+            },
+            {
+                "text": "cite"
+            },
+            {
+                "text": "site"
+            },
+            {
+                "text": "sight "
+            }
+        ],
+        "answer": "cite",
+        "solution": {
+            "type": "text",
+            "content": "cite  ‘Cite’ means to refer to a source as  evidence for a statement. The given  sentence states that I will just cite some  figures for comparison. Hence, ‘cite’ is  the most appropriate answer. "
+        },
+        "status": "SSC CGL 19 / 07 / 2023 1st shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym to fill in the blank.  The villagers kept _________ the out, to  collect the rain water.   "
+        },
+        "options": [
+            {
+                "text": "crus"
+            },
+            {
+                "text": "cruse"
+            },
+            {
+                "text": "crews"
+            },
+            {
+                "text": "cruise "
+            }
+        ],
+        "answer": "cruse",
+        "solution": {
+            "type": "text",
+            "content": "cruse  ‘Cruse’ means a small container or jar  used for holding liquids. The given  sentence states that the villagers kept  the cruse out, to collect the rainwater.  Hence, ‘cruse’ is the most appropriate  answer . "
+        },
+        "status": "SSC CGL 20 / 07 / 2023 1st shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "Identify the option that defines the  homonyms  'gate'  and  'gait'  most  appropriately.   "
+        },
+        "options": [
+            {
+                "text": "Gate means to achieve or receive, and  gait means a person's manner of  walking. "
+            },
+            {
+                "text": "Gate means a hinged barrier used to  close an opening in a wall, fence or  hedge, and gait means a person's  manner of walking. "
+            },
+            {
+                "text": "Gate means general agreement on  tariff and excise, and gait means a  person's manner of talking. "
+            },
+            {
+                "text": "Gate means a hinged barrier used to  close an opening in a wall or fence,  and gait means a cloth or leather leg  covering reaching from the instep to  above the ankle or to the mid-calf or  knee. "
+            }
+        ],
+        "answer": "Gate means a hinged barrier used to  close an opening in a wall, fence or  hedge, and gait means a person's  manner of walking. ",
+        "solution": {
+            "type": "text",
+            "content": "‘Gate’ means a hinged barrier  used to close an opening in a wall or  fence, and ‘Gait’ means a person's  manner of walking. "
+        },
+        "status": "SSC CGL 21 / 07 / 2023 2nd shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym to fill in the blank.  Please _______ more sugar to the juice so  that it becomes sweeter.   "
+        },
+        "options": [
+            {
+                "text": "aide"
+            },
+            {
+                "text": "ad"
+            },
+            {
+                "text": "aid"
+            },
+            {
+                "text": "add "
+            }
+        ],
+        "answer": "add ",
+        "solution": {
+            "type": "text",
+            "content": "Add  The given sentence states that please  add more sugar to the juice so that it  becomes sweeter. Hence, ‘add’ is the  most appropriate answer. "
+        },
+        "status": "SSC CGL 25 / 07 / 2023 2nd shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "Select the nearest homonym of the  given word.  Accept   "
+        },
+        "options": [
+            {
+                "text": "Accent "
+            },
+            {
+                "text": "Expect "
+            },
+            {
+                "text": "Except "
+            },
+            {
+                "text": "Expert "
+            }
+        ],
+        "answer": "Except ",
+        "solution": {
+            "type": "text",
+            "content": "Except  ‘Homonyms’ are words that have the  same spelling or pronunciation but  different meanings. ‘Accept’  And ‘Expect’ are homonyms as they  sound the same but have different  meanings and spellings. Hence, ‘except’  is the most appropriate answer. "
+        },
+        "status": "SSC CGL 25 / 07 / 2023 3rd shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym to fill in the blank.  The children enjoyed the ____ very much.   "
+        },
+        "options": [
+            {
+                "text": "feer"
+            },
+            {
+                "text": "fear"
+            },
+            {
+                "text": "fere"
+            },
+            {
+                "text": "fair "
+            }
+        ],
+        "answer": "fair ",
+        "solution": {
+            "type": "text",
+            "content": "fair  ‘Fair’ means an event with amusements  and activities. The given sentence states  that the children enjoyed the fair very  much. Hence, ‘fair’ is the most  appropriate answer. "
+        },
+        "status": "SSC CGL 26 / 07 / 2023 1st shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homophone to fill in the blank.  In many road accidents people break  their bones mainly because their vehicle  ___________ fails.   "
+        },
+        "options": [
+            {
+                "text": "broke"
+            },
+            {
+                "text": "brow"
+            },
+            {
+                "text": "brake"
+            },
+            {
+                "text": "bleak "
+            }
+        ],
+        "answer": "brake",
+        "solution": {
+            "type": "text",
+            "content": "brake  “Brake” means component of a vehicle  used to stop the vehicle. The given  sentence states that people break their  bones mainly because their vehicle brake  fails.  Hence,  “brake”  is  the  most  appropriate answer. "
+        },
+        "status": "SSC CGL 26 / 07 / 2023 2nd shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym to fill in the blank.  He confessed about his affairs as the  _________ made him sleepless.   "
+        },
+        "options": [
+            {
+                "text": "gilled"
+            },
+            {
+                "text": "gild"
+            },
+            {
+                "text": "guild"
+            },
+            {
+                "text": "guilt "
+            }
+        ],
+        "answer": "guilt ",
+        "solution": {
+            "type": "text",
+            "content": "Guilt  ‘Guilt’ means the fact or state of having  done something wrong or committed a  crime. The given sentence states that he  confessed about his affairs as the guilt  made him sleepless. Hence, ‘guilt’ is the  most appropriate answer. "
+        },
+        "status": "SSC CGL 26 / 07 / 2023 3rd Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 27,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym to fill in the blank.  What _________ of a movie is this?  (4th Shift) "
+        },
+        "options": [
+            {
+                "text": "can"
+            },
+            {
+                "text": "keen"
+            },
+            {
+                "text": "con"
+            },
+            {
+                "text": "kind "
+            }
+        ],
+        "answer": "kind ",
+        "solution": {
+            "type": "text",
+            "content": "kind  ‘Kind’ means a group of things having  similar  characteristics.  The  given  sentence is a question about the kind of  movie.  Hence,  ‘kind’  is  the  most  appropriate answer. "
+        },
+        "status": "SSC CGL 26 / 07 / 2023",
+        "videoUrl": ""
+    },
+    {
+        "id": 28,
+        "question": {
+            "type": "text",
+            "content": "Fill in the blanks with appropriate  homonym.  If you want to __________ the world, you  should be the one to take the first step.   "
+        },
+        "options": [],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "change (alter)  “Alter” means to make some changes to  something. The given sentence states if  you want to alter the world, you should  be the one to take the first step. Hence,  “alter” is the most appropriate answer. "
+        },
+        "status": "SSC CGL 27 / 07 / 2023 1st Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 29,
+        "question": {
+            "type": "text",
+            "content": "Fill in the blanks with the correct  homophone.  I _______ some essential items from the  supermarket.    Pinnacle  Homonyms "
+        },
+        "options": [
+            {
+                "text": "bout"
+            },
+            {
+                "text": "bought"
+            },
+            {
+                "text": "boat"
+            },
+            {
+                "text": "bot "
+            }
+        ],
+        "answer": "bought",
+        "solution": {
+            "type": "text",
+            "content": "bought  ‘Bought’ is the second form (V 2 ) of ‘buy’,  which means to get something by paying  money for it. The given sentence states  that I bought some essential items from  the supermarket. Hence, ‘bought’ is the  most appropriate answer. "
+        },
+        "status": "SSC CGL 27 / 07 / 2023 2nd Shift",
+        "videoUrl": ""
+    },
+    {
+        "id": 30,
+        "question": {
+            "type": "text",
+            "content": "Select the correct homonym from  the given options to fill in the blank.  Which ______ does the minister take to  reach the Assembly?  "
+        },
+        "options": [
+            {
+                "text": "root"
+            },
+            {
+                "text": "rot"
+            },
+            {
+                "text": "route"
+            },
+            {
+                "text": "riot "
+            }
+        ],
+        "answer": "route",
+        "solution": {
+            "type": "text",
+            "content": "‘Route’ means a way to go  from one place to another. The given  sentence states the route(the way) which  the minister takes to reach the assembly.  Hence, ‘route’ is the most appropriate  answer. "
+        },
+        "status": "SSC CGL Tier II (02 / 03 / 2023)",
+        "videoUrl": ""
+    },
+    {
+        "id": 31,
+        "question": {
+            "type": "text",
+            "content": "Select the correct homonym from  the given options to fill in the blank.  The wind _______ so powerfully that the  door closed.  "
+        },
+        "options": [
+            {
+                "text": "blow"
+            },
+            {
+                "text": "blew"
+            },
+            {
+                "text": "blues"
+            },
+            {
+                "text": "blue "
+            }
+        ],
+        "answer": "blew",
+        "solution": {
+            "type": "text",
+            "content": " ‘Blew’  means  to  cause  something to move. The given sentence  states that the wind blew so powerfully  that the door closed. Hence, ‘blew’ is the  most appropriate answer. "
+        },
+        "status": "SSC CGL Tier II (03 / 03 / 2023)",
+        "videoUrl": ""
+    },
+    {
+        "id": 32,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym to fill in the blank.  The farmers grow ________ in their fields.  "
+        },
+        "options": [
+            {
+                "text": "maze"
+            },
+            {
+                "text": "mays"
+            },
+            {
+                "text": "mase"
+            },
+            {
+                "text": "maize "
+            }
+        ],
+        "answer": "maize ",
+        "solution": {
+            "type": "text",
+            "content": "‘ Maize ’ is a tall plant that  produces yellow grains in a large mass.  The given sentence states that the  farmers grow maize in their fields. Hence  ‘maize’ is the most appropriate answer. "
+        },
+        "status": "SSC CGL Tier II (06 / 03 / 2023)",
+        "videoUrl": ""
+    },
+    {
+        "id": 33,
+        "question": {
+            "type": "text",
+            "content": " Select  the  most  appropriate  homonym to fill in the blank.  The authorities __________ the  unregistered companies.  "
+        },
+        "options": [
+            {
+                "text": "seize"
+            },
+            {
+                "text": "sees"
+            },
+            {
+                "text": "seas"
+            },
+            {
+                "text": "cease "
+            }
+        ],
+        "answer": "cease ",
+        "solution": {
+            "type": "text",
+            "content": "cease  ‘Cease’ means to put a stop or end to  something . The given sentence states  that the authorities put an end to the  unregistered companies. Hence, ‘cease’  is the most appropriate answer. "
+        },
+        "status": "SSC CGL Tier II (06 / 03 / 2023)",
+        "videoUrl": ""
+    },
+    {
+        "id": 34,
+        "question": {
+            "type": "text",
+            "content": "Select the correct homonym from  the given options to fill in the blank.  The athlete’s ________ was badly injured  due to a fall on the track.  "
+        },
+        "options": [
+            {
+                "text": "toad"
+            },
+            {
+                "text": "toe"
+            },
+            {
+                "text": "tow"
+            },
+            {
+                "text": "to "
+            }
+        ],
+        "answer": "toe",
+        "solution": {
+            "type": "text",
+            "content": "‘ Toe ’ is one of the small parts  like fingers at the end of each foot of a  human. The given sentence states that  the athlete’s toe was badly injured due to  a fall on the track. Hence, ‘toe’ is the  most appropriate answer. "
+        },
+        "status": "SSC CGL Tier II (07 / 03 / 2023)",
+        "videoUrl": ""
+    }
+]

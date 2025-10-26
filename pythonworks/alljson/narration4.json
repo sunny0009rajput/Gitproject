@@ -1,0 +1,537 @@
+[
+    {
+        "id": 225,
+        "question": {
+            "type": "text",
+            "content": "\"We will have a thorough search before opening the room,\" the inspector told his subordinates. "
+        },
+        "options": [
+            {
+                "text": "The inspector told his subordinates that they would be having a thorough search before opening the room."
+            },
+            {
+                "text": "The inspector told his subordinates that they can have a thorough search before opening the room."
+            },
+            {
+                "text": "The inspector told his subordinates that they will had a thorough search before opening the room."
+            },
+            {
+                "text": "The inspector told his subordinates that they would have a thorough search before opening the room."
+            }
+        ],
+        "answer": "The inspector told his subordinates that they would have a thorough search before opening the room.",
+        "solution": {
+            "type": "text",
+            "content": "d)  The  inspector  told  his  subordinates  that  they  would  have a thorough search before opening the room. (Correct)  (a)  The  inspector  told  his  subordinates  that  they  would  be  having  a thorough search before opening the room. (Incorrect Verb)  (b)  The  inspector  told  his  subordinates  that  they  can  have  a  thorough search before opening the room.  (Incorrect Verb)  (c)  The  inspector  told  his  subordinates  that  they  will  had  a  thorough search before opening the room. (Incorrect Verb)"
+        },
+        "status": "Graduate Level 27/06/2023 (Shift - 4)",
+        "videoUrl": ""
+    },
+    {
+        "id": 226,
+        "question": {
+            "type": "text",
+            "content": "The teacher said, \"She had started the fight\". "
+        },
+        "options": [
+            {
+                "text": "The teacher complained that she has started the fight."
+            },
+            {
+                "text": "The teacher said that she had started the fight."
+            },
+            {
+                "text": "The teacher ordered that she had started the fight."
+            },
+            {
+                "text": "The teacher said that she has started the fight."
+            }
+        ],
+        "answer": "The teacher said that she had started the fight.",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "Graduate Level 27/06/2023 (Shift - 4)",
+        "videoUrl": "The  teacher  said  that  she  had  started  the  fight.  (Correct)  The  teacher  complained  that  she  has  started  the  fight.  (Incorrect  Reporting Verb)  The  teacher  ordered  that  she  had  started  the  fight.  (Incorrect  Reporting Verb)  The teacher said that she  has  started the fight. (Incorrect  Tense)"
+    },
+    {
+        "id": 227,
+        "question": {
+            "type": "text",
+            "content": "The ticket collector asked the passengers where their tickets were. "
+        },
+        "options": [
+            {
+                "text": "The ticket collector said to the passengers, \"Where your tickets were?\""
+            },
+            {
+                "text": "The ticket collector said to the passengers, \"Where were your tickets?\""
+            },
+            {
+                "text": "The ticket collector demanded the passengers, \"Show me your tickets\""
+            },
+            {
+                "text": "The ticket collector said to the passengers, \"Where are your tickets?\""
+            }
+        ],
+        "answer": "The ticket collector said to the passengers, Where are your tickets",
+        "solution": {
+            "type": "text",
+            "content": "The  ticket  collector  said  to  the  passengers,  Where  are your tickets? (Correct)  (a)  The  ticket  collector  said  to  the  passengers,  Where  your  tickets  were  ? (Incorrect Tense)  (b)  The  ticket  collector  said  to  the  passengers,  Where  were  your  tickets? (Incorrect Tense)  (c)  The  ticket  collector  demanded  the  passengers,  Show  me  your tickets (Incorrect Sentence Structure)"
+        },
+        "status": "Graduate Level 28/06/2023 (Shift - 3)",
+        "videoUrl": ""
+    },
+    {
+        "id": 228,
+        "question": {
+            "type": "text",
+            "content": "Mrs. Mane said that she regretted having supplied us with an inferior brand of TV set and was ready to apologise for that "
+        },
+        "options": [
+            {
+                "text": "Mrs. Mane said, \"I regret supplying you with an inferior brand of TV set and I am ready to apologise for that.\""
+            },
+            {
+                "text": "Mrs. Mane said, \"I am regretting having supplied you with an inferior brand of TV set and I am ready to apologise for that.\""
+            },
+            {
+                "text": "Mrs. Mane said, \"I regret having supplied you with an inferior brand of TV set and I am ready to apologise for that.”"
+            },
+            {
+                "text": "Mrs. Mane said, \"I regret to supply you with an inferior brand of TV set and I am ready to apologise for that.\""
+            }
+        ],
+        "answer": "Mrs. Mane said, \"I regret having supplied you with an inferior brand of TV set and I am ready to apologise for that.”",
+        "solution": {
+            "type": "text",
+            "content": " Mrs.  Mane  said,  I  regret  having  supplied  you  with  an  inferior  brand  of  TV  set  and  I  am  ready  to  apologise  for  that.”  (Correct)  (a)  Mrs.  Mane  said,  I  regret  supplying  you  with  an  inferior  brand  of TV set and I am ready to apologise for that. (Incorrect Verb)  (b)  Mrs.  Mane  said,  I  am  regretting  having  supplied  you  with  an  inferior  brand  of  TV  set  and  I  am  ready  to  apologise  for  that.  (Incorrect Tense structure)  (d)  Mrs.  Mane  said,  I  regret  to  supply  you  with  an  inferior  brand  of TV set and I am ready to apologise for that. (Incorrect verb)"
+        },
+        "status": "Graduate Level 30/06/2023 (Shift - 1)",
+        "videoUrl": ""
+    },
+    {
+        "id": 229,
+        "question": {
+            "type": "text",
+            "content": "Bibiya asked the doctor if she could get the discharge in the morning. "
+        },
+        "options": [
+            {
+                "text": "Bibiya asked the doctor, \"Can I get the discharge in the morning?\""
+            },
+            {
+                "text": "Bibiya asked the doctor, \"How can I get the discharge in the morning?\""
+            },
+            {
+                "text": "Bibiya asked the doctor, \"Could I have got the discharge in the morning?\""
+            },
+            {
+                "text": "Bibiya asked the doctor, \"If I can get the discharge in thePinnacle Narration morning?\""
+            }
+        ],
+        "answer": "Bibiya asked the doctor, \"Can I get the discharge in the morning?\"",
+        "solution": {
+            "type": "text",
+            "content": " Bibiya  asked  the  doctor,  Can  I  get  the  discharge  in  the  morning? (Correct)  (b)  Bibiya  asked  the  doctor,    How  can  I  get  the  discharge  in  the  morning? (Incorrect Sentence structure)  (c)  Bibiya  asked  the  doctor,    Could  I  have  got  the  discharge  in  the  morning? (Incorrect modal verb)  (d)  Bibiya  asked  the  doctor,    If  I  can  get  the  discharge  in  the  morning? (Incorrect Sentence structure)"
+        },
+        "status": "Higher Secondary 27/06/2023 (Shift - 3)",
+        "videoUrl": ""
+    },
+    {
+        "id": 230,
+        "question": {
+            "type": "text",
+            "content": "She asked, “ Where do you live ?” "
+        },
+        "options": [
+            {
+                "text": "She asked me where I had lived."
+            },
+            {
+                "text": "She told me where I lived."
+            },
+            {
+                "text": "She asked me where I had been living."
+            },
+            {
+                "text": "She asked me where I lived."
+            }
+        ],
+        "answer": "She asked me where I lived.",
+        "solution": {
+            "type": "text",
+            "content": " She asked me where I lived. (Correct)  (a) She asked me where I  had  lived. (Incorrect Helping  Verb)  (b) She  told  me where I lived. (Incorrect Reporting  Verb)  (c) She asked me where I  had been  living. (Incorrect  Helping  Verb)"
+        },
+        "status": "Higher Secondary 28/06/2023 (Shift - 2)",
+        "videoUrl": ""
+    },
+    {
+        "id": 231,
+        "question": {
+            "type": "text",
+            "content": "Anant said that he was feeling sleepy. "
+        },
+        "options": [
+            {
+                "text": "Anant said, \"He was feeling sleepy.\""
+            },
+            {
+                "text": "Anant said, \"I was feeling sleepy.\""
+            },
+            {
+                "text": "\"I was feeling sleepy,\" says Anant."
+            },
+            {
+                "text": "Anant said, \"I am feeling sleepy.\""
+            }
+        ],
+        "answer": "Anant said, \"I am feeling sleepy.\"",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "Higher Secondary 30/06/2023 (Shift - 2)",
+        "videoUrl": "Anant said, I am feeling sleepy. (Correct)  (a) Anant said, He  was  feeling sleepy. (Incorrect  Tense)  (b) Anant said, I  was  feeling sleepy. (Incorrect  Tense)  (c) I was feeling sleepy,  says Anant  . (Incorrect  Reporting verb) "
+    },
+    {
+        "id": 232,
+        "question": {
+            "type": "text",
+            "content": "Bidding farewell to me, my juniors wished me a bright and successful career ahead. "
+        },
+        "options": [
+            {
+                "text": "Bidding farewell to me, my juniors inquired, \"Wish you a bright and successful career ahead.\""
+            },
+            {
+                "text": "Bidding farewell to me, my juniors said to themselves, \"Wish you a bright and successful career ahead.\""
+            },
+            {
+                "text": "Bidding farewell to me, my juniors said to me, \"Wish you a bright and successful career ahead.\""
+            },
+            {
+                "text": "Bidding farewell to me, my juniors wish me, \"Wish you a bright and successful career ahead.\""
+            }
+        ],
+        "answer": "Bidding farewell to me, my juniors said to me, \"Wish you a bright and successful career ahead.\"",
+        "solution": {
+            "type": "text",
+            "content": ""
+        },
+        "status": "Higher Secondary 30/06/2023 (Shift - 2)",
+        "videoUrl": " Bidding  farewell  to  me,  my  juniors  said  to  me,  Wish  you a bright and successful career ahead.(Correct)  (a)  Bidding  farewell  to  me,  my  juniors  inquired  ,  Wish  you  a  bright and successful career ahead.(Incorrect reporting verb)  (b)  Bidding  farewell  to  me,  my  juniors  said  to  themselves  ,  Wish  you  a  bright  and  successful  career  ahead.(Incorrect  reporting  verb)  (d)  Bidding  farewell  to  me,  my  juniors  wish  me  ,  Wish  you  a  bright and successful career ahead.(Incorrect reporting verb)"
+    },
+    {
+        "id": 233,
+        "question": {
+            "type": "text",
+            "content": "Prem said that he had been listening to music for an hour. "
+        },
+        "options": [
+            {
+                "text": "Prem said, \"I have been listening to music for an hour.\""
+            },
+            {
+                "text": "Prem said, \"He has listening to music for an hour.\""
+            },
+            {
+                "text": "Prem said, \"He has be listened to music for an hour.\""
+            },
+            {
+                "text": "Prem said, \"I had listened to music for an hour.\""
+            }
+        ],
+        "answer": "Prem said, \"I have been listening to music for an hour.\"",
+        "solution": {
+            "type": "text",
+            "content": "  Prem  said,  I  have  been  listening  to  music  for  an  hour.  (Correct)  (b)  Prem  said,  He  has  listening  to  music  for  an  hour.  (Incorrect  Sentence Structure)  (c)  Prem  said,  He  has  be  listened  to  music  for  an  hour.  (Incorrect Sentence Structure)  (d)  Prem  said,  I  had  listened  to  music  for  an  hour.  (Incorrect  Helping Verb)"
+        },
+        "status": "Matriculation Level 27/06/2023 (Shift - 2)",
+        "videoUrl": ""
+    },
+    {
+        "id": 234,
+        "question": {
+            "type": "text",
+            "content": "He said, \"I will see you now\". "
+        },
+        "options": [
+            {
+                "text": "He said he will see you now."
+            },
+            {
+                "text": "He said he will see me now."
+            },
+            {
+                "text": "He said he would see me then."
+            },
+            {
+                "text": "He said I will see you now."
+            }
+        ],
+        "answer": "He said he would see me then.",
+        "solution": {
+            "type": "text",
+            "content": " He said he would see me then. (Correct)  (a) He said  he will  see you now.  (Incorrect Helping  Verb)  (b) He said  he will  see me now. (Incorrect Helping  Verb)  (d) He said  I will  see you now. (Incorrect Helping  Verb & Subject) "
+        },
+        "status": "Matriculation Level 28/06/2023 (Shift - 1",
+        "videoUrl": ""
+    },
+    {
+        "id": 235,
+        "question": {
+            "type": "text",
+            "content": "Aravind said, “Let us wait for the cab.” "
+        },
+        "options": [
+            {
+                "text": "Aravind proposed that they should wait for the cab."
+            },
+            {
+                "text": "Aravind proposed that they should has wait for the cab."
+            },
+            {
+                "text": "Aravind proposes that let we waited for the cab."
+            },
+            {
+                "text": "Aravind propose that they should been wait for the cab."
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": " Aravind  proposed  that  they  should  wait  for  the  cab.  (Correct)  (b)  Aravind  proposed  that  they  should  has  wait  for  the  cab.  (Incorrect use of ‘has’)  (c)  Aravind  proposes  that  let  we  waited  for  the  cab.  (Incorrect  use of ‘let’ and tense)  (d)  Aravind  propose  that  they  should  been  wait  for  the  cab.  (Incorrect use of ‘been’)"
+        },
+        "status": "Matriculation Level 30/06/2023 (Shift - 3)",
+        "videoUrl": ""
+    },
+    {
+        "id": 236,
+        "question": {
+            "type": "text",
+            "content": "Arya said, “I am very busy now.” "
+        },
+        "options": [
+            {
+                "text": "Arya said that she is being very busy now."
+            },
+            {
+                "text": "Arya said that she is be very busy now."
+            },
+            {
+                "text": "Arya said that she was very busy then."
+            },
+            {
+                "text": "Arya said that she was being very busy then. Solutions :- Sol.19."
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": " Arya said that she was very busy then.(Correct)  (a) Arya said that she  is being  very busy now.(Incorrect  Tense)  (b) Arya said that she  is be  very busy now.(Incorrect  Tense)  (d)  Arya  said  that  she  was  being  very  busy  then.(Incorrect  Tense  structure)"
+        },
+        "status": "Matriculation Level 30/06/2023 (Shift - 4)",
+        "videoUrl": ""
+    },
+    {
+        "id": 237,
+        "question": {
+            "type": "text",
+            "content": "“Stop! Don’t fight.” said the mother to her children. "
+        },
+        "options": [
+            {
+                "text": "The mother exclaimed to her children angrily to stop and don’t fight."
+            },
+            {
+                "text": "The mother exclaimed to her children to pause and not engage in a fight."
+            },
+            {
+                "text": "The mother told her children to stop and not fight."
+            },
+            {
+                "text": "The mother exclaimed angrily to her children to stop and not fight."
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": " The  mother  exclaimed  angrily  to  her  children  to  stop  and not fight. (Correct)  (a) The mother  exclaimed to her children angrily  to  stop and  don't fight. (Incorrect Reporting Verb)  (b)  The  mother  exclaimed  to  her  children  to  pause  and  not  engage in a fight. (Incorrect Reporting Verb)  (c)  The  mother  told  her  children  to  stop  and  not  fight.  (Incorrect  Reporting Verb)"
+        },
+        "status": "Graduate Level 01/08/2022 ( Shift - 4 )",
+        "videoUrl": ""
+    },
+    {
+        "id": 238,
+        "question": {
+            "type": "text",
+            "content": "The swallow asked the skylark, “Will we be able to shift the eggs from this tree by tomorrow?” "
+        },
+        "options": [
+            {
+                "text": "The swallow asked the skylark whether they could be able to shift the eggs from this tree by tomorrow."
+            },
+            {
+                "text": "The swallow asked the skylark whether they would have been able to shift the eggs from the tree by the next day."
+            },
+            {
+                "text": "The swallow asked the skylark whether they will be able to shift the eggs from that tree by the next day."
+            },
+            {
+                "text": "The swallow asked the skylark whether they would be able to shift the eggs from that tree by the next day."
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "The  swallow  asked  the  skylark  whether  they  would  be  able to shift the eggs from that tree by the next day.(Correct)  (a) The swallow asked the skylark whether they  could  be able to shift the eggs from this tree by tomorrow. (Incorrect Modal)  (b)  The  swallow  asked  the  skylark  whether  they  would  have  been  able to shift the eggs from the tree by the next day.  (Incorrect Tense structure)  (c)  The  swallow  asked  the  skylark  whether  they  will  be  able  to  shift the eggs from that tree by the next day. (Incorrect Tense) "
+        },
+        "status": "Higher Secondary 01/08/2022 (Shift - 3 )",
+        "videoUrl": ""
+    },
+    {
+        "id": 239,
+        "question": {
+            "type": "text",
+            "content": "My mother said to my sister, “Did you receive a mail from your teacher?” Pinnacle Narration"
+        },
+        "options": [
+            {
+                "text": "My mother said to my sister whether did she receive a mail from her teacher."
+            },
+            {
+                "text": "My mother told my sister that did she receive a mail from her teacher."
+            },
+            {
+                "text": "My mother advised my sister if did she received a mail from her teacher."
+            },
+            {
+                "text": "My mother asked my sister if she had received a mail from her teacher."
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": " My  mother  asked  my  sister  if  she  had  received  a  mail  from her teacher.(Correct)  (a)  My  mother  said  to  my  sister  whether  did  she  receive  a  mail  from her teacher. (Incorrect Reporting Verb)  (b) My mother told my sister  that  did she receive  a mail from her  teacher. (Incorrect Connecting word)  (c)  My  mother  advised  my  sister  if  did  she  received  a  mail  from  her teacher. (Incorrect Reporting Verb)"
+        },
+        "status": "Higher Secondary 01/08/2022 (Shift - )",
+        "videoUrl": ""
+    },
+    {
+        "id": 240,
+        "question": {
+            "type": "text",
+            "content": "Sunny’s parents said to her, “Do not take anything from strangers.” "
+        },
+        "options": [
+            {
+                "text": "Sunny’s parents asked her do not take anything from strangers."
+            },
+            {
+                "text": "Sunny’s parents said to her that do not take anything from strangers."
+            },
+            {
+                "text": "Sunny’s parents advised her not to take anything from strangers."
+            },
+            {
+                "text": "Sunny’s parents told to her not to take anything from strangers."
+            }
+        ],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": " Sunny’s  parents  advised  her  not  to  take  anything  from  strangers.(Correct)  (a)  Sunny’s  parents  asked  her  do  not  take  anything  from  strangers.(Incorrect sentence structure)  (b)  Sunny’s  parents  said  to  her  that  do  not  take  anything  from  strangers. (Incorrect Connecting word)  (d)  Sunny’s  parents  told  to  her  not  to  take  anything  from  strangers. (Incorrect Reporting Verb)"
+        },
+        "status": "Higher Secondary 03/08/2022 (Shift - 4)",
+        "videoUrl": ""
+    }
+    ,
+    {
+        "id": 241,
+        "question": {
+            "type": "text",
+            "content": "The  policeman  asked  us  whether  we  recognised  the  person in the photo."
+        },
+        "options": [
+            {
+                "text": "The policeman said, “Do you recognise the person in the  photo?”"
+            },
+            {
+                "text": " The policeman said, “Do you recognised the person in the  photo.”"
+            },
+            {
+                "text": " The policeman said, “Whether you recognise the person in  the photo.”"
+            },
+            {
+                "text": " The policeman said, “Did you recognised the person in the  photo?”"
+            }
+        ],
+        "answer": "The policeman said, “Do you recognise the person in the  photo?”",
+        "solution": {
+            "type": "text",
+            "content": "The  policeman  said,  “Do  you  recognise  the  person  in  the photo?”(Correct)  (b) The policeman said, “Do you  recognised  the person  in the  photo.”(Incorrect form of Verb)  (c)  The  policeman  said,  “  Whether  you  recognise  the  person  in  the photo.”(Incorrect word)  (d)  The  policeman  said,  “  Did  you  recognised  the  person  in  the  photo?”(Incorrect Tense)"
+        },
+        "status": "Graduate Level 03/08/2022 (Shift - 3)",
+        "videoUrl": ""
+    }
+    ,
+    {
+        "id": 242,
+        "question": {
+            "type": "text",
+            "content": "His father asked, “What time do you have class  tomorrow,  Tom ?”"
+        },
+        "options": [
+            {
+                "text": "Tom’s father asked him what time he had class the next day. "
+            },
+            {
+                "text": "Tom’s father asked what time he has class tomorrow. "
+            },
+            {
+                "text": " Tom’s father asked him what time he was having class  tomorrow. "
+            },
+            {
+                "text": "Tom’s father asked him what tomorrow class timing are."
+            }
+        ],
+        "answer": "Tom’s father asked him what time he had class the next day. ",
+        "solution": {
+            "type": "text",
+            "content": " Tom’s  father  asked  him  what  time  he  had  class  the  next day. (Correct)  (b)  Tom’s  father  asked  what  time  he  has  class  tomorrow.  (Incorrect Tense)  (c)  Tom’s  father  asked  him  what  time  he  was  having  class  tomorrow. (Incorrect Tense)  (d)  Tom’s  father  asked  him  what  tomorrow  class  timing  are  .  (Incorrect Tense)"
+        },
+        "status": "Graduate Level 05/08/2022 (Shift - 3)",
+        "videoUrl": ""
+    }
+    ,
+    {
+        "id": 243,
+        "question": {
+            "type": "text",
+            "content": "The  thief  asked  if  he  remembered  the  place  where  they  had hidden their jewellery. "
+        },
+        "options": [
+            {
+                "text": "The thief asked, Do you remember the place where we have  hidden their  jewellery?"
+            },
+            {
+                "text": "The thief asked, Can you remember the place where we  were hiding our jewellery?"
+            },
+            {
+                "text": "The thief asked, Where do you remember the place where  we have hidden our jewellery?"
+            },
+            {
+                "text": "The thief asked, Did you remember the place where we hid  our jewellery?"
+            }
+        ],
+        "answer": "The thief asked, Do you remember the place where we have  hidden their  jewellery?",
+        "solution": {
+            "type": "text",
+            "content": "The  thief  asked,  “Do  you  remember  the  place  where  we have hidden their jewellery. (Correct)  (b) The thief asked,  “Can you remembe  r the place where  we  were hiding our jewellery?” (Incorrect Tense)  (c)  The  thief  asked,  “  Where  do  you  remember  t  he  place  where  we have hidden our jewellery?” (Incorrect Tense)  (d)  The  thief  asked,  “  Did  you  remember  the  place  where  we  hid  our jewellery?” (Incorrect Tense)"
+        },
+        "status": "Higher Secondary 04/08/2022 (Shift - 3) ",
+        "videoUrl": ""
+    }
+]
