@@ -1,0 +1,3529 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is NOT a biotic component of the ecosystem?"
+        },
+        "options": [
+            {
+                "text": "Frog"
+            },
+            {
+                "text": "Soil"
+            },
+            {
+                "text": "Insect"
+            },
+            {
+                "text": "Flower"
+            }
+        ],
+        "answer": "Soil",
+        "solution": {
+            "type": "text",
+            "content": "Soil. Examples of Biotic components (living things present in the ecosystem) Producers, consumers, decomposers, and detritivores). Examples of Abiotic components (all non -living things present in the atmosphere, hydrosphere, and lithosphere) - Sunlight, air, precipitation, weather, water, temperature, humidity, altitude, minerals, and soil."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 18/08/2022 (Morning)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "Which of the following represents the correct sequence of energy flow in the ecosystem?"
+        },
+        "options": [
+            {
+                "text": "apex carnivore Producer→ Herbivore→ Sunlight"
+            },
+            {
+                "text": "Carnivores - Herbivores- Producers - Sunlight"
+            },
+            {
+                "text": "apex carnivore producer- herbivore- sunlight"
+            },
+            {
+                "text": "Carnivores→ Herbivores → Producers → Sunlight"
+            }
+        ],
+        "answer": "Carnivores - Herbivores- Producers - Sunlight",
+        "solution": {
+            "type": "text",
+            "content": "Energy Flow The flow of energy through living organisms in an environment. The producers and consumers in the ecosystem are arranged into different feeding groups and are known as trophic level or the feeding level. The producers (plants) represent the first trophic level. Herbivores (primary consumers) present the second trophic level. Primary carnivores (secondary consumers) represent the third trophic level. Top carnivores Tertiary consumers. At the top of the system are the apex predators."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 26/08/2022 (Afternoon)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is an artificial ecosystem that is manmade?"
+        },
+        "options": [
+            {
+                "text": "Crop field"
+            },
+            {
+                "text": "Pond"
+            },
+            {
+                "text": "Forest"
+            },
+            {
+                "text": "Lake"
+            }
+        ],
+        "answer": "Crop field",
+        "solution": {
+            "type": "text",
+            "content": "Crop field. Ecosystems is a system in which a group of living organisms that live in and interact with each other in a specific environment. It can be divided into two types: Natural Ecosystem (ponds, rivers, lakes, forests, etc.) and Artificial or Man Made Ecosystem (aquariums, agriculture fields, zoos, etc.). The word Ecosystem coined by Sir Arthur G. Tansley, the word Ecology coined by Ernst Haeckel."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 01/09/2022 (Afternoon)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "Some statements about food chain and energy flow through an ecosystem are given below. Select the INCORRECT statement."
+        },
+        "options": [
+            {
+                "text": "A single organism can feed at several trophic levels."
+            },
+            {
+                "text": "Food webs include two or more food chains."
+            },
+            {
+                "text": "The lower the trophic level at which an organism feeds, the less energy it has."
+            },
+            {
+                "text": "All organisms that are not producers are consumers."
+            }
+        ],
+        "answer": "The lower the trophic level at which an organism feeds, the less energy it has.",
+        "solution": {
+            "type": "text",
+            "content": "A food chain outlines who eats whom. A food web is all of the food chains in an ecosystem. Each organism in an ecosystem occupies a specific trophic level or position in the food chain or web. Energy transfer between trophic levels is inefficient-with a typical efficiency around 10%. This inefficiency ümits the length of food chains."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 01/09/2022 (Evening)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "In the following figure, deer occupies Level 3 Level 2 Level 4 Level 1: Producers"
+        },
+        "options": [
+            {
+                "text": "Level 3"
+            },
+            {
+                "text": "Level 1"
+            },
+            {
+                "text": "Level 2"
+            },
+            {
+                "text": "Level 4"
+            }
+        ],
+        "answer": "Level 1",
+        "solution": {
+            "type": "text",
+            "content": "Level 2 (Primary Consumers / Second trophic level / Herbivores) - Zooplankton, Grasshopper, cow. Level 1 (Producer / First trophic level / Plants) - Phytoplankton, grass, Tree. Level 3 (Secondary Consumers / third trophic level / Carnivore) - Birds, fishes, wolves. Level 4 (Tertiary Consumers / Fourth trophic level / Top carnivores) Man, Lion. Trophic level is the relative position of an entity in the food chain."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 02/09/2022 (Afternoon)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "From the organisms given below, select the top predator."
+        },
+        "options": [
+            {
+                "text": "Mouse"
+            },
+            {
+                "text": "Grasshopper"
+            },
+            {
+                "text": "Eagle"
+            },
+            {
+                "text": "Python"
+            }
+        ],
+        "answer": "Eagle",
+        "solution": {
+            "type": "text",
+            "content": "Eagle. Predator - An animal that kills and eats other animals. The food chain of the given organism is - Grass (Producer) -> Grasshopper (primary consumer) > Mouse (Secondary Consumer) > Python (tertiary consumer) -> Eagle (final consumer)."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 05/09/2022 (Afternoon)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Which of the following groups of organisms is involved in the decomposition of dead and decaying organisms?"
+        },
+        "options": [
+            {
+                "text": "producer"
+            },
+            {
+                "text": "consumer"
+            },
+            {
+                "text": "detergent"
+            },
+            {
+                "text": "decomposer"
+            }
+        ],
+        "answer": "decomposer",
+        "solution": {
+            "type": "text",
+            "content": "Decomposers Feed on dead things (dead plant materials such as leaf litter and wood, animal carcasses, and feces, etc.). Decomposers play a critical role in the flow of energy through an ecosystem. They break apart dead organisms into simpler inorganic materials, making nutrients available to primary producers. Producers Convert water, carbon dioxide, minerals, and sunlight into the organic molecules. Consumers Animals that get their energy by eating plants or other animals."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 06/09/2022 (Morning)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "The is the area of the earth where living organisms can be found or where life can be sustained."
+        },
+        "options": [
+            {
+                "text": "atmosphere"
+            },
+            {
+                "text": "troposphere"
+            },
+            {
+                "text": "biosphere"
+            },
+            {
+                "text": "stratosphere"
+            }
+        ],
+        "answer": "biosphere",
+        "solution": {
+            "type": "text",
+            "content": "biosphere. The atmosphere is a mixture of gases that surrounds the Earth. It helps make life possible by providing us with air to breathe, shielding us from harmful ultraviolet (UV) radiation coming from the Sun."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 09/09/2022 (Morning)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "Arrange the following in a food chain. A. Frog B. Eagle C. Rice Plant D. Snake E. Locust"
+        },
+        "options": [
+            {
+                "text": "C-E-D-B-A"
+            },
+            {
+                "text": "C-E-A-D-В"
+            },
+            {
+                "text": "C-A-E-D-B"
+            },
+            {
+                "text": "C-A-E-B-D"
+            }
+        ],
+        "answer": "C-E-A-D-В",
+        "solution": {
+            "type": "text",
+            "content": "C-E-A-D-B. Food chain- A linear sequence of organisms where nutrients and energy is transferred from one organism to the other. Four major parts of the food chain - Sun, Producers, Consumers and Decomposers."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 12/09/2022 (Afternoon)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "What is the purpose of setting up 'protected areas'?"
+        },
+        "options": [
+            {
+                "text": "stopping the construction of human settlements"
+            },
+            {
+                "text": "To develop tourist place"
+            },
+            {
+                "text": "Protecting endangered animals"
+            },
+            {
+                "text": "preserving the natural ecosystem"
+            }
+        ],
+        "answer": "preserving the natural ecosystem",
+        "solution": {
+            "type": "text",
+            "content": "Preserving the natural ecosystem. Protected areas are regions or zones of land or sea which are given certain levels of protection foг conservation of biodiversity and socio -environmental values. Six Protected Area Management Categories. Category I a (Strict Nature Reserve), Category I b α Scanned with OKEN Scanner (Wilderness Area), Category II (National Park), Category III (Natural Monument or Feature), Category IV (Habitat/Species Management Area), Category V (Protected Landscape /Seascape), Category VI (Protected Area with sustainable use of natural resources). The Wildlife (Protection) Act of 1972 (WLPA) established the concept of a protected area (PA)."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 13/09/2022 (Morning)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "A simple food chain of 5 trophic levels is shown below. If the snake which Is present in the fourth trophic level gets 10 kJ of energy, then what amount of energy is available to the producers? Trophic levels 5 Hawk 4 Snake 3 Frog 2 Grasshopper Grass"
+        },
+        "options": [
+            {
+                "text": "100 kJ"
+            },
+            {
+                "text": "10,000 kJ"
+            },
+            {
+                "text": "1,00,00,000 kJ"
+            },
+            {
+                "text": "1,000 kJ"
+            }
+        ],
+        "answer": "1,00,00,000 kJ",
+        "solution": {
+            "type": "text",
+            "content": "10,000 kJ. Overall, only about 10 percent of the energy stored as biomass in a trophic level is passed from one food level to the next. This is called \"the 10 percent rule\". The available energy level at a particular trophic level is 10 times greater at the next trophic level. Hence, if the energy level at the fourth trophic level is 10 KJ, then the energy at a third level trophic level is 10 times greater than the previous level i.e. 10 x 10= 100 KJ. The second trophic level has 1,000 KJ energy and the first trophic level (producer) has the energy of 10,000 KJ."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 13/09/2022 (Afternoon)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is/are an ablotic component of an ecosystem? Group-D 14/09/2022 (Afternoon)"
+        },
+        "options": [
+            {
+                "text": "Insects"
+            },
+            {
+                "text": "Microorganisms"
+            },
+            {
+                "text": "Soll"
+            },
+            {
+                "text": "Fungi"
+            }
+        ],
+        "answer": "Soll",
+        "solution": {
+            "type": "text",
+            "content": "Soll. Abiotic Components The non-living part of an ecosystem that shapes its environment. Examples Temperature, light, and water, salinity and ocean currents. Blotic components - The living things that have a direct or indirect influence on other organisms in an environment. Example Plants, animals, microorganisms and their waste materials."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is incorrect regarding the flow of energy between various components of the environment?"
+        },
+        "options": [
+            {
+                "text": "Every trophic level loses some energy as heat to the environment."
+            },
+            {
+                "text": "Green plants capture about 10% of the solar energy that falls on leaves."
+            },
+            {
+                "text": "The amount of organic matter present at each trophic level is 10%."
+            },
+            {
+                "text": "Energy flow is unidirectional."
+            }
+        ],
+        "answer": "Green plants capture about 10% of the solar energy that falls on leaves.",
+        "solution": {
+            "type": "text",
+            "content": "Green plants capture about 1% of the solar energy that falls on leaves for the process of photosynthesis. Each trophic level has a certain mass of living material at a particular time called the standing crop. The standing crop is measured as the mass of living organisms (biomass) or the number in a unit area."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 19/09/2022 (Morning)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "Energy flow through the various trophic levels in the ecosystem is _"
+        },
+        "options": [
+            {
+                "text": "random"
+            },
+            {
+                "text": "bidirectional"
+            },
+            {
+                "text": "reduced with each higher trophic level"
+            },
+            {
+                "text": "increased with each higher trophic level"
+            }
+        ],
+        "answer": "reduced with each higher trophic level",
+        "solution": {
+            "type": "text",
+            "content": "Ten percent law of energy transfer Given by Lindemann in 1942. This law states that only 10 percent of energy in a food chain out of the total energy is transferred from one trophic level to another. The rest of the energy is utilized for other metabolic processes and some are released as heat."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 27/09/2022 (Afternoon)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "What does a self-sustaining ecosystem mean?"
+        },
+        "options": [
+            {
+                "text": "The organic matter remains almost constant generation over generation."
+            },
+            {
+                "text": "No organisms are added or removed from the biotic component."
+            },
+            {
+                "text": "It is not dependent on radiant energy for its malntenance."
+            },
+            {
+                "text": "The organisms are well adapted to the local biotic components."
+            }
+        ],
+        "answer": "The organic matter remains almost constant generation over generation.",
+        "solution": {
+            "type": "text",
+            "content": "Self-sustalning ecosystem: maintenance of an ecosystem itself or naturally. l.e., A system that maintains itself by its own independent efforts. Sir Arthur G. Tansley gave the term Ecosystem. Ecosystem: The Interactions that take place within a given space between biological and non-biological elements."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 29/09/2022 (Afternoon)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "Which of the following activities is environmentally friendly?"
+        },
+        "options": [
+            {
+                "text": "Using polythene bags for shopping"
+            },
+            {
+                "text": "Construction of skyscrapers"
+            },
+            {
+                "text": "Using ACs and coolers during the summer"
+            },
+            {
+                "text": "Using solar-power for generation of electricity"
+            }
+        ],
+        "answer": "Using solar-power for generation of electricity",
+        "solution": {
+            "type": "text",
+            "content": "As a renewable source of power, solar energy has an important role in reducing greenhouse gas emissions and mitigating climate change, which is critical to protecting humans, wildlife, and ecosystems. Solar energy can also improve air quality and reduce water use from energy production. Solar power is one of the most environmentally friendly energy sources."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 02/09/2022 (Morning)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "What kind of resources are the fossil fuels coal and petroleum?"
+        },
+        "options": [
+            {
+                "text": "Inexhaustible"
+            },
+            {
+                "text": "Exhaustible and non-renewable"
+            },
+            {
+                "text": "Exhaustible and renewable"
+            },
+            {
+                "text": "Renewable"
+            }
+        ],
+        "answer": "Exhaustible and non-renewable",
+        "solution": {
+            "type": "text",
+            "content": "Exhaustible (Non -renewable) are the resources that once used cannot be replenished again or it takes milions of years. Examples - Fossil fuels such as coal, petroleum, oil, natural gas."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 05/09/2022 (Morning)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is not a source of geothermal energy?"
+        },
+        "options": [
+            {
+                "text": "Lava flows"
+            },
+            {
+                "text": "Geysers"
+            },
+            {
+                "text": "Biomass"
+            },
+            {
+                "text": "Fumaroles"
+            }
+        ],
+        "answer": "Biomass",
+        "solution": {
+            "type": "text",
+            "content": "Biomass. Geothermal energy (Renewable) is heat energy from the earth-Geo (earth) + thermal (heat). Geothermal resources are reservoirs of hot water (Geysers, Hot springs, Steam vents, Hydrothermal vents and mud pots) that exist or are human made at varying temperatures and depths below the Earth's surface. Uses heating and cooling buildings through geothermal heat pumps, generating electricity through geothermal power plants. Fumaroles are openings in the earth's surface that emit steam and volcanic gases, such as sulfur dioxide and carbon dioxide. A geyser is spring characterized by an intermittent discharge of water ejected turbulently and accompanied by steam."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 08/09/2022 (Morning)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Which of the following should be managed to ensure sustainability?"
+        },
+        "options": [
+            {
+                "text": "Crop varieties"
+            },
+            {
+                "text": "Natural resources"
+            },
+            {
+                "text": "By products of Mining"
+            },
+            {
+                "text": "Industries"
+            }
+        ],
+        "answer": "Natural resources",
+        "solution": {
+            "type": "text",
+            "content": "Natural Resources are materials from the Earth that are used to support life and meet people's needs. Examples Water, Renewable energy, α Scanned with OKEN Scanner Coal, Fuel, Uranium, Wind power, Sunlight, Metals, Wood, etc. Sustainable Development aims at decreasing the absolute poverty of the poor by providing lasting and secure livelihoods that minimise resourcе depletion, environmental degradation, cultural disruption and social instability."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 13/09/2022 (Morning)"
+    },
+    {
+        "id": 20,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements is INCORRECT with respect to coal and petroleum?"
+        },
+        "options": [
+            {
+                "text": "They cause environmental pollution."
+            },
+            {
+                "text": "Their use leads to global warming."
+            },
+            {
+                "text": "They have been formed by degradation of living organisms over millions of years."
+            },
+            {
+                "text": "These are unlimited resources on Earth."
+            }
+        ],
+        "answer": "These are unlimited resources on Earth.",
+        "solution": {
+            "type": "text",
+            "content": "Coal (solid fossil fuels) - Black hard rock, flammable in nature. Types of coal Anthracite (highest quality), Bituminous, Lignite and Peat. Petroleum (Black Gold): Yellow to brown liquid beneath the Earth's surface, Non renewable energy."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 16/09/2022 (Afternoon)"
+    },
+    {
+        "id": 21,
+        "question": {
+            "type": "text",
+            "content": "Which of the following can lead to sustainable management of forest resources?"
+        },
+        "options": [
+            {
+                "text": "Applying fertilisers and growth promoters to enhance the growth of trees"
+            },
+            {
+                "text": "Adjusting the harvest of wood depending on the rate of growth of forests"
+            },
+            {
+                "text": "Making forests off-limits to human beings and their livestock"
+            },
+            {
+                "text": "Using money from safari tourists to protect forests from logging"
+            }
+        ],
+        "answer": "Adjusting the harvest of wood depending on the rate of growth of forests",
+        "solution": {
+            "type": "text",
+            "content": "Sustainable forest management has to keep the balance between three main pillars: ecological, economic and socio-cultural. The aim of SFM is to ensure that forests supply goods and services to meet both present-day and future needs and contribute to the sustainable development of communities."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 07/10/2022 (Morning)"
+    },
+    {
+        "id": 22,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is not a non-renewable source of energy?"
+        },
+        "options": [
+            {
+                "text": "Coal"
+            },
+            {
+                "text": "Natural gas"
+            },
+            {
+                "text": "Air"
+            },
+            {
+                "text": "Petroleum"
+            }
+        ],
+        "answer": "Natural gas",
+        "solution": {
+            "type": "text",
+            "content": "Air. Renewable energy Includes all energy that is not polluting and whose sources do not deplete, or whose sources are replenished. Example - Nuclear Fission, biomass, geothermal resources, sunlight, water, and wind."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 07/10/2022 (Evening)"
+    },
+    {
+        "id": 23,
+        "question": {
+            "type": "text",
+            "content": "Soil erosion is one of the main threats to the environment. Which of the following helps in preventing soil erosion can be helpful?"
+        },
+        "options": [
+            {
+                "text": "contour tillage"
+            },
+            {
+                "text": "cattle feed"
+            },
+            {
+                "text": "poor irrigation methods"
+            },
+            {
+                "text": "More farming"
+            }
+        ],
+        "answer": "contour tillage",
+        "solution": {
+            "type": "text",
+            "content": "Contour tillage. Types of Soil Erosion - Sheet Erosion, Gully Erosion, Rill erosion, and Stream Bank Erosion. Causes Anthropogenic activities, Soil texture, Slope, Intensity of Rainfall, Deforestation, wind. Pedogenesis is the process of soil formation."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 17/08/2022 (Afternoon)"
+    },
+    {
+        "id": 24,
+        "question": {
+            "type": "text",
+            "content": "Soil degradation is one of the major environmental problems being faced these days. A wide range of techniques to conserve soil are mentioned below. Select the INCORRECT option"
+        },
+        "options": [
+            {
+                "text": "Crop rotation"
+            },
+            {
+                "text": "Terrace farming"
+            },
+            {
+                "text": "Planting trees"
+            },
+            {
+                "text": "Overgrazing"
+            }
+        ],
+        "answer": "Overgrazing",
+        "solution": {
+            "type": "text",
+            "content": "Overgrazing. Prevention of Soil Erosion Contour tillage (the practice of tilling slope land), Mulching, Afforestation, Crop Rotation, Strip Cropping, and Intercropping, No-Till Farming, Cover crops, Terrace Farming, and Organic Farming."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 17/08/2022 (Evening)"
+    },
+    {
+        "id": 25,
+        "question": {
+            "type": "text",
+            "content": "Which of the following should be done to conserve coal and petroleum?"
+        },
+        "options": [
+            {
+                "text": "Avoid substituting CFL bulbs for standard incandescent bulbs."
+            },
+            {
+                "text": "Solar cookers should be avoided at all costs."
+            },
+            {
+                "text": "Avoid using public transportation or joining a carpool."
+            },
+            {
+                "text": "Do not overuse air conditioning or heating systems."
+            }
+        ],
+        "answer": "Do not overuse air conditioning or heating systems.",
+        "solution": {
+            "type": "text",
+            "content": "To conserve coal and petroleum Use energy saving CFL (compact fluorescent lamp), Use pressure cookers for cooking purposes, use of biogas as domestic fuel, Prefer the stair over the lift. Highest Coal Reserve (Jharkhand). Highest Petroleum Reserves (western Offshore - Mumbai)."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 18/08/2022 (Morning)"
+    },
+    {
+        "id": 26,
+        "question": {
+            "type": "text",
+            "content": "Select the INCORRECT option with reference to the Chipko Andolan."
+        },
+        "options": [
+            {
+                "text": "People realised that forests are needed to maintain the quality of soil"
+            },
+            {
+                "text": "It forced the government to rethink their priorities in the use of forest produce"
+            },
+            {
+                "text": "It was a violent movement to save the trees"
+            },
+            {
+                "text": "It involved the community in forest conservation efforts"
+            }
+        ],
+        "answer": "It was a violent movement to save the trees",
+        "solution": {
+            "type": "text",
+            "content": "The Chipko movement is a nonviolent social and environmental movement led by Sundarlal Bahuguna (by rural Indian peasants in 1973 in Uttar Pradesh's Chamoli district (now Uttarakhand) (People associated - Gaura Devi, Sudesha Devi, Bachni Devi, Chandi Prasad Bhatt, Govind Singh Rawat, Dhoom Singh Negi, Shamsher Singh Bisht and Ghanshyam Raturi)."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 18/08/2022 (Evening)"
+    },
+    {
+        "id": 27,
+        "question": {
+            "type": "text",
+            "content": "What is the name of the phenomenon of wearing down of relief variations of the surface of the Earth through erosion?"
+        },
+        "options": [
+            {
+                "text": "Gradation"
+            },
+            {
+                "text": "Eruptions"
+            },
+            {
+                "text": "Germination"
+            },
+            {
+                "text": "Solidification"
+            }
+        ],
+        "answer": "Gradation",
+        "solution": {
+            "type": "text",
+            "content": "Gradation. Germination the fundamental process by which different plant species grow from a single seed into a plant. Solidification - a process in which atoms are converted into an ordered solid state from a liquid-disordered state. Eruption is an explosion of steam and lava from a volcano."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 22/08/2022 (Afternoon)"
+    },
+    {
+        "id": 28,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is/are useful effort(s) for sustainability of resources? a. Switching off unnecessary lights and fans b. Using lift instead of stairs c. Repairing leaking taps for conserving water d. Using empty containers to store things e. Going to school by your own car instead of cycling Group - D 22/08/2022 (Evening)"
+        },
+        "options": [
+            {
+                "text": "b and e"
+            },
+            {
+                "text": "Only b"
+            },
+            {
+                "text": "Only e"
+            },
+            {
+                "text": "a,c and d"
+            }
+        ],
+        "answer": "a,c and d",
+        "solution": {
+            "type": "text",
+            "content": "a, c and d. Sustainable resources natural resources (air and climate, energy, water, biodiversity) that are renewable and can be replenished at the same rate, or faster than they are consumed. Sustainable Development Goals (SDGs) India Index NITI Aayog. Global Sustainable Development Report (GSDR)- United Nations."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 29,
+        "question": {
+            "type": "text",
+            "content": "Forests can be conserved by which of the following factors? a) Regular and planned cutting of trees b) control of forest fires α Scanned with OKEN Scanner c) Construction of roads in forests d) Monoculture Planting e) Promotion of afforestation and reforestation f) Proper use of forest and forest products g) Clearing land for cattle grazing"
+        },
+        "options": [
+            {
+                "text": "b, c, e and g"
+            },
+            {
+                "text": "a, c, d and e"
+            },
+            {
+                "text": "a, b, e and f"
+            },
+            {
+                "text": "d, e, f and g"
+            }
+        ],
+        "answer": "a, b, e and f",
+        "solution": {
+            "type": "text",
+            "content": "a, b, e and f. Afforestation is the conversion of abandoned and degraded agricultural lands into forests, while reforestation is the replantation of trees in deforested land. It provides a supply of timber, fruit, and fodder for cattle apart from crop production. Silvology is the biological science of studying forests and woodlands."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 23/08/2022 (Evening)"
+    },
+    {
+        "id": 30,
+        "question": {
+            "type": "text",
+            "content": "One of the goals of the Namami Gange Programme is to:"
+        },
+        "options": [
+            {
+                "text": "increase the supply of the Ganga River water for drinking purposes"
+            },
+            {
+                "text": "revitalize the Ganga River"
+            },
+            {
+                "text": "start river cruises on the Ganga River to boost tourism"
+            },
+            {
+                "text": "perform religious rituals with water from the Ganga River"
+            }
+        ],
+        "answer": "revitalize the Ganga River",
+        "solution": {
+            "type": "text",
+            "content": "Revitalise the Ganga River. Namami Gange Programme A flagship program inaugurated in June 2014, by the Union government, under the Ministry of Jal Shakti. Aims - Protection and cleaning of the river Ganga, Sewage treatment infrastructure, Riverfront development, River surface cleaning, biodiversity, Afforestation, Public awareness, Industrial effluent monitoring, and Ganga gram. The Ganga Action Plan was launched in 1986."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 24/08/2022 (Morning)"
+    },
+    {
+        "id": 31,
+        "question": {
+            "type": "text",
+            "content": "Amrita Devi Bishnoi National Award for Wildlife Conservation' is given in the memory of Amrita Devi Bishnoi. She sacrificed her life to save which trees and where?"
+        },
+        "options": [
+            {
+                "text": "Khejri trees, Rajasthan"
+            },
+            {
+                "text": "Khejri trees, West Bengal"
+            },
+            {
+                "text": "Sal trees, Rajasthan"
+            },
+            {
+                "text": "Sal trees, West Bengal"
+            }
+        ],
+        "answer": "Khejri trees, Rajasthan",
+        "solution": {
+            "type": "text",
+            "content": "Khejri trees, Rajasthan. Bishnoi Movement - It was started in the 18th century in Rajasthan by the Bishnoi community. Amrita Devi stood against the King of Jodhpur to protect the environment. This movement inspired the Chipko Movement (led by Sunder Lal Bahuguna) in the 20th Century. The \"Amrita Devi Bishnoi Wildlife Protection Award\" for contributing to the protection of wildlife and environment conservation respectively."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 26/08/2022 (Morning)"
+    },
+    {
+        "id": 32,
+        "question": {
+            "type": "text",
+            "content": "In the conservation of forests, stakeholders play a very important role. Who among the following is not a stakeholder in forests?"
+        },
+        "options": [
+            {
+                "text": "Wildlife and nature lovers"
+            },
+            {
+                "text": "Government forest department"
+            },
+            {
+                "text": "People living in urban areas"
+            },
+            {
+                "text": "People living in and around forests and dependent on forest produce"
+            }
+        ],
+        "answer": "People living in urban areas",
+        "solution": {
+            "type": "text",
+            "content": "World Wildlife Conservation Day 4 December. Madhya Pradesh has the highest forest cover as per the area followed by Arunachal Pradesh."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 26/08/2022 (Evening)"
+    },
+    {
+        "id": 33,
+        "question": {
+            "type": "text",
+            "content": "What is the main importance of sustainable development?"
+        },
+        "options": [
+            {
+                "text": "Increasing the cost of available natural resources"
+            },
+            {
+                "text": "To conserve natural resources for the needs of future generations"
+            },
+            {
+                "text": "Indiscriminate exploitation of available resources for rapid development"
+            },
+            {
+                "text": "Resources are unlimited, and we can use them in an extravagant way for our needs."
+            }
+        ],
+        "answer": "To conserve natural resources for the needs of future generations",
+        "solution": {
+            "type": "text",
+            "content": "Sustainable development A way of improving our lives and the well-being of future generations while also taking care of the environment and conserving resources. It includes harmonizing three elements Economic growth, Social inclusion and Environmental protection. Global initiatives on Sustainable development The Stockholm Conference (1972), The Earth Summit (1992), Kyoto Protocol (1997), Paris Agreement (2015) etc."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 30/08/2022 (Afternoon)"
+    },
+    {
+        "id": 34,
+        "question": {
+            "type": "text",
+            "content": "Some of the reasons for conservation of coal and petroleum are given below. Select the wrong option. Group -D 02/09/2022 (Afternoon)"
+        },
+        "options": [
+            {
+                "text": "Saves money of the citizens"
+            },
+            {
+                "text": "It does not lead to acidification of the oceans, which is the reason for the. death of aquatic animals."
+            },
+            {
+                "text": "It reduces the effect of climate change"
+            },
+            {
+                "text": "Increases air pollution even with judicious use Government of India established the"
+            }
+        ],
+        "answer": "Increases air pollution even with judicious use Government of India established the",
+        "solution": {
+            "type": "text",
+            "content": "Non-renewable Energy sources Coal, Rare earth elements, Petroleum products, Gold, Uranium. There is a need for conservation Since they take millions of years to form. It cannot be replenished at the rate by which we are consuming it. These sources are also responsible for pollution to the environment because carbon is the main element present in fossil fuels such as coal and petroleum."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 35,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements is INCORRECT with regard to forests?"
+        },
+        "options": [
+            {
+                "text": "They provide variety of products"
+            },
+            {
+                "text": "They do not conserve soil"
+            },
+            {
+                "text": "They conserve water"
+            },
+            {
+                "text": "They sustain huge diversity of flora and fauna"
+            }
+        ],
+        "answer": "They do not conserve soil",
+        "solution": {
+            "type": "text",
+            "content": "Forests conserve soil by their tree roots anchoring soil, preventing erosion, enhancing water absorption, and maintaining soil fertility through leaf litter decomposition, thereby reducing the risk of soil degradation. Flora - plant life in a particular region. Fauna animal life in a particular region."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 05/09/2022 (Evening)"
+    },
+    {
+        "id": 36,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a disadvantage management? of watershed"
+        },
+        "options": [
+            {
+                "text": "Its maintenance cost is very high"
+            },
+            {
+                "text": "less prone to drought and floop"
+            },
+            {
+                "text": "Increase in the income of the watershed community"
+            },
+            {
+                "text": "Increases the life of downstream dams and reservoirs"
+            }
+        ],
+        "answer": "Its maintenance cost is very high",
+        "solution": {
+            "type": "text",
+            "content": "Watershed the area of land where all the water drains into a central point, like rivers, lakes or streams. Watershed management advantages Controls Pollution, replenishes the groundwater, maintained by the locals, increases the production of crops, avoids floods during heavy rainfalls, prevention of over exploitation of natural resources. Disadvantages huge costs, require regular maintenance, can only be built in areas that have adequate rainfall, deforestation and loss of biodiversity."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 06/09/2022 (Morning)"
+    },
+    {
+        "id": 37,
+        "question": {
+            "type": "text",
+            "content": "At present, we need to use our resources judiciously, and work towards sustainability of these resources. Select the option which is not the reason."
+        },
+        "options": [
+            {
+                "text": "Resources are unlimited."
+            },
+            {
+                "text": "Their demand has increased due to increase in population"
+            },
+            {
+                "text": "It takes millions of years to replenish them"
+            },
+            {
+                "text": "We should preserve them for our future generations"
+            }
+        ],
+        "answer": "Resources are unlimited.",
+        "solution": {
+            "type": "text",
+            "content": "Sustainability consists of α Scanned with OKEN Scanner fulfilling the needs of current generations without compromising the needs of future generations, while ensuring a balance between economic growth, environmental care and social well-being. Therefore, sustainability is made up of three pillars: the economy, society, and the environment."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 06/09/2022 (Afternoon)"
+    },
+    {
+        "id": 38,
+        "question": {
+            "type": "text",
+            "content": "Which of the following methods can be used to conserve our natural resources?"
+        },
+        "options": [
+            {
+                "text": "Walking to nearby places without using vehicles"
+            },
+            {
+                "text": "Not recycling goods"
+            },
+            {
+                "text": "Turning on lights even when not required"
+            },
+            {
+                "text": "Using more water"
+            }
+        ],
+        "answer": "Walking to nearby places without using vehicles",
+        "solution": {
+            "type": "text",
+            "content": "Natural resources: Drawn from nature and used with few modifications. Eg Oil, coal, natural gas, metals, air, sunlight, soil and water, Animals, birds, fish and plants. Uses: To make food, fuel and raw materials for the production of goods."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 12/09/2022 (Morning)"
+    },
+    {
+        "id": 39,
+        "question": {
+            "type": "text",
+            "content": "Garhwal was the birthplace of the Group-D 14/09/2022 (Evening)"
+        },
+        "options": [
+            {
+                "text": "Chipko Movement"
+            },
+            {
+                "text": "Bishnoi Movement"
+            },
+            {
+                "text": "Jungle Bachao Andolan"
+            },
+            {
+                "text": "Narmada Bachao Andolan"
+            }
+        ],
+        "answer": "Chipko Movement",
+        "solution": {
+            "type": "text",
+            "content": "Chipko Movement (1973): The villagers used to hug the trees and encircle them to prevent being hacked. Leader Sundarlal Bahuguna. Slogan Ecology is a permanent economy. Bishnoi Movement - To save sacred trees from being cut down by the king of Jodhpur. Leader - Amrita Devi. Narmada Bachao Andolan (1985) is opposed to a number of large dam projects on the Narmada River. Leader - Medha Patekar."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 40,
+        "question": {
+            "type": "text",
+            "content": "Why was the use of 'kulhads discontinued?"
+        },
+        "options": [
+            {
+                "text": "They hurt the animals"
+            },
+            {
+                "text": "Use of clay resulted in the loss of the fertile top-soil"
+            },
+            {
+                "text": "They were very expensive"
+            },
+            {
+                "text": "They posed a health risk"
+            }
+        ],
+        "answer": "Use of clay resulted in the loss of the fertile top-soil",
+        "solution": {
+            "type": "text",
+            "content": "Kulhads are made by firing in the oven. As a result, making a large number of Kulhads would require a large amount of fuel. Because the Kulhads are baked, the Kulhads used do not degrade faster. The list of banned items includes - earbuds with plastic sticks, plastic sticks for balloons, plastic flags, polystyrene (Thermocol) for decoration, plastic plates, cups, packaging films around sweet boxes, invitation cards, plastic or PVC (Polyvinyl chloride) banners less than 100 micron."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 15/09/2022 (Afternoon)"
+    },
+    {
+        "id": 41,
+        "question": {
+            "type": "text",
+            "content": "What was the historic contribution of the community of Amrita Devi Bishnoi in Rajasthan in the 1700s? Group-D 17/09/2022 (Morning)"
+        },
+        "options": [
+            {
+                "text": "They planted thousands of Khejri trees and stopped desertification of the region."
+            },
+            {
+                "text": "They dug several ponds to capture rainwater and stopped desertification of the region."
+            },
+            {
+                "text": "They laid down their lives to stop the cutting down of trees growing in their region."
+            },
+            {
+                "text": "They set up the first wildlife sanctuary to protect deer from hunters."
+            }
+        ],
+        "answer": "They laid down their lives to stop the cutting down of trees growing in their region.",
+        "solution": {
+            "type": "text",
+            "content": "Amrita Devi Bishnoi was a resident of Khejarli village. She sacrificed her life along with her 3 daughters, to save the trees of her village from being cut by the Maharaja (Jodhpur). The 'Amrita Devi Bishnoi Wildlife Protection Award' is given in the memory of Amrita Devi Bishnoi."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 42,
+        "question": {
+            "type": "text",
+            "content": "In India, the Integrated Wastelands Development Programme (IWDP) has been under implementation since _"
+        },
+        "options": [
+            {
+                "text": "1989-90"
+            },
+            {
+                "text": "2001-02"
+            },
+            {
+                "text": "1994-95"
+            },
+            {
+                "text": "1991-92"
+            }
+        ],
+        "answer": "1989-90",
+        "solution": {
+            "type": "text",
+            "content": "1989 90. The National Wasteland Development Board (NWDB) was established in 1985 (Ministry of Forests and Environment). Aim - bringing wastelands in the country into productive use through a massive programme of afforestation and tree plantations."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 17/09/2022 (Morning)"
+    },
+    {
+        "id": 43,
+        "question": {
+            "type": "text",
+            "content": "Why should plastic cups be replaced by paper cups for selling tea in public places?"
+        },
+        "options": [
+            {
+                "text": "Paper cups are stronger"
+            },
+            {
+                "text": "Plastic cups are cheaper"
+            },
+            {
+                "text": "Paper cups keep things safe"
+            },
+            {
+                "text": "Paper cups are biodegradable"
+            }
+        ],
+        "answer": "Paper cups are biodegradable",
+        "solution": {
+            "type": "text",
+            "content": "Paper cups are biodegradable (that will decay after a period when buried under the soil and add nutrients to the soil). Advantages of paper cups - Eco friendly, wide variety available, Safe and hygienic, light in weight."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 19/09/2022 (Afternoon)"
+    },
+    {
+        "id": 44,
+        "question": {
+            "type": "text",
+            "content": "In which of the following villages did the Chipko Andolan (Hug the Trees Movement') originate?"
+        },
+        "options": [
+            {
+                "text": "Andretta in Kangra"
+            },
+            {
+                "text": "Ziro in Lower Subansiri"
+            },
+            {
+                "text": "Reni in Garhwal"
+            },
+            {
+                "text": "Malana in Kullu"
+            }
+        ],
+        "answer": "Reni in Garhwal",
+        "solution": {
+            "type": "text",
+            "content": "Reni in Garhwal. The Chipko movement was a non-violent agitation in 1973 that was aimed at the protection and conservation of trees. Originated in Uttar Pradesh's Chamoli district (now Uttarakhand). Started by Sunderlal Bahuguna. Slogan Ecology is a permanent economy."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 20/09/2022 (Evening)"
+    },
+    {
+        "id": 45,
+        "question": {
+            "type": "text",
+            "content": "What model did the Forest Officer AK Banerjee use to rejuvenate a degraded forest in West Bengal?"
+        },
+        "options": [
+            {
+                "text": "He stopped the felling of old trees."
+            },
+            {
+                "text": "He involved local people in silviculture."
+            },
+            {
+                "text": "He controlled termites and other wood-destroying insects."
+            },
+            {
+                "text": "He made a canal waterway in the forest to help the plants to grow."
+            }
+        ],
+        "answer": "He involved local people in silviculture.",
+        "solution": {
+            "type": "text",
+            "content": "A.K. Banerjee (father of the concept of Joint Forest) involved the local people in the revival of 1,272 hectares of forest. Villagers were given employment in silviculture and harvest and were given 25% of the harvest. Silviculture The practice of managing and cultivating forests and tree populations for desired ecological, economic, and social outcomes."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 20/09/2022 (Evening)"
+    },
+    {
+        "id": 46,
+        "question": {
+            "type": "text",
+            "content": "What does 'conservation' mean in terms of a natural resource like water?"
+        },
+        "options": [
+            {
+                "text": "Stop its use"
+            },
+            {
+                "text": "Leave it in a natural condition"
+            },
+            {
+                "text": "Protect against pollution"
+            },
+            {
+                "text": "Manage it wisely"
+            }
+        ],
+        "answer": "Manage it wisely",
+        "solution": {
+            "type": "text",
+            "content": "Manage it wisely. Earth's Natural Resources Air, minerals, plants, soil, water, and wildlife. Conservation of nature Taking care of and protecting these resources. Earth's Water Resources: Saltwater 97.25% Ice - 2.05%, Groundwater - 0.68%, Lakes - 0.01%, Rivers 0.0001%, Soil 0.005%, Atmosphere 0.0019%. World Water Day - 22 March."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 22/09/2022 (Morning)"
+    },
+    {
+        "id": 47,
+        "question": {
+            "type": "text",
+            "content": "Which of the following steps can be taken by the government to move towards sustainable use of natural resources?"
+        },
+        "options": [
+            {
+                "text": "Construction of metro and bus services"
+            },
+            {
+                "text": "Ban on travel by air α Scanned with OKEN Scanner"
+            },
+            {
+                "text": "Compulsory study of environmental science"
+            },
+            {
+                "text": "Ban on firecrackers on festivals"
+            }
+        ],
+        "answer": "Construction of metro and bus services",
+        "solution": {
+            "type": "text",
+            "content": "Construction of metro and bus services. Sustainability is the practice of using natural resources responsibly, so they can support both present and future generations."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 22/09/2022 (Afternoon)"
+    },
+    {
+        "id": 48,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements is INCORRECT? Group-D 22/09/2022 (Evening)"
+        },
+        "options": [
+            {
+                "text": "We need to accept that people will act with their own best interests as the priority."
+            },
+            {
+                "text": "Sustainable management of natural resources is an easy task."
+            },
+            {
+                "text": "The fossil fuels, coal and petroleum will  ultimately be exhausted."
+            },
+            {
+                "text": "Combustion of fossil fuels pollutes our environment; we need to use these resources judiciously."
+            }
+        ],
+        "answer": "Sustainable management of natural resources is an easy task.",
+        "solution": {
+            "type": "text",
+            "content": "Sustainable Development Development which meets the needs of the present without compromising the ability of future generations to meet their own needs. Three core elements of sustainable development are economic growth, social inclusion and environmental protection. Sustainable Development Index (SDI) released by the Sustainable Development Solutions Network (SDSN)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 49,
+        "question": {
+            "type": "text",
+            "content": "Which of the following changes in our eating habits will have the biggest impact on our environment?"
+        },
+        "options": [
+            {
+                "text": "Stopping wastage of food"
+            },
+            {
+                "text": "Giving up meat and animal products"
+            },
+            {
+                "text": "Avoiding processed food"
+            },
+            {
+                "text": "Growing our own food"
+            }
+        ],
+        "answer": "Giving up meat and animal products",
+        "solution": {
+            "type": "text",
+            "content": "Giving up meat and animal products. It is the single most significant action to help our environment by reducing greenhouse gas emissions, deforestation, and soil degradation. Reduction of meat consumption will also save an enormous amount of land and water and increase biodiversity."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 27/09/2022 (Evening)"
+    },
+    {
+        "id": 50,
+        "question": {
+            "type": "text",
+            "content": "Which of the following sites is NOT suitable for building a water-harvesting pit?"
+        },
+        "options": [
+            {
+                "text": "Near a large and busy international airport"
+            },
+            {
+                "text": "Near a large open landfill site"
+            },
+            {
+                "text": "In the corner of a small one-storey house"
+            },
+            {
+                "text": "In the yard of a large housing complex"
+            }
+        ],
+        "answer": "Near a large open landfill site",
+        "solution": {
+            "type": "text",
+            "content": "Landfills have different kinds of dangerous stuff and chemical wastes. These can get into the groundwater and make rainwater in the pit unsafe to use. Rainwater harvesting: Simple process or technology used to conserve rainwater by collecting, storing and purifying rainwater through rooftops, parks, roads, open grounds. Two methods of rainwater harvesting include: Rooftop rainwater harvesting rooftop becomes the catchments, and the rainwater from the building and houses are collected. Surface runoff harvesting- It collects rainwater, which flows away as surface runoff. The runoff rainwater is caught and used to recharge aquifers by adopting appropriate techniques."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 29/09/2022 (Afternoon)"
+    },
+    {
+        "id": 51,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements is incorrect? Group-D 29/09/2022 (Evening)"
+        },
+        "options": [
+            {
+                "text": "We should use coal, petroleum and natural gas judiciously."
+            },
+            {
+                "text": "Coal, petroleum and natural gas are fossil fuels."
+            },
+            {
+                "text": "Fossil fuels are inexhaustible resources."
+            },
+            {
+                "text": "Coke, coal tar and coal gas are the products of coal."
+            }
+        ],
+        "answer": "Fossil fuels are inexhaustible resources.",
+        "solution": {
+            "type": "text",
+            "content": "Fossil fuels Made from decomposing plants and animals. Types of natural resources Inexhaustible natural resources (sources are present in unlimited quantity in nature and are not likely to be exhausted by human activities). Example Sunlight, air etc. Exhaustible natural resources Resources in nature are limited, they can be exhausted by human activities. Example - Forests, minerals, wild life."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 52,
+        "question": {
+            "type": "text",
+            "content": "Narmada Bachao Andolan related to:"
+        },
+        "options": [
+            {
+                "text": "Bhakra Nangal Dam"
+            },
+            {
+                "text": "Nagarjuna Sagar Dam"
+            },
+            {
+                "text": "Hirakud Dam"
+            },
+            {
+                "text": "Sardar Sarovar Dam is"
+            }
+        ],
+        "answer": "Sardar Sarovar Dam is",
+        "solution": {
+            "type": "text",
+            "content": "Sardar Sarovar Dam. The main aim of this Narmada Dam project was to supply water for irrigation to the farmers and to provide electricity to the people of three states. But the local people and environmentalists protested against this project. The main concern of the people behind the protests was the large-scale displacement of local communities, the environmental issues like the submerging of trees under the dam water and the untimely extinction of the rarely found species. Medha Patkar and Baba Amte started this protest. It was started in 1985."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 30/09/2022 (Morning)"
+    },
+    {
+        "id": 53,
+        "question": {
+            "type": "text",
+            "content": "Who among the following sacrificed her life along with 363 others for the protection of 'khejri' trees in 'Khejarli' village near Jodhpur in Rajasthan? Group-D 06/10/2022 (Afternoon)"
+        },
+        "options": [
+            {
+                "text": "Soumya Swaminadhan"
+            },
+            {
+                "text": "Medha Patkar"
+            },
+            {
+                "text": "Vandana Shiva"
+            },
+            {
+                "text": "Amrita Devi Bishnoi"
+            }
+        ],
+        "answer": "Amrita Devi Bishnoi",
+        "solution": {
+            "type": "text",
+            "content": "Amrita Devi Bishnoi. This was referred to as the Bishnoi movement. Bishnoi is a religious sect founded by Guru Maharaj Jambheshwar in 1485 AD in the Marwar (Jodhpur). To honour the sacrifice of the community, the Government of India instituted the \"Amrita Devi Bishnoi, Wildlife Conservation Award\" in 2000"
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 54,
+        "question": {
+            "type": "text",
+            "content": "Three of the following statements pertaining to non-biodegradable plastics indicate their implications on animals, plants and our surroundings. Choose the odd one out."
+        },
+        "options": [
+            {
+                "text": "Choke the drains"
+            },
+            {
+                "text": "Reduce the fertility of the soil"
+            },
+            {
+                "text": "Plastic bags are durable carry bags"
+            },
+            {
+                "text": "Can prove fatal when eaten by animals"
+            }
+        ],
+        "answer": "Plastic bags are durable carry bags",
+        "solution": {
+            "type": "text",
+            "content": "Nonbiodegradable waste: Decays at a relatively slow pace and keeps on accumulating. The cost of disposal of nonbiodegradable waste is high. Examples: Electronic waste, Plastic waste, Nuclear waste, Artificial rubber, Polymer, Batteries etc. Methods to disposal Recycling, Pyrolysis, Incineration, Sanitary landfills, Encapsulation, etc."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 18/08/2022 (Afternoon)"
+    },
+    {
+        "id": 55,
+        "question": {
+            "type": "text",
+            "content": "In today's scenario, which change seen in human attitude has helped in decreasing the production of non-biodegradable waste to some extent? Group-D 22/08/2022 (Morning)"
+        },
+        "options": [
+            {
+                "text": "Use of Plastic in Packaging"
+            },
+            {
+                "text": "Use and throw attitude"
+            },
+            {
+                "text": "Improvement in lifestyle"
+            },
+            {
+                "text": "Use of jute bags"
+            }
+        ],
+        "answer": "Use of jute bags",
+        "solution": {
+            "type": "text",
+            "content": "Use of jute bags. Non Bio Biodegradable Waste It is defined as a substance that cannot be decomposed or dissolved naturally and acts as a source of pollution. Ways to reduce non-biodegradable wastes: Recycling, Use of Jute bags, Reuse, etc. Biodegradable Waste Any organic α Scanned with OKEN Scanner waste that can be degraded by microorganisms into simpler compounds."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 56,
+        "question": {
+            "type": "text",
+            "content": "Some effects of large production of biodegradable waste are mentioned below. Choose the INCORREСТ statement."
+        },
+        "options": [
+            {
+                "text": "Gives out foul smell"
+            },
+            {
+                "text": "Amount of waste sent to landfills increases"
+            },
+            {
+                "text": "Act as breeding ground for mosquitoes and spread diseases"
+            },
+            {
+                "text": "Replenishment of soil nutrients"
+            }
+        ],
+        "answer": "Amount of waste sent to landfills increases",
+        "solution": {
+            "type": "text",
+            "content": "Micro Bacteria involved in the biodegradation process are Pseudomonas Mycobacterium, Sphingomonas, Bacillus, and Achromobacter. A large amount of microbial flora around the wastes is produced which may increase the risk of communicable diseases in humans, plants, and animals caused by microbes."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 18/08/2022 (Evening)"
+    },
+    {
+        "id": 57,
+        "question": {
+            "type": "text",
+            "content": "In today's scenario, which change seen in human attitude has helped in decreasing the production of non-biodegradable waste to some extent?"
+        },
+        "options": [
+            {
+                "text": "Use of Plastic in Packaging"
+            },
+            {
+                "text": "Use and throw attitude"
+            },
+            {
+                "text": "Improvement in lifestyle"
+            },
+            {
+                "text": "Use of jute bags"
+            }
+        ],
+        "answer": "Use of jute bags",
+        "solution": {
+            "type": "text",
+            "content": "Use of jute bags. Non Bio Biodegradable Waste It is defined as a substance that cannot be decomposed or dissolved naturally and acts as a source of pollution. Ways to reduce non-biodegradable wastes: Recycling, Use of Jute bags, Reuse, etc."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 22/08/2022 (Morning)"
+    },
+    {
+        "id": 58,
+        "question": {
+            "type": "text",
+            "content": "Select the option which contains only biodegradable substances."
+        },
+        "options": [
+            {
+                "text": "Batteries, peels of vegetables, stale bread, glass, metals"
+            },
+            {
+                "text": "Tetra pack, metals, leather, stale biscuits, fruits"
+            },
+            {
+                "text": "Glass, metals, egg shells, paper, tetra pack"
+            },
+            {
+                "text": "Egg shells, paper, stale biscuits, peels of fruits, vegetables"
+            }
+        ],
+        "answer": "Egg shells, paper, stale biscuits, peels of fruits, vegetables",
+        "solution": {
+            "type": "text",
+            "content": "Biodegradable substances can be easily decomposed by naturally occurring agents such as oxygen, water, ultraviolet rays etc. Examples: Peels of vegetables, Stale bread, Stale biscuits, Egg shells, Peels of fruits, Paper, Fruits."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 24/08/2022 (Afternoon)"
+    },
+    {
+        "id": 59,
+        "question": {
+            "type": "text",
+            "content": "We should refrain from using plastics because"
+        },
+        "options": [
+            {
+                "text": "enzymes are unable to break down plastics"
+            },
+            {
+                "text": "plastics are water soluble"
+            },
+            {
+                "text": "plastics are not long-lasting"
+            },
+            {
+                "text": "plastics are easily degraded by insects"
+            }
+        ],
+        "answer": "enzymes are unable to break down plastics",
+        "solution": {
+            "type": "text",
+            "content": "Plastics pollute our land and water, made from non-renewable resources, composed of very resistant synthetic polymers that never break down, harmful to wildlife and marine life & human health, not easy to recycle. Plastics are a wide range of synthetic or semi-synthetic materials that use polymers as a main ingredient. They are lightweight, durable, flexible, and inexpensive to produce. Most plastics contain organic polymers."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 25/08/2022 (Morning)"
+    },
+    {
+        "id": 60,
+        "question": {
+            "type": "text",
+            "content": "Recycling is one of the best methods to decrease the amount of waste generated. Some of its benefits are given below. Which of the following is NOT an advantage of recycling?"
+        },
+        "options": [
+            {
+                "text": "It is of economic benefit, as it creates jobs."
+            },
+            {
+                "text": "It reduces waste sent to landfills."
+            },
+            {
+                "text": "It is expensive and uses energy."
+            },
+            {
+                "text": "It prevents pollution."
+            }
+        ],
+        "answer": "It is expensive and uses energy.",
+        "solution": {
+            "type": "text",
+            "content": "Recycling: The process of collection and conversion of waste into useful and new products. Benefits: in reducing air, land, water and soil pollution, in conserving natural resources and saving energy."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 26/08/2022 (Morning)"
+    },
+    {
+        "id": 61,
+        "question": {
+            "type": "text",
+            "content": "The first step in the process of managing waste is segregation. Choose the wrong option regarding segregation of waste into different categories."
+        },
+        "options": [
+            {
+                "text": "It increases the amount of  waste going to the landfill."
+            },
+            {
+                "text": "Segregation helps in reducing the expenditure incurred on disposal of waste."
+            },
+            {
+                "text": "This is helpful in identifying items that can be sold to generate revenue."
+            },
+            {
+                "text": "It saves items from being thrown away that are suitable for recycling."
+            }
+        ],
+        "answer": "It increases the amount of  waste going to the landfill.",
+        "solution": {
+            "type": "text",
+            "content": "Waste segregation can be defined as the process of identifying, classifying, dividing and sorting of garbage and waste products in an effort to reduce, reuse and recycle materials. It decreases the amount of waste going to landfill. Segregation helps in reducing the expenditure incurred on disposal of waste. This is helpful in identifying items that can be sold to generate revenue. It saves items from being thrown away that are suitable for recycling."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 26/08/2022 (Evening)"
+    },
+    {
+        "id": 62,
+        "question": {
+            "type": "text",
+            "content": "can be used for composting."
+        },
+        "options": [
+            {
+                "text": "E-waste"
+            },
+            {
+                "text": "Kitchen waste"
+            },
+            {
+                "text": "Medical waste"
+            },
+            {
+                "text": "Industrial waste"
+            }
+        ],
+        "answer": "Kitchen waste",
+        "solution": {
+            "type": "text",
+            "content": "Kitchen Waste composting is the act of using kitchen waste and food scraps to create compost beneficial for enriching soil and growing plants and crops. Compost A mixture of ingredients used as plant fertilizer and to improve soil's physical, chemical and biological properties. It is commonly prepared by decomposing plant, food waste, recycling organic materials and manure."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 29/08/2022 (Morning)"
+    },
+    {
+        "id": 63,
+        "question": {
+            "type": "text",
+            "content": "We, on an individual basis, can help to reduce the production of waste by following certain practices. Which of the following will however cause an increase in waste? Group-D 29/08/2022 (Afternoon)"
+        },
+        "options": [
+            {
+                "text": "Donating used goods."
+            },
+            {
+                "text": "Using cloth or jute bags for shopping."
+            },
+            {
+                "text": "Using tin foil, plastic wraps, paper towels and plastic zip bags."
+            },
+            {
+                "text": "Reusing empty containers and bottles."
+            }
+        ],
+        "answer": "Using tin foil, plastic wraps, paper towels and plastic zip bags.",
+        "solution": {
+            "type": "text",
+            "content": "Non-Bio Biodegradable Waste- It is defined as a substance  that cannot be decomposed or dissolved naturally and acts as a source of pollution. Ways to reduce non-biodegradable wastes: Recycling, Use of Jute bags, Reuse, etc. Biodegradable Waste Any organic waste that can be degraded by microorganisms into simpler compounds."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 64,
+        "question": {
+            "type": "text",
+            "content": "A particular locality is focusing on three R's-Recycle, Reuse and Reduce- to decrease the production of non biodegradable waste. What will be the correct sequence to follow them?"
+        },
+        "options": [
+            {
+                "text": "Recycle, Reuse, Reduce"
+            },
+            {
+                "text": "Reduce, Reuse, Recycle"
+            },
+            {
+                "text": "Recycle, Reduce, Reuse"
+            },
+            {
+                "text": "Reuse, Recycle, Reduce"
+            }
+        ],
+        "answer": "Reduce, Reuse, Recycle",
+        "solution": {
+            "type": "text",
+            "content": "Reduce The best way to manage waste is not to produce it. This can be done by shopping carefully, Reuse - It makes economic and environmental sense to reuse products. Example: Reusing soft drink bottles. Recycle - This is a series of steps that takes a α Scanned with OKEN Scanner used material and processes, remakes, and sells it as a new product."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 29/08/2022 (Evening)"
+    },
+    {
+        "id": 65,
+        "question": {
+            "type": "text",
+            "content": "Which of the following groups includes ALL biodegradable substances? Group -D 30/08/2022 (Afternoon)"
+        },
+        "options": [
+            {
+                "text": "Flower, wood, batteries"
+            },
+            {
+                "text": "Grass, wood, orange peels"
+            },
+            {
+                "text": "Grass, plastic, flower"
+            },
+            {
+                "text": "Vegetable peel, wood, rubber"
+            }
+        ],
+        "answer": "Grass, wood, orange peels",
+        "solution": {
+            "type": "text",
+            "content": "Grass, wood, orange peels. Biodegradable Substances Substances which can be decomposed and broken down to simpler substances by microorganisms acting on it. Example human and animal waste, plant products, dried leaves, grass, fruits, flowers, food wastes, wood and other remains of the death of living creatures. Non -biodegradable substances Those substances which cannot be acted upon by microorganisms and are not broken down into simpler substances. Example - Glass, Plastic, Batteries, etc."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 66,
+        "question": {
+            "type": "text",
+            "content": "Which of the following practices is least harmful in the conservation of forests and wildlife?"
+        },
+        "options": [
+            {
+                "text": "Converting forests to plantations"
+            },
+            {
+                "text": "Using forests as a source of raw material for industries"
+            },
+            {
+                "text": "Building roads and dams in forested areas"
+            },
+            {
+                "text": "Collecting non-timber forest produce"
+            }
+        ],
+        "answer": "Collecting non-timber forest produce",
+        "solution": {
+            "type": "text",
+            "content": "Act related to forest and wildlife conservation- Wild Life (Protection) Act, 1972, Forest Conservation Act (FCA 1980). International Day of Forest 21 March, World Wildlife Day 3 March, World wildlife conservation day 4 December. International Union for Conservation of Nature (IUCN) - HQ (Gland, Switzerland)."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 01/09/2022 (Afternoon)"
+    },
+    {
+        "id": 67,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements is correct?"
+        },
+        "options": [
+            {
+                "text": "Biodegradable substances persist for a long time in the environment."
+            },
+            {
+                "text": "Enzymes, bacteria or other saprophytes act on biodegradable substances and decompose them."
+            },
+            {
+                "text": "Non-biodegradable substances help the various members of the ecosystem."
+            },
+            {
+                "text": "Non-biodegradable substances cannot be decomposed by physical processes like heat and pressure."
+            }
+        ],
+        "answer": "Enzymes, bacteria or other saprophytes act on biodegradable substances and decompose them.",
+        "solution": {
+            "type": "text",
+            "content": "Biodegradable wastes are those substances that degrade or break down naturally. The rate of decomposition of biodegradable waste is fast. Microorganisms like bacteria, enzymes, fungi, and others have the capability of decomposing the material into the soil."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 02/09/2022 (Morning)"
+    },
+    {
+        "id": 68,
+        "question": {
+            "type": "text",
+            "content": "Which of the following wastes CANNOT be degraded by bacteria or other saprophytes?"
+        },
+        "options": [
+            {
+                "text": "Paper"
+            },
+            {
+                "text": "Leather"
+            },
+            {
+                "text": "Excreta"
+            },
+            {
+                "text": "Plastic"
+            }
+        ],
+        "answer": "Plastic",
+        "solution": {
+            "type": "text",
+            "content": "Plastic. Non-biodegradable wastes cannot be degraded by bacteria or other saprophytes. Those materials which cannot be broken down or decomposed into the soil by microorganisms and natural agents are labeled as non-biodegradable."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 02/09/2022 (Evening)"
+    },
+    {
+        "id": 69,
+        "question": {
+            "type": "text",
+            "content": "How can paper waste be reduced? I. By discarding II. By recycling III. By reusing IV. By burning"
+        },
+        "options": [
+            {
+                "text": "Il and III only"
+            },
+            {
+                "text": "III and IV only"
+            },
+            {
+                "text": "only I and II"
+            },
+            {
+                "text": "only I and IV"
+            }
+        ],
+        "answer": "Il and III only",
+        "solution": {
+            "type": "text",
+            "content": "Il and III only. 5 R's of Waste Management: refuse, reduce, reuse, repurpose and recycle."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 06/09/2022 (Afternoon)"
+    },
+    {
+        "id": 70,
+        "question": {
+            "type": "text",
+            "content": "What are the substances which can be broken down by biological processes called?"
+        },
+        "options": [
+            {
+                "text": "non-biodegradable substances"
+            },
+            {
+                "text": "toxic substances"
+            },
+            {
+                "text": "biodegradable material"
+            },
+            {
+                "text": "chemical substances"
+            }
+        ],
+        "answer": "biodegradable material",
+        "solution": {
+            "type": "text",
+            "content": "Biodegradable material: Waste materials that can be broken down into simpler, non-toxic substances by microorganisms. Examples animal waste, waste from vegetables, cattle dung, etc."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 06/09/2022 (Evening)"
+    },
+    {
+        "id": 71,
+        "question": {
+            "type": "text",
+            "content": "Which of the following biodegradable substances? Group-D 08/09/2022 (Afternoon)"
+        },
+        "options": [
+            {
+                "text": "Paper and cotton"
+            },
+            {
+                "text": "Plastic goods"
+            },
+            {
+                "text": "Chemicals"
+            },
+            {
+                "text": "Industrial wastes are"
+            }
+        ],
+        "answer": "Paper and cotton",
+        "solution": {
+            "type": "text",
+            "content": "Paper and cotton. Biodegradable material includes wood, wool, paper, cotton, animal waste or any other organic material which can be broken down into carbondioxide, methane or any other simple organic molecules with the help of micro-organisms. Non Biodegradable materials are substances that cannot bе decomposed or broken down by microorganisms and other living organisms rather leading to pollution. Examples Plastic bags, cans, bottles, chemicals, etc."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 72,
+        "question": {
+            "type": "text",
+            "content": "How can we reduce the use of non-biodegradable products? Group-D 09/09/2022 (Morning)"
+        },
+        "options": [
+            {
+                "text": "By packing milk and water in polybags"
+            },
+            {
+                "text": "By using eco-friendly packaging"
+            },
+            {
+                "text": "Eatables like biscuits etc., can be bought packed in plastic tins and wrappers"
+            },
+            {
+                "text": "Fruits and vegetables can be bought packed in beautiful polystyrene and plastic packaging"
+            }
+        ],
+        "answer": "By using eco-friendly packaging",
+        "solution": {
+            "type": "text",
+            "content": "By using eco-friendly packaging. Non-Bio Biodegradable Waste- It is defined as a substance that cannot be decomposed or dissolved naturally and acts as a source of pollution. Ways to reduce non-biodegradable wastes: Recycling, Use of Jute bags, Reuse, etc. Biodegradable Waste- Any organic waste that can be degraded by microorganisms into simpler compounds."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 73,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the best definition of 'biodegradable'? Group -D 13/09/2022 (Morning)"
+        },
+        "options": [
+            {
+                "text": "Capable of depolymerization into carbon dioxide and water by the action of enzymes"
+            },
+            {
+                "text": "A suitable and sufficient nutrient source for growth to saprophytic organisms"
+            },
+            {
+                "text": "Capable of being broken down into harmless products by the action of microbes"
+            },
+            {
+                "text": "Easily digested into smaller molecules by action of bacteria or bacterial enzymes"
+            }
+        ],
+        "answer": "Capable of being broken down into harmless products by the action of microbes",
+        "solution": {
+            "type": "text",
+            "content": "Biodegradation A product is biodegradable when it can be decomposed by biological organisms (bacteria, fungi, algae) in a favourable environment (temperature, humidity, light, oxygen). Types of Biodegradation - Anaerobic (without oxygen) or Aerobic (in the presence of oxygen)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 74,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is the most environment-friendly method of disposing of organic wastes?"
+        },
+        "options": [
+            {
+                "text": "Composting"
+            },
+            {
+                "text": "Incineration"
+            },
+            {
+                "text": "Development of value-added products"
+            },
+            {
+                "text": "Landfills α Scanned with OKEN Scanner"
+            }
+        ],
+        "answer": "Composting",
+        "solution": {
+            "type": "text",
+            "content": "Composting is a biological method for the decomposition of organic wastes. It process - can be done either in presence of oxygen or in absence of oxygen. Landfills - Garbage is basically spread out in thin layers, compressed, and covered with soil or plastic foam. Incineration - Burning of solid wastes at high temperatures. Shredding Process of size reduction of waste material."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 14/09/2022 (Evening)"
+    },
+    {
+        "id": 75,
+        "question": {
+            "type": "text",
+            "content": "What is the environmental loss if many trees are cut in a forest to get wood?"
+        },
+        "options": [
+            {
+                "text": "It will lead to soil erosion and degradation."
+            },
+            {
+                "text": "It will let in more sunlight to let smaller plants grow."
+            },
+            {
+                "text": "It will provide open space for other trees to grow."
+            },
+            {
+                "text": "It will give livelihood to many poor people."
+            }
+        ],
+        "answer": "It will lead to soil erosion and degradation.",
+        "solution": {
+            "type": "text",
+            "content": "Trees play a crucial role in maintaining soil health and preventing erosion. The roots of trees help to bind the soil and prevent it from being washed away by rain or blown away by wind. Cutting trees destroys the habitat of animals and birds, causes floods and fires, affects the water cycle, destroys the flora and fauna, increases in carbon dioxide, thereby increasing global warming."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 15/09/2022 (Morning)"
+    },
+    {
+        "id": 76,
+        "question": {
+            "type": "text",
+            "content": "Joint forest management is example of which of the following?"
+        },
+        "options": [
+            {
+                "text": "Participatory approach"
+            },
+            {
+                "text": "Single man dominance"
+            },
+            {
+                "text": "Political equality"
+            },
+            {
+                "text": "Economic equality an"
+            }
+        ],
+        "answer": "Participatory approach",
+        "solution": {
+            "type": "text",
+            "content": "Participatory approach. Joint forest management (JFM) was introduced by the Government of India in the 1980s which aimed at the combined effort of the forest department and the local people to manage and protect the forests."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 15/09/2022 (Morning)"
+    },
+    {
+        "id": 77,
+        "question": {
+            "type": "text",
+            "content": "The women who started the Chipko Andolan in the 1970s wanted to save Group-D 15/09/2022 (Evening)"
+        },
+        "options": [
+            {
+                "text": "An endangered resource"
+            },
+            {
+                "text": "A non-biodegradable resource"
+            },
+            {
+                "text": "An extremely rare resource"
+            },
+            {
+                "text": "A renewable resource"
+            }
+        ],
+        "answer": "A renewable resource",
+        "solution": {
+            "type": "text",
+            "content": "A renewable resource. Chipko movement (1973) in Chamoli, Uttarakhand. Members: Sunderlal Bahuguna, Comrade Govind Singh Rawat, Chandiprasad Bhatt and Mrs. Gaura Devi. Environmental movement in India: The Silent Valley Movement (Kerala, 1978), Bishnoi Movement (Amrita Devi Bishnoi, Rajasthan- in first half of 18th century), Appiko Movement (Panduranga Hegde, Karnataka-1983), Narmada Andolan (Medha Patkar, Gujarat-1985)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 78,
+        "question": {
+            "type": "text",
+            "content": "What is meant by biodegradable? Group-D 15/09/2022 (Evening) non"
+        },
+        "options": [
+            {
+                "text": "Substances that are not broken down by chemical processes"
+            },
+            {
+                "text": "Substances that are broken down by biological processes"
+            },
+            {
+                "text": "Substances that are not broken down by biological processes"
+            },
+            {
+                "text": "Substances that are broken down by biochemical reactions."
+            }
+        ],
+        "answer": "Substances that are not broken down by biological processes",
+        "solution": {
+            "type": "text",
+            "content": "Non biodegradable: These substances may be inert and simply persist in the environment for a long time or may harm the various members of the ecosystem. Example: Plastics, metals concrete, Nylon etc. Bio-Degradable: Substances that are broken down by biological processes (bacteria) are said to be biodegradable. Example: all living plants and animals, vegetables and fruits."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 79,
+        "question": {
+            "type": "text",
+            "content": "Different-coloured dustbins are provided by some municipalities in some cities and towns. The blue one is used for collecting"
+        },
+        "options": [
+            {
+                "text": "medical wastes"
+            },
+            {
+                "text": "agricultural wastes"
+            },
+            {
+                "text": "reusable wastes"
+            },
+            {
+                "text": "kitchen wastes"
+            }
+        ],
+        "answer": "reusable wastes",
+        "solution": {
+            "type": "text",
+            "content": "Reusable wastes. In some cities and towns, municipalities provide separate dustbins to collect the two types of waste. Usually one is blue and the other is green. The blue bin is for materials that can be reused such as plastic, metal and glass. The Green bins are for collecting kitchen and other plant or animal waste. This type of waste rots completely when buried in the soil."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 17/09/2022 (Afternoon)"
+    },
+    {
+        "id": 80,
+        "question": {
+            "type": "text",
+            "content": "Biodegradable plastics are the new industry for export as well as marketing. Some advantages of these plastics are mentioned below. Which option is NOT an advantage?"
+        },
+        "options": [
+            {
+                "text": "Less greenhouse emissions"
+            },
+            {
+                "text": "Cannot be composted"
+            },
+            {
+                "text": "Consume less energy for manufacture"
+            },
+            {
+                "text": "Easy to recycle"
+            }
+        ],
+        "answer": "Cannot be composted",
+        "solution": {
+            "type": "text",
+            "content": "Cannot be composted. Biodegradation A product is biodegradable when it can bе decomposed by biological organisms (bacteria, fungi, algae) in a favourable environment (temperature, humidity, light, oxygen). Types of Biodegradation - Anaerobic (without oxygen) or Aerobic (in the presence of oxygen). Biodegradable plastics lessen the amount of greenhouse gas emissions."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 17/09/2022 (Evening)"
+    },
+    {
+        "id": 81,
+        "question": {
+            "type": "text",
+            "content": "Which of the following wastes cause least damage to the environment? Group-D 18/09/2022 (Morning)"
+        },
+        "options": [
+            {
+                "text": "Chemical pesticides"
+            },
+            {
+                "text": "Paper cups"
+            },
+            {
+                "text": "Polythene bags"
+            },
+            {
+                "text": "Plastic bottles"
+            }
+        ],
+        "answer": "Paper cups",
+        "solution": {
+            "type": "text",
+            "content": "Paper cups. Because paper is a biodegradable substance. Plastic bags, which are made of polythene, cause pollution all its life - from manufacturing to disposal. Plastic bottles can break down into miniscule particles called microplastics, which make their way into our food and water, posing a potential risk to human health. Advantages of paper cups Recyclable, Varieties, Safe, Light Weight."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 82,
+        "question": {
+            "type": "text",
+            "content": "In which cell should iron be placed in the following table? Biodegradable Non- biodegradable Recyclable A B C D Non recyclable"
+        },
+        "options": [
+            {
+                "text": "Cell D"
+            },
+            {
+                "text": "Cell C"
+            },
+            {
+                "text": "Cell A"
+            },
+            {
+                "text": "Cell B"
+            }
+        ],
+        "answer": "Cell B",
+        "solution": {
+            "type": "text",
+            "content": "Cell B. Recyclable - reusing the old substance with some changes rather than using a new one. Biodegradable Those substances that can be decomposed on earth without any harm. Example - Animal waste and plant waste."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 18/09/2022 (Morning)"
+    },
+    {
+        "id": 83,
+        "question": {
+            "type": "text",
+            "content": "Which of the following are NOT considered as biomedical wastes?"
+        },
+        "options": [
+            {
+                "text": "Industrial wastes"
+            },
+            {
+                "text": "Medical wastes"
+            },
+            {
+                "text": "Animal wastes"
+            },
+            {
+                "text": "Food wastes"
+            }
+        ],
+        "answer": "Food wastes",
+        "solution": {
+            "type": "text",
+            "content": "Food wastes. Categories of Biomedical Waste: Yellow Colour Human and Animal Anatomical Waste, Soiled Waste, Chemical Waste, Microbiology, Biotechnology and other clinical laboratory waste. Red Colour intravenous tubes and sets, catheters, α Scanned with OKEN Scanner urine bags. White Colour Needles, syringes with fixed needles, scalpels, blades. Blue Colour - Broken or discarded and contaminated glass including medicine vials and ampoules except those contaminated with cytotoxic wastes."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 18/09/2022 (Afternoon)"
+    },
+    {
+        "id": 84,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements is correct? Group - D 20/09/2022 (Morning)"
+        },
+        "options": [
+            {
+                "text": "Plastics and paper are biodegradable"
+            },
+            {
+                "text": "Plastic cannot be recycled"
+            },
+            {
+                "text": "Paper cannot be recycled"
+            },
+            {
+                "text": "Paper is biodegradable"
+            }
+        ],
+        "answer": "Paper is biodegradable",
+        "solution": {
+            "type": "text",
+            "content": "Paper is biodegradable. Biodegradable materials Substances that can be decomposed or broken down by microorganisms and other living organisms. Examples Wood, cooking waste, Tissue paper, Leather. Non biodegradable materials a kind of substance which cannot be broken down by natural organisms and acts as a source of pollution. Examples Metals, poisonous chemicals, pesticides."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 85,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements is true about a non-biodegradable substance? Group -D 20/09/2022 (Afternoon)"
+        },
+        "options": [
+            {
+                "text": "Non-biodegradable substances do not harm the members of the ecosystem."
+            },
+            {
+                "text": "Non-biodegradable substances take less time for decomposition."
+            },
+            {
+                "text": "Non-biodegradable materials can be decomposed quickly with the help of wicks."
+            },
+            {
+                "text": "Non-biodegradable substances persist in the environment.."
+            }
+        ],
+        "answer": "Non-biodegradable substances persist in the environment..",
+        "solution": {
+            "type": "text",
+            "content": "Non-biodegradable substances are incapable of being broken into smaller decomposable pieces by the action of bacteria, fungi etc. Examples: Plastic, polythenes, plastic bottles, and other plastic-related products, Glass materials, Metals, batteries, A large number of medical wastes. Biodegradable substances are those that decompose with time. Example - Animal waste."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 86,
+        "question": {
+            "type": "text",
+            "content": "What is the best method of disposal of hazardous waste?"
+        },
+        "options": [
+            {
+                "text": "Landfills"
+            },
+            {
+                "text": "Ocean dumping"
+            },
+            {
+                "text": "Incineration"
+            },
+            {
+                "text": "Composting"
+            }
+        ],
+        "answer": "Incineration",
+        "solution": {
+            "type": "text",
+            "content": "Incineration -  Waste treatment process that involves the combustion of substances contained in waste materials. Landfills are low-lying areas that are used for the disposal of waste materials. Composting denotes an aerobic method of decomposing organic solid waste. Ocean dumping Any deliberate disposal of wastes or other matter from vessels, aircraft, platforms or other man-made structures at sea."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 22/09/2022 (Afternoon)"
+    },
+    {
+        "id": 87,
+        "question": {
+            "type": "text",
+            "content": "What does 'segregation at source' mean in terms of non-biodegradable wastes?"
+        },
+        "options": [
+            {
+                "text": "People using non-biodegradable items should not add biodegradable items to these items."
+            },
+            {
+                "text": "Municipalities should have separate disposal sites for non-biodegradable and biodegradable waste."
+            },
+            {
+                "text": "Factories producing non-biodegradable consumer items should not mix them with biodegradable material."
+            },
+            {
+                "text": "Households should separate non-biodegradable items from biodegradable items in the trash."
+            }
+        ],
+        "answer": "Households should separate non-biodegradable items from biodegradable items in the trash.",
+        "solution": {
+            "type": "text",
+            "content": "Segregation at Source The process of separation of solid waste into four groups i.e., organic, inorganic, recyclables and hazardous wastes."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 26/09/2022 (Morning)"
+    },
+    {
+        "id": 88,
+        "question": {
+            "type": "text",
+            "content": "Which of the following substances are not biodegradable?"
+        },
+        "options": [
+            {
+                "text": "A leather belt and a canvas shoe"
+            },
+            {
+                "text": "Glass dish and plastic cover"
+            },
+            {
+                "text": "A woolen blanket and a jute rоpе"
+            },
+            {
+                "text": "A cardboard box and a paper bag"
+            }
+        ],
+        "answer": "Glass dish and plastic cover",
+        "solution": {
+            "type": "text",
+            "content": "Biodegradable waste are materials that decompose naturally by biotic (bacteria, fungi, plants, animals etc.) factors. Examples - vegetable peels, wood, paper etc."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 26/09/2022 (Afternoon)"
+    },
+    {
+        "id": 89,
+        "question": {
+            "type": "text",
+            "content": "In the following table, where would a broken plastic bucket be placed? Recyclable Non- recyclable Safely combustible A C Not safely combustible B D"
+        },
+        "options": [
+            {
+                "text": "Cell A or B"
+            },
+            {
+                "text": "Cell C or D"
+            },
+            {
+                "text": "Cell B or D"
+            },
+            {
+                "text": "Cell A or C"
+            }
+        ],
+        "answer": "Cell C or D",
+        "solution": {
+            "type": "text",
+            "content": "Cell B or D. The materials that can be recycled items are glass, aluminum, plastic water bottles, metal scrap, different kinds of paper, electronics, computers, cellular phones. Non-recyclable items Garbage, Food waste, Food-tainted items, Ceramics and kitchenware, Windows and mirrors, Plastic wrap, Packing peanuts and bubble wrap, Wax boxes."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 26/09/2022 (Evening)"
+    },
+    {
+        "id": 90,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is non-biodegradable? Group-D 30/09/2022 (Morning)"
+        },
+        "options": [
+            {
+                "text": "Coffee powder"
+            },
+            {
+                "text": "Cotton"
+            },
+            {
+                "text": "Wool"
+            },
+            {
+                "text": "Nylon"
+            }
+        ],
+        "answer": "Nylon",
+        "solution": {
+            "type": "text",
+            "content": "Nylon. Non-biodegradable - Cannot be broken down easily by biotic or abiotic means and needs stronger chemical treatment to dispose off. Examples Glass, Plastic, Metals, Pesticides, Fibers, E-waste, Artificial rubber, Artificial polymers, etc. Biodegradable Decomposed or broken down by microorganisms and other living organisms. Examples Paper, Food waste, Human waste, Dead animals and plants, Hospital Waste, etc."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 91,
+        "question": {
+            "type": "text",
+            "content": "What is the best method to dispose of hospital waste?"
+        },
+        "options": [
+            {
+                "text": "Wash before burning"
+            },
+            {
+                "text": "Sterilise and separate metals from cotton"
+            },
+            {
+                "text": "Bury it in deep trenches"
+            },
+            {
+                "text": "Segregate and recycle"
+            }
+        ],
+        "answer": "Sterilise and separate metals from cotton",
+        "solution": {
+            "type": "text",
+            "content": "Biomedical waste or hospital waste is any kind of waste containing infectious (or potentially infectious) materials. Incineration is a waste treatment process that involves the combustion of substances contained in waste materials. Other biomedical waste disposal methods Microwave irradiation, Land disposal, Chemical disinfection, etc."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 28/09/2022 (Afternoon)"
+    },
+    {
+        "id": 92,
+        "question": {
+            "type": "text",
+            "content": "The ideal waste disposal method in case of metal is:"
+        },
+        "options": [
+            {
+                "text": "reusing"
+            },
+            {
+                "text": "recycling"
+            },
+            {
+                "text": "composting"
+            },
+            {
+                "text": "incineration"
+            }
+        ],
+        "answer": "recycling",
+        "solution": {
+            "type": "text",
+            "content": "Recycling. Composting is a controlled, aerobic (oxygen-required) process that converts organic materials into a nutrient-rich soil amendment or mulch through natural decomposition. Reusing helps sustain the environment for future generations. Reduces the amount of waste that will need to bе recycled or sent to landfills and incinerators. Both combustion and incineration refer to burning, but the application of the term is different. The term combustion refers to a chemical reaction, while incineration refers to the destruction of material such as waste. α Scanned with OKEN Scanner"
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 06/10/2022 (Morning)"
+    },
+    {
+        "id": 93,
+        "question": {
+            "type": "text",
+            "content": "What is the primary difference between domestic and industrial solid waste?"
+        },
+        "options": [
+            {
+                "text": "The former is smaller in quantity."
+            },
+            {
+                "text": "The latter is seasonal in nature."
+            },
+            {
+                "text": "The latter is a source of pollutants."
+            },
+            {
+                "text": "The former is heterogeneous in composition."
+            }
+        ],
+        "answer": "The former is heterogeneous in composition.",
+        "solution": {
+            "type": "text",
+            "content": "Domestic waste is produced in the home. Examples organic, toxic, recyclable, and soiled. Industrial waste is produced by industries, manufacturing processes, and resource extraction. E-waste needs to be brought to а specialised recycling centre not placed in a kerbside bin. Landfill site An area of land used to dump domestic waste."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 06/10/2022 (Afternoon)"
+    },
+    {
+        "id": 94,
+        "question": {
+            "type": "text",
+            "content": "Match the columns. Group-l I. Solid waste II. Organic waste III. Hospital waste RRC Group D Group-II A. Composting B. Open dumping C. Incineration 07/10/2022 (Morning)"
+        },
+        "options": [
+            {
+                "text": "I-B; II-A; III-C"
+            },
+            {
+                "text": "I-B; II-C; III-A"
+            },
+            {
+                "text": "I-C; II-B; III-А"
+            },
+            {
+                "text": "I-C; II-A; III-B"
+            }
+        ],
+        "answer": "I-B; II-A; III-C",
+        "solution": {
+            "type": "text",
+            "content": "I-B; II-A; III-С."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 95,
+        "question": {
+            "type": "text",
+            "content": "When we consider biodegradable substances, we see that the common property is that"
+        },
+        "options": [
+            {
+                "text": "they are all water-soluble"
+            },
+            {
+                "text": "they are all plant products"
+            },
+            {
+                "text": "they are all biological in origin"
+            },
+            {
+                "text": "they are not toxic"
+            }
+        ],
+        "answer": "they are all biological in origin",
+        "solution": {
+            "type": "text",
+            "content": "A biodegradable substance or material is one that may quickly break down by bacteria or any other natural organisms without contributing to pollution. Examples: leftover foodstuffs, kitchen waste like fruits and vegetable peels, etc."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 11/10/2022 (Afternoon)"
+    },
+    {
+        "id": 96,
+        "question": {
+            "type": "text",
+            "content": "The best practice that is involved in biological waste disposal is:"
+        },
+        "options": [
+            {
+                "text": "incineration"
+            },
+            {
+                "text": "reusing"
+            },
+            {
+                "text": "recycling"
+            },
+            {
+                "text": "open dumping"
+            }
+        ],
+        "answer": "incineration",
+        "solution": {
+            "type": "text",
+            "content": "Incineration. The process of burning hazardous materials at temperatures high enough to destroy contaminants."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 11/10/2022 (Evening)"
+    },
+    {
+        "id": 97,
+        "question": {
+            "type": "text",
+            "content": "What is the colour code of the dustbin in which non-biodegradable wastes are kept? RRB NTPC CВТ - 1 (08/03/2021) Evening"
+        },
+        "options": [
+            {
+                "text": "Green"
+            },
+            {
+                "text": "Red"
+            },
+            {
+                "text": "Blue"
+            },
+            {
+                "text": "Yellow"
+            }
+        ],
+        "answer": "Blue",
+        "solution": {
+            "type": "text",
+            "content": "Blue. Types of dustbins: Blue Dustbin (contains recyclable and non-biodegradable wastes) - It is used to collect dry and recyclable wastes. Example Newspapers, paints, aerosol cans, lights, broken bulbs, plastic bottles, gift wrappers. Red Dustbin (contains non-recyclable and non-biodegradable wastes) It is used to collect biomedical wastes. Example Needles, surgical knives, cotton dressings, pop casts, tissues, sanitary napkins etc. Green Dustbin (contains recyclable and biodegradable waste)It is used to collect organic and wet wastes. Example - fruits, vegetables and peels, coconut shells, tea bags etc."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 98,
+        "question": {
+            "type": "text",
+            "content": "What was the main objective of the agreement made by UNEP in 1987?"
+        },
+        "options": [
+            {
+                "text": "Preventing water pollution"
+            },
+            {
+                "text": "Use of more CFCs in fire extinguishers"
+            },
+            {
+                "text": "stop the emission of greenhouse gases"
+            },
+            {
+                "text": "Stabilizing the production of CFCs at the level of 1986"
+            }
+        ],
+        "answer": "Stabilizing the production of CFCs at the level of 1986",
+        "solution": {
+            "type": "text",
+            "content": "Ozone is made up of three atoms of oxygen combined together by the action of ultraviolet (UV) radiation on oxygen gas. The ozone layer protects us from the harmful effects of UV radiation."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 23/08/2022 (Evening)"
+    },
+    {
+        "id": 99,
+        "question": {
+            "type": "text",
+            "content": "The manufacturing of refrigerators that do not release chlorofluorocarbons has been made mandatory throughout the world. How will this help to prevent ozone depletion?"
+        },
+        "options": [
+            {
+                "text": "It will reduce the release of CFCs that react with ozone molecules."
+            },
+            {
+                "text": "It will help convert oxygen molecules into ozone."
+            },
+            {
+                "text": "CFCs will change into ozone molecules."
+            },
+            {
+                "text": "It will reduce the production of CFCs from oxygen molecules."
+            }
+        ],
+        "answer": "It will reduce the release of CFCs that react with ozone molecules.",
+        "solution": {
+            "type": "text",
+            "content": "Chlorofluorocarbons (CFCs) They break up only through sunlight, which divides their molecules, causing the release of chlorine (CI). Once the chlorine is released, it is able to react with ozone (03), to form chlorine monoxide (CIO) and oxygen (O₂) i.e. CI + O3 = CIO + O₂. In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at 1986 levels. Ozone (O,) is a molecule, and is mostly found in the stratosphere, where it protects us from the Sun's harmful ultraviolet (UV) radiation."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 24/08/2022 (Evening)"
+    },
+    {
+        "id": 100,
+        "question": {
+            "type": "text",
+            "content": "What is the product of UV radiations acting on oxygen molecules at higher levels of the atmosphere?"
+        },
+        "options": [
+            {
+                "text": "Ozone"
+            },
+            {
+                "text": "Carbon dioxide"
+            },
+            {
+                "text": "Chlorofluorocarbons"
+            },
+            {
+                "text": "Water"
+            }
+        ],
+        "answer": "Ozone",
+        "solution": {
+            "type": "text",
+            "content": "Ozone (03) is created primarily by ultraviolet radiation in the stratosphere. When high-energy ultraviolet rays strike ordinary oxygen molecules (0), they split the molecule into two single oxygen atoms, known as atomic oxygen. A freed oxygen atom combines with another oxygen molecule to form a molecule of ozone."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 08/09/2022 (Morning)"
+    },
+    {
+        "id": 101,
+        "question": {
+            "type": "text",
+            "content": "When did the ozone levels in the atmosphere start to reduce?"
+        },
+        "options": [
+            {
+                "text": "1995"
+            },
+            {
+                "text": "1965"
+            },
+            {
+                "text": "1980"
+            },
+            {
+                "text": "1990"
+            }
+        ],
+        "answer": "1980",
+        "solution": {
+            "type": "text",
+            "content": "1980. Ozone layer - a region in the earth's stratosphere that contains high concentrations of ozone (03) and protects the earth from the harmful ultraviolet radiations of the sun. Ozone layer depletion gradual thinning of the earth's ozone layer in the upper atmosphere caused due to the release of chemical compounds. September 16- International Day for the Preservation of the Ozone Layer."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 09/09/2022 (Afternoon)"
+    },
+    {
+        "id": 102,
+        "question": {
+            "type": "text",
+            "content": "Where is the ozone hole located?"
+        },
+        "options": [
+            {
+                "text": "Over the North and South Poles"
+            },
+            {
+                "text": "Over industrialised Europe"
+            },
+            {
+                "text": "Over Antarctica"
+            },
+            {
+                "text": "Over the Equator"
+            }
+        ],
+        "answer": "Over Antarctica",
+        "solution": {
+            "type": "text",
+            "content": "Over Antarctica. Ozone (03) is a colorless, reactive oxidant gas that is a major constituent of atmospheric smog. It is present in the stratosphere. Vienna Convention (1985) The first international agreement for the protection of the ozone layer. Ozone layer depletion increases the amount of Ultraviolet rays that reach the Earth's surface. Ozone Depletion Substances Chlorofluorocarbons (CFCs), Halons, Carbon tetrachloride, Methyl chloroform, Hydrofluorocarbons."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 14/09/2022 (Evening)"
+    },
+    {
+        "id": 103,
+        "question": {
+            "type": "text",
+            "content": "What will happen if the ozone layer becomes thinner?"
+        },
+        "options": [
+            {
+                "text": "Temperature of Earth will increase"
+            },
+            {
+                "text": "Amount of surface ozone will α Scanned with OKEN Scanner increase"
+            },
+            {
+                "text": "Cases of skin cancer will increase"
+            },
+            {
+                "text": "The ozone hole will close by redistribution"
+            }
+        ],
+        "answer": "Cases of skin cancer will increase",
+        "solution": {
+            "type": "text",
+            "content": "Cases of skin cancer will Increase. Ozone (O,) layer- Region in the earth's stratosphere that contains high concentrations of ozone and protects the earth from the harmful ultraviolet radiations of the sun."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 16/09/2022 (Afternoon)"
+    },
+    {
+        "id": 104,
+        "question": {
+            "type": "text",
+            "content": "Which of the following chemicals are known to deplete the ozone layer in the atmosphere? Group-D 28/09/2022 (Evening)"
+        },
+        "options": [
+            {
+                "text": "SO"
+            },
+            {
+                "text": "NO"
+            },
+            {
+                "text": "CFCS"
+            },
+            {
+                "text": "CO"
+            }
+        ],
+        "answer": "CFCS",
+        "solution": {
+            "type": "text",
+            "content": "CFCs (Chlorofluorocarbons): Nontoxic, nonflammable chemicals (containing atoms of carbon, chlorine, and fluorine). Uses In the manufacture of aerosol sprays, blowing agents for foams and packing materials, as solvents, and as refrigerants. Other Chemicals causing depletion of Ozone: Halon (Fire extinguishing agents), Carbon tetrachloride (CCI), Methyl chloroform (CH3CCI,), Hydrobromofluorocarbons (HBFCs), Hydrochlorofluorocarbons (HCFCs), Methyl bromide (CH,Br), Bromochloromethane (CH2BrCI)."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 105,
+        "question": {
+            "type": "text",
+            "content": "Ozone at the higher levels of the atmosphere is a product of UV radiation acting on molecule. Group-D 30/09/2022 (Afternoon)"
+        },
+        "options": [
+            {
+                "text": "sulphur dioxide"
+            },
+            {
+                "text": "oxygen"
+            },
+            {
+                "text": "carbon monoxide"
+            },
+            {
+                "text": "carbon dioxide"
+            }
+        ],
+        "answer": "oxygen",
+        "solution": {
+            "type": "text",
+            "content": "Oxygen (0). Ozone (trioxygen): an inorganic molecule, chemical formula O,. It is a pale blue gas with a distinctively pungent smell. Sulfur dioxide (SO,) is a toxic gas responsible for the odor of burnt matches. Carbon monoxide (CO) is a poisonous, flammable gas that is colorless, odorless, tasteless, and slightly less dense than air. Carbon dioxide (CO,) is a chemical compound made up of molecules that each have one carbon atom covalently double bonded to two oxygen atoms."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 106,
+        "question": {
+            "type": "text",
+            "content": "In 1987, the United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze CFC production at _  levels."
+        },
+        "options": [
+            {
+                "text": "1988"
+            },
+            {
+                "text": "1986"
+            },
+            {
+                "text": "1985"
+            },
+            {
+                "text": "1967"
+            }
+        ],
+        "answer": "1986",
+        "solution": {
+            "type": "text",
+            "content": "1986. Montreal Protocol: Finalized in 1987, is a global agreement to protect the stratospheric ozone layer by phasing out the production and consumption of ozone-depleting substances, mainly CFCs. Some important protocols are the Vienna Convention (1985), Kyoto Protocol (1997), Rio Summit (1992), Ramsar Convention (1971) etc."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 30/09/2022 (Evening)"
+    },
+    {
+        "id": 107,
+        "question": {
+            "type": "text",
+            "content": "Which of the following leads to global warming?"
+        },
+        "options": [
+            {
+                "text": "Increase in the levels of atmospheric ozone"
+            },
+            {
+                "text": "Increase in CO₂percentage in the air"
+            },
+            {
+                "text": "Afforestation"
+            },
+            {
+                "text": "Accumulation of plastic waste"
+            }
+        ],
+        "answer": "Increase in CO₂percentage in the air",
+        "solution": {
+            "type": "text",
+            "content": "Increase in CO₂ percentage in the air. Global warming: The earth's average temperature rises due to increased amounts of greenhouse gasses. Greenhouse gasses like carbon dioxide, methane and ozone trap the incoming radiation from the sun. Carbon dioxide (CO,): It is released through human activities such as burning fossil fuels, deforestation, and industrial processes. Cause of global warming: Increase in the levels of atmospheric ozone, Accumulation of plastic waste"
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 09/09/2022 (Evening)"
+    },
+    {
+        "id": 108,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is an example of greenhouse gas?"
+        },
+        "options": [
+            {
+                "text": "Carbon dioxide"
+            },
+            {
+                "text": "Phosphorus pentoxide"
+            },
+            {
+                "text": "Carbon monoxide"
+            },
+            {
+                "text": "Sulphur dioxide"
+            }
+        ],
+        "answer": "Carbon dioxide",
+        "solution": {
+            "type": "text",
+            "content": "Carbon dioxide (CO₂). Greenhouse Gas gas that absorbs and emits radiant energy at thermal infrared wavelength. Examples Methane (CH), Nitrous oxide (N₂O), Ozone (O3), Hydrofluorocarbons, Carbon dioxide. Greenhouse effect The greenhouse effect occurs when greenhouse gases in a planet's atmosphere trap some of the heat radiated from the planet's surface. Phosphorus pentoxide (PO1) It is widely used as a dehydrating agent. of"
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 15/09/2022 (Afternoon)"
+    },
+    {
+        "id": 109,
+        "question": {
+            "type": "text",
+            "content": "Which continent will suffer the most from global warming in terms the number of people affected?"
+        },
+        "options": [
+            {
+                "text": "North America; Arctic ice melt"
+            },
+            {
+                "text": "Antarctica; ocean warming"
+            },
+            {
+                "text": "Asia; oceans will rise."
+            },
+            {
+                "text": "Europe; urban flooding"
+            }
+        ],
+        "answer": "Asia; oceans will rise.",
+        "solution": {
+            "type": "text",
+            "content": "Asia; oceans will rise. Global warming A gradual increase in the earth's temperature generally due to the greenhouse effect caused by increased levels of carbon dioxide, CFCS (Chlorofluorocarbon) and other pollutants. Causes Deforestation, Vehicles, Industrial Development, Volcanoes. Effects Rise in Temperature, Ecosystem imbalance, Loss of Natural Habitat."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 27/09/2022 (Morning)"
+    },
+    {
+        "id": 110,
+        "question": {
+            "type": "text",
+            "content": "Which of the following natural resources do we need to use judiciously to prevent intense global warming?"
+        },
+        "options": [
+            {
+                "text": "Metals and coal"
+            },
+            {
+                "text": "Coal and water"
+            },
+            {
+                "text": "Coal and petroleum"
+            },
+            {
+                "text": "Petroleum and water"
+            }
+        ],
+        "answer": "Coal and petroleum",
+        "solution": {
+            "type": "text",
+            "content": "Coal and petroleum. Global warming is a gradual increase in the earth's temperature generally due to the greenhouse effect caused by increased levels of carbon dioxide, CFC (Chlorofluorocarbon), and other pollutants. It is caused by increased concentrations of greenhouse gasses in the atmosphere. Greenhouse gasses are Carbon dioxide (CO), methane (CH,), nitrous oxide (N₂O) and fluorinated gasses."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 28/09/2022 (Afternoon)"
+    },
+    {
+        "id": 111,
+        "question": {
+            "type": "text",
+            "content": "Which of the following does not occur due to burning of fossil fuels?"
+        },
+        "options": [
+            {
+                "text": "formation of smog"
+            },
+            {
+                "text": "Formation of oxides of nitrogen and sulfur"
+            },
+            {
+                "text": "Acid rain"
+            },
+            {
+                "text": "Depletion of ozone levels in the upper layers of the atmosphere"
+            }
+        ],
+        "answer": "Depletion of ozone levels in the upper layers of the atmosphere",
+        "solution": {
+            "type": "text",
+            "content": "Fossil fuels (Coal, crude oil, and natural gas) are non-renewable resources and are burned to release their energy. Effects of Fossil Fuel Air pollution, water pollution and climate change. Haze It is an atmospheric phenomenon where dust, smoke and dry particles in the air obscure the sky's clarity. Acid Rain Any form of precipitation with acidic components such as sulfuric or nitric acid that fall to the ground from the atmosphere."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 29/09/2022 (Morning)"
+    },
+    {
+        "id": 112,
+        "question": {
+            "type": "text",
+            "content": "What is the main reason for the pollution of River Ganga by coliform bacteria?"
+        },
+        "options": [
+            {
+                "text": "Immersion of unburnt corpses"
+            },
+            {
+                "text": "Chemical effluents from industries"
+            },
+            {
+                "text": "Washing of clothes α Scanned with OKEN Scanner"
+            },
+            {
+                "text": "Untreated sewage dumped in it"
+            }
+        ],
+        "answer": "Untreated sewage dumped in it",
+        "solution": {
+            "type": "text",
+            "content": "Untreated sewage dumped in it. Coliform bacteria made up a large group of bacteria found in soils, on plants, and in surface water. Coliform bacteria, such as fecal coliform, live in the intestines of humans. Their presence in a water supply suggests possible pollution with disease-causing organisms.The total Coliform Bacteria test Used as an indicator of the bacterial safety of our drinking water. Escherichia coli (E. coli) is a type of fecal coliform bacteria commonly found in the intestines of animals and humans."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 23/08/2022 (Morning)"
+    },
+    {
+        "id": 113,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is a naturally occurring source of air pollution?"
+        },
+        "options": [
+            {
+                "text": "Volcanic eruptions"
+            },
+            {
+                "text": "Automobile exhausts"
+            },
+            {
+                "text": "Power plants"
+            },
+            {
+                "text": "Burning firewood"
+            }
+        ],
+        "answer": "Volcanic eruptions",
+        "solution": {
+            "type": "text",
+            "content": "Volcanic eruptions. Substances that contaminate the air are called air pollutants. They can be solid particles such as particulate matter, liquid droplets such as acid rain, or gasses such as carbon monoxide (CO), and sulphur dioxide (SO₂). Naturally occurring pollutants include ash, soot, sulphur dioxide, salt spray, volcanic, combustion gasses, etc. These pollutants are released during volcanic eruptions, forest fires, and grass fires."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 23/08/2022 (Afternoon)"
+    },
+    {
+        "id": 114,
+        "question": {
+            "type": "text",
+            "content": "When coal and petroleum are burnt in insufficient air (oxygen), which harmful gas is produced, causing pollution?"
+        },
+        "options": [
+            {
+                "text": "Carbon dioxide"
+            },
+            {
+                "text": "Oxides of nitrogen"
+            },
+            {
+                "text": "Carbon monoxide"
+            },
+            {
+                "text": "Sulphur dioxide"
+            }
+        ],
+        "answer": "Carbon monoxide",
+        "solution": {
+            "type": "text",
+            "content": "Carbon monoxide (CO) is odorless, colorless gas which is soluble in water, ethanol, benzene, acetic acid, chloroform, ethyl acetate, ammonia solution. Carbon dioxide (CO₂) Heat trapping/ Greenhouse gas, Uses as a refrigerant, in fire extinguishers, foaming rubber and plastics. Sulphur dioxide (SO₂) colourless gas with a rotten egg odor, highly soluble in water. Uses to manufacture sulfuric acid, paper, and food preservatives."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 24/08/2022 (Morning)"
+    },
+    {
+        "id": 115,
+        "question": {
+            "type": "text",
+            "content": "Coal and petroleum have their own advantages and disadvantages. Three of the statements regarding coal and petroleum are similar, Choose the one that is dissimilar. Group-D 01/09/2022 (Morning)"
+        },
+        "options": [
+            {
+                "text": "When burnt in insufficient O produce carbon monoxide, which is a poisonous gas"
+            },
+            {
+                "text": "When burnt produce CO₂,  which causes global warming"
+            },
+            {
+                "text": "When burnt produce oxides of N and S that are poisonous and cause acid. rain"
+            },
+            {
+                "text": "Used to generate electricity in thermal plants and are cost effective"
+            }
+        ],
+        "answer": "Used to generate electricity in thermal plants and are cost effective",
+        "solution": {
+            "type": "text",
+            "content": "Coal is the most abundant fossil fuel on the planet, and widely used as the source of energy in thermal power stations and is a relatively cheap fuel. Petroleum is not used for this purpose. Other three options are true about both of them. Coal accounts for 55% of India's energy needs."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 116,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements is TRUE? Group -D 01/09/2022 (Morning)"
+        },
+        "options": [
+            {
+                "text": "Plastic bags should be used to keep food."
+            },
+            {
+                "text": "We should not place waste in plastic bags and discard them."
+            },
+            {
+                "text": "After use, we should dispose of plastic bags by burning them"
+            },
+            {
+                "text": "Shopkeepers are required to use plastic bags by law."
+            }
+        ],
+        "answer": "We should not place waste in plastic bags and discard them.",
+        "solution": {
+            "type": "text",
+            "content": "Non- Biodegradable Waste- It is defined as a substance that cannot be decomposed or dissolved naturally and acts as a source of pollution. Decrease in non-biodegradable wastes: Recycling, Use of Jute bags, Reuse, etc. Biodegradable Waste- Any organic waste that can be degraded by microorganisms into simpler compounds."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 117,
+        "question": {
+            "type": "text",
+            "content": "Mining causes pollution because of the large amount of:"
+        },
+        "options": [
+            {
+                "text": "sludge"
+            },
+            {
+                "text": "slag"
+            },
+            {
+                "text": "ore"
+            },
+            {
+                "text": "slurry"
+            }
+        ],
+        "answer": "slag",
+        "solution": {
+            "type": "text",
+            "content": "Slag. Slag is the glass-like by-product left over after the desired metal has been separated (i.e., smelted) from its raw ore. Sludge is a semi-solid slurry that is produced from a range of industrial processes, from water treatment, wastewater treatment, or on-site sanitation systems. Slurry is a watery mixture or suspension of insoluble matter. In the manufacture of Portland cement, a mixture of the raw materials with water is called a slurry. Ore is a deposit in Earth's crust of one or more valuable minerals."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 11/10/2022 (Afternoon)"
+    },
+    {
+        "id": 118,
+        "question": {
+            "type": "text",
+            "content": "What is the process by which water seeps into the ground?"
+        },
+        "options": [
+            {
+                "text": "Incineration"
+            },
+            {
+                "text": "Osmosis"
+            },
+            {
+                "text": "Infiltration"
+            },
+            {
+                "text": "Transpiration"
+            }
+        ],
+        "answer": "Osmosis",
+        "solution": {
+            "type": "text",
+            "content": "Infiltration. It is used in both hydrology and soil sciences. Osmosis - The movement of molecules from a region of higher concentration to a lower concentration until the concentrations become equal on either side of the membrane. Incineration It is a waste treatment process that involves the combustion of substances contained in waste materials."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 17/08/2022 (Morning)"
+    },
+    {
+        "id": 119,
+        "question": {
+            "type": "text",
+            "content": "Pesticides, though non biodegradable, are both beneficial and harmful for agriculture. Select the INCORRECT option regarding pesticides."
+        },
+        "options": [
+            {
+                "text": "They reduce plant growth"
+            },
+            {
+                "text": "They reduce chlorophyll content of the plant and hence affect photosynthesis"
+            },
+            {
+                "text": "They alter nitrogen metabolism, so less protein content in plants"
+            },
+            {
+                "text": "They are used to control weeds, pests and plant diseases"
+            }
+        ],
+        "answer": "They are used to control weeds, pests and plant diseases",
+        "solution": {
+            "type": "text",
+            "content": "Pesticides chemical substances used to kill pests. Types Insecticides (insects), Herbicides (plants), Rodenticides (rodents (rats & mice)), Bactericides (bacteria), Fungicides (fungi), Larvicides (larvae)."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 25/08/2022 (Afternoon)"
+    },
+    {
+        "id": 120,
+        "question": {
+            "type": "text",
+            "content": "Which of the following statements regarding fertilizers is FALSE? Group-D 25/08/2022 (Evening)"
+        },
+        "options": [
+            {
+                "text": "Nutrients amounts calculated in advance can be applied"
+            },
+            {
+                "text": "Must be properly stored"
+            },
+            {
+                "text": "Leaches out with rains or irrigation water"
+            },
+            {
+                "text": "Never contaminate air and water"
+            }
+        ],
+        "answer": "Never contaminate air and water",
+        "solution": {
+            "type": "text",
+            "content": "Never contaminate air and water. Fertilizers Applied to soil or to plant tissues to supply plant nutrients, go through leaching (loss of water-soluble plant nutrients from the soil, due to rain and irrigation) easily. Fertilization focuses on three main macronutrients Nitrogen (N), Phosphorus (P), and Potassium (K). Biofertilizers are environment-friendly but chemical fertilizers lead to water, soil and air pollution. Plants absorb the fertilizers through the soil, they can enter the food chain. α Scanned with OKEN Scanner"
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 121,
+        "question": {
+            "type": "text",
+            "content": "What causes migrating birds to travel to far-off lands?"
+        },
+        "options": [
+            {
+                "text": "They fly to get some exercise."
+            },
+            {
+                "text": "They fly to see their family."
+            },
+            {
+                "text": "They fly to change their habitat."
+            },
+            {
+                "text": "They fly to lay eggs."
+            }
+        ],
+        "answer": "They fly to lay eggs.",
+        "solution": {
+            "type": "text",
+            "content": "Bird migration is the regular seasonal movement, often north and south along a flyway, between breeding and wintering grounds. Birds migrate to areas where food is more abundant, there is less competition for nesting space, the climate is milder, or the daylight hours are longer."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 29/08/2022 (Morning)"
+    },
+    {
+        "id": 122,
+        "question": {
+            "type": "text",
+            "content": "The drug Diclofenac is one of the prime reasons for wiping out most of the population in India."
+        },
+        "options": [
+            {
+                "text": "blackbuck"
+            },
+            {
+                "text": "one-horned rhinoceros"
+            },
+            {
+                "text": "vulture"
+            },
+            {
+                "text": "sparrow"
+            }
+        ],
+        "answer": "vulture",
+        "solution": {
+            "type": "text",
+            "content": "Vulture. Diclofenac anti inflammatory drug used to treat cattle, was linked to kidney failure in vultures and a decline in the bird's population. Drugs make their way into the vulture's system as they feed on carcasses. It was banned in 2006."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 08/09/2022 (Morning)"
+    },
+    {
+        "id": 123,
+        "question": {
+            "type": "text",
+            "content": "Which of the following substances magnification? show"
+        },
+        "options": [],
+        "answer": "",
+        "solution": {
+            "type": "text",
+            "content": "Birds and Mammals, Warm-blooded animals (homeotherms) maintain a constant body temperature and they are not affected by environmental temperature changes. Example Bats, pigeons, and rabbits. Poikilotherms (cold blooded animals) cannot maintain constant body temperature and are affected by temperature changes in the environment. Example reptiles, amphibians."
+        },
+        "videoUrl": "",
+        "status": ""
+    },
+    {
+        "id": 124,
+        "question": {
+            "type": "text",
+            "content": "What is a good strategy for serving food, if you have to serve buffet food to around 150 guests in a family function? Note that this means the person has to hold the plate while standing and eating."
+        },
+        "options": [
+            {
+                "text": "Banana leaves on washable and reusable plastic plates"
+            },
+            {
+                "text": "Plastic plates"
+            },
+            {
+                "text": "Metal plates"
+            },
+            {
+                "text": "Banana leaves"
+            }
+        ],
+        "answer": "Banana leaves on washable and reusable plastic plates",
+        "solution": {
+            "type": "text",
+            "content": "Banana leaves on washable and reusable plastic plates"
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 29/09/2022 (Evening)"
+    },
+    {
+        "id": 125,
+        "question": {
+            "type": "text",
+            "content": "Which of the following states or union territories has zero percent forest area?"
+        },
+        "options": [
+            {
+                "text": "Chandigarh"
+            },
+            {
+                "text": "Haryana biological"
+            },
+            {
+                "text": "Goa"
+            },
+            {
+                "text": "Lakshadweep RRC Group D 14/09/2022"
+            },
+            {
+                "text": "Chemical pesticides"
+            },
+            {
+                "text": "Acidic fumes"
+            },
+            {
+                "text": "Greenhouse gases"
+            },
+            {
+                "text": "Carbon soot deposits"
+            }
+        ],
+        "answer": "Chandigarh",
+        "solution": {
+            "type": "text",
+            "content": "Chemical pesticides. Biological magnification (Biomagnification) is the increase in concentration of a substance. The accumulation of a chemical by an organism from water and food exposure that results in a concentration that is greater than would have resulted from water exposure only and thus greater than expected from equilibrium. Examples DDT (dichloro diphenyl trichloroethane), lead, PCBs (polychlorinated biphenyls), toxaphene etc."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 30/09/2022 (Afternoon)"
+    },
+    {
+        "id": 126,
+        "question": {
+            "type": "text",
+            "content": "In which of the following animals does the body temperature NOT depend on the temperature in the environment?"
+        },
+        "options": [
+            {
+                "text": "Birds and mammals"
+            },
+            {
+                "text": "Birds and fishes"
+            },
+            {
+                "text": "Birds and some reptiles"
+            },
+            {
+                "text": "Fishes and mammals"
+            }
+        ],
+        "answer": "Fishes and mammals",
+        "solution": {
+            "type": "text",
+            "content": "Lakshadweep, is a tropical archipelago of 36 atolls and coral reefs in the Laccadive Sea, off the coast of Kerala. Area 32m², capital Kavaratti. Forest area: Chandigarh - 20.7%, Haryana -3.63%, Goa 59.94% Mizoram (84.53%) (Highest in terms of percentage), Madhya Pradesh (in terms of area). α Scanned with OKEN Scanner"
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 17/09/2022 (Evening)"
+    }
+]

@@ -1,0 +1,534 @@
+[
+    {
+        "id": 1,
+        "question": {
+            "type": "text",
+            "content": "What is the name of the indigenously developed High-Speed Expendable Aerial Target System which was successfully flight-tested by Defence Research and Development Organisation (DRDO) in December 2021?"
+        },
+        "options": [
+            {
+                "text": "Abhyas"
+            },
+            {
+                "text": "Nirbhay"
+            },
+            {
+                "text": "Shaurya"
+            },
+            {
+                "text": "Pralay"
+            }
+        ],
+        "answer": "Abhyas",
+        "solution": {
+            "type": "text",
+            "content": "Abhyas - high speed Expendable Aerial Target tested from Orissa, subsonic speed, programmed for fully autonomous flight. Shaurya -land-based variant of K-15 Sagarika missile, range 750 km. Pralay short range, the surface to surface guided ballistic missile, range 150 500 km, payload 500-1000 kg."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 17/08/2022 (Morning)"
+    },
+    {
+        "id": 2,
+        "question": {
+            "type": "text",
+            "content": "On 14 February 2022, ISRO successfully launched its first Earth observation satellite of 2022, EOS-04. It was launched by which rocket?"
+        },
+        "options": [
+            {
+                "text": "PSLV-C54"
+            },
+            {
+                "text": "PSLV-C53"
+            },
+            {
+                "text": "PSLV-C52"
+            },
+            {
+                "text": "PSLV-C51"
+            }
+        ],
+        "answer": "PSLV-C52",
+        "solution": {
+            "type": "text",
+            "content": "PSLV-C52. The Indian Space Research Organisation is the national space agency of India operating under the Department of Space which is directly overseen by the Prime Minister of India. ISRO functions in the folowing areas: broadcasting, weather forecasting, disaster management, geographic information systems, navigation, cartography (maps), telemedicine, distance education satellites, etc."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 24/08/2022 (Afternoon)"
+    },
+    {
+        "id": 3,
+        "question": {
+            "type": "text",
+            "content": "The 'NavIC' is an independent regional navigation satellite system being developed by which country?"
+        },
+        "options": [
+            {
+                "text": "Japan"
+            },
+            {
+                "text": "Russia"
+            },
+            {
+                "text": "India"
+            },
+            {
+                "text": "France"
+            }
+        ],
+        "answer": "India",
+        "solution": {
+            "type": "text",
+            "content": "India. The Indian Space Research Organisation (ISRO) developed the Indian Regional Navigation Satellite System (IRNSS) with its operational name of NAVIC (Navigation with Indian Constellation). Frequency S-band and L5-Band. Quasi-Zenith Satellite System (QZSS) Japan, Global Navigation Satellite System (GLONASS) Russia, Doppler Orbitography and Radio positioning Integrated by Satellite (DORIS) - France."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 30/09/2022 (Morning)"
+    },
+    {
+        "id": 4,
+        "question": {
+            "type": "text",
+            "content": "From which of the following places was the Polar Satellite Launch Vehicle PSLV- C52 launched with EOS -04 Satellite ?"
+        },
+        "options": [
+            {
+                "text": "Bhubaneswar"
+            },
+            {
+                "text": "Thiruvananthapuram"
+            },
+            {
+                "text": "Sriharikota"
+            },
+            {
+                "text": "Thumba"
+            }
+        ],
+        "answer": "Sriharikota",
+        "solution": {
+            "type": "text",
+            "content": "Sriharikota, Polar Satellite Launch Vehicle PSLV-C52 injected Earth Observation Satellite EOS-04, into an intended sun synchronous polar orbit of 529 km altitude on February 14, 2022 from Satish Dhawan Space Centre, SHAR, Sriharikota. Bhubaneswar is the capital of Orissa, Thiruvananthapuram is the capital of Kerala, Thumba is a beach in Kerala."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 30/09/2022 (Afternoon)"
+    },
+    {
+        "id": 5,
+        "question": {
+            "type": "text",
+            "content": "What is the aim of the Digital Government Mission launched by the Ministry of Electronics and Information Technology in January 2022?"
+        },
+        "options": [
+            {
+                "text": "To provide employment information to youth living in rural areas"
+            },
+            {
+                "text": "To have services proactively anticipate citizens' needs before they approach the services."
+            },
+            {
+                "text": "To provide welfare service meant for girl child and women"
+            },
+            {
+                "text": "To help workers to meet their financial needs"
+            }
+        ],
+        "answer": "To have services proactively anticipate citizens' needs before they approach the services.",
+        "solution": {
+            "type": "text",
+            "content": "Digital India Initiative was launched on 1st July 2015 by PM (Narendra Modi). Motto: Power to Empower. The Government of India launched NODE (National Open Digital Ecosystem) in 2020. Some Government Initiatives: Common Services Center, UMANG, Digilocker, UPI, MyGov, MeriPehchaan, Diksha."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 22/08/2022 (Evening)"
+    },
+    {
+        "id": 6,
+        "question": {
+            "type": "text",
+            "content": "From which state of India did ISRO successfully test fire the Vikas engine, that would power India's first human-carrying rocket Gaganyaan?"
+        },
+        "options": [
+            {
+                "text": "Punjab"
+            },
+            {
+                "text": "Tamil Nadu"
+            },
+            {
+                "text": "Haryana"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Tamil Nadu",
+        "solution": {
+            "type": "text",
+            "content": "Tamil Nadu. ISRO successfully conducted a 25-second qualification test for its liquid propellant-based Vikas engine to be used under the Gaganyaan mission, in January 2022. The test was conducted at the ISRO Propulsion Complex in Mahendragiri, Tamil Nadu. The Gaganyaan mission aims to demonstrate the capability to launch human beings (three crew members) to low earth orbit and bring them back safely to earth by landing them in Indian sea waters."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 23/08/2022 (Morning)"
+    },
+    {
+        "id": 7,
+        "question": {
+            "type": "text",
+            "content": "Project developed by DBT-National Brain Research Centre, Haryana, is a unique brain initiative for managing brain disorders."
+        },
+        "options": [
+            {
+                "text": "UDAAN"
+            },
+            {
+                "text": "AMRUT"
+            },
+            {
+                "text": "SWADESH"
+            },
+            {
+                "text": "PRASAD"
+            }
+        ],
+        "answer": "SWADESH",
+        "solution": {
+            "type": "text",
+            "content": "SWADESH. It was inaugurated by the Ministry of Science and Technology in November 2021. It is the first large-scale multimodal neuroimaging database designed specifically for the Indian population with big-data architecture and analytics for various diseases. Project Udaan - Al-based translation software ecosystem developed by IIT Bombay. Atal Mission for Rejuvenation and Urban Transformation (AMRUT, Launched in 2015) - to provide basic civic amenities to the urban areas."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 05/09/2022 (Afternoon)"
+    },
+    {
+        "id": 8,
+        "question": {
+            "type": "text",
+            "content": "Which of the following goals does NASA hope to achieve by launching the Helio Swarm research mission?"
+        },
+        "options": [
+            {
+                "text": "Improving the understanding of  the dynamics of the Sun"
+            },
+            {
+                "text": "Understanding the intense seasonal episodes of Pluto"
+            },
+            {
+                "text": "Improving the understanding of MARS"
+            },
+            {
+                "text": "Improving the understanding of lonosphere"
+            }
+        ],
+        "answer": "Improving the understanding of  the dynamics of the Sun",
+        "solution": {
+            "type": "text",
+            "content": "NASA (National Aeronautics and Space Administration) established in 1958. Headquarters Washington, D.C. NASA's science missions - the Multi-slit Solar Explorer (MUSE) and HelioSwarm is to improve the understanding of the dynamics of the Sun, the Sun-Earth connection, and the constantly changing space environment. The Parker Solar Probe (NASA space probe) launched in 2018, to observe the Sun's outer corona."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 17/09/2022 (Morning)"
+    },
+    {
+        "id": 9,
+        "question": {
+            "type": "text",
+            "content": "Which of the following schemes aims to establish a lab focusing on the development of sustainable technologies for a rural area?"
+        },
+        "options": [
+            {
+                "text": "Cognitive Science Research Initiative"
+            },
+            {
+                "text": "Clinical Training/Translational Research Workshops"
+            },
+            {
+                "text": "Clinical/Public Health Research Centre Schemes"
+            },
+            {
+                "text": "Cross-Cutting and Futuristic Initiatives"
+            }
+        ],
+        "answer": "Cross-Cutting and Futuristic Initiatives",
+        "solution": {
+            "type": "text",
+            "content": "Cross-Cutting and Futuristic inntiatives (CCFI) aims to establish a science and technology hub/ living lab that focuses on creating awareness about sustainable environmental technologies, and offers training to α Scanned with OKEN Scanner marginal communities as well as cross-sector ally exploration of the nexus of water with energy, food, and health. The major programmes of the initiatives are: Programme on Energy Storage Solutions Digitalisation of Energy Systems and Networks Integrated Technology Interventions for Sustainable Environment Industrial Waste Water."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 02/09/2022 (Morning)"
+    },
+    {
+        "id": 10,
+        "question": {
+            "type": "text",
+            "content": "Who has launched the first Indian Virtual Science Lab for children under the CSIR Jigyasa Programme?"
+        },
+        "options": [
+            {
+                "text": "Dharmendra Pradhan"
+            },
+            {
+                "text": "Dr. Jitendra Singh"
+            },
+            {
+                "text": "Amit Shah"
+            },
+            {
+                "text": "Dr. Virendra Kumar"
+            }
+        ],
+        "answer": "Dr. Jitendra Singh",
+        "solution": {
+            "type": "text",
+            "content": "Dr. Jitendra Singh. JIGYASA (Student-scientist connect programme) Launched Council of Scientific and Industrial Research (CSIR) in collaboration with Kendriya Vidyalaya Sangathan's (KVS). Objective Extending the classroom learning and focusing on a well planned research laboratory based learning."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 23/08/2022 (Morning)"
+    },
+    {
+        "id": 11,
+        "question": {
+            "type": "text",
+            "content": "In February 2022, where was India's first Biosafety Level-3 Mobile Laboratory inaugurated?"
+        },
+        "options": [
+            {
+                "text": "Gujarat"
+            },
+            {
+                "text": "Jharkhand"
+            },
+            {
+                "text": "Maharashtra"
+            },
+            {
+                "text": "Rajasthan"
+            }
+        ],
+        "answer": "Jharkhand",
+        "solution": {
+            "type": "text",
+            "content": "Maharashtra. The Ministry of Health and Family Welfare has announced that India's first Biosafety level-3 containment mobile laboratory was launched in Nashik, Maharashtra, on 18 February 2022. It has been set up to investigate newly emerging and re-emerging viral infections that are highly infectious and of lethal potential to human beings. It has been designed by the Indian Council of Medical Research."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 23/08/2022 (Afternoon)"
+    },
+    {
+        "id": 12,
+        "question": {
+            "type": "text",
+            "content": "Which of the following options explains the objectives of the National Informatics Centre (NIC)? A) Technology partner of the government B) Develops e-Content and learning materials for school education C) Explores and advises on the use of emerging technologies D) Provides data networks packages to the government and private institutes"
+        },
+        "options": [
+            {
+                "text": "B and C"
+            },
+            {
+                "text": "A and D"
+            },
+            {
+                "text": "A and С"
+            },
+            {
+                "text": "C and D"
+            }
+        ],
+        "answer": "A and D",
+        "solution": {
+            "type": "text",
+            "content": "A and C. National Informatics Centre (NIC): Established in: 1976. Ministry Ministry of Electronics and Information Technology (MeitY). NIC is Inspired Research the technology partner of the Government. It was established with the objective of providing technology operational e-governance support solutions to the Central and State Governments. NIC has 4 data centers in Bhubaneswar, New Delhi, Hyderabad and Pune."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 29/09/2022 (Afternoon)"
+    },
+    {
+        "id": 13,
+        "question": {
+            "type": "text",
+            "content": "India's first indigenous COVID-19 vaccine 'COVAXIN' is developed by BBIL in collaboration with the Indian Council of Medical Research (ICMR) National Institute of Virology (NIV). The 'BBIL\" is stand for-"
+        },
+        "options": [
+            {
+                "text": "Bharat Biochemistry and International Limited"
+            },
+            {
+                "text": "Bharat Biotechnology International Limited"
+            },
+            {
+                "text": "Bharat Biotech International Limited"
+            },
+            {
+                "text": "Bharat Biological International Limited"
+            }
+        ],
+        "answer": "Bharat Biotech International Limited",
+        "solution": {
+            "type": "text",
+            "content": "Bharat Biotech International Limited: Founded in 1996 by Krishna Ella, Headquarter: Hyderabad, Products: COVAXIN, ROTAVAC. ICMR (Indian Council of Medical Research): Founded (1911), Headquarter New Delhi. NIV (National Institute of Virology): Founded (1952), Headquarter: Pune, Maharashtra."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 27/09/2022 (Afternoon)"
+    },
+    {
+        "id": 14,
+        "question": {
+            "type": "text",
+            "content": "The Centre for Excellence in Artificial Intelligence is an initiative by which organization?"
+        },
+        "options": [
+            {
+                "text": "Indian Institute of Science"
+            },
+            {
+                "text": "INFLIBNET"
+            },
+            {
+                "text": "National Informatics Centre"
+            },
+            {
+                "text": "Indian Space Research Organisation"
+            }
+        ],
+        "answer": "National Informatics Centre",
+        "solution": {
+            "type": "text",
+            "content": "National Informatics Centre (NIC). Center of Excellence in Artificial Intelligence (CoE in Al) has been established with the motto of 'Inclusive Al' for responsive governance, to work towards improving Government service delivery to citizens."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 07/10/2022 (Morning)"
+    },
+    {
+        "id": 15,
+        "question": {
+            "type": "text",
+            "content": "What is the full form of the INSPIRE scheme, which is one of the flagship programmes of the Department of Science & Technology (DST), Government of India?"
+        },
+        "options": [
+            {
+                "text": "Innovation in Science Pursuit for Indigenous Research"
+            },
+            {
+                "text": "Innovation in Science Pursuit for Indian Research"
+            },
+            {
+                "text": "Innovation in Science Pursuit for Interdisciplinary Research"
+            },
+            {
+                "text": "Innovation in Science Pursuit for"
+            }
+        ],
+        "answer": "Innovation in Science Pursuit for",
+        "solution": {
+            "type": "text",
+            "content": "Innovation in Science Pursuit for Inspired Research (INSPIRE) is an innovative programme sponsored and managed by the Department of Sciencе & Technology for attraction of talent to Science. INSPIRE INTERNSHIP aims to provide exposure to the top 1% students at Class X Board level by organizing Science Camps either during summer or winter which provides opportunity to them to interact with Science icons from India and abroad, including Nobel Laureates, to experience the joys of scientific pursuit."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 20/09/2022 (Afternoon)"
+    },
+    {
+        "id": 16,
+        "question": {
+            "type": "text",
+            "content": "the first 'made in India Petascale supercomputer that was deployed at IIT Roorkee in March 2022, has a supercomputing capacity of 1.66 Petaflops."
+        },
+        "options": [
+            {
+                "text": "PARAM Brahma"
+            },
+            {
+                "text": "PARAM Ganga"
+            },
+            {
+                "text": "PARAM Shakti"
+            },
+            {
+                "text": "PARAM Yukti"
+            }
+        ],
+        "answer": "PARAM Ganga",
+        "solution": {
+            "type": "text",
+            "content": "PARAM Ganga is the first 'made in India' Petascale supercomputer that was deployed by The National Supercomputing Mission (NSM) at IIT Roorkee in March 2022, has a supercomputing capacity of 1.66 Petaflops. (Current affairs)."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 02/09/2022 (Afternoon)"
+    },
+    {
+        "id": 17,
+        "question": {
+            "type": "text",
+            "content": "Which of the following is in-house software of the Indian Railways to tackle the problem of cattle getting run over by the trains?"
+        },
+        "options": [
+            {
+                "text": "Smart Event Tracking System"
+            },
+            {
+                "text": "Animal Tracking and Vigilant System"
+            },
+            {
+                "text": "Indian Railway Tracking System"
+            },
+            {
+                "text": "Cattle Tracking Collar System"
+            }
+        ],
+        "answer": "Smart Event Tracking System",
+        "solution": {
+            "type": "text",
+            "content": "Smart Event Tracking System (SETS) is a new tool on Google Maps-based planning and analysis tools. It has been deployed to tackle the growing problem of cattle getting run over by trains. Indian Railways has created a real-time train information system (RTIS) with the help of ISRO, making it easier to track trains in real-time. The kavach system is an automatic train protection (ATP) system developed by Indian Railways through Research Designs & Standards Organisation (RDSO)."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 17/09/2022 (Afternoon)"
+    },
+    {
+        "id": 18,
+        "question": {
+            "type": "text",
+            "content": "What is the name of the Light Combat Aircraft, which is designed and manufactured in India?"
+        },
+        "options": [
+            {
+                "text": "Pawan"
+            },
+            {
+                "text": "Pushpak"
+            },
+            {
+                "text": "Virat"
+            },
+            {
+                "text": "Tejas α Scanned with OKEN Scanner"
+            }
+        ],
+        "answer": "Tejas α Scanned with OKEN Scanner",
+        "solution": {
+            "type": "text",
+            "content": "Tejas: It is a 4.5 generation, all weather and multi-role fighter aircraft. It is capable of taking up offensive air support, close combat and ground attack roles. It is the smallest & lightest aircraft in its class. Manufacturer Hindustan Aeronautics Limited (HAL). Prachand: indigenously-developed Light Combat Helicopter (LCH) by HAL."
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 27/09/2022 (Morning)"
+    },
+    {
+        "id": 19,
+        "question": {
+            "type": "text",
+            "content": "Identify the name of the fellowship that is launched by the Department of Science and Technology (DST), Government of India, to recognise, encourage and support translational research by Indian nationals."
+        },
+        "options": [
+            {
+                "text": "CV Raman Technology Innovation National Fellowship"
+            },
+            {
+                "text": "Dr. Homi Jahangir Bhabha Technology Innovation National Fellowship"
+            },
+            {
+                "text": "Vikram Sarabhai Technology Innovation National Fellowship"
+            },
+            {
+                "text": "Abdul Kalam Technology Innovation National Fellowship"
+            }
+        ],
+        "answer": "Abdul Kalam Technology Innovation National Fellowship",
+        "solution": {
+            "type": "text",
+            "content": "Abdul Kalam Technology Innovation National Fellowships (awarded by Indian National Academy of Engineering (INAE)}. The principal objective of the Fellowship is to recognize and promote excellence in engineering, innovation and technology development. The amount is Rs 25,000/- per month in addition to salary being drawn, along with the Research Grant of Rs.15.00 lakh per annum. α Scanned with OKEN Scanner"
+        },
+        "videoUrl": "",
+        "status": "RRC Group D 06/10/2022 (Afternoon)"
+    }
+]

@@ -2,7 +2,7 @@ import fitz  # PyMuPDF
 import json
 import re
 
-def extract_pdf_to_custom_json(pdf_path, output_json="spoterror2.json"):
+def extract_pdf_to_custom_json(pdf_path, output_json="technology1.json"):
     pdf_document = fitz.open(pdf_path)
     all_text = ""
 
@@ -29,7 +29,8 @@ def extract_pdf_to_custom_json(pdf_path, output_json="spoterror2.json"):
 
         # --- Extract status (flexible for SSC, Graduate Level, Matric Level) ---
         status_match = re.search(
-            r"((?:SSC\s*[A-Za-z]*|Graduate Level|Higher Secondary|Matric Level)\s*\d{1,2}/\d{1,2}/\d{4}\s*(?:\(.*?\))?)",
+            # r"((?:SSC\s*[A-Za-z]*|Graduate Level|Higher Secondary|Matric Level)\s*\d{1,2}/\d{1,2}/\d{4}\s*(?:\(.*?\))?)"
+            r"((?:RRC|RRB|SSC)[A-Za-z0-9 ]*\d{1,2}/\d{1,2}/\d{4}\s*\([A-Za-z ]+\))",
             block
         )
         status = status_match.group(1).strip() if status_match else ""
@@ -83,4 +84,4 @@ def extract_pdf_to_custom_json(pdf_path, output_json="spoterror2.json"):
 
 
 # Example usage
-extract_pdf_to_custom_json("C:/Users/sunny/Downloads/spoterror.pdf")
+extract_pdf_to_custom_json("C:/Users/sunny/Downloads/technologytxt.pdf")

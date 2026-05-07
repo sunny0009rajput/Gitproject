@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "slug": "sanaya-aamir",
+    "date": "NOV 2023",
+    "location": "BAHRAIN",
+    "couple": "SANAYA & AAMIR",
+    "thumbnail": "/sanaya-aamir.png",
+    "tags": ["Middle East", "Elan Couture", "Pakistan"],
+    "isLocked": false,
+    "featured": true,
+    "youtubeUrl": "https://youtu.be/zotshy8YzHE?si=li980lmVgp68Mnhq",
+    "description": "A breathtaking celebration of love in Bahrain...",
+    "gallery": [
+      { "id": 1, "url": "/image1.png", "title": "First Look" },
+      { "id": 2, "url": "/image2.png", "title": "Mehndi" }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "aslesha-sushant",
+    "date": "NOV 2023",
+    "location": "EGYPT",
+    "couple": "ASLESHA & SUSHANT",
+    "thumbnail": "/aslesha-sushant.png",
+    "tags": ["Egypt", "International"],
+    "isLocked": false,
+    "featured": true,
+    "youtubeUrl": "https://youtu.be/JNKZN8uq1H8?si=7IYYNU9BWOXv_C8S",
+    "description": "Destination wedding in Egypt...",
+    "gallery": [
+        { "id": 1, "url": "/image3.png", "title": "First Look" },
+      { "id": 2, "url": "/image4.png", "title": "Mehndi" }
+    ]
+  }
+]

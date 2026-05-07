@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crud operation</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body class="bg-light">
+    <div class="container mt-5">
+        <h2 class="mb-4">CRUD Operations with jQuery</h2>
+    <div class="card p-3 mb-4">
+        <input type="hidden" id="userId">
+        <input type="text" id="name" class="form-control mb-2" placeholder="Enter Name">
+        <input type="email" id="email" class="form-control mb-2" placeholder="Enter Email">
+        <button id="addBtn" class="btn btn-primary mb-2">Add User</button>
+        <button id="updateBtn" class="btn btn-warning mb-2" style="display:none;">Update User</button>
+    </div>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+              
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="userTableBody">
+        </tbody>
+    </table>
+    </div>
+
+    <script>
+        const API_URL = 'https://jsonplaceholder.typicode.com/users';
+
+
+        // read 
+        function fetchUsers() {
+            $.get(API_URL, function(data){
+                let rows = '';
+                data.forEach(user => {
+                    rows += `
+                        <tr>
+                            <td>${user.id}</td>
+                            <td>${user.name}</td>
+                            <td>${user.email}</td>
+                            <td>
+                                <button class="btn btn-sm btn-info editBtn" data-id="${user.id}" data-name="${user.name}" data-email="${user.email}">Edit</button>
+                                <button class="btn btn-sm btn-danger deleteBtn" data-id="${user.id}">Delete</button>
+                            </td>
+                        </tr>
+                    `;
+                });
+                $('#userTableBody').html(rows);
+            });
+        }
+
+        // create 
+        $("#saveBtn").click(function(){
+            const name = $("#name").val();
+            const email = $("#email").val();
+            console.log(name, email);
+            $.post(API_URL, { name, email }, function(data){
+                alert("User added successfully!");
+                fetchUsers();
+                $("#name").val('');
+                $("#email").val('');
+            });
+        });
+
+        // edit or update
+        $(document).on('click', '.editBtn', function(){
+            $("#userId").val($(this).data('id'));
+            $("#name").val($(this).data('name'));
+            $("#email").val($(this).data('email'));
+            $("#saveBtn").hide();
+            $("#updateBtn").show();
+
+        });
+
+        // update
+        $("#updateBtn").click(function(){
+            const id = $("#userId").val();
+            const name = $("#name").val();
+            const email = $("#email").val();
+            $.ajax({
+                url: `${API_URL}/${id}`,
+                method: 'PUT',
+                data: { name, email },
+                success: function(data){
+                    alert("User updated successfully!");
+                    fetchUsers();
+                    $("#name").val('');
+                    $("#email").val('');
+                    $("#saveBtn").show();
+                    $("#updateBtn").hide();
+                }
+            });
+        });
+
+        // delete
+        $(document).on("click", ".deleteBtn", function(){
+            const id = $(this).data('id');
+            $.ajax({
+                url: `${API_URL}/${id}`,
+                method: 'DELETE',
+                success: function(){
+                    alert("User deleted successfully!");
+                    fetchUsers();
+                }
+            });
+        });
+
+        // load data on page load
+        $(document).ready(function(){
+            fetchUsers();
+        });
+
+    </script>
+    
+</body>
+</html>
