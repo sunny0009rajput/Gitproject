@@ -1,432 +1,261 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef } from "react";
+import gsap from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+gsap.registerPlugin(ScrollTrigger);
 
 const cards = [
   {
     id: 1,
-    title: "Peer Vi Tu",
-    views: "7.1M+ VIEWS",
     image:
       "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=1200&q=80",
-    rotate: -10,
+    rotate: -14,
   },
   {
     id: 2,
-    title: "Waheguru",
-    views: "5.9M+ VIEWS",
     image:
       "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80",
     rotate: 0,
   },
   {
     id: 3,
-    title: "Chal Le Chal",
-    views: "805K+ VIEWS",
     image:
       "https://images.unsplash.com/photo-1606800052052-a08af7148866?w=1200&q=80",
-    rotate: 10,
+    rotate: 14,
   },
 ];
 
-const ease = (t) => 1 - Math.pow(1 - t, 4);
+export default function TWFScrollAnimation() {
+  const sectionRef = useRef(null);
 
-function VinylDisk({ progress }) {
-  return (
-    <div
-      style={{
-        position: "absolute",
-        width: 260,
-        height: 260,
-        borderRadius: "50%",
-        background:
-          "radial-gradient(circle at center, #222 0%, #111 40%, #000 100%)",
-        left: "50%",
-        bottom: -20,
-        transform: `
-          translateX(-50%)
-          translateY(${(1 - progress) * 160}px)
-          rotate(${progress * 360}deg)
-        `,
-        transition: "transform .04s linear",
-        zIndex: 1,
-        boxShadow: "0 20px 50px rgba(0,0,0,.4)",
-      }}
-    >
-      {[...Array(10)].map((_, i) => (
-        <div
-          key={i}
-          style={{
-            position: "absolute",
-            inset: 18 + i * 9,
-            borderRadius: "50%",
-            border: "1px solid rgba(255,255,255,.05)",
-          }}
-        />
-      ))}
+  const diskRef = useRef(null);
 
-      <div
-        style={{
-          position: "absolute",
-          width: 74,
-          height: 74,
-          borderRadius: "50%",
-          background:
-            "radial-gradient(circle at 30% 30%, #f7e0af, #af8130)",
-          left: "50%",
-          top: "50%",
-          transform: "translate(-50%,-50%)",
-        }}
-      />
+  const redBoxRef = useRef(null);
 
-      <div
-        style={{
-          position: "absolute",
-          width: 10,
-          height: 10,
-          borderRadius: "50%",
-          background: "#111",
-          left: "50%",
-          top: "50%",
-          transform: "translate(-50%,-50%)",
-        }}
-      />
-    </div>
-  );
-}
-
-function Sleeve() {
-  return (
-    <div
-      style={{
-        width: 360,
-        height: 360,
-        background: "#ef111b",
-        position: "relative",
-        overflow: "hidden",
-        borderRadius: 2,
-        boxShadow: "0 30px 80px rgba(0,0,0,.22)",
-        zIndex: 5,
-      }}
-    >
-      <div
-        style={{
-          position: "absolute",
-          inset: 0,
-          background:
-            "linear-gradient(135deg, rgba(255,255,255,.08), transparent 40%)",
-        }}
-      />
-
-      <h1
-        style={{
-          position: "absolute",
-          top: 62,
-          width: "100%",
-          textAlign: "center",
-          fontSize: 58,
-          color: "#f0d6a4",
-          letterSpacing: ".08em",
-          fontWeight: 400,
-          fontFamily: "serif",
-        }}
-      >
-        ORIGINALS
-      </h1>
-    </div>
-  );
-}
-
-function ImageCard({ card, index, progress }) {
-  /*
-    START:
-    all cards hidden INSIDE box
-
-    THEN:
-    slowly emerge upward
-    THEN:
-    spread left/right
-  */
-
-  const reveal = ease(progress);
-
-  const x =
-    index === 0
-      ? -360 * reveal
-      : index === 1
-      ? 0
-      : 360 * reveal;
-
-  const y =
-    index === 1
-      ? -240 * reveal
-      : -180 * reveal;
-
-  const rotate = card.rotate * reveal;
-
-  const scale = 0.6 + reveal * 0.4;
-
-  return (
-    <div
-      style={{
-        position: "absolute",
-        left: "50%",
-        bottom: 180,
-        width: 330,
-        transform: `
-          translateX(-50%)
-          translateX(${x}px)
-          translateY(${-y}px)
-          rotate(${rotate}deg)
-          scale(${scale})
-        `,
-        transition: "transform .05s linear",
-        zIndex: index === 1 ? 12 : 10,
-      }}
-    >
-      <div
-        style={{
-          background: "#fff",
-          borderRadius: 10,
-          overflow: "hidden",
-          boxShadow: "0 18px 40px rgba(0,0,0,.2)",
-        }}
-      >
-        <div
-          style={{
-            aspectRatio: "3/4",
-            position: "relative",
-            overflow: "hidden",
-          }}
-        >
-          <img
-            src={card.image}
-            alt=""
-            style={{
-              width: "100%",
-              height: "100%",
-              objectFit: "cover",
-              display: "block",
-            }}
-          />
-
-          <div
-            style={{
-              position: "absolute",
-              inset: 0,
-              background:
-                "linear-gradient(to top, rgba(0,0,0,.45), transparent 40%)",
-            }}
-          />
-
-          <div
-            style={{
-              position: "absolute",
-              bottom: 18,
-              left: 20,
-            }}
-          >
-            <h2
-              style={{
-                fontFamily: "cursive",
-                color: "rgba(255,255,255,.92)",
-                fontSize: 54,
-                fontWeight: 400,
-              }}
-            >
-              {card.title}
-            </h2>
-          </div>
-        </div>
-
-        <div
-          style={{
-            padding: "18px 10px 10px",
-            background: "#f7f4ef",
-          }}
-        >
-          <p
-            style={{
-              fontSize: 11,
-              color: "#8d8d8d",
-              letterSpacing: ".14em",
-              marginBottom: 10,
-            }}
-          >
-            TWF ORIGINALS → {card.views}
-          </p>
-
-          <p
-            style={{
-              fontSize: 14,
-              fontWeight: 700,
-              letterSpacing: ".08em",
-              color: "#222",
-            }}
-          >
-            {card.title.toUpperCase()}
-          </p>
-        </div>
-      </div>
-    </div>
-  );
-}
-
-export default function TWFOriginalsAnimation() {
-  const scrollRef = useRef(null);
-
-  const [scrollY, setScrollY] = useState(0);
+  const cardsRef = useRef([]);
 
   useEffect(() => {
-    const el = scrollRef.current;
+    const ctx = gsap.context(() => {
+      // INITIAL STATES
+      gsap.set(cardsRef.current, {
+        scale: 0.65,
+        y: -100,
+        zIndex: 1,
+      });
 
-    const onScroll = () => {
-      setScrollY(el.scrollTop);
-    };
+      gsap.set(redBoxRef.current, {
+        y: 0,
+        scale: 1,
+      });
 
-    el.addEventListener("scroll", onScroll, {
-      passive: true,
-    });
+      // TIMELINE
+      const tl = gsap.timeline({
+        scrollTrigger: {
+          trigger: sectionRef.current,
+          start: "40% 50%",
+          end: "90% 50%",
+          scrub: 2,
+          pin: true,
+          anticipatePin: 1,
+        },
+      });
 
-    return () => el.removeEventListener("scroll", onScroll);
+      // DISK ROTATION
+      tl.to(
+        diskRef.current,
+        {
+          rotate: 1800,
+          ease: "none",
+          duration: 6,
+        },
+        0
+      );
+
+      // RED BOX MOVE DOWN
+      tl.to(
+        redBoxRef.current,
+        {
+          y: 200,
+          scale: 0.96,
+          duration: 3,
+          ease: "power3.out",
+        },
+        0.4
+      );
+
+      // CENTER CARD
+      tl.to(
+        cardsRef.current[1],
+        {
+          y: -260,
+          scale: 1,
+          duration: 2.8,
+          ease: "power4.out",
+        },
+        0.4
+      );
+
+      // LEFT CARD
+      tl.to(
+        cardsRef.current[0],
+        {
+          x: -430,
+          y: -170,
+          rotate: -14,
+          scale: 1,
+          duration: 3,
+          ease: "power4.out",
+        },
+        0.7
+      );
+
+      // RIGHT CARD
+      tl.to(
+        cardsRef.current[2],
+        {
+          x: 430,
+          y: -170,
+          rotate: 14,
+          scale: 1,
+          duration: 3,
+          ease: "power4.out",
+        },
+        0.7
+      );
+
+      // FINAL ARRANGEMENT
+      tl.to(
+        cardsRef.current[0],
+        {
+          x: -470,
+          y: -130,
+          rotate: -10,
+          duration: 1.5,
+          ease: "power2.out",
+        },
+        3
+      );
+
+      tl.to(
+        cardsRef.current[1],
+        {
+          y: -220,
+          duration: 1.5,
+          ease: "power2.out",
+        },
+        3
+      );
+
+      tl.to(
+        cardsRef.current[2],
+        {
+          x: 470,
+          y: -130,
+          rotate: 10,
+          duration: 1.5,
+          ease: "power2.out",
+        },
+        3
+      );
+    }, sectionRef);
+
+    return () => ctx.revert();
   }, []);
 
-  const vh =
-    typeof window !== "undefined"
-      ? window.innerHeight
-      : 900;
-
-  const totalHeight = vh * 5;
-
-  /*
-    Animation Timeline
-
-    0 → 0.25
-    disk rises
-
-    0.2 → 1
-    cards emerge from box slowly
-  */
-
-  const raw = Math.min(scrollY / (vh * 2.5), 1);
-
-  const diskProgress = Math.min(raw / 0.3, 1);
-
-  const cardsProgress = Math.max(
-    0,
-    (raw - 0.15) / 0.85
-  );
-
   return (
-    <div
-      ref={scrollRef}
-      style={{
-        position: "fixed",
-        inset: 0,
-        overflowY: "scroll",
-        background: "#f5f3ef",
-        scrollbarWidth: "none",
-      }}
-    >
-      <style>{`
-        *{
-          margin:0;
-          padding:0;
-          box-sizing:border-box;
-        }
+    <>
+      {/* MAIN SECTION */}
+      <section
+        ref={sectionRef}
+        className="relative h-[200vh] bg-[#f5f3ef] overflow-hidden"
+      >
+        <div className="relative w-full h-full flex items-center justify-center">
+          {/* CARDS */}
+          <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+            {cards.map((card, index) => (
+              <div
+                key={card.id}
+                ref={(el) =>
+                  (cardsRef.current[index] = el)
+                }
+                className={`absolute
+                left-1/2
+                top-1/2
+                w-[340px]
+                -translate-x-1/2
+                -translate-y-1/2
+                ${
+                  index === 1
+                    ? "z-[2]"
+                    : "z-[1]"
+                }`}
+              >
+                <div className="bg-white rounded-[22px] overflow-hidden shadow-[0_30px_80px_rgba(0,0,0,0.18)]">
+                  <div className="aspect-[3/4] relative overflow-hidden">
+                    <img
+                      src={card.image}
+                      alt=""
+                      className="w-full h-full object-cover"
+                    />
 
-        body{
-          overflow:hidden;
-          font-family:Arial;
-        }
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
 
-        ::-webkit-scrollbar{
-          display:none;
-        }
-      `}</style>
-
-      <div style={{ height: totalHeight }}>
-        <div
-          style={{
-            position: "sticky",
-            top: 0,
-            height: "100vh",
-            overflow: "hidden",
-          }}
-        >
-          {/* CENTER */}
+          {/* RED BOX */}
           <div
-            style={{
-              position: "absolute",
-              inset: 0,
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-            }}
+            ref={redBoxRef}
+            className="relative w-[380px] h-[380px] bg-[#e3121d] rounded-md overflow-hidden shadow-[0_30px_100px_rgba(0,0,0,0.28)] z-[5]"
           >
-            {/* IMAGE CARDS */}
+            {/* LIGHT EFFECT */}
+            <div className="absolute inset-0 bg-gradient-to-br from-white/10 to-transparent" />
+
+            {/* DISK */}
             <div
-              style={{
-                position: "absolute",
-                inset: 0,
-              }}
+              ref={diskRef}
+              className="absolute left-1/2 top-1/2
+              w-[260px] h-[260px]
+              -translate-x-1/2 -translate-y-1/2
+              rounded-full bg-black"
             >
-              {cards.map((card, index) => (
-                <ImageCard
-                  key={card.id}
-                  card={card}
-                  index={index}
-                  progress={cardsProgress}
+              {/* RINGS */}
+              {[...Array(12)].map((_, i) => (
+                <div
+                  key={i}
+                  className="absolute rounded-full border border-white/5"
+                  style={{
+                    inset: 14 + i * 9,
+                  }}
                 />
               ))}
+
+              {/* CENTER LABEL */}
+              <div
+                className="absolute left-1/2 top-1/2
+                w-[74px] h-[74px]
+                rounded-full
+                bg-gradient-to-br
+                from-yellow-200 to-yellow-700
+                -translate-x-1/2 -translate-y-1/2"
+              />
+
+              {/* CENTER DOT */}
+              <div
+                className="absolute left-1/2 top-1/2
+                w-[10px] h-[10px]
+                rounded-full bg-black
+                -translate-x-1/2 -translate-y-1/2"
+              />
             </div>
-
-            {/* VINYL */}
-            <VinylDisk progress={diskProgress} />
-
-            {/* BOX */}
-            <Sleeve />
-          </div>
-
-          {/* SCROLL ICON */}
-          <div
-            style={{
-              position: "absolute",
-              bottom: 34,
-              left: "50%",
-              transform: "translateX(-50%)",
-            }}
-          >
-            <div
-              style={{
-                width: 44,
-                height: 44,
-                borderRadius: "50%",
-                border: "1px solid #111",
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-                fontSize: 20,
-                color: "#111",
-              }}
-            >
-              ↓
-            </div>
-          </div>
-
-          {/* EXIT */}
-          <div
-            style={{
-              position: "absolute",
-              right: 34,
-              bottom: 36,
-              fontSize: 12,
-              color: "#777",
-              letterSpacing: ".12em",
-            }}
-          >
-            ← EXIT
           </div>
         </div>
-      </div>
-    </div>
+      </section>
+
+      {/* NEXT SECTION */}
+      
+    </>
   );
 }

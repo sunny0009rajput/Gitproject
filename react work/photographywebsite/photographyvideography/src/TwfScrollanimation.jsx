@@ -212,8 +212,9 @@ export default function SmoothCameraScroll() {
     <div
       ref={containerRef}
       style={{
-        position: "fixed",
-        inset: 0,
+        position: "relative",
+        width: "100%",
+        height: `${totalHeight + vh}px`,
         overflowY: "scroll",
         overflowX: "hidden",
         background: bg,

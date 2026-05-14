@@ -19,7 +19,7 @@ function App() {
       <TeamPage2/>
       <FilmStripScroll/>
       <FilmStripScroll2/>
-      <TWFScrollAnimation/>
+      {/* <TWFScrollAnimation/> */}
       <TWFOriginalsScroll/>
       <Footer/>
 
