@@ -92,40 +92,6 @@ function FilmStrip({ images, direction = 1, scrollY, speed = 0.4 }) {
   );
 }
 
-/* ─── Left sidebar nav ─── */
-function Sidebar({ scenes, active }) {
-  return (
-    <div style={{
-      position: "fixed", left: 28, top: "50%",
-      transform: "translateY(-50%)",
-      display: "flex", flexDirection: "column", gap: 16,
-      zIndex: 50,
-    }}>
-      <div style={{
-        fontFamily: "'Barlow Condensed', sans-serif",
-        fontSize: 11, letterSpacing: "0.18em",
-        color: "#999", textTransform: "uppercase",
-        marginBottom: 8,
-      }}>
-        TWF's Story//
-      </div>
-      {scenes.map((s, i) => (
-        <div key={i} style={{
-          display: "flex", alignItems: "center", gap: 8,
-          fontFamily: "'Barlow Condensed', sans-serif",
-          fontSize: 13, color: active === i ? "#c8102e" : "#888",
-          fontWeight: active === i ? 500 : 400,
-          transition: "color 0.3s",
-          cursor: "pointer",
-        }}>
-          {active === i && <span style={{ fontSize: 10 }}>▶</span>}
-          {active === i ? `Scene ${i + 1}` : `${i + 1}`}
-        </div>
-      ))}
-    </div>
-  );
-}
-
 /* ─── Image sets ─── */
 const strip1Images = [
   "https://images.unsplash.com/photo-1609743522653-52354461eb27?w=400&q=80", // monks
@@ -150,11 +116,11 @@ const strip2Images = [
 ];
 
 const scenes = [
-  { label: "Scene 1", title: "THE STORY BEGINS", big: "ORIGINS" },
-  { label: "Scene 2", title: "ACROSS THE WORLD", big: "JOURNEYS" },
-  { label: "Scene 3", title: "THE TEAM GETS", big: "BIGGER" },
-  { label: "Scene 4", title: "A DECADE OF", big: "MEMORIES" },
-  { label: "Scene 5", title: "THE VISION LIVES", big: "ON" },
+  { title: "THE STORY BEGINS", big: "ORIGINS" },
+  { title: "ACROSS THE WORLD", big: "JOURNEYS" },
+  { title: "THE TEAM GETS", big: "BIGGER" },
+  { title: "A DECADE OF", big: "MEMORIES" },
+  { title: "THE VISION LIVES", big: "ON" },
 ];
 
 /* ─── Main component ─── */
@@ -183,9 +149,6 @@ export default function FilmStripScroll() {
   return (
     <>
       <style>{G}</style>
-
-      {/* Sidebar */}
-      <Sidebar scenes={scenes} active={activeScene} />
 
       {/* Exit button */}
       <div style={{

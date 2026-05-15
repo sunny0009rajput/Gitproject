@@ -1,4 +1,8 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef } from "react";
+import gsap from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+gsap.registerPlugin(ScrollTrigger);
 
 /* ─────────────────────────────────────────────
    SCENES
@@ -43,7 +47,7 @@ function CameraSVG() {
     <svg
       viewBox="0 0 700 380"
       xmlns="http://www.w3.org/2000/svg"
-      style={{ width: "100%", height: "100%" }}
+      className="w-full h-full"
     >
       <defs>
         <linearGradient id="body" x1="0" x2="1">
@@ -58,7 +62,7 @@ function CameraSVG() {
         </radialGradient>
       </defs>
 
-      {/* body */}
+      {/* BODY */}
       <rect
         x="40"
         y="120"
@@ -68,7 +72,7 @@ function CameraSVG() {
         fill="url(#body)"
       />
 
-      {/* top */}
+      {/* TOP */}
       <rect
         x="120"
         y="70"
@@ -78,17 +82,17 @@ function CameraSVG() {
         fill="#707070"
       />
 
-      {/* knobs */}
+      {/* KNOBS */}
       <circle cx="160" cy="100" r="22" fill="#555" />
       <circle cx="540" cy="100" r="22" fill="#555" />
 
-      {/* lens */}
+      {/* LENS */}
       <circle cx="350" cy="230" r="92" fill="#333" />
       <circle cx="350" cy="230" r="78" fill="#222" />
       <circle cx="350" cy="230" r="62" fill="url(#lens)" />
       <circle cx="350" cy="230" r="42" fill="#050505" />
 
-      {/* highlight */}
+      {/* HIGHLIGHT */}
       <circle
         cx="330"
         cy="208"
@@ -100,399 +104,178 @@ function CameraSVG() {
 }
 
 /* ─────────────────────────────────────────────
-   MAIN
+   MAIN COMPONENT
 ───────────────────────────────────────────── */
 
-export default function SmoothCameraScroll() {
-  const containerRef = useRef(null);
+export default function TWFOriginalsScroll() {
+  const sectionRef = useRef(null);
 
-  const [scrollY, setScrollY] = useState(0);
+  const cameraRef = useRef(null);
 
-  const vh =
-    typeof window !== "undefined"
-      ? window.innerHeight
-      : 1000;
+  const stackRefs = useRef([]);
 
-  const sceneHeight = vh * 1.8;
-
-  const totalHeight = sceneHeight * scenes.length;
-
-  /* ───────────────────────────────────────── */
+  const bgRef = useRef(null);
 
   useEffect(() => {
-    const el = containerRef.current;
+    const ctx = gsap.context(() => {
+      // INITIAL STATES
+      gsap.set(stackRefs.current, {
+        y: 320,
+        rotate: 6,
+        scale: 0.8,
+        opacity: 0,
+      });
 
-    const handleScroll = () => {
-      setScrollY(el.scrollTop);
-    };
+      // CAMERA FLOAT
+      gsap.to(cameraRef.current, {
+        y: -10,
+        duration: 2,
+        repeat: -1,
+        yoyo: true,
+        ease: "power1.inOut",
+      });
 
-    el.addEventListener("scroll", handleScroll, {
-      passive: true,
-    });
+      // MASTER TIMELINE
+      const master = gsap.timeline({
+        scrollTrigger: {
+          trigger: sectionRef.current,
+          start: "top top",
+          end: "+=6000",
+          scrub: 1.5,
+          pin: true,
+          anticipatePin: 1,
+        },
+      });
 
-    return () => {
-      el.removeEventListener("scroll", handleScroll);
-    };
+      scenes.forEach((scene, index) => {
+        const card = stackRefs.current[index];
+
+        // CARD ENTRY
+        master.to(
+          card,
+          {
+            y: -260,
+            rotate: 0,
+            scale: 1,
+            opacity: 1,
+            duration: 1.2,
+            ease: "power4.out",
+          },
+          index * 1.2
+        );
+
+        // STACK EFFECT
+        if (index > 0) {
+          master.to(
+            stackRefs.current[index - 1],
+            {
+              y: -180,
+              scale: 0.92,
+              rotate:
+                index % 2 === 0 ? -6 : 6,
+              opacity: 0.75,
+              duration: 1,
+            },
+            index * 1.2
+          );
+        }
+
+        // BACKGROUND CHANGE
+        master.to(
+          bgRef.current,
+          {
+            backgroundColor: scene.bg,
+            duration: 1,
+            ease: "none",
+          },
+          index * 1.2
+        );
+      });
+    }, sectionRef);
+
+    return () => ctx.revert();
   }, []);
 
-  /* ─────────────────────────────────────────
-     SCENE
-  ───────────────────────────────────────── */
-
-  const sceneIndex = Math.min(
-    Math.floor(scrollY / sceneHeight),
-    scenes.length - 1
-  );
-
-  const progress =
-    (scrollY - sceneIndex * sceneHeight) /
-    sceneHeight;
-
-  const currentScene = scenes[sceneIndex];
-
-  const nextScene =
-    scenes[Math.min(sceneIndex + 1, scenes.length - 1)];
-
-  /* ─────────────────────────────────────────
-     BACKGROUND BLEND
-  ───────────────────────────────────────── */
-
-  const hexToRgb = (hex) => {
-    const n = parseInt(hex.slice(1), 16);
-
-    return {
-      r: (n >> 16) & 255,
-      g: (n >> 8) & 255,
-      b: n & 255,
-    };
-  };
-
-  const mix = (a, b, t) => a + (b - a) * t;
-
-  const c1 = hexToRgb(currentScene.bg);
-  const c2 = hexToRgb(nextScene.bg);
-
-  const bgProgress =
-    progress > 0.6 ? (progress - 0.6) / 0.4 : 0;
-
-  const bg = `rgb(
-    ${mix(c1.r, c2.r, bgProgress)},
-    ${mix(c1.g, c2.g, bgProgress)},
-    ${mix(c1.b, c2.b, bgProgress)}
-  )`;
-
-  /* ─────────────────────────────────────────
-     IMAGE STACK ANIMATION
-  ───────────────────────────────────────── */
-
-  const ease = (t) => 1 - Math.pow(1 - t, 4);
-
-  const imageProgress = ease(
-    Math.min(Math.max(progress, 0), 1)
-  );
-
-  /* current image */
-  const currentY = 300 - imageProgress * 360;
-
-  const currentRotate =
-    6 - imageProgress * 6;
-
-  const currentScale =
-    0.8 + imageProgress * 0.2;
-
-  const currentOpacity = imageProgress;
-
-  /* previous stack */
-  const previousImages = scenes.slice(
-    0,
-    sceneIndex
-  );
-
   return (
-    <div
-      ref={containerRef}
-      style={{
-        position: "relative",
-        width: "100%",
-        height: `${totalHeight + vh}px`,
-        overflowY: "scroll",
-        overflowX: "hidden",
-        background: bg,
-      }}
-    >
-      {/* scroll space */}
-      <div
-        style={{
-          height: totalHeight + vh,
-        }}
+    <>
+      {/* SECTION */}
+      <section
+        ref={sectionRef}
+        className="relative h-[110vh] overflow-hidden"
       >
-        {/* sticky scene */}
+        {/* BACKGROUND */}
         <div
-          style={{
-            position: "sticky",
-            top: 0,
-            width: "100%",
-            height: "100vh",
-            overflow: "hidden",
-            background: bg,
-            transition:
-              "background 120ms linear",
-          }}
+          ref={bgRef}
+          className="absolute inset-0 bg-[#b33939]"
         >
-          {/* ambient lights */}
+          {/* LIGHT EFFECTS */}
           <div
+            className="absolute inset-0"
             style={{
-              position: "absolute",
-              inset: 0,
               background: `
                 radial-gradient(circle at 70% 20%, rgba(255,255,255,0.12), transparent 35%),
                 radial-gradient(circle at 20% 80%, rgba(0,0,0,0.14), transparent 45%)
               `,
             }}
           />
+        </div>
 
-          {/* IMAGE STACK */}
-          <div
-            style={{
-              position: "absolute",
-              left: "50%",
-              bottom: 220,
-              transform: "translateX(-50%)",
-              width: 340,
-              height: 260,
-              zIndex: 10,
-            }}
-          >
-            {/* PREVIOUS STACKED IMAGES */}
+       
 
-            {previousImages.map((img, i) => {
-              const depth =
-                previousImages.length - i;
-
-              return (
-                <div
-                  key={img.id}
-                  style={{
-                    position: "absolute",
-
-                    width: 320,
-                    height: 230,
-
-                    left: "50%",
-                    bottom: `${depth * -8}px`,
-
-                    transform: `
-                      translateX(-50%)
-                      rotate(${depth % 2 === 0 ? -6 : 6}deg)
-                      scale(${1 - depth * 0.03})
-                    `,
-
-                    border: "12px solid white",
-                    borderRadius: 6,
-
-                    overflow: "hidden",
-
-                    opacity: 0.95 - depth * 0.12,
-
-                    boxShadow:
-                      "0 20px 40px rgba(0,0,0,0.25)",
-                  }}
-                >
-                  <img
-                    src={img.image}
-                    alt=""
-                    style={{
-                      width: "100%",
-                      height: "100%",
-                      objectFit: "cover",
-                    }}
-                  />
-                </div>
-              );
-            })}
-
-            {/* CURRENT IMAGE */}
-
+        {/* IMAGE STACK */}
+        <div className="absolute left-1/2 bottom-[220px] -translate-x-1/2 w-[340px] h-[260px] z-20">
+          {scenes.map((scene, index) => (
             <div
-              style={{
-                position: "absolute",
-
-                width: 340,
-                height: 250,
-
-                left: "50%",
-                bottom: 0,
-
-                transform: `
-                  translateX(-50%)
-                  translateY(${currentY}px)
-                  rotate(${currentRotate}deg)
-                  scale(${currentScale})
-                `,
-
-                opacity: currentOpacity,
-
-                border: "12px solid white",
-                borderRadius: 6,
-
-                overflow: "hidden",
-
-                boxShadow:
-                  "0 35px 70px rgba(0,0,0,0.45)",
-
-                willChange: "transform",
-              }}
+              key={scene.id}
+              ref={(el) =>
+                (stackRefs.current[index] = el)
+              }
+              className="absolute left-1/2 bottom-0
+              w-[340px] h-[250px]
+              -translate-x-1/2
+              border-[12px] border-white
+              rounded-md overflow-hidden
+              shadow-[0_35px_70px_rgba(0,0,0,0.45)]"
             >
               <img
-                src={currentScene.image}
+                src={scene.image}
                 alt=""
-                style={{
-                  width: "100%",
-                  height: "100%",
-                  objectFit: "cover",
-                }}
+                className="w-full h-full object-cover"
               />
             </div>
-          </div>
-
-          {/* CAMERA */}
-          <div
-            style={{
-              position: "absolute",
-              left: "50%",
-              bottom: -30,
-              transform: "translateX(-50%)",
-
-              width: "min(720px,85vw)",
-
-              zIndex: 20,
-
-              filter:
-                "drop-shadow(0 -20px 40px rgba(0,0,0,0.35))",
-            }}
-          >
-            <CameraSVG />
-          </div>
-
-          {/* SIDE NAV */}
-          <div
-            style={{
-              position: "absolute",
-              left: 32,
-              top: "50%",
-              transform: "translateY(-50%)",
-
-              display: "flex",
-              flexDirection: "column",
-              gap: 18,
-
-              zIndex: 50,
-            }}
-          >
-            {scenes.map((s, i) => (
-              <div
-                key={s.id}
-                style={{
-                  color:
-                    i === sceneIndex
-                      ? "white"
-                      : "rgba(255,255,255,0.35)",
-
-                  fontSize: 13,
-                  letterSpacing: "0.15em",
-
-                  display: "flex",
-                  alignItems: "center",
-                  gap: 8,
-
-                  transition: "0.3s",
-
-                  fontFamily: "sans-serif",
-                }}
-              >
-                {i === sceneIndex && <span>▶</span>}
-
-                {i === sceneIndex
-                  ? `Scene ${s.id}`
-                  : s.id}
-              </div>
-            ))}
-          </div>
-
-          {/* BRAND */}
-          <div
-            style={{
-              position: "absolute",
-              top: 28,
-              left: 32,
-
-              color: "rgba(255,255,255,0.55)",
-
-              letterSpacing: "0.28em",
-
-              fontSize: 12,
-
-              zIndex: 50,
-
-              fontFamily: "sans-serif",
-            }}
-          >
-            TWF's Story//
-          </div>
-
-          {/* SCROLL INDICATOR */}
-          {scrollY < 80 && (
-            <div
-              style={{
-                position: "absolute",
-                left: "50%",
-                bottom: 28,
-
-                transform: "translateX(-50%)",
-
-                color: "rgba(255,255,255,0.7)",
-
-                fontSize: 28,
-
-                animation:
-                  "bounce 2s infinite",
-
-                zIndex: 50,
-              }}
-            >
-              ↓
-            </div>
-          )}
+          ))}
         </div>
-      </div>
 
-      {/* CSS */}
-      <style>{`
-        *{
-          box-sizing:border-box;
-          margin:0;
-          padding:0;
-        }
+        {/* CAMERA */}
+        {/* <div
+          ref={cameraRef}
+          className="absolute left-1/2 bottom-[-30px]
+          -translate-x-1/2
+          w-[min(720px,85vw)]
+          z-30
+          drop-shadow-[0_-20px_40px_rgba(0,0,0,0.35)]"
+        >
+          <CameraSVG />
+        </div> */}
+        <div
+  ref={cameraRef}
+  className="absolute left-1/2 bottom-[-30px]
+  -translate-x-1/2
+  w-[min(720px,85vw)]
+  z-30
+  drop-shadow-[0_-20px_40px_rgba(0,0,0,0.35)]"
+>
+  <img
+    src="/cameraimage.png"
+    alt="camera"
+    className="w-full h-auto object-contain"
+  />
+</div>
 
-        body{
-          overflow:hidden;
-          background:#111;
-        }
+        
+      </section>
 
-        ::-webkit-scrollbar{
-          display:none;
-        }
-
-        @keyframes bounce{
-          0%,100%{
-            transform:translateX(-50%) translateY(0);
-          }
-
-          50%{
-            transform:translateX(-50%) translateY(-8px);
-          }
-        }
-      `}</style>
-    </div>
+      
+    </>
   );
 }

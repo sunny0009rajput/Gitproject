@@ -72,13 +72,25 @@ function FilmStrip({
   speed = 0.4,
   rotate = -8,
 }) {
-  const translateX = scrollY * speed * direction * -1;
+  /*
+    FIX:
+    Large repeated images + dynamic offset
+    so no blank gap appears.
+  */
+
+  const repeatedImages = Array(8).fill(images).flat();
+
+  // different start offset for both directions
+  const initialOffset = direction === -1 ? -2200 : -900;
+
+  const translateX =
+    initialOffset + scrollY * speed * direction * -1;
 
   return (
     <div
       style={{
-        width: "140%",
-        marginLeft: "-20%",
+        width: "150%",
+        marginLeft: "-25%",
         transform: `rotate(${rotate}deg)`,
         transformOrigin: "center",
       }}
@@ -125,9 +137,10 @@ function FilmStrip({
               willChange: "transform",
               transition: "transform 0.05s linear",
               padding: "0 12px",
+              width: "max-content",
             }}
           >
-            {[...images, ...images, ...images].map((src, i) => (
+            {repeatedImages.map((src, i) => (
               <div
                 key={i}
                 style={{
@@ -174,57 +187,6 @@ function FilmStrip({
   );
 }
 
-/* ───────────────── Sidebar ───────────────── */
-function Sidebar({ scenes, active }) {
-  return (
-    <div
-      style={{
-        position: "fixed",
-        left: 28,
-        top: "50%",
-        transform: "translateY(-50%)",
-        display: "flex",
-        flexDirection: "column",
-        gap: 16,
-        zIndex: 50,
-      }}
-    >
-      <div
-        style={{
-          fontFamily: "'Barlow Condensed', sans-serif",
-          fontSize: 11,
-          letterSpacing: "0.18em",
-          color: "#999",
-          textTransform: "uppercase",
-          marginBottom: 8,
-        }}
-      >
-        TWF's Story//
-      </div>
-
-      {scenes.map((s, i) => (
-        <div
-          key={i}
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: 8,
-            fontFamily: "'Barlow Condensed', sans-serif",
-            fontSize: 13,
-            color: active === i ? "#c8102e" : "#888",
-            fontWeight: active === i ? 500 : 400,
-            transition: "color 0.3s",
-            cursor: "pointer",
-          }}
-        >
-          {active === i && <span style={{ fontSize: 10 }}>▶</span>}
-          {active === i ? `Scene ${i + 1}` : `${i + 1}`}
-        </div>
-      ))}
-    </div>
-  );
-}
-
 /* ───────────────── Images ───────────────── */
 const strip1Images = [
   "https://images.unsplash.com/photo-1609743522653-52354461eb27?w=400&q=80",
@@ -244,35 +206,17 @@ const strip2Images = [
 
 const scenes = [
   { title: "THE STORY BEGINS", big: "ORIGINS" },
-  { title: "ACROSS THE WORLD", big: "JOURNEYS" },
-  { title: "THE TEAM GETS", big: "BIGGER" },
-  { title: "A DECADE OF", big: "MEMORIES" },
-  { title: "THE VISION LIVES", big: "ON" },
 ];
 
 /* ───────────────── Main Component ───────────────── */
 export default function FilmStripScroll() {
   const [scrollY, setScrollY] = useState(0);
-  const [activeScene, setActiveScene] = useState(0);
 
   const sectionRefs = useRef([]);
 
   useEffect(() => {
     const onScroll = () => {
       setScrollY(window.scrollY);
-
-      const winMid = window.scrollY + window.innerHeight * 0.4;
-
-      sectionRefs.current.forEach((el, i) => {
-        if (!el) return;
-
-        const top = el.offsetTop;
-        const bottom = top + el.offsetHeight;
-
-        if (winMid >= top && winMid < bottom) {
-          setActiveScene(i);
-        }
-      });
     };
 
     window.addEventListener("scroll", onScroll, {
@@ -285,8 +229,6 @@ export default function FilmStripScroll() {
   return (
     <>
       <style>{G}</style>
-
-      <Sidebar scenes={scenes} active={activeScene} />
 
       <div style={{ background: "#f5f3ef" }}>
         {scenes.map((scene, idx) => (
@@ -303,7 +245,7 @@ export default function FilmStripScroll() {
               padding: "80px 0",
             }}
           >
-            {/* Heading */}
+            {/* Top Heading */}
             <div
               style={{
                 textAlign: "center",
@@ -339,32 +281,59 @@ export default function FilmStripScroll() {
               </h2>
             </div>
 
-            {/* Angled film strips */}
+            {/* Strip 1 */}
+            <FilmStrip
+              images={strip1Images}
+              direction={1}
+              scrollY={scrollY}
+              speed={0.35}
+              rotate={-2}
+            />
+
+            {/* CENTER BOLD HEADING */}
             <div
               style={{
-                display: "flex",
-                flexDirection: "column",
-                gap: 50,
+                textAlign: "center",
+                margin: "70px 0",
+                position: "relative",
+                zIndex: 10,
               }}
             >
-              {/* Strip 1 */}
-              <FilmStrip
-                images={strip1Images}
-                direction={1}
-                scrollY={scrollY}
-                speed={0.35}
-                rotate={-8}
-              />
+              <h1
+                style={{
+                  fontFamily: "'Bebas Neue', sans-serif",
+                  fontSize: "clamp(40px,7vw,110px)",
+                  color: "#111",
+                  letterSpacing: "0.08em",
+                  textTransform: "uppercase",
+                  lineHeight: 0.9,
+                }}
+              >
+                CINEMATIC MEMORIES
+              </h1>
 
-              {/* Strip 2 */}
-              <FilmStrip
-                images={strip2Images}
-                direction={-1}
-                scrollY={scrollY}
-                speed={0.28}
-                rotate={8}
-              />
+              <p
+                style={{
+                  marginTop: 12,
+                  fontFamily: "'Cormorant Garamond', serif",
+                  fontSize: "clamp(16px,2vw,22px)",
+                  color: "#666",
+                  fontStyle: "italic",
+                  letterSpacing: "0.08em",
+                }}
+              >
+                Capturing timeless moments frame by frame
+              </p>
             </div>
+
+            {/* Strip 2 */}
+            <FilmStrip
+              images={strip2Images}
+              direction={-1}
+              scrollY={scrollY}
+              speed={0.28}
+              rotate={2}
+            />
           </section>
         ))}
       </div>

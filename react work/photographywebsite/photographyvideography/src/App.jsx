@@ -8,6 +8,8 @@ import FilmStripScroll from './FilmScriptScroll'
 import FilmStripScroll2 from './FilmScriptScroll2'
 import TWFScrollAnimation from './TwfScrollanimation'
 import TWFOriginalsScroll from './TwfOriginalsscroll'
+import WeddingGallery from './Weddinggallary'
+import Weddinggalaryvertical from './Weddinggalaryvertical'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,8 +21,11 @@ function App() {
       <TeamPage2/>
       <FilmStripScroll/>
       <FilmStripScroll2/>
-      {/* <TWFScrollAnimation/> */}
+      
       <TWFOriginalsScroll/>
+      <TWFScrollAnimation/>
+      <WeddingGallery/>
+      <Weddinggalaryvertical/>
       <Footer/>
 
     </>
