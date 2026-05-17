@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "CodeMonarch",
+  "url": "https://codemonarch.com",
+  "logo": "https://codemonarch.com/logo2.png",
+  "description": "Professional website development, app development, UI/UX design, SEO optimization, and freelancing services",
+  "sameAs": [
+    "https://www.facebook.com/codemonarch",
+    "https://twitter.com/codemonarch",
+    "https://www.linkedin.com/company/codemonarch",
+    "https://www.instagram.com/codemonarch"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-XXXXXXXXXX",
+    "contactType": "Customer Service",
+    "areaServed": ["IN", "US", "GB", "CA"],
+    "availableLanguage": "en"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "IN",
+    "addressRegion": "India"
+  },
+  "foundingDate": "2023-01-01",
+  "founder": {
+    "@type": "Person",
+    "name": "Sunny Rajput"
+  },
+  "knowsAbout": [
+    "Web Development",
+    "App Development",
+    "UI/UX Design",
+    "SEO Optimization",
+    "Next.js",
+    "React",
+    "Full Stack Development",
+    "MERN Stack"
+  ],
+  "potentialAction": {
+    "@type": "ContactAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://codemonarch.com/#contact"
+    }
+  }
+}

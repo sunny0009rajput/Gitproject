@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CodeMonarch - Web Development &amp; App Development Services</title>
+    <link>https://codemonarch.com</link>
+    <description>Professional website development, app development, UI/UX design, SEO optimization, and freelancing services for startups and businesses</description>
+    <language>en-us</language>
+    <lastBuildDate>2026-05-17T00:00:00+00:00</lastBuildDate>
+    <item>
+      <title>Modern Web Development Services</title>
+      <link>https://codemonarch.com/#services</link>
+      <description>Professional web development services including Next.js, React, and full-stack development</description>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <category>Web Development</category>
+    </item>
+    <item>
+      <title>App Development Solutions</title>
+      <link>https://codemonarch.com/#services</link>
+      <description>Custom mobile and web app development for your business needs</description>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <category>App Development</category>
+    </item>
+    <item>
+      <title>UI/UX Design Services</title>
+      <link>https://codemonarch.com/#services</link>
+      <description>Beautiful and responsive UI/UX design for web and mobile applications</description>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <category>Design</category>
+    </item>
+    <item>
+      <title>SEO Optimization Services</title>
+      <link>https://codemonarch.com/#services</link>
+      <description>Comprehensive SEO optimization to help your website rank on Google</description>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <category>SEO</category>
+    </item>
+  </channel>
+</rss>
