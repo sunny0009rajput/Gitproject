@@ -1,0 +1,20 @@
+# robots.txt for CodeMonarch Academy
+# Allows all search engines to crawl the site
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /.next/
+Disallow: /node_modules/
+
+# Specific disallows for admin/private areas (if you add them)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow Google crawling
+User-agent: Googlebot
+Allow: /
+
+# Sitemap location
+Sitemap: https://academy.codemonarch.com/sitemap.xml
+Sitemap: https://academy.codemonarch.com/robots.txt
